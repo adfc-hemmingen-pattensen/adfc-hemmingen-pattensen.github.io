@@ -1,16 +1,19 @@
 ![](banner.png)
 
-# ADFC Ortsgruppe Hemmingen/Pattensen
+# [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
-Am 19. Mai 2015 ist in Hemmingen die 12 ADFC-Ortsgruppe der Region Hannover gegründet wurden. Es waren 18 Radfahrinteressierte ins Hemminger Rathaus gekommen. Der bisherige Ansprechpartner des ADFC in den Kommunen berichtete über die bisherigen Aktivitäten von ADFC Aktiven. Da sind Radwegebenutzungspflicht, neues Radverkehrskonzept in Hemmingen, Planungen zur Stadtbahnverlängerung und Alltagradwegenetz hervorzuheben.Ein Vertreter des ADFC Regionsvorstandes hat die anschließende Wahl eines Sprecherteams geleitet.
+Am 19. Mai 2015 ist in Hemmingen die 12. [ADFC-Ortsgruppe](http://adfc-hemmingen-pattensen.github.io/) der Region Hannover gegründet wurden. Es waren 18 Radfahrinteressierte ins Hemminger Rathaus gekommen. Der bisherige Ansprechpartner des ADFC in den Kommunen berichtete über die bisherigen Aktivitäten von ADFC Aktiven. Da sind Radwegebenutzungspflicht, neues Radverkehrskonzept in Hemmingen, Planungen zur Stadtbahnverlängerung und Alltagradwegenetz hervorzuheben.Ein Vertreter des ADFC Regionsvorstandes hat die anschließende Wahl eines Sprecherteams geleitet.
 
+## Kontakte
 Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worden.
 
 ## Was wird
 
-- Der nächste Radlertreff wird am 14.07.2015 um 19 Uhr in Pattensen sein. Eine geführte Radtour wird um 18 Uhr vom Rathaus Hemmingen nach Pattensen starten.
+- Die nächste **Radtour** ist für Mittwoch den 17.06.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
 
-  - Ort [Mobile Pattensen](http://mobile-pattensen.de/) im Mehrgenerationenhaus - MOBILE e.V., Göttinger Str. 25a, 30982 Pattensen 
+- Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen sein. Eine geführte Radtour wird um 18 Uhr vom Rathaus Hemmingen nach Pattensen starten.
+
+    - Ort [Mobile Pattensen](http://mobile-pattensen.de/) im Mehrgenerationenhaus - MOBILE e.V., Göttinger Str. 25a, 30982 Pattensen 
 
 
 ## Was war
@@ -20,8 +23,8 @@ Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worde
 - Erste Radtour war am 27.05.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen.
 
 - Sechstes Treffen war am 28.05.2015 um 19 Uhr bei Mutter Buermann - Devese. 
-  -  Thema war die Besprechung unserer Einwendungen zum zum Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
-  - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsische Landesbehörde für Straßenbau und Verkehr eingereicht.
+    -  Thema war die Besprechung unserer Einwendungen zum zum Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
+    - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsische Landesbehörde für Straßenbau und Verkehr eingereicht.
 
 - Ortsgruppengründung war am 19.05.2015 im Hemminger Bürgersaal Rathaus
 
