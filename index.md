@@ -5,7 +5,7 @@
 
 <img src="smiley2.png" alt="" style="float:right;"/>
 
-Am 19. Mai 2015 ist in Hemmingen die 12. [ADFC-Ortsgruppe](http://adfc-hemmingen-pattensen.github.io/) der Region Hannover gegründet wurden. Es waren 18 Radfahrinteressierte ins Hemminger Rathaus gekommen. Der bisherige Ansprechpartner des ADFC in den Kommunen berichtete über die bisherigen Aktivitäten von ADFC Aktiven. Da sind Radwegebenutzungspflicht, neues Radverkehrskonzept in Hemmingen, Planungen zur Stadtbahnverlängerung und Alltagradwegenetz hervorzuheben.Ein Vertreter des ADFC Regionsvorstandes hat die anschließende Wahl eines Sprecherteams geleitet. Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worden.
+Am 19. Mai 2015 ist in Hemmingen die [12. ADFC-Ortsgruppe](http://adfc-hemmingen-pattensen.github.io/) der Region Hannover gegründet wurden. Es waren 18 Radfahrinteressierte ins Hemminger Rathaus gekommen. Der bisherige Ansprechpartner des ADFC in den Kommunen berichtete über die bisherigen Aktivitäten von ADFC Aktiven. Da sind Radwegebenutzungspflicht, neues Radverkehrskonzept in Hemmingen, Planungen zur Stadtbahnverlängerung und Alltagradwegenetz hervorzuheben.Ein Vertreter des ADFC Regionsvorstandes hat die anschließende Wahl eines Sprecherteams geleitet. Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worden.
 
 ## Kontakte
 
