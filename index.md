@@ -33,7 +33,7 @@ Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worde
 - Erste Radtour war am 27.05.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen.
 
 - Sechstes Treffen war am 28.05.2015 um 19 Uhr bei Mutter Buermann - Devese. 
-    -  Thema war die Besprechung unserer Einwendungen zum zum Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
+    -  Thema war die Besprechung unserer Einwendungen zu dem Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
     - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsische Landesbehörde für Straßenbau und Verkehr eingereicht.
 
 - Ortsgruppengründung fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt.
