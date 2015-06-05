@@ -36,10 +36,9 @@ Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worde
     -  Thema war die Besprechung unserer Einwendungen zum zum Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
     - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsische Landesbehörde für Straßenbau und Verkehr eingereicht.
 
-- Ortsgruppengründung war am 19.05.2015 im Hemminger Bürgersaal Rathaus
+- Ortsgruppengründung fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt.
 
 - Mehr aus der [Vergangenheit](waswar.html)
-- Erste Kontaktaufnahme mit dem ADFC Region Hannover fand am 30.10.2013 bei Mutter Buermann statt. Anwesend waren Vertreten des Regions Vorstandes und der Ortsgruppe Gehrden/Ronnenberg  
 
 ## Impressum
 
