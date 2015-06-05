@@ -38,7 +38,7 @@ Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worde
 
 - Ortsgruppengründung war am 19.05.2015 im Hemminger Bürgersaal Rathaus
 
-- Erste Kontaktaufnahme mit dem ADFC Region Hannover fand am 30.10.2013 bei Mutter Buermann statt. Anwesend waren Vertreten des Regions Vorstandes und der Orstgruppe Gehrden/Ronnenberg  
+- Erste Kontaktaufnahme mit dem ADFC Region Hannover fand am 30.10.2013 bei Mutter Buermann statt. Anwesend waren Vertreten des Regions Vorstandes und der Ortsgruppe Gehrden/Ronnenberg  
 
 ## Impressum
 
