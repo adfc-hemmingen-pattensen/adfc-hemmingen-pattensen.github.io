@@ -14,7 +14,7 @@ Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worde
 
 - Die nächste **Radtour** ist für Mittwoch den 17.06.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
 
-- Vom 08.05.2015 bis 08.06.2015 liegt in der Stadt Pattensen der **[Planfeststellungsverfahren](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahrens-f%C3%BCr-den-Umbau-des-Knotenpunkts-B-3-K-203-Wirtschaftsweg-%C3%B6stlich-Oerie-im-Zuge-der-B-3-Stadt-Pattensen) für den Umbau des Knotenpunkts B 3 / K 203 / Wirtschaftsweg** östlich Oerie im Zuge der B 3 (Stadt Pattensen) zur allgemeinen Einsichtnahme aus. 
+- Vom 08.05.2015 bis 08.06.2015 liegt in der Stadt Pattensen das **[Planfeststellungsverfahren](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahrens-f%C3%BCr-den-Umbau-des-Knotenpunkts-B-3-K-203-Wirtschaftsweg-%C3%B6stlich-Oerie-im-Zuge-der-B-3-Stadt-Pattensen) für den Umbau des Knotenpunkts B 3 / K 203 / Wirtschaftsweg** östlich Oerie im Zuge der B 3 (Stadt Pattensen) zur allgemeinen Einsichtnahme aus. 
     - Nach erster Durchsicht fehlt eine Querungshilfe in Richtung Oerie.  
 	- Stellungsnahmen sind bis 24.06.2015 möglich  
     
