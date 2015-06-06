@@ -40,7 +40,7 @@ Jens Spille siehe auch  <http://www.adfc-hannover.de>
     -  Thema war die Besprechung unserer Einwendungen zu dem Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
     - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsische Landesbehörde für Straßenbau und Verkehr eingereicht.
 
-- Ortsgruppengründung fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt.
+- Ortsgruppengründung fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt. Ankündigung stand in der [rings um uns](2015-05-13 LN AnkOrtsgruppengründung.pdf)
 
 - Mehr aus der [Vergangenheit](waswar.html)
 
