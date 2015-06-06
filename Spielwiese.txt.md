@@ -19,6 +19,10 @@ Formatierungen wie *Kursiv*, **Fett** und _Unterstrichen_
 * Listenelement
 * Noch ein Listenelement
 
+
+1. Nummeriertes Listenelement
+1. Und noch eins 
+
 Und noch eine Link [Hyperlink Text](http://www.google.de).
 
 
