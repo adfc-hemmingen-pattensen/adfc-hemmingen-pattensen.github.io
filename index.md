@@ -23,6 +23,9 @@ Jens Spille siehe auch  <http://www.adfc-hannover.de>
 
     - Ort [Mobile Pattensen](http://mobile-pattensen.de/) im Mehrgenerationenhaus im  Café-Raum - MOBILE e.V., Göttinger Str. 25a, 30982 Pattensen 
 
+## Fahrrad(un)freundliche Nachrichten
+- Leine Nachrichten vom 06.06.2015: Eine Radfahrer-Brücke für den Grünen Ring über die neue B3 würde 635 000 Euro kosten.
+    - ![](BrueckeB3.png)
 
 ## Was war
 
@@ -43,5 +46,5 @@ Jens Spille siehe auch  <http://www.adfc-hannover.de>
 
 ## Impressum
 
-ADFC Ortsgruppe Hemmingen/Pattensen zu erreichen über <http://www.adfc-hannover.de>  
+Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen. Zu erreichen über <http://www.adfc-hannover.de>  
 
