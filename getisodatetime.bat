@@ -12,6 +12,7 @@ for /F "usebackq tokens=1,2 delims==" %%i in (`wmic os get LocalDateTime /VALUE 
 rem echo %ldt%
 
 set lda=%ldt:~0,4%-%ldt:~4,2%-%ldt:~6,2%
-set lti=%ldt:~8,2%%ldt:~10,2%%ldt:~12,2%
+rem set lti=%ldt:~8,2%%ldt:~10,2%%ldt:~12,2%
+set lti=%ldt:~8,2%h%ldt:~10,2%
 
 echo %lda% - %lti%
