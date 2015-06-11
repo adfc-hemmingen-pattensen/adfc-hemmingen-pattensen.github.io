@@ -20,6 +20,8 @@ Vom 08.05.2015 bis 08.06.2015 liegt in der Stadt Pattensen das **[Planfeststellu
 - Nach erster Durchsicht fehlt eine Querungshilfe in Richtung Oerie.  
 - Stellungsnahmen sind bis 24.06.2015 möglich  
 
+**B3 - Bauphase** - Stadt und Land legen am 8. Juli um 18:00 in der Carl-Friedrich-Gauß-Schule Fahrplan für Sperrungen vor.
+
 Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfinden. Eine geführte Radtour wird um 18 Uhr vom Rathaus Hemmingen nach Pattensen starten.
 
 - Ort [Mobile Pattensen](http://mobile-pattensen.de/) im Mehrgenerationenhaus im  Café-Raum - MOBILE e.V., Göttinger Str. 25a, 30982 Pattensen 
@@ -35,6 +37,8 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 ## Was war
 
+**Das Netzwerk Flüchtlingshilfe** bot die erste Fahrradwerkstatt am 11. Juni in Pattensen an. Wir waren dabei.
+Die Fahrradwerkstatt wird bis zu den Sommerferien immer donnerstags ab 18 Uhr vor dem Rathaus Pattensen aufgebaut. 
 
 <img src="Route2.png" alt="Route#2" style="float:right;"/>
 
