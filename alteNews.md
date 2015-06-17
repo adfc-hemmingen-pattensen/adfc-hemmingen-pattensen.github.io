@@ -7,8 +7,11 @@
 
 *Nach Alter der Meldung absteigend sortiert*
 
+**Leine Nachrichten vom 06.06.2015:** Eine Radfahrer-Brücke für den Grünen Ring über die neue B3 würde 635 000 Euro kosten.
 
-**Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
+![](BrueckeB3.png)
+
+
 
 ----
 tschuess 

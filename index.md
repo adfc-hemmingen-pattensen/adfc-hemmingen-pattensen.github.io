@@ -1,15 +1,21 @@
-[![](banner.png)](http://www.adfc-hannover.de/)
+![](banner.png)](http://www.adfc-hannover.de/)
 
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 
 <img src="smiley2.png" alt="" style="float:right;"/>
 
-Am 19. Mai 2015 ist in Hemmingen die [12. ADFC-Ortsgruppe](http://adfc-hemmingen-pattensen.github.io/) der Region Hannover gegründet wurden. Es waren 18 Radfahrinteressierte ins Hemminger Rathaus gekommen. Der bisherige Ansprechpartner des ADFC in den Kommunen berichtete über die bisherigen Aktivitäten von ADFC Aktiven. Da sind Radwegebenutzungspflicht, neues Radverkehrskonzept in Hemmingen, Planungen zur Stadtbahnverlängerung und Alltagradwegenetz hervorzuheben. Ein Vertreter des ADFC Regionsvorstandes hat die anschließende Wahl eines Sprecherteams geleitet. Als Sprecher ist Jens Spille, und als Stellvertreter Dirk Härtel gewählt worden.
+### Engagierte Radfahrer treffen sich in Pattensen
+Hemminger und Pattenser Radfahrerinnen und Radfahrer treffen sich am Dienstag, 14. Juli, um 19:00 Uhr im [mobile](http://mobile-pattensen.de/) in Pattensen, Göttinger Strasse 25a, um sich über Radverkehrsthemen auszutauschen. Zu dem öffentlichen Treffen lädt die im Mai neu gegründete [ADFC-Ortsgruppe Hemmingen-Pattensen](http://adfc-hemmingen-pattensen.github.io/) diesmal nach Pattensen ein. Gast ist Dagmar Moldehn, die [Klimaschutzmanagerin](http://www.pattensen.de/Default.aspx?tabid=7070) der Stadt Pattensen, die ihre geplanten Aktivitäten rund um klimaneutrale Mobilität vorstellen wird. Über eine mögliche Zusammenarbeit zu konkreten Projekten soll ebenfalls gesprochen werden, damit sich die Radverkehrsbedingungen auch in Pattensen weiter verbessern.
 
-## Kontakt
+Vorgestellt werden auch die ersten ADFC-Projekte wie geführte Radtouren, Beteiligung an der Radverkehrspolitik und erste Ergebnisse des Stadtradelns 2015. Weitere Themen können gerne eingebracht werden. Engagierte Radfahrerinnen und Radfahrer sind herzlich willkommen, eine ADFC-Mitgliedschaft ist nicht erforderlich.
 
-Jens Spille siehe auch  <http://www.adfc-hannover.de/ortsgruppen/hemmingenpattensen/>  
+Aus Hemmingen starten die interessierten Radfahrerinnen und Radfahrer am 14. Juli, um 18:00 Uhr am Rathaus zu einer geführten Radtour nach Pattensen, zum Treffen im [mobile](http://mobile-pattensen.de/).
+
+## Nützliche Links
+
+[Stadt Pattensen](http://www.pattensen.de/) und das [Wanderbare Calenberger Land](http://www.pattensen.de/Default.aspx?tabid=3110)  
+[Stadt Hemmingen](https://www.stadthemmingen.de/) und das [Radvehrkehrskonzept](https://www.stadthemmingen.de/portal/seiten/radverkehrskonzept-der-stadt-hemmingen-907000093-22500.html)  
 
 ## Was wird
 
@@ -28,9 +34,14 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 ## Fahrradfreundliche Tipps und Nachrichten
 
-**Leine Nachrichten vom 06.06.2015:** Eine Radfahrer-Brücke für den Grünen Ring über die neue B3 würde 635 000 Euro kosten.
+**Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
 
-![](BrueckeB3.png)
+**Leine Nachrichten vom 17.06.2015:** Radweg zwischen Ronnenberg und Devese an der K 221 / K 226 soll erst 2017 gebaut werden.
+
+**Leine Nachrichten vom 17.06.2015:** 2016 soll die OD Hiddesdorf (K226) saniert  und die Schutzstreifen erneuert werden.
+![K226 Ost](file:///C:/DataJens/Documents/ADFC/adfc-github/adfc-hemmingen-pattensen.github.io/k226ost.png)
+
+**Leine Nachrichten vom 17.06.2015:** 2018 soll ein Radweg zwischen Ihme Rohloven und Hiddesdorf gebaut werden.
 
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
