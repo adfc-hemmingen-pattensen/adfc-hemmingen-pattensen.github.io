@@ -38,7 +38,7 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 **Leine Nachrichten vom 17.06.2015:** Radweg zwischen Ronnenberg und Devese an der K 221 / K 226 soll erst 2017 gebaut werden.
 
-**Leine Nachrichten vom 17.06.2015:** 2016 soll die OD Hiddesdorf (K226) saniert  und die Schutzstreifen erneuert werden.
+**Leine Nachrichten vom 17.06.2015:** 2016 soll die OD Hiddesdorf (K226) saniert  und die Schutzstreifen erneuert werden.  
 ![K226 Ost](k226ost.png)
 
 **Leine Nachrichten vom 17.06.2015:** 2018 soll ein Radweg zwischen Ihme Rohloven und Hiddesdorf gebaut werden.
