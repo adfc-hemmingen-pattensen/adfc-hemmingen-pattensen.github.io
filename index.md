@@ -19,7 +19,7 @@ Aus Hemmingen starten die interessierten Radfahrerinnen und Radfahrer am 14. Jul
 
 ## Was wird
 
-Die nächste **Radtour** ist für Mittwoch den 17.06.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
+Die nächste **Radtour** ist für Mittwoch den 24.06.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
 
 Vom 08.05.2015 bis 08.06.2015 liegt in der Stadt Pattensen das **[Planfeststellungsverfahren](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahrens-f%C3%BCr-den-Umbau-des-Knotenpunkts-B-3-K-203-Wirtschaftsweg-%C3%B6stlich-Oerie-im-Zuge-der-B-3-Stadt-Pattensen) für den Umbau des Knotenpunkts B 3 / K 203 / Wirtschaftsweg** östlich Oerie im Zuge der B 3 (Stadt Pattensen) zur allgemeinen Einsichtnahme aus. 
 
@@ -47,6 +47,8 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 
 ## Was war
+
+**Dritte Radtour** war am 17.06.2015 um 19 Uhr mit einer Strecke von 27 km. 
 
 **Das Netzwerk Flüchtlingshilfe** bot die erste Fahrradwerkstatt am 11. Juni in Pattensen an. Wir waren dabei.
 Die Fahrradwerkstatt wird bis zu den Sommerferien immer donnerstags ab 18 Uhr vor dem Rathaus Pattensen aufgebaut. 
