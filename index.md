@@ -19,14 +19,9 @@ Aus Hemmingen starten die interessierten Radfahrerinnen und Radfahrer am 14. Jul
 
 ## Was wird
 
-Die nächste **Radtour** ist für Mittwoch den 24.06.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
+Die nächste **Radtour** ist für Mittwoch den 08.07.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
 
-Vom 08.05.2015 bis 08.06.2015 liegt in der Stadt Pattensen das **[Planfeststellungsverfahren](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahrens-f%C3%BCr-den-Umbau-des-Knotenpunkts-B-3-K-203-Wirtschaftsweg-%C3%B6stlich-Oerie-im-Zuge-der-B-3-Stadt-Pattensen) für den Umbau des Knotenpunkts B 3 / K 203 / Wirtschaftsweg** östlich Oerie im Zuge der B 3 (Stadt Pattensen) zur allgemeinen Einsichtnahme aus. 
-
-- Nach erster Durchsicht fehlt eine Querungshilfe in Richtung Oerie.  
-- Stellungsnahmen sind bis 24.06.2015 möglich  
-
-**B3 - Bauphase** - Stadt und Land legen am 8. Juli um 18:00 in der Carl-Friedrich-Gauß-Schule Fahrplan für Sperrungen vor.
+**B3 - Bauphase** - Stadt und Land legen am 8. Juli um 18:00 in der Carl-Friedrich-Gauß-Schule Fahrplan für B3 Sperrungen vor.
 
 Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfinden. Eine geführte Radtour wird um 18 Uhr vom Rathaus Hemmingen nach Pattensen starten.
 
@@ -47,6 +42,13 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 
 ## Was war
+
+**Vierte Radtour** führte am 24.06.2051 bei schönem Sonnenschein zum Bentherberg.
+
+Vom 08.05.2015 bis 08.06.2015 lagen in der Stadt Pattensen das **[Planfeststellungsverfahren](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahrens-f%C3%BCr-den-Umbau-des-Knotenpunkts-B-3-K-203-Wirtschaftsweg-%C3%B6stlich-Oerie-im-Zuge-der-B-3-Stadt-Pattensen) für den Umbau des Knotenpunkts B 3 / K 203 / Wirtschaftsweg** östlich Oerie im Zuge der B 3 (Stadt Pattensen) zur allgemeinen Einsichtnahme aus. 
+
+- Nach erster Durchsicht fehlt eine Querungshilfe in Richtung Oerie.  
+- Stellungsnahmen waren bis 24.06.2015 möglich und wurden von uns eingereicht. Danke an die Nachbar OG Gehrden / Ronnenberg.
 
 **Dritte Radtour** war am 17.06.2015 um 19 Uhr mit einer Strecke von 27 km. 
 
