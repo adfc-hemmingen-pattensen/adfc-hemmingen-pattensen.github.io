@@ -6,6 +6,7 @@
 	- Stellungsnahmen für das Planfeststellungsverfahren Stadtbahn
 	- Stellungsnahmen für das Planfeststellungsverfahren für den Umbau des Knotenpunkts B 3 / K 203
 	- Die ersten erfolgreichen Radtouren
+	- Fahrradreparatur Flüchtlingsnetzwerk Pattensen
 	- Vorstellung E-Lastenrad zum Ausleihen
 	- Erstellung einer eigenen Webseite <http://adfc-hemmingen-pattensen.github.io/>
 1. Klimaschutzmanagerin Dagmar Moldehn: Radverkehrsaktivitäten durch Stadtverwaltung: Klimaschutzmanagement und Verkehrsplanung
