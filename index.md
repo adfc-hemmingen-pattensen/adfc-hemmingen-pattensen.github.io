@@ -34,7 +34,8 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für einige Zeit zum kostenlosen Ausleihen bereit stehen. Mehr dazu in Kürze hier und auf [hannah](http://www.hannah-lastenrad.de/). 
 
-![hannah](hannah.png)
+![](hannah.png)
+
 ## Fahrradfreundliche Tipps und Nachrichten
 
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
