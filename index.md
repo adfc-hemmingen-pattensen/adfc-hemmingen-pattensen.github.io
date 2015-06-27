@@ -12,6 +12,8 @@ Vorgestellt werden auch die ersten ADFC-Projekte wie geführte Radtouren, Beteil
 
 Aus Hemmingen starten die interessierten Radfahrerinnen und Radfahrer am 14. Juli, um 18:00 Uhr am Rathaus zu einer geführten Radtour nach Pattensen, zum Treffen im [mobile](http://mobile-pattensen.de/).
 
+Presse siehe [rings um uns, Ausgabe 13](https://www.stadthemmingen.de/portal/seiten/rings-um-uns-7000083-22500.html?rubrik=907000001) - Seite 17 und 20.
+
 ## Nützliche Links
 
 [Stadt Pattensen](http://www.pattensen.de/) und das [Wanderbare Calenberger Land](http://www.pattensen.de/Default.aspx?tabid=3110)  
@@ -19,7 +21,9 @@ Aus Hemmingen starten die interessierten Radfahrerinnen und Radfahrer am 14. Jul
 
 ## Was wird
 
-Die nächste **Radtour** ist für Mittwoch den 08.07.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant.
+Die nächste **Radtour** ist für Mittwoch den 08.07.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen geplant. 
+
+**Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind  unter [ADFC Region Hannover Termine](http://www.adfc-hannover.de/termine/) zu finden.
 
 **B3 - Bauphase** - Stadt und Land legen am 8. Juli um 18:00 in der Carl-Friedrich-Gauß-Schule Fahrplan für B3 Sperrungen vor.
 
@@ -27,6 +31,10 @@ Der nächste **Radlertreff** wird am 14.07.2015 um 19 Uhr in Pattensen stattfind
 
 - Ort [Mobile Pattensen](http://mobile-pattensen.de/) im Mehrgenerationenhaus im  Café-Raum - MOBILE e.V., Göttinger Str. 25a, 30982 Pattensen 
 
+
+Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für einige Zeit zum kostenlosen Ausleihen bereit stehen. Mehr dazu in Kürze hier und auf [hannah](http://www.hannah-lastenrad.de/). 
+
+![hannah](hannah.png)
 ## Fahrradfreundliche Tipps und Nachrichten
 
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
