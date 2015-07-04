@@ -38,6 +38,8 @@ Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für e
 
 ## Fahrradfreundliche Tipps und Nachrichten
 
+**Aufladestation - Leine Nachrichten vom 04.07.2015:** Einwohner und Gäste der Stadt Hemmingen können vielleicht bald ihr E-Bike an einer Station im Stadtgebiet auﬁaden.
+
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
 
 **Leine Nachrichten vom 17.06.2015:** Radweg zwischen Ronnenberg und Devese an der K 221 / K 226 soll erst 2017 gebaut werden.
@@ -51,6 +53,8 @@ Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für e
 
 
 ## Was war
+
+**Das Netzwerk Flüchtlingshilfe** bot eine weitere Fahrradwerkstatt am 2. Juli in Pattensen an.
 
 **Vierte Radtour** führte am 24.06.2051 bei schönem Sonnenschein zum Bentherberg.
 
