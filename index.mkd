@@ -27,6 +27,8 @@ Sprecher Jens Spille, Mail: <j.spille@adfc-hannover.de>
 
 ## Was wird
 
+Die nächste **Radtour** startet am Mittwoch den 05.08.2015 **schon um 18:00** vom Rathausplatz in Hemmingen. 
+
 **Fahrrad-Erkundungstour in Pattensen:** Am Samstag, 15.08.2015 um 10 Uhr soll es soweit sein! Bündnis 90 / DIE GRÜNEN treffen uns um 10 Uhr
 am Ratskeller in Pattensen, um gemeinsam Pattensen aus Sicht eines
 Fahrradfahrers zu erkunden. Ziel dieser Tour ist es, die Gefahren- und
@@ -56,6 +58,8 @@ Die ADFC **Geschäftsstelle** ist wegen Urlaub bis einschließlich 14.08. nicht 
 
 **Aufladestation - Leine Nachrichten vom 04.07.2015:** Einwohner und Gäste der Stadt Hemmingen können vielleicht bald ihr E-Bike an einer Station im Stadtgebiet aufladen.
 
+![](Ladestation.png)
+
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
 
 **Leine Nachrichten vom 17.06.2015:** Radweg zwischen Ronnenberg und Devese an der K 221 / K 226 soll erst 2017 gebaut werden.
@@ -70,7 +74,7 @@ Die ADFC **Geschäftsstelle** ist wegen Urlaub bis einschließlich 14.08. nicht 
 
 ## Was war
 
-Die letzte **Radtour** war am Mittwoch den 22.07.2015 um 19 Uhr mit Start am Rathausplatz in Hemmingen. 
+Die letzte **Radtour** war am Mittwoch den 22.07.2015 Start vom Rathausplatz in Hemmingen. Die Tour ging mit 5 Leuten und 28 km rund um den Bentherberg.
 
 Am 21.07.2015 hatte der ADFC einen ersten Kontakt zum **Tiefbauamt in Pattensen**. Es war ein sehr kooperatives Gespräch, das auf eine gute Zusammenarbeit in der Zukunft schließen lässt. Als fahrradfreundlichen Hinweis haben wir erfahren, das es auf dem zukünftigen Marktplatz Fahrradbügel geben wird.
 
