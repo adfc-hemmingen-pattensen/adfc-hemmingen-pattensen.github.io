@@ -28,9 +28,11 @@ Sprecher Jens Spille, Mail: <j.spille@adfc-hannover.de>
 ## Was wird
 
 > **Letzte Änderungen und Ergänzungen**  
-> Es gibt Situation da ist das Erstellen einer Webseite zu aufwendig. Deshalb auf unserer [MarkdownShare Seite](http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfc) die letzten Änderungen.
+>
+>Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfc" target="iframe_a">unserer</a> [MarkdownShare](http://markdownshare.com) Seite:
 
-**Die nächste Radtour** startet am Mittwoch den 2. September 2015 um 18:00 Uhr am Rathausplatz in Hemmingen.
+<iframe src="http://markdownshare.com/html/72c812d6-e502-421f-b614-79158deaef17#adfc" width="100%" name="iframe_a"></iframe>
+
 
 Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für einige Zeit zum kostenlosen Ausleihen bereit stehen. Der geplanter Zeitraum ist Oktober. Mehr dazu in Kürze hier und auf [hannah](http://www.hannah-lastenrad.de/). 
 
