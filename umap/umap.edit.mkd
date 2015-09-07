@@ -1,0 +1,12 @@
+Edit <http://umap.openstreetmap.fr/de/map/anonymous-edit/52057%3AOInbpBYO1rf5Hx_K53ppuPrBALQ>
+
+View <https://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057#14/52.2976/9.7691>
+
+HTML 
+
+~~~
+<iframe width="100%" height="300px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe><p><a href="https://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057">Vollbildanzeige</a></p>
+
+~~~
+
+
