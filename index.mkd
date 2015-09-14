@@ -6,6 +6,12 @@ Sprecher Jens Spille, Mail: <j.spille@adfc-hannover.de>
 
 <img src="smiley2.png" alt="" style="float:right;"/>
 
+### Nächster Radlertreff
+
+**Bitte Vormerken**. Der nächste Radlertreff wird am **7. Oktober 2015 um 19:00 in der Begegnungsstätte Arnum** stattfinden. Die Begegnugsstätte befindet sich in Arnum, Göttinger Straße 65. Fahrrad-Abstellplätze und Eingang ist hinten. Bitte für eigene Verpflegung sorgen. Eine Einladung mit Tagesordnung wird noch folgen. 
+
+<iframe width="350px" height="250px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057#17/52.30283/9.74001"></iframe>
+
 ### Kiesabbau
 
 Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Planungsunterlagen des Planfestellungsverfahren liegen noch bis zum 18.09.2015 im Rathaus Hemmingen oder Online unter [Hannover - Amtliche Bekanntmachung](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfestellungsverfahren-zum-Bodenabbau-der-Fa.-Holcim-Beton-und-Zuschlagstoffe-GmbH) aus. Die Zufahrt geschieht über die Wülfeler Straße (L 389) zwischen Arnum und Wilkenburg. Der östliche Verbindungsweg, Arnum-Süd bis Wilkenburg wird tangiert. Der im Plan eingezeichnete Alternativ-Weg existiert nicht mehr. Wir sind am Ball.
@@ -15,10 +21,6 @@ Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Plan
 <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
 *Bitte Stecknadeln anklicken*
-
-### Radlertreff
-
-Der nächste Radlertreff ist in Planung. 
 
 ### **Schlechte Nachrichten:** 
 
@@ -93,8 +95,6 @@ Gastrednerin war Dagmar Moldehn, die [Klimaschutzmanagerin](http://www.pattensen
 
 Die Bündnesgrünen und der BUND wollen ein Kataster für Pattensens Fahrradwegenetz erstellen. Eine Besichtigungstour wird demnächst stattfinden. Mängel sind zum Beispiel fehlende Fahrradbügel am ZOB und auf dem Marktplatz.  Der ADFC möchte eine enge Zusammenarbeit mit dem der Verwaltung, insbesondere dem Tiefbauamt aufbauen, nur so lassen sich kleinere Probleme zeitnah lösen. Die Klimaschutzmanagerin möchte zusammen mit dem Schulen, der Polizei und dem ADFC Schulwegpläne erstellen, um einen sicheren Radweg auszuweisen.
 *Siehe auch Leine Nachrichten vom 16.07.2015.*
-
-- Der nächste Radlertreff ist für September/Oktober geplant. 
 
 **B3 - Bauphase** - Stadt und Land legten am 8. Juli um 18:00 in der Carl-Friedrich-Gauß-Schule den Fahrplan für B3 Sperrungen vor. Die gute Nachricht: Wenn die K 221 wegen des Kreiselbaus gesperrt wird, bleibt der nördliche liegende Fuß- und Radweg geöffnet. 
 
