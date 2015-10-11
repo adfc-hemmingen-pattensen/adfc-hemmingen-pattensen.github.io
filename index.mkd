@@ -6,31 +6,15 @@ Sprecher Jens Spille, Mail: <j.spille@adfc-hannover.de>
 
 <img src="smiley2.png" alt="" style="float:right;"/>
 
-### Nächster Radlertreff
+### E-Lastenrad
 
-#### Von Radverkehr und Touren bis Fahrräder für Flüchtlinge - ADFC Ortsgruppe ist aktiv! 
+Ein **E-Lastenrad des ADFC Region Hannover** wird vom 2. November an für einen Monat in Hemmingen zum kostenlosen Ausleihen bereit stehen. Ort: Zweirad-Fachwerk-Hische - Kapellenweg 6 - 30966 Hemmingen. Das Rad kann schon jetzt über die Web-Seite <http://www.hannah-lastenrad.de/cb_items/hannah-3> gebucht werden. 
 
-Hemminger und Pattenser Radfahrerinnen und Radfahrer treffen sich am **Mittwoch, 7. Oktober, um 19.00 Uhr in der Begegnungsstätte Arnum, Göttinger Strasse 65**, um weitere Radverkehrsthemen voranzubringen. Zu dem 3. Treffen lädt die im Mai neu gegründete ADFC-Ortsgruppe Hemmingen/Pattensen diesmal nach Arnum ein. Analysiert und diskutiert werden die bisherigen Aktivitäten und deren Weiterentwicklung. Die Radtouren in Hemmingen wurden bislang gut angenommen und die Mitwirkung in der Fahrradwerkstatt des Flüchtlingsnetzwerk in Pattensen ist sicher ausbaufähig und veränderbar. Vorgestellt werden auch Ergebnisse aus der Zusammenarbeit mit den Stadtverwaltungen und Vorschläge mit denen Radfahraspekte in Beteiligungsverfahren zur B3 Ortsumgehung und in weitere Bauprojekte  eingebracht wurden. Im Oktober wird die ADFC-Ortsgruppe auch hannah, ein Pedelec-Lastenrad zur Ausleihe bereitstellen, um das sich einige Aktionen gestalten lassen http://www.hannah-lastenrad.de/.  Wer selbst aktiv Ideen in der Ortsgruppe mit anderen umsetzen möchte, ist herzlich willkommen. Eingeladen sind alle Radfahrinteressierten aus Hemmingen und Pattensen. Eine ADFC-Mitgliedschaft ist nicht erforderlich. Bitte für eigene Verpflegung sorgen.
+![](hannah.png)
 
-Westerfelder treffen sich am 07.10. um 18:15 Uhr auf dem Radhausplatz in Richtung Arnum.
+### Bericht des 8. Radlertreffs
 
-<iframe width="350px" height="250px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057#17/52.30283/9.74001"></iframe>
-
-### Kiesabbau
-
-Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Planungsunterlagen des Planfestellungsverfahren liegen noch bis zum 18.09.2015 im Rathaus Hemmingen oder Online unter [Hannover - Amtliche Bekanntmachung](http://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfestellungsverfahren-zum-Bodenabbau-der-Fa.-Holcim-Beton-und-Zuschlagstoffe-GmbH) aus. Die Zufahrt geschieht über die Wülfeler Straße (L 389) zwischen Arnum und Wilkenburg. Der östliche Verbindungsweg, Arnum-Süd bis Wilkenburg wird tangiert. Der im Plan eingezeichnete Alternativ-Weg existiert nicht mehr. Wir sind am Ball.
-
-![](holcim.png)
-
-<iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
-
-*Bitte Stecknadeln anklicken*
-
-### **Schlechte Nachrichten:** 
-
-**Leine Nachrichten vom 16.07.2015:** Der Radweg zwischen der Wilkenburger Spinne und Wülfel an der L 389  bleibt eine Holperstrecke. Das von Hemmingen vorgeschlagene Kooperationmodell ist gescheitert.
-
-
+siehe [Was War](index.html#was-war)
 
 ## Nützliche Links
 
@@ -40,39 +24,43 @@ Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Plan
 ## Was wird
 
 > **Letzte Änderungen und Ergänzungen**  
->
->Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfcmds" target="iframe_a">unserer</a> [MarkdownShare](http://markdownshare.com) Seite:
 
 <iframe src="http://markdownshare.com/html/72c812d6-e502-421f-b614-79158deaef17#adfc" width="100%" name="iframe_a"></iframe>
 
-
-Ein **E-Lastenrad** des ADFC Region Hannover wird demnächst in Hemmingen für einige Zeit zum kostenlosen Ausleihen bereit stehen. Der geplanter Zeitraum ist November. Mehr dazu in Kürze hier und auf [hannah](http://www.hannah-lastenrad.de/). 
-
-![](hannah.png)
+>Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfcmds" target="iframe_a">unserer</a> [MarkdownShare](http://markdownshare.com) Seite.
 
 ## Fahrradfreundliche Tipps und Nachrichten
 
-**Drahtesel – ein Vortrag**. Am Dienstag, den 22.09.2015, 18:00 Uhr veranstaltet der VDI für seine Mitglieder und Gäste einen [Vortrag](http://www.adfc-hannover.de/drahtesel-ein-vortrag/) von der Geschichte des Fahrrads im 19. und beginnenden 20. Jahrhundert. Von der Draisine über das Michaux-Rad und das englische Hochrad zum „safety“-Rad. **Anmeldung** bitte unter VDI BV Hannover e.V., Tel.: 0511/16 97 99-30, Fax: 0511/16 97 99-31, E-Mail: vdi-hannover@vdi.de 
+[**GPSies**](http://www.gpsies.com/) bietet die Möglichkeit Touren zu planen und mit anderen auszutauschen. Auch als Apps erhältlich.  
 
 **Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind  unter [ADFC Region Hannover Termine](http://www.adfc-hannover.de/termine/) zu finden.
 
-**Aufladestation - Leine Nachrichten vom 04.07.2015:** Einwohner und Gäste der Stadt Hemmingen können vielleicht bald ihr E-Bike an einer Station im Stadtgebiet aufladen.
-
-![](Ladestation.png)
-
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
-
-**Leine Nachrichten vom 17.06.2015:** Radweg zwischen Ronnenberg und Devese an der K 221 / K 226 soll erst 2017 gebaut werden.
-
-**Leine Nachrichten vom 17.06.2015:** 2016 soll die OD Hiddesdorf (K226) saniert  und die Schutzstreifen erneuert werden.  
-![K226 Ost](k226ost.png)
-
-**Leine Nachrichten vom 17.06.2015:** 2018 soll ein Radweg zwischen Ihme Rohloven und Hiddesdorf gebaut werden.
 
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
-
 ## Was war
+Der **8. Radlertreff**, der 2. Öffentliche nach der Ortsgruppen Gründung, fand am 7. Oktober 2015 in der Begegnungsstätte Arnum statt. Sieben interessierte Teilnehmer diskutierten zweieinhalb Stunden über die Rad-Verkehrspolitik in Pattensen und Hemmingen. Auf der Tagesordnung standen Themen wie, die Erörterung des Planfeststellungsverfahrens der Verlängerung der Stadtbahn nach Hemmingen Westerfeld die am gleichen Tag statt fand und an der wir teilgenommen haben, die Bürgersprechstunde zum Thema Verkehrsanbindung in Devese, die zeitgleich statt fand und von einem weiterem ADFC Mitglied besucht wurde. Es gab ein Bericht über die letzten fünft Radtouren, ein Bericht über die Fahrrad-Erkundungstour in Pattensen, die von Bündnis 90 / DIE GRÜNEN organisiert wurde. Das Ergebnis wurde diskutiert. Eine Mängelkarte Hemmingen-Pattensen soll demnächst auf unserer Web-Seite eingerichtet werden, außerdem wurde die Begleitung eines Radschulwegplans (KGS-Pattensen) durch einem ADFC Fachmann erörtert. Zur Zeit werden drei weiterführende Schulen in der Region Hannover begleitet. Im nächsten Jahr könnte auch Pattensen unterstützt werden. 
+
+Dann gab es noch einen Bericht über die Aktivitäten des Flüchtlingsnetzwerks in Pattensen. Durch unsere Ankündigung zum Radlertreff wurde ein weiteres Damenrad angeboten. In diesem Zusammenhang wurde auch über das Interesse an einer Selbsthilfewerkstatt für Jedermann diskutiert. 
+
+Ein weiteres Thema war die Radweg Beschilderung an der Berliner-Straße in Hemmingen. Es wird in Kürze eine Stellungsnahme dazu veröffentlicht. Weiterhin wurde unsere Einwendung zum Kiesabbau Wilkenburg bestätigt.
+
+Die Organisation des *kostenlosen E-Lastenrad Verleihs* wurde besprochen. Ein E-Lastenrad des ADFC Region Hannover wird vom 2. November für einen Monat in Hemmingen zum kostenlosen Ausleihen bereit stehen. Ort: Zweirad-Fachwerk-Hische - Kapellenweg 6 - 30966 Hemmingen. Das Rad kann schon jetzt über die Web-Seite <http://www.hannah-lastenrad.de/cb_items/hannah-3> gebucht werden. 
+
+Diskutiert wurde auch über mögliche Vorträge in den Wintermonaten, Möglich wäre ein Vortrag über Drahtesel, eine Tour durch west Afrika oder eine Einführung in die Erstellung und Nutzung einer [openstreetmap](http://www.openstreetmap.org/#map=12/52.2979/9.7490) Karte.
+
+Weiterhin wurde beschlossen, dass wir in Zukunft drei E-Mail Listen führen werden. Eine Liste für Verkehrspolitische Themen, eine Liste für Tourenpläne und eine allgemeine Liste für Ankündigungen. Wer auf einer der Listen stehen möchte, möge sich bitte mit uns über die üblichen Kontakte in Verbindung setzen. 
+
+Der nächste Radlertreff ist für Ende November im Mehr Generationen Haus (Mobile) in Pattensen geplant.
+
+Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Planungsunterlagen des Planfestellungsverfahren lagen bis zum 18.09.2015 im Rathaus Hemmingen aus. Die Zufahrt geschieht über die Wülfeler Straße (L 389) zwischen Arnum und Wilkenburg. Der östliche Verbindungsweg, Arnum-Süd bis Wilkenburg wird tangiert. Der im Plan eingezeichnete Alternativ-Weg existiert nicht mehr. Wir haben Einwendungen erhoben.
+
+![](holcim.png)
+
+<iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
+
+*Bitte Stecknadeln anklicken*
 
 Die **10. Abendradtour** wurde von vier Herren gefahren. Wir sind über Wettbergen und Empelde am Bentherberg vorbei über Davenstedt und Bornum, Wettbergen und Devese gefahren. Alles ohne Pannen aber in schöner Abendsonne ca. 27km von 18:15 bis 19:45Uhr.
 
@@ -90,9 +78,6 @@ Auflistung wollen Bündnis 90 / DIE GRÜNEN der Stadt Pattensen als **Maßnahmen
 überreichen. Ein zukünftiges Mitglied des ADFCs war mit dabei.
 
 Am 05. August fand **eine weitere, die 7. schöne Tour** durch die Eilenriede bis zur Schleuse in Anderten und über den Kronsberg und Leinemasch bei herrlichem Sonnenschein ca. 34 km mit drei Herren und einer Dame. Dieses mal sogar mit Einkehr im Biergarten am Annateich zur Apfelschorle.
-
-
-27. Juli 2015 **Bundesregierung will Radwege für E-Bikes öffnen** mehr siehe <http://www.heise.de/newsticker/meldung/Bundesregierung-will-Radwege-fuer-E-Bikes-oeffnen-2763797.html?wt_mc=rss.ho.beitrag.atom>
 
 Die sechste **Radtour** fand am Mittwoch den 22.07.2015 mit Start vom Rathausplatz in Hemmingen statt. Die Tour ging mit 5 Leuten und 28 km rund um den Bentherberg.
 
