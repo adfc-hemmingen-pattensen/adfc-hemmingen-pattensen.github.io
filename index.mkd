@@ -8,13 +8,13 @@ Sprecher Jens Spille, Mail: <j.spille@adfc-hannover.de>
 
 ### E-Lastenrad
 
-Ein **E-Lastenrad des ADFC Region Hannover** wird vom 2. November an für einen Monat in Hemmingen zum kostenlosen Ausleihen bereit stehen. Ort: Zweirad-Fachwerk-Hische - Kapellenweg 6 - 30966 Hemmingen. Das Rad kann schon jetzt über die Web-Seite <http://www.hannah-lastenrad.de/cb_items/hannah-3> gebucht werden.
+**Hannah** - das **E-Lastenrad des ADFC Region Hannover** ist in Hemmingen angekommen und kann bis Ende November bei Zweirad-Fachwerk-Hische - Kapellenweg 6 - 30966 Hemmingen ausgeliehen werden. Das Rad kann über die Web-Seite <http://www.hannah-lastenrad.de/cb_items/hannah-3> gebucht werden - es gibt schon viele Anmeldungen.
 
-Das [Ausleih-Formular](hannah\Hannah_Ausleih-Formular-1.pdf) wird vom Nutzer nach der Online-Buchung ausgedruckt und am Ausleih-Tag ausgefüllt zur Station mitgebracht.
+Das [Ausleih-Formular](hannah\Hannah_Ausleih-Formular-1.pdf) wird vom Nutzer nach der Online-Buchung zusammen mit der Bestätigungsemail ausgedruckt und am Ausleih-Tag ausgefüllt zur Station mitgebracht.
 
-Hannah kann bis zu drei Tage von jeder Person – egal ob privat oder geschäftlich – 
-ausgeliehen werden. 
+Hannah kann bis zu drei Tage von jeder Person – egal ob privat oder geschäftlich – ausgeliehen werden. 
 
+Ein Team von vier ADFC'lern ist am Samstag den 31. Oktober 2015 bei mildem Herbstwetter und Rückenwind von Hemmingen nach Wennigsen geradelt, um **hannah** dort abzuholen. Dort angekommen wurde eines der mitgebrachten Räder zusammengefaltet und in die Lastenbox verfrachtet. Mit dem Faltrad im Gepäck und voller Batterie-Ladung ging es dann die 15 km zurück zum Verleih-Standort.
 
 ![](hannah.png)
 
@@ -24,9 +24,6 @@ In dem Artikel zur Berliner Straße ist uns ein kleiner Kommunikationsfehler unt
 
 >  Die ADFC Ortsgruppe Hemmingen Pattensen setzt sich für die durchgehende Beschilderung des nördlichen gemeinsamen Fuß- und Radweg der Berliner Straße in Hemmingen mit dem "Zeichen 239" Gehweg,  und dem Zusatzschild „Radfahrer frei“ in beiden Richtungen ein. Damit gibt es keine Änderungen der Gewohnheiten. Auf Gehwegen  mit  dem  Zusatzschild  „Radfahrer frei“ ist das Radfahren erlaubt – aber nicht vorgeschrieben.  Selbstverständlich dürfen Fußgänger keinesfalls  behindert  oder gefährdet  werden. Ein Schutzstreifen auf der südlichen Seite der Berliner Straße ist nicht erforderlich, dadurch gibt es auch keinen Wegfall von Parkplätzen. Radfahrende Menschen die sich mit Fußgängern den Weg nicht teilen möchten, können auf der jeweils rechten Straßenseite fahren sind unter diesen Bedingungen keine "Verkehrssünder" mehr.
 
-### Bericht des 8. Radlertreffs
-
-siehe [Was War](index.html#was-war)
 
 ## Nützliche Links
 
@@ -52,6 +49,9 @@ siehe [Was War](index.html#was-war)
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
 ## Was war
+
+Ein Team von vier ADFC'lern ist am Samstag den 31. Oktober 2015 bei mildem Herbstwetter und Rückenwind von Hemmingen nach Wennigsen geradelt, um **hannah** dort abzuholen. Dort angekommen wurde eines der mitgebrachten Räder zusammengefaltet und in die Lastenbox verfrachtet. Mit dem Faltrad im Gepäck und voller Batterie-Ladung ging es dann die 15 km zurück zum Verleih-Standort.
+
 Der **8. Radlertreff**, der 2. Öffentliche nach der Ortsgruppen Gründung, fand am 7. Oktober 2015 in der Begegnungsstätte Arnum statt. Sieben interessierte Teilnehmer diskutierten zweieinhalb Stunden über die Rad-Verkehrspolitik in Pattensen und Hemmingen. Auf der Tagesordnung standen Themen wie, die Erörterung des Planfeststellungsverfahrens der Verlängerung der Stadtbahn nach Hemmingen Westerfeld die am gleichen Tag statt fand und an der wir teilgenommen haben, die Bürgersprechstunde zum Thema Verkehrsanbindung in Devese, die zeitgleich statt fand und von einem weiterem ADFC Mitglied besucht wurde. 
 
 Anlässlich des Bürgertreffs wurde die Radwegverbindung von und nach Hemmingen thematisiert. Aus Sicht des ADFC müssen für die in der Verlängerung der K221 geplante Radwegverbindung insbesondere sichere Querungen der Fahrbahnen berücksichtigt werden.
@@ -60,7 +60,11 @@ Es gab ein Bericht über die letzten fünft Radtouren, ein Bericht über die Fah
 
 Dann gab es noch einen Bericht über die Aktivitäten des Flüchtlingsnetzwerks in Pattensen. Durch unsere Ankündigung zum Radlertreff wurde ein weiteres Damenrad angeboten. In diesem Zusammenhang wurde auch über das Interesse an einer Selbsthilfewerkstatt für Jedermann diskutiert. 
 
-Ein weiteres Thema war die Radweg Beschilderung an der Berliner-Straße in Hemmingen. Es wird in Kürze eine Stellungsnahme dazu veröffentlicht. Weiterhin wurde unsere Einwendung zum Kiesabbau Wilkenburg bestätigt.
+Ein weiteres Thema war die Radweg Beschilderung an der Berliner-Straße in Hemmingen. 
+
+>  Die ADFC Ortsgruppe Hemmingen Pattensen setzt sich für die durchgehende Beschilderung des nördlichen gemeinsamen Fuß- und Radweg der Berliner Straße in Hemmingen mit dem "Zeichen 239" Gehweg,  und dem Zusatzschild „Radfahrer frei“ in beiden Richtungen ein. Damit gibt es keine Änderungen der Gewohnheiten. Auf Gehwegen  mit  dem  Zusatzschild  „Radfahrer frei“ ist das Radfahren erlaubt – aber nicht vorgeschrieben.  Selbstverständlich dürfen Fußgänger keinesfalls  behindert  oder gefährdet  werden. Ein Schutzstreifen auf der südlichen Seite der Berliner Straße ist nicht erforderlich, dadurch gibt es auch keinen Wegfall von Parkplätzen. Radfahrende Menschen die sich mit Fußgängern den Weg nicht teilen möchten, können auf der jeweils rechten Straßenseite fahren sind unter diesen Bedingungen keine "Verkehrssünder" mehr.
+
+Weiterhin wurde unsere Einwendung zum Kiesabbau Wilkenburg bestätigt.
 
 Die Organisation des *kostenlosen E-Lastenrad Verleihs* wurde besprochen. Ein E-Lastenrad des ADFC Region Hannover wird vom 2. November für einen Monat in Hemmingen zum kostenlosen Ausleihen bereit stehen. Ort: Zweirad-Fachwerk-Hische - Kapellenweg 6 - 30966 Hemmingen. Das Rad kann schon jetzt über die Web-Seite <http://www.hannah-lastenrad.de/cb_items/hannah-3> gebucht werden. 
 
