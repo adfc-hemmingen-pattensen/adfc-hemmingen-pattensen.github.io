@@ -11,8 +11,8 @@ call getisodatetime.bat
 
 rem path to pandoc
 rem ==============
-SET portpath=c:\Program Files\
-IF %computername%==JENSDELL SET portpath=c:\DataJob\PortProg
+SET portpath=c:\DataProg\PortProg\
+IF %computername%==JENSDELL SET portpath=c:\DataProg\PortProg\
 IF %computername%==HANVL1134NT6164 SET portpath=c:\DataJSp\PortProg
 SET PATH=%portpath%\Pandoc\;%PATH%
 Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
