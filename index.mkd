@@ -4,6 +4,12 @@
 
 Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
+
+
+<iframe src="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfcmds" width="100%" height="100" name="iframe_a" frameborder="0" scrolling="no" seamless ><p>See our <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17">MD Share</a>.</iframe>
+
+<!-- >Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfcmds" target="iframe_a">unserer</a> [MarkdownShare](http://markdownshare.com) Seite. -->
+
 <img src="smiley2.png" alt="" style="float:right;"/>
 
 ### Frühlingsauftakt - 11. Abendradtour 
@@ -18,7 +24,7 @@ herrlichen Sonnenschein eine schöne Feierabend-Radtour.
 
 ![](160414AdfcDirk11teTour.jpg)
 
-Die nächste Tour soll am 27. oder 28. April stattfinden. Weitere Touren werden per E-Mail Liste bekannt gegeben. Wer informiert werden möchte, nehme bitte mit uns Kontakt auf.
+
 
 ### Koordinierungskreis
 Am Montag, den 11. April wurde in Hemmingen der **Koordinierungskreis des '[Hemminger Netzwerk für Flüchtlinge](http://www.fluechtlinge-hemmingen.de/)'** gegründet. Mitglieder sind Vertreter der Arbeitsgruppen wie. z.B. die Deutschgruppen, das interkulturelle Kreativ-Kaffee, Patenschaften und die ADFC Ortsgruppe Hemmingen/Pattensen &#x1F527;. 
