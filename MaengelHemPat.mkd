@@ -1,0 +1,36 @@
+[![](banner.png)](http://www.adfc-hannover.de/)
+
+# [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+
+
+## Fahrradwege Mängelkarte für Hemmingen und Pattensen
+
+### Karte
+
+*Für Details bitte auf Markierungen klicken*
+
+<iframe width="100%" height="1000px" frameBorder="0" src="http://umap.openstreetmap.fr/en/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.3040/9.7416"></iframe><p><a href="http://umap.openstreetmap.fr/en/map/untitled-map_84202">See full screen</a></p>
+
+[Karte ändern (Nur für Experten)](http://umap.openstreetmap.fr/en/map/anonymous-edit/84202%3Aph6FODg7dYzrRQ52fIZQAQ8cMEU)
+
+<!-- 
+### Legende
+
+- xxx
+- yyy
+-->
+
+### Liste
+
+| Erfassungsdatum | Beschreibung                              | Status        |
+|------------|------------------------------------------------|---------------|
+| 02.05.2016 | **Zeigenbocksbrücke** - schlammig bei Nässe | Bauamt ist unterrichtet |
+| 05.05.2016 | **Kreisverkehr K226 - Göttinger Str.** - Beim Ausfahren aus dem Kreisverkehr sollte der Autofahrer Vorrang gewähren, aber durch das Verkehrszeichen "Vorfahrt Achten" für den Radfahrer wird dieses wieder aufgehoben - unterschiedlichen Vorrangregelungen führte im vorliegenden Fall zur Konfliktsituation. | noch offen |
+
+
+### Info-Stand
+Am verkaufsoffenen Sonntag, den 10. April 2016 am Rewe-Center, hatte der **ADFC einen Infostand** aufgebaut. Die Besucher konnten mithilfe von Klebepunkten positive und auch kritische Radwegeführungen in Pattensen markieren. ![Mangelkarte](MaengelHemPatBilder/2016-04-10-SoADFCMangelkartePattensen.jpg)
+
+----
+tschuess 
+
