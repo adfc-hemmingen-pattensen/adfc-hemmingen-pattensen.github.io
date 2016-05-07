@@ -9,16 +9,17 @@
 
 *Für Details bitte auf Markierungen klicken*
 
-<iframe width="100%" height="1000px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77"></iframe><p><a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a></p>
+<p>**<a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a>** - Ein Service von [umap](https://umap.openstreetmap.fr/de/), ein OpenStreetMap Projekt</p>
+
+<iframe width="100%" height="1000px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77"></iframe>
 
 [*Karte ändern (Nur für Experten)*](http://umap.openstreetmap.fr/en/map/anonymous-edit/84202%3Aph6FODg7dYzrRQ52fIZQAQ8cMEU)
 
-<!-- Auskommentiert
 ### Legende
 
-- xxx
-- yyy
--->
+- <font color="#FF0000">Rot</font> - Gefahr
+- <font color="#0000FF">Blau</font> - Unbequem
+- <font color="#00CC00">Grün</font> - Wunsch
 
 ### Liste
 
