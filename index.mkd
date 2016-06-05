@@ -9,7 +9,19 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
 <!-- >Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158deaef17#adfcmds" target="iframe_a">unserer</a> [MarkdownShare](http://markdownshare.com) Seite. -->
 
-<img src="smiley2.png" alt="" style="float:right;"/>
+<img src="smiley2.png" alt="" style="float:right;">
+
+
+### 2. Juni: Die feuchtfröhlichen 15. Feierabend-Radtour
+Die 15. Feierabend-Radtour ging am Donnerstag den 2. Juni mit fünf Radlern (3 Herren und 2 Damen)
+bei anfangs gutem Wetter rund um den Benther Berg. Wir sind gemütlich über Wettbergen zur
+Kükenmühle geradelt, an Ronnenberg vorbei zu den sagenumwobenen Sieben Trappen bei Benthe.
+Danach ging es eine kurze Steigung hinauf zum Benther Berg, den wir auf einem schönen Weg umrundeten.
+Leider zog plötzlich ein Gewitter auf, und es begann heftig zu regnen. In Benthe fanden wir einen Unterschlupf.
+Nach einer kappen halben Stunde war der Spuk vorbei und wir konnten unsere Fahrt fortsetzen.
+Auf schnellstem Weg ging es dann über Empelde und Wettbergen zurück. Nach ca. 2 1/2 Stunden,
+28 km und einer feuchtfröhlichen Fahrt waren wir wieder zurück in Hemmingen.
+
 
 ### 29. Mai: Unser Start zur Sternfahrt
 ![](StartSternfahrt16.JPG)
@@ -60,7 +72,7 @@ Kindern gut zu schaffen.
 
 ## Was wird
 
-> **Letzte Änderungen und Ergänzungen** 
+**Letzte Änderungen und Ergänzungen** 
 
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
 
