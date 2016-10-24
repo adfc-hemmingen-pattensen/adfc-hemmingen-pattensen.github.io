@@ -13,7 +13,7 @@ Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158
 
 ## ANKÜNDIGUNGEN 
 * Fünfte Sonntagstour 2016
-* [**Fahrrad-Selbsthilfe-Werkstatt Hemmingen**](fahrrad-selbsthilfe-werkstatt-hemmingen-auf-dem-weg) auf dem Weg
+* [**Fahrrad-Selbsthilfe-Werkstatt Hemmingen**](#fahrrad-selbsthilfe-werkstatt-hemmingen-auf-dem-weg) auf dem Weg
 
 ### 30. Oktober 2016 - 5. Sonntagstour - Radtour „Pattensen - Kleiner Deister - Osterwald“
 
