@@ -1,6 +1,6 @@
-[![](banner.png)](http://www.adfc-hannover.de/)
+[![](banner.jpg)](http://www.adfc-hannover.de/)
 
-# [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+# [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
@@ -12,15 +12,15 @@ Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158
 <img src="smiley2.png" alt="" style="float:right;">
 
 ## ANKÜNDIGUNGEN 
-* 26te Feierabendtour 2016
 * Fünfte Sonntagstour 2016
 * [**Fahrrad-Selbsthilfe-Werkstatt Hemmingen**](#fahrrad-selbsthilfe-werkstatt-hemmingen-auf-dem-weg) auf dem Weg
 
-### 26. Oktober: 26. Feierabendtour
+<!--### 26. Oktober: 26. Feierabendtour
 
 Am Mittwoch, den **26.10.2016**, laden wir kurzfristig zu einer Feierabendtour ein. Treffpunkt ist allerdings aufgrund der früheren Dunkelheit schon um **16:00 Uhr am Rathausplatz in Hemmingen**.
  
 Das Ziel wird in Abhängigkeit von Wind, Wetter und Teilnehmern kurzfristig festgelegt.
+--->
 
 ### 30. Oktober 2016 - 5. Sonntagstour - Radtour „Pattensen - Kleiner Deister - Osterwald“
 
@@ -42,7 +42,7 @@ Zusätzlich bereite ich ein kleines Kulturprogramm der Sehenswürdigkeiten an de
 
 ### Fahrrad-Selbsthilfe-Werkstatt Hemmingen auf dem Weg
 
-Die Ortsgruppe Hemmingen/Pattensen des Allgemeiner Deutscher Fahrrad-Club (ADFC) e.V wird mit Unterstützung der Stadt Hemmingen eine Fahrrad-Selbsthilfe-Werkstatt für Jedermann auf dem Gelände der Flüchtlingsunterkunft in der Heinrich-Hertz-Straße 23 aufbauen. Der Nutzungsvertrag ist unterschrieben und die Vorbereitungen für die Werkstatteinrichtung sind gestartet. Die ADFC Ortsgruppe möchte allen interessierten Bürgerinnen und Bürgern, insbesondere den Geflüchteten eine Unterstützung bei der Wartung, Reparatur und Aufbereitung von Fahrrädern bieten und die Stadt möchte die vorhandenen Räumlichkeiten in der Heinrich-Hertz-Straße sinnvoll genutzt wissen. Sie stellt sie dem ADFC kostenlos zur Verfügung. Zunächst werden die Räume hergerichtet und dann sollen dringend benötigte Spenden-Fahrräder eingesammelt, aufbereitet und an Bedürftige gegen einen kleinen Materialkostenbeitrag weitergeben werden. Die Ehrenamtlichen ADFC-Mitglieder arbeiten dabei eng mit der Fahrradwerkstatt des Flüchtlingsnetzwerks Pattensen zusammen und werden die dortigen Erfahrungen auch in Hemmingen umsetzen.
+Der ADFC Hemmingen / Pattensen wird mit Unterstützung der Stadt Hemmingen eine Fahrrad-Selbsthilfe-Werkstatt für Jedermann auf dem Gelände der Flüchtlingsunterkunft in der Heinrich-Hertz-Straße 23 aufbauen. Der Nutzungsvertrag ist unterschrieben und die Vorbereitungen für die Werkstatteinrichtung sind gestartet. Die Ortsgruppe möchte allen interessierten Bürgerinnen und Bürgern, insbesondere den Geflüchteten eine Unterstützung bei der Wartung, Reparatur und Aufbereitung von Fahrrädern bieten und die Stadt möchte die vorhandenen Räumlichkeiten in der Heinrich-Hertz-Straße sinnvoll genutzt wissen. Sie stellt sie dem ADFC kostenlos zur Verfügung. Zunächst werden die Räume hergerichtet und dann sollen dringend benötigte Spenden-Fahrräder eingesammelt, aufbereitet und an Bedürftige gegen einen kleinen Materialkostenbeitrag weitergeben werden. Die Ehrenamtlichen ADFC-Mitglieder arbeiten dabei eng mit der Fahrradwerkstatt des Flüchtlingsnetzwerks Pattensen zusammen und werden die dortigen Erfahrungen auch in Hemmingen umsetzen.
 
 Gemeinsam haben Stadt Hemmingen und der ADFC das Projekt jetzt auf den Weg gebracht und nach der offiziellen Schlüsselübergabe soll das Projekt zügig anlaufen.
 
@@ -424,7 +424,7 @@ Mehr aus der [Vergangenheit](waswar.html)
 
 Die ADFC **Geschäftsstelle**:
 
-> Allgemeiner Deutscher Fahrradclub Region Hannover  e.V.  
+> ADFC Allgemeiner Deutscher Fahrrad-Club / Region Hannover e.V. 
 > Geschäftsstelle  
 > Hausmannstr. 9-10  
 > 30159 Hannover  
