@@ -11,6 +11,12 @@ Von unserer <a href="http://markdownshare.com/view/72c812d6-e502-421f-b614-79158
 
 <img src="smiley2.png" alt="" style="float:right;">
 
+>    Immer Dienstags von 17:30 bis 19:00 Uhr  
+>    **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**   
+>    Heinrich-Hertz-Straße 23, 30966 Hemmingen  
+>  
+>    Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)  
+>    &#x2709; [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
 <!--### 26. Oktober: 26. Feierabendtour
 
@@ -25,7 +31,7 @@ Die Fahrrad-Selbsthilfe-Werkstatt für Jedermann auf dem Gelände der Flüchtlin
 
 Die ersten sechs gespendeten und anschließend reparierten Räder konnten gegen einen Materialkostenbeitrag an Geflüchtete und Inhaber des Hemminger „Aktiv-Passes“ ausgegeben werden und eine handvoll Räder konnten vor Ort zusammen mit den Besitzern repariert werden. Im Wochenrhythmus, jeden **Dienstag von 17.30 und 19.00 Uhr** soll es weiter gehen. 
 
-Auch in Zukunft werden nicht mehr benötigte Fahrräder, Fahrradwerkzeug, Zubehör, Ersatzteile, Helme und Kindersitze gebraucht.
+Auch in Zukunft werden nicht mehr benötigte Fahrräder, Fahrradwerkzeug, Zubehör, Ersatzteile, Schlösser, Helme und Kindersitze gebraucht.
 Natürlich freuen wir uns auch über ehrenamtliche Mitarbeit - ob bei der Fahrradausgabe, Organisation oder in der Werkstatt, und ebenso über finanzielle Unterstützung.
 
 Ermöglicht wurde der Start durch Förderung seitens der Bürgerstiftung Hemmingen, des Flüchtlingsnetzwerks Hemmingen, der Stadt Hemmingen sowie durch die Hemminger Fahrradhändler Carsten Hische vom Zweirad-Fachwerk und Axel Rauer von Radsport Arnum und Spenden seitens Zubehörhersteller.
@@ -39,7 +45,7 @@ Kontakt:
 
 * Konto: IBAN DE97 2509 0500 0000 9205 50, BIC GENODEF1S09, Sparda Bank Hannover, **Verwendungszweck: ADFC Selbsthilfewerkstatt Hemmingen**.
 
-* **Presseartikel**: [Leine-ON](http://www.leine-on.de/nc/hemmingen/news/werkeln-fuer-den-guten-zweck/archiv/2016/november/16.html)
+* **Presseartikel**: [ADFC Region]( http://www.adfc-hannover.de/adfc-fahrrad-selbsthilfe-werkstatt-in-hemmingen/)
 
 ![Eröffnung](2016-11-15-EroeffnungFSW.jpg)
 
@@ -425,6 +431,12 @@ Die ADFC **Geschäftsstelle**:
 > Tel.: (0511) 16403-12 
 
 
-**Mitglied werden:** kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werden/beitrittserklaerung/beitrittserklaerung)
+### Mitgliedsschaft
+Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werden/beitrittserklaerung/beitrittserklaerung)
+
+### Konto
+> IBAN DE97 2509 0500 0000 9205 50,   
+> BIC GENODEF1S09, Sparda Bank Hannover,   
+> Verwendungszweck: ADFC Selbsthilfewerkstatt Hemmingen.
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen. - tschuess. 
