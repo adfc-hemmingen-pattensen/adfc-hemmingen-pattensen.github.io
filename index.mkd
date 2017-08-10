@@ -81,7 +81,7 @@ Dauer ca.4-5 Std., Verpflegung bitte mitnehmen!
 
 ### Radwegsanierung - Aug. 2017
 Der Radweg an der L 389 wird zur Zeit saniert - Wurde auch Zeit.
-Leider bedeutet das zur Zeit ein Umweg für Radfahrer die nicht die Fahrbahn benutzen möchten.
+Leider bedeutet das zur Zeit ein Umweg von ca. 4 km für Radfahrer die nicht die Fahrbahn benutzen möchten.
 
 ![](SanierungL389.png)
 
@@ -92,6 +92,14 @@ Leider bedeutet das zur Zeit ein Umweg für Radfahrer die nicht die Fahrbahn ben
 
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
 
+### Solarlaternen funktionieren noch nicht
+
+Der Hemminger Lokalteil der HAZ berichtete am 9. Aug. 2017, dass die Solarlateren an der B3 nördlich von Arnum immer noch nicht funktionieren. Die Laternen wurde im April aufgestellt. Zur Zeit ist der Programmierer im Urlaub. Sobald das Laub von den Bäumen fällt kann man nicht mehr testen, ob die Solarzellen im Schatten des Laubes auch genügend Leistung bringen. 
+
+### Wilkenburger Spinne bleibt wie sie ist
+
+Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo 50 noch einen Kreisel geben wird. Für Radfahrer und Fußgänger ist das Überqueren der Spinne gefährlich. Von der Ziegensbocksbrücke kommend ist die Sicht durch die Straßenkrümmung gehindert, ein Tempo 50 hätte hier Entspannung gebracht. Durch den morgendlichen Rückstau der Autos nach Hemmingen, konzentrieren sich die Autofahrer auf eine Lücke aus Richtung Wilkenburg, dabei kann ein Fußgänger oder Radfahrer leicht übersehen werden.
+
 ### Was bedeutet Fahrradstraße?
 
 1. Wie der Name nahelegt, sind Fahrradstraßen nur für den Radverkehr vorgesehen. Für Autos und andere Kraftfahrzeuge sind Fahrradstraßen laut der Straßenverkehrsordnung nur freigegeben, wenn ein entsprechendes Zusatzschild, wie "Kfz-Verkehr frei", das Befahren gestattet. Das ist in Hemmingen der Fall.
@@ -101,7 +109,7 @@ Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. D
 5. Für Fußgänger und fahrradfahrende Kinder unter acht Jahren ändert sich übrigens nichts - diese müssen auch bei einer Fahrradstraße auf dem Gehweg bleiben und beim Überqueren der Straße auf den Verkehr achten.
 
 ![](FahrradstrDorffeld.jpg)
-*Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
+
 
 ### Einige nützliche Links
 [Stadt Pattensen](http://www.pattensen.de/) und das [Wanderbare Calenberger Land](http://www.pattensen.de/Default.aspx?tabid=3110)  
@@ -112,6 +120,8 @@ Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. D
 **Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind  unter [ADFC Region Hannover Termine](http://www.adfc-hannover.de/termine/) zu finden.
 
 **Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
+
+*Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
 ## Was war
 
