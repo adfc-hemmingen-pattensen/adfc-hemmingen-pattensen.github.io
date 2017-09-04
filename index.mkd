@@ -11,7 +11,9 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 >    Heinrich-Hertz-Straße 23, 30966 Hemmingen  
 >  
 >    Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)  
->    &#x2709; [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
+>    &#x2709; [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)  
+>
+>    ![](MitgliedWerden.png) oder [Mitglied werden](https://www.adfc.de/7678_1)
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter [http://www.hannah-lastenrad.de/](http://www.hannah-lastenrad.de/). Unsere [Hannah 14](http://www.hannah-lastenrad.de/cb-items/hannah-14), mit Elektromotor, ist zur Zeit stationniert im **Familienservicebüro, Göttinger Str. 63, Arnum**.  
 >  
@@ -33,51 +35,6 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
 Von unserer [FiiNote](https://www.fiinote.com)  Seite. 
  -->
-
-### Abendtour #42 2017-08-30-Mi.
-
-Hallo Radler, 
-
-um die letzten Sommersonnenstunden zu geniesen, möchten wir Euch für Mittwoch den 30.08.2017 ab 18:00 Uhr vom Radhausplatz einladen. 
-Da uns langsam die Ideen ausgehen hoffen wir auf Vorschläge und sind gespannt wo Ihr hinwollt.
-
- 
-### 16. Radel-Treff 
-
-Liebe Fahrradfreunde des ADFC Hemmingen/Pattensen,
-
-wir möchten Euch zu unserem 16. Radel-Treff einladen.
-
-> Termin: **Donnerstag 31. Aug. 2017 um 19:00**  
-> Treffpunkt: **MOBILE e.V.**; Göttinger Str. 25a; 30982 Pattensen - Nebenhaus (rechte Eingangstür)
-
-Nach der Sommerpause haben sich viele Themen angesammelt und sicherlich auch viele Wünsche von Euch.
-
-Wir wollen Euch die Gelegenheit geben Eure Wünsche zu erläutern und Euch über unsere Aktivitäten zu informieren.
-Hier einige Punkte wie die Tagesordnung aussehen könnte:
-
-- Mitgliederstatus (100tes Mitglied) , Sprecherwahl Anfang 2018
-- Touren
-    - Tages- und Abendtouren 
-- Lastenräder Hannah Nr. 3 und 14
-    - Patentreffen
-- Fahrrad-Selbsthilfewerksatt
-    - Feedback der Bürger/ Verwaltung -- Fotoaktion der Stadtverwaltung zu Integration 
-    - Fahrradausgabe, Werkstatthelfer
-    - Organisations-Strukturen
-    - Spenden
-- Hofgestaltung Heinrich-Hertz-Straße
-- Stadtradeln 2017 und Ausblick für 2018
-- Radverkehr
-    - Bericht aus Regionsversammlung (Schutzstreifen Devese?, Klage gegen Tempo 30, Radweg Schulenburg - B3)
-    - Fahrradstraßen - Überholen von Radfahrern-- (Große Piktogramme)
-    - Baumaßnahmen (Hundepfuhlsweg, L398 Baustelle, Solarleuchten)
-    - Mängelliste (Einladung der Verwaltung Hemmingen: Gefährliche Straßenquerungen) - Hochwasserschäden
-- Technik
-    - Änderungen der Fahrrad-Beleuchtungsvorschriften
-- Wünsche 
-    - Schulradwegeplan Pattensen - Neuer Anlauf JA/NEIN
-- Sonstige Sorgen und Nöte 
 
 
 ### Nächste Abendradtour
@@ -115,16 +72,7 @@ Das Gute daran: "Dat Wat Wat". Die Breite der Untergrundbefestigung macht optimi
 
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
 
-### Ungeknickte Bäume und Hochwasser
-... 5. Aug. 2017: Zur Zeit liegen umgeknickte Bäume auf dem Radweg von Hemmingen nach Laatzen durch die Masch. Vor und nach der Ziegensbockbrücke ist der Weg blockiert.
- 
- ![](2017-08-05BaumAufRadweg.png)
- 
-Die umgeknickten Bäume sind weggeräumt, aber der Weg steht noch immer unter Wasser.
 
-![](ÜberflutungZiegensbockbrücke.png)
-
-> Stand: 2017-08-13-So.
 
 
 ### Solarlaternen funktionieren noch nicht
@@ -161,6 +109,41 @@ Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
 ## Was war
+
+### Abendtour #42 2017-08-30-Mi.
+
+Bericht folgt.
+
+### 16. Radel-Treff 
+
+Am Donnerstag 31. Aug. 2017 um 19:00 fand das 16. Radel-Treff im MOBILE e.V. Göttinger Str. 25a; 30982 Pattensen statt.
+
+Die Tagesordung war voller Themen:
+
+- Mitgliederstatus (100tes Mitglied) , Sprecherwahl Anfang 2018
+- Touren
+    - Tages- und Abendtouren 
+- Lastenräder Hannah Nr. 3 und 14
+    - Patentreffen
+- Fahrrad-Selbsthilfewerksatt
+    - Feedback der Bürger/ Verwaltung -- Fotoaktion der Stadtverwaltung zu Integration 
+    - Fahrradausgabe, Werkstatthelfer
+    - Organisations-Strukturen
+    - Spenden
+- Hofgestaltung Heinrich-Hertz-Straße
+- Stadtradeln 2017 und Ausblick für 2018
+- Radverkehr
+    - Bericht aus Regionsversammlung (Schutzstreifen Devese?, Klage gegen Tempo 30, Radweg Schulenburg - B3)
+    - Fahrradstraßen - Überholen von Radfahrern-- (Große Piktogramme)
+    - Baumaßnahmen (Hundepfuhlsweg, L398 Baustelle, Solarleuchten)
+    - Mängelliste (Einladung der Verwaltung Hemmingen: Gefährliche Straßenquerungen) - Hochwasserschäden
+- Technik
+    - Änderungen der Fahrrad-Beleuchtungsvorschriften
+- Wünsche 
+    - Schulradwegeplan Pattensen - Neuer Anlauf JA/NEIN
+- Sonstige Sorgen und Nöte 
+
+Ein Bericht folgt.
 
 ### 41. Abendradtour
 
