@@ -3,11 +3,13 @@
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 
-## [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+## [Mangelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
-### Karte
+<img src="MangelkarteBedienung.png" alt="" style="float:right;">
 
-*Für Details bitte auf Markierungen klicken*
+**Rote Markierungen** sind besondere Schwerpunkte die im Rahmen der Einladung der Stadt Hemmingen zum Thema *"Gefährliche Straßenquerungen/Unfallschwerpunkte für Radfahrer und Fußgänger im Stadtgebiet Hemmingen"* für den 20. Sept. 2017 von Bedeutung sind.
+
+Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann ein Link zu weiteren Details angezeigt.
 
 <p>**<a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a>** - Ein Service von [umap](https://umap.openstreetmap.fr/de/), ein OpenStreetMap Projekt</p>
 
