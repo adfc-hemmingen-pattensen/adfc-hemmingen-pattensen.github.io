@@ -38,7 +38,7 @@ Von unserer [FiiNote](https://www.fiinote.com)  Seite.
 
 ### Unsere Mängelkarte ist online
 
-Gefährliche Querungen, Unfallschwerpunkte oder Mängel sammeln wir auf unserer neuen Mängelkarte.
+Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer **neuen** Mängelkarte.
 
 ![](MangelkarteBedienung.png)
 
