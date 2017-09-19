@@ -3,7 +3,7 @@
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 
-## [Mangelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+## [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
 <img src="MangelkarteBedienung.png" alt="" style="float:right;">
 

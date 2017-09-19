@@ -36,22 +36,21 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 Von unserer [FiiNote](https://www.fiinote.com)  Seite. 
  -->
 
-### Abendtour #44 2017-09-13-Mi.
+### Unsere Mängelkarte ist online
 
-wir möchten euch am nächsten Mittwoch, den 13.09.2017 um 18:00, zu unser nächsten
-Feierabendtour einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
+Gefährliche Querungen, Unfallschwerpunkte oder Mängel sammeln wir auf unserer neuen Mängelkarte.
 
-Wir sind schon lange nicht mehr Richtung Süden gefahren, z.B. Giftener See, Sarstedt usw. sind mögliche Ziele.
+![](MangelkarteBedienung.png)
 
-Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-Wir freuen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
+siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
-![](AbendTouren1.jpg)
-Touren 2017 bis Ende August.
 
 ### Nächste Abendradtour
 
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
+
+![](AbendTouren1.jpg)
+Touren 2017 bis Ende August.
 
 ## Tipps und Nachrichten
 
@@ -110,6 +109,10 @@ Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
 ## Was war
+
+### Abendtour #44 2017-09-13-Mi.
+
+> Bericht folgt
 
 #### RADTOUR 4 „Durch das Calenberger Land“
 
