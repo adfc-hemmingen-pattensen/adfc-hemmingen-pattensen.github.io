@@ -42,6 +42,12 @@ function validatePass(){
 - <font color="#00CC00">Grün</font> - Wunsch
 - <font color="#ff00ff">Violet</font> - Vorrangnetz
 
+### Schadenmeldungen
+
+- Hemmingen: [Schadenmeldungen](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
+- Pattensen: [Gelbe-Karte](http://www.pattensen.de/Default.aspx?tabid=2741)
+- Hannover: [Ideen und Beschwerden](https://e-government.hannover-stadt.de/impulsweb.nsf/)
+- ADFC Hemmingen / Pattensen: Kontakt Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
 ### Info-Stand
 Am verkaufsoffenen Sonntag, den 10. April 2016 am Rewe-Center, hatte der **ADFC einen Infostand** aufgebaut. Die Besucher konnten mithilfe von Klebepunkten positive und auch kritische Radwegeführungen in Pattensen markieren. ![Mangelkarte](MaengelHemPatBilder/2016-04-10-SoADFCMangelkartePattensen.jpg)
