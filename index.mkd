@@ -37,6 +37,21 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 Von unserer [FiiNote](https://www.fiinote.com)  Seite. 
  -->
 
+ 
+### Radelnde aus Hemmingen und Pattensen planen Aktionen für 2018!
+
+Das Jagdzimmer der Deveser Gaststätte Mutter Buermann ist der Treffpunkt des nächsten Radeltreffs:
+
+> Mittwoch, **13. Dezember 2017**, Ankommen ab 18:30 Start um 19:00.
+
+Wie immer sind alle willkommen die sich um die Fahrradkultur persönlich, politisch, freizeitmäßig und überhaupt aus Spaß engagieren möchten. 
+Wir wollen uns die Jahresbilanz anschauen. Wir werden die ersten Vorüberlegungen für neue Projekte in 2018 anstellen. 
+Und auch die laufenden Aktivitäten wie die Fahrradwerkstatt und die Radtouren sind immer wieder gut für Verbesseungen und neue Ideen. 
+Themen sind natürlich auch die Radwege, besonders die fehlenden... und natürlich Stadtradeln, 
+was wir auch 2018 wieder in und mit den Städten Hemmingen und Pattensen angehen wollen. 
+Zum Jahresabschluss soll es bei Mutter Buermann aber auch gemütlich werden mit Stärkungen aus Küche und Schankraum (Selbstzahler). 
+Wer mit uns klimafreundlichen Radverkehr in Bewegung bringen will, ist herzlich willkommen!
+ 
 ### Unsere Mängelkarte ist online
 
 Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer **neuen** Mängelkarte.
@@ -45,32 +60,18 @@ Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sa
 
 siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
-### Abendtour #45 2017-09-20-Mi.
-
-Wir möchten euch am nächsten Mittwoch, den 20.09.2017 um 18:00, zu unser nächsten
-Feierabendtour einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
-
-Wir werden uns wie immer nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-Mal sehen, wohin es uns treibt, das Wetter sollte uns morgen hoffentlich nicht beeinflussen.
-
-Wir freuen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
-
 ### Nächste Abendradtour
 
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
 
+Karte mit unseren Touren 2017 bis Ende August.
 ![](AbendTouren1.jpg)
-Touren 2017 bis Ende August.
+
 
 ## Tipps und Nachrichten
 
-### Radwegsanierung - Aug. 2017
-Der Radweg an der L 389 wird zur Zeit saniert - Wurde auch Zeit.
-Leider bedeutet das zur Zeit ein Umweg von ca. 4 km für Radfahrer die nicht die Fahrbahn benutzen möchten.
-
-![](SanierungL389.png)
-
-> "Rot: Baustelle - Grün: Umleitung"
+### Radwegsanierung - Hemmingen - H.-Wülfel
+Der Radweg an der L 389 wurde saniert - es wurde auch Zeit.
 
 GROSSE ENTTÄUSCHUNG: Der neue einseitige Zweirichtungsradweg wird nur 1,75 m breit. Laut ERA Richtlinie sollte der Radweg 3,00 (2,50) breit werden.
 
@@ -83,13 +84,9 @@ GROSSE ENTTÄUSCHUNG: Der neue einseitige Zweirichtungsradweg wird nur 1,75 m br
 Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
 
 
-
-
 ### Solarlaternen funktionieren noch nicht
 
-Der Hemminger Lokalteil der HAZ berichtete am 9. Aug. 2017, dass die Solarlateren an der B3 nördlich von Arnum immer noch nicht funktionieren. Die Laternen wurde im April aufgestellt. Zur Zeit ist der Programmierer im Urlaub. Sobald das Laub von den Bäumen fällt kann man nicht mehr testen, ob die Solarzellen im Schatten des Laubes auch genügend Leistung bringen. 
-
-**Radfahrer berichteten, dass am Samstag, den 12. August die Laternen noch nicht funktionierten**
+Der Hemminger Lokalteil der HAZ berichtete am 9. August 2017 und 4. Dezember 2017, dass die Solarlateren an der B3 nördlich von Arnum immer noch nicht funktionieren. Die Laternen wurde im April aufgestellt. Zur Zeit ist der Programmierer im Urlaub. Sobald das Laub von den Bäumen fällt kann man nicht mehr testen, ob die Solarzellen im Schatten des Laubes auch genügend Leistung bringen. 
 
 ### Wilkenburger Spinne bleibt wie sie ist
 
@@ -119,6 +116,10 @@ Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo
 *Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)*
 
 ## Was war
+
+### Abendtour #45 2017-09-20-Mi.
+
+> Bericht folgt
 
 ### 17. Radel-Treff
 

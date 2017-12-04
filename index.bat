@@ -1,6 +1,6 @@
 @rem Markdown to HTML
 @rem Jens Spille
-@rem 2015-06-07-So
+@rem 2015-06-07-So 2017-12-04-Mo_17h11
 @rem works with pandoc 1.13. (maked portable) and github-pandoc.css
 
 set tempfname=%~n0
@@ -11,9 +11,8 @@ call getisodatetime.bat
 
 rem path to pandoc
 rem ==============
-SET portpath=C:\DataJens\MagentaCLOUD\PortProg\PortableApps
-IF %computername%==JENSDELL SET portpath=C:\DataJens\MagentaCLOUD\PortProg\PortableApps
-IF %computername%==HANVL1134NT6164 SET portpath=c:\DataJSp\PortProg
+SET portpath=C:\DataProg\PortProg\PortableApps
+IF %computername%==JENSDELL SET portpath=C:\DataProg\PortProg\PortableApps
 SET PATH=%portpath%\Pandoc\;%PATH%
 Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 
