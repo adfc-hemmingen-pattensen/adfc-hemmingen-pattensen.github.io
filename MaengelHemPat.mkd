@@ -39,8 +39,8 @@ function validatePass(){
 
 - <font color="#FF0000">Rot</font> - Gefahr
 - <font color="#0000FF">Blau</font> - Unbequem
-- <font color="#00CC00">Grün</font> - Wunsch
-- <font color="#ff00ff">Violet</font> - Vorrangnetz
+- <font color="#00CC00">Grün</font> - Erledigt oder kurzfristige Zusage
+- <font color="#ff00ff">Violet</font> - Wünsch
 
 ### Schadenmeldungen
 
