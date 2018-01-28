@@ -15,12 +15,6 @@ Sprecher Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 >
 >    ![](MitgliedWerden.png) oder [Mitglied werden](https://www.adfc.de/7678_1)
 
-Der ADFC Hemmingen Pattensen wünscht allen Radfahrenden schöne Weihnachten und nur symbolisch einen guten Rutsch. 
-Wir empfehlen Spikes-Reifen für den Winter! 
-
-Sie wissen nicht wohin mit den ausgedienten Kinderrädern? Die **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen** nimmt sie gerne.
-
-![](WeihnachtenCopyrightADFCMagdeburg.jpg)
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter [http://www.hannah-lastenrad.de/](http://www.hannah-lastenrad.de/). Unsere [Hannah 14](http://www.hannah-lastenrad.de/cb-items/hannah-14), mit Elektromotor, ist zur Zeit stationniert im **Familienservicebüro, Göttinger Str. 63, Arnum** und wird dort bis zum 28.2.2018 verbleiben. Danach wechselt sie die Station und wird bei der Postagentur, Rathausplatz  8, stationiert.
 
@@ -45,18 +39,7 @@ Sie wissen nicht wohin mit den ausgedienten Kinderrädern? Die **ADFC Fahrrad-Se
 Von unserer [FiiNote](https://www.fiinote.com)  Seite. 
  -->
 
-### Jahreshauptversammlung 2018
 
-Unsere Jahreshauptversammlung 2018 wird am 24. Januar 2018 im Bürgersaal Hemmingen stattfinden. Hier wird auch das Sprecherteam neu gewählt.
-
- 
-### Unsere Mängelkarte ist online
-
-Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer **neuen** Mängelkarte.
-
-![](MangelkarteBedienung.png)
-
-siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
 ### Nächste Abendradtour
 
@@ -65,40 +48,31 @@ Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. D
 Karte mit unseren Touren 2017 bis Ende August.
 ![](AbendTouren1.jpg)
 
+## Unsere Mängelkarte
+
+Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer **neuen** Mängelkarte.
+
+![](MangelkarteBedienung.png)
+
+siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 
 ## Tipps und Nachrichten
 
-### Radwegsanierung - Hemmingen - H.-Wülfel
-Der Radweg an der L 389 wurde saniert - es wurde auch Zeit.
+### Planfeststellungsverfahren für den Neubau eines Radweges im Zuge der K 226/K221 von Ronnenberg nach Devese
 
-GROSSE ENTTÄUSCHUNG: Der neue einseitige Zweirichtungsradweg wird nur 1,75 m breit. Laut ERA Richtlinie sollte der Radweg 3,00 (2,50) breit werden.
+Der Planfeststellungsverfahren für den Neubau eines Radweges im Zuge der K 226/K221 von Ronnenberg nach Devese kann von der [https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahren-f%C3%BCr-den-Neubau-eines-Radweges-im-Zuge-der-K-226-K221-von-Ronnenberg-nach-Devese](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Bekanntmachungen-Ausschreibungen/Amtliche-Bekanntmachungen/Planfeststellungsverfahren-f%C3%BCr-den-Neubau-eines-Radweges-im-Zuge-der-K-226-K221-von-Ronnenberg-nach-Devese)
+herunter geladen werden. 
+Jeder kann bis spätestens zwei Wochen nach Beendigung der Auslegung, das ist bis 
+zum 05.02.2018 (einschl.) Einwendungen gegen den Plan erheben.
 
-![](BetonstreifenL389.png)
+### Verkehrsentwicklungsplan 2030 der Stadt Hemmingen
 
-> Stand: 2017-09-05-Di.
-
-### Spontane Radtouren
-
-Spontane ***Feierabendradtouren*** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an <j.spille@adfc-hannover.de>.
-
+Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen liegt in der Zeit vom 07.12.2017 bis zum 31.03.2018 (einschließlich) öffentlich aus.
+Er ist auf der Homepage der Stadt Hemmingen einsehbar [Entwurf VEP2030](https://www.stadthemmingen.de/downloads/datei/OTA3MDAxOTYxOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS9lbnR3dXJmX2Rlc192ZXJrZWhyc2VudHdpY2tsdW5nc3BsYW5lc19kZXJfc3RhZHRfaGVtbWluZ2VuX3ZlcF8yMDMwX1szXS5wZGY%3D/entwurf_des_verkehrsentwicklungsplanes_der_stadt_hemmingen_vep_2030_[3].pdf).
 
 ### Solarlaternen funktionieren noch nicht
 
-Der Hemminger Lokalteil der HAZ berichtete am 9. August 2017 und 4. Dezember 2017, dass die Solarlateren an der B3 nördlich von Arnum immer noch nicht funktionieren. Die Laternen wurde im April aufgestellt. Zur Zeit ist der Programmierer im Urlaub. Sobald das Laub von den Bäumen fällt kann man nicht mehr testen, ob die Solarzellen im Schatten des Laubes auch genügend Leistung bringen. 
-
-### Wilkenburger Spinne bleibt wie sie ist
-
-Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo 50 noch einen Kreisel geben wird. Für Radfahrer und Fußgänger ist das Überqueren der Spinne gefährlich. Von der Ziegensbocksbrücke kommend ist die Sicht durch die Straßenkrümmung gehindert, ein Tempo 50 hätte hier Entspannung gebracht. Durch den morgendlichen Rückstau der Autos nach Hemmingen, konzentrieren sich die Autofahrer auf eine Lücke aus Richtung Wilkenburg, dabei kann ein Fußgänger oder Radfahrer leicht übersehen werden.
-
-### Was bedeutet Fahrradstraße?
-
-1. Wie der Name nahelegt, sind Fahrradstraßen nur für den Radverkehr vorgesehen. Für Autos und andere Kraftfahrzeuge sind Fahrradstraßen laut der Straßenverkehrsordnung nur freigegeben, wenn ein entsprechendes Zusatzschild, wie "Kfz-Verkehr frei", das Befahren gestattet. Das ist in Hemmingen der Fall.
-2. In der Fahrradstraße müssen sich Autofahrer nach der Geschwindigkeit der Radler richten, auch wenn diese nur sehr langsam vorankommen - maximal ist aber Tempo 30 erlaubt. 
-3. Außerdem dürfen Radler auf Fahrradstraßen nebeneinander fahren. Dies gilt auch dann, wenn Fahrzeuge dadurch nicht überholen können. Um einen Radfahrer überholen zu dürfen, muss der seitliche Sicherheitsabstand von mindestens 1,50 Meter eingehalten werden. Der entgegenkommende Verkehr darf dadurch natürlich nicht behindert werden.
-4. Die gültigen Vorfahrtsregeln bleiben auch in der Fahrradstraße unverändert. Sofern nicht anders geregelt gilt "rechts vor links": Ein von rechts kommender Pkw hat in der Fahrradstraße auch gegenüber Radlern Vorfahrt.
-5. Für Fußgänger und fahrradfahrende Kinder unter acht Jahren ändert sich übrigens nichts - diese müssen auch bei einer Fahrradstraße auf dem Gehweg bleiben und beim Überqueren der Straße auf den Verkehr achten.
-
-![](FahrradstrDorffeld.jpg)
+Die Solarlaternen an der B3, zwischen Westerfeld und Arnum, funktionieren noch immer nicht. Die Testphase wird bis Juni verlängert.
 
 
 ### Einige nützliche Links
@@ -115,7 +89,21 @@ Der Hemminger Lokalteil der HAZ berichtete am 25. Juli 2017, dass es weder Tempo
 
 ## Was war
 
+### 20. Radeltreff - Jahreshauptversammlung 2018
+
+Unsere Jahreshauptversammlung 2018 fand am 24. Januar 2018 im Bürgersaal Hemmingen stattfinden. Das neue Sprecherteam ist:
+
++-------------------------------------------+------------------+
+| Sprecher 									| Jens Spille 	   |
++-------------------------------------------+------------------+
+| Vertreter (Fahrrad Selbsthilfe Werkstatt) | Dirk Härtel      |
++-------------------------------------------+------------------+
+| Vertreter (Touren) 						| Günther Kleinod  |
++-------------------------------------------+------------------+
+| Vertreter (Pattensen) 					| Ralf Schmalkuche |
++-------------------------------------------+------------------+
  
+
 ### 18. RadelTreff - Radelnde aus Hemmingen und Pattensen planten Aktionen für 2018!
 
 Am Mittwoch, den 13. Dezember 2017 trafen sich Radelnde im Jagdzimmer der Deveser Gaststätte Mutter Buermann. 
