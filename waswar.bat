@@ -19,7 +19,7 @@ Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 
 rem replace tschuess mit Datum
 rem ==========================
-sed s/tschuess/%lda%-%lti%/g %tempfname%.mkd >%tempfname%.tmp
+sed s/tschuess/%lda%-%lti%/g %tempfname%.md >%tempfname%.tmp
 
 rem set pandoc options
 rem ===================
