@@ -18,7 +18,7 @@ Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 
 rem replace tschuess mit Datum
 rem ==========================
-sed s/tschuess/%lda%-%lti%/g %tempfname%.mkd >%tempfname%.tmp
+sed s/tschuess/%lda%-%lti%/g %tempfname%.md >%tempfname%.tmp
 
 rem set pandoc options
 rem ===================
@@ -30,7 +30,7 @@ set panoptions=%panoptions% -M date="%lda% %lti%"
 rem set panoptions=%panoptions% --toc
 rem set panoptions=%panoptions% --number-sections
 
-rem run pandoc mkd to html
+rem run pandoc md to html
 rem =====================
 echo on
 pandoc %tempfname%.tmp -o %tempfname%.html %panoptions%
