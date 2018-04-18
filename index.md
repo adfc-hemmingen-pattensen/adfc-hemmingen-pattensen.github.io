@@ -2,7 +2,7 @@
 
 # [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
-´<!-- <img src="smiley2.png" alt="" style="float:right;">-->
+<!-- <img src="smiley2.png" alt="" style="float:right;">-->
 <img src="smiley2.png" alt="" style="float:right;">
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
