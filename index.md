@@ -18,6 +18,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <http://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
+
 ## Inhalt
 
 > - [Was wird](#was-wird)
@@ -45,7 +46,50 @@ Ein mögliches Ziel könnten Eilenriede und Anderter Schleuse sein.
 Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
 
 > Spontane **_Feierabendradtouren_** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+### Termine
 
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden Dienstag von 17:30 bis 19:00 geöffnet.
+2. Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an j.spille@adfc-hannover.de.
+3. Den Hemminger Sitzungskalender gibt es unter https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/
+4. Den Pattenser Sitzungskalender gibt es unter https://pattensen.more-rubin1.de/sitzungskalender.php
+
+```mermaid
+gantt
+  title ADFC Hemmingen/Pattensen 2018
+  dateFormat  DD.MM.YY
+
+section Ferien&Co
+  19.3-3.4 Osterferien                        :done,        19.03.18, 03.04.18
+  16.5-14.6  Ramadan                          :active,done, 16.05.18, 14.06.18
+  28.6.-8.8 Sommerferien                      :done,        28.06.18, 08.08.18
+  1.10-12.10 Herstferien                      :done,        01.10.18, 12.10.18
+
+section FSW
+  Fahrrad-Selbsthilfe-Werkstatt 1)            :crit,active, 02.01.18, 18.12.18
+
+section Treffen
+  5.1 19. Radeltreff VEP2030                  :             05.01.18, 1d
+  24.1 20. Jahreshauptversammlung             :             24.01.18, 1d
+
+section Touren
+  Feierabendradtouren 2)                      :done,        12.04.18, 30.09.18
+  21.5 Motormühle Blumenhagen                 :crit,        21.05.18,1d
+  27.5 Hildesheimer Berge                     : crit,       27.05.18, 1d
+  23.6 Altwarmbüchener See                    :crit,        23.06.18,1d
+  11.8 Calenberger Land                       :crit,        11.08.18,1d
+  29.9 Blauen See Garbsen                     :crit,        29.09.18,1d
+
+section Stadtradeln
+  14.5 Pressetermin                           :             14.05.18, 1d
+  22.5 Fahrrad-Check FSW                      :             22.05.18, 1d
+  26.5 Fahrrad Check Pattensen                :             26.05.18, 1d
+  27.5-16.6 Stadtradeln                       : crit,       27.05.18, 16.06.18
+  27.5 Radtour Wennigsen f. Frühstk.          : crit,       27.05.18, 1d
+  3.6 Autofreier So                           :             03.06.18, 1d
+  10.6 Familienradwandertag                   :             10.06.18, 1d
+  1.5-30.6.  Hannah in Pattensen              :crit, done,  01.05.18, 30.06.18
+
+```
 ### Radtour 1 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen" für Sportliche
 
 - Pfingstmontag, 21.Mai 2018 (Pfingstmontag): Von Hemmingen zur Motormühle Blumenhagen bei Edemissen. Besichtigung anlässlich des Tags der offenen Mühle
