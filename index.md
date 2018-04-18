@@ -45,7 +45,7 @@ Ein mögliches Ziel könnten Eilenriede und Anderter Schleuse sein.
 
 Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
 
-> Spontane **_Feierabendradtouren_** werden bei entsprechenden Wetter angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+
 ### Termine
 
 1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden Dienstag von 17:30 bis 19:00 geöffnet.
