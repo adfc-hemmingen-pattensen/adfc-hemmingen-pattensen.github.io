@@ -1,3 +1,8 @@
+---
+titel: ADFCHemPat
+---
+
+
 [![](banner.jpg)](http://www.adfc-hannover.de/)
 
 # [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
@@ -48,12 +53,13 @@ Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Tei
 
 ### Termine
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden Dienstag von 17:30 bis 19:00 geöffnet.
-2. Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an j.spille@adfc-hannover.de.
-3. Den Hemminger Sitzungskalender gibt es unter https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/
-4. Den Pattenser Sitzungskalender gibt es unter https://pattensen.more-rubin1.de/sitzungskalender.php
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
+2. Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
+4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
 
-```mermaid
+<!-- see https://github.com/raghur/mermaid-filter-->
+```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}
 gantt
   title ADFC Hemmingen/Pattensen 2018
   dateFormat  DD.MM.YY
