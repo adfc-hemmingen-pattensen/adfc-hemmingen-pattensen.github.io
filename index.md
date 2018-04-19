@@ -40,16 +40,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 <!-- <iframe src="https://hackmd.io/p/rkSQJE-hz#/" width="100%" height="200%" name="iframe_a" frameborder="0" scrolling="yes" seamless ></iframe> Von unserer [HackMD](https://hackmd.io) Seite. -->
 
-### Nächste Abendradtour
-
-Wir hoffen, ihr seid alle gut durch den Winter gekommen und wartet darauf, dass die Fahrradsaison wieder eröffnet wird.
-
-Die ADFC-Ortsgruppe Hemmingen Pattensen möchte euch am nächsten Mittwoch, den 18.04.2018 um 18:00, zu unser 1\. Feierabendtour 2018 einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
-
-Ein mögliches Ziel könnten Eilenriede und Anderter Schleuse sein.
-
-Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-
 
 ### Termine
 
