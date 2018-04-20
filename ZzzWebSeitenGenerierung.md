@@ -2,7 +2,7 @@
 
 Übersicht
 
-~~~{.mermaid format=png width=1200}
+~~~{.mermaid format=png width=1200 loc=mermaidimg}
 graph TB
 
 subgraph HackMD
