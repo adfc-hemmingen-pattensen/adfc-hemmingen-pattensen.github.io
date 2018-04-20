@@ -1,7 +1,3 @@
----
-title: ADFCHemPat
----
-
 
 [![](banner.jpg)](http://www.adfc-hannover.de/)
 
