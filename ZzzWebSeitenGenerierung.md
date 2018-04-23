@@ -120,14 +120,14 @@ Sowohl [HackMD](https://hackmd.io/) als auch [PanDoc](https://pandoc.org/), zusa
 Aus:
 
     ```mermaid
-    graph TD;
+    graph LR;
         A-->B;
         A-->C;
         B-->D;
     ```
 wird:
 
-```{.mermaid format=svg width=100}
+```{.mermaid format=svg loc=mermaidimg width=400}
 graph LR;
     A -->B
     A -->C;
@@ -139,3 +139,5 @@ graph LR;
 [Markdown](https://daringfireball.net/projects/markdown/) lässt sich mit jedem Text Editor schreiben. Aber ähnlich wie bei [HackMD](https://hackmd.io/), ist der [Atom](https://atom.io/) Editor, mit den Zusatzpaketen [markdown-preview-enhanced](https://atom.io/packages/markdown-preview-enhanced) und [atom-mermaid](https://atom.io/packages/atom-mermaid) der Editor meiner Wahl.
 
 Für das schnelle Prüfen den `nackten` Markdown Seiten gibt es das [Firefox](https://www.mozilla.org/en-US/firefox/new/) Add-on  [GitLab Markdown Viewer](https://github.com/painyeph/GitLabMarkdownViewer). Dann kann man sich \*.md  Dateien direkt im Browser ansehen.
+
+-----
