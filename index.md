@@ -36,6 +36,15 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 <!-- <iframe src="https://hackmd.io/p/rkSQJE-hz#/" width="100%" height="200%" name="iframe_a" frameborder="0" scrolling="yes" seamless ></iframe> Von unserer [HackMD](https://hackmd.io) Seite. -->
 
+### Saisonstart der beliebten ADFC-Mittwochsradtouren
+
+Alle begeistert Radelnden sind herzlich eingeladen zur ersten offiziellen Mittwochsradtour des ADFC Hemmingen/Pattensen in der Radsaison 2018.
+Los gehts am **Mittwoch, den 25. April um 18:00 ab Rathausplatz in Hemmingen**, Rückkehr gegen 20.00 Uhr.
+
+Mögliche Ziele und Dauer werden wie immer gemeinsam festgelegt und die Radtourenpalette gibt da einiges her.
+
+Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
+Der ADFC Radtourenleiter Günther Kleinod freut sich auf möglichst viele MitradlerInnen, bestes Fahrradwetter und eine schöne Fahrt.
 
 ### Termine
 
@@ -65,6 +74,7 @@ section Treffen
 
 section Touren
   Feierabendradtouren 2)                      :done,        12.04.18, 30.09.18
+  25.4 18 Uhr Feierabendradtour               :             25.04.18,1d
   21.5 Motormühle Blumenhagen                 :crit,        21.05.18,1d
   27.5 Hildesheimer Berge                     : crit,       27.05.18, 1d
   23.6 Altwarmbüchener See                    :crit,        23.06.18,1d
