@@ -36,6 +36,18 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 <!-- <iframe src="https://hackmd.io/p/rkSQJE-hz#/" width="100%" height="200%" name="iframe_a" frameborder="0" scrolling="yes" seamless ></iframe> Von unserer [HackMD](https://hackmd.io) Seite. -->
 
+### 21. Radeltreff - Sondertreffen zum Thema: Tempo 50 in Devese
+
+**Einladung** zum Sondertreffen mit Deveser-Bürger, am **3. Mai um 19:00 bei Mutter Buermann im Jagtzimmer**.
+
+* Tempo 30 in Devese wird aufgehoben
+* Wir fordern Beibehaltung von Tempo 30, mindestens aber einen zusätzlichen Schutz für Radfahrende.
+* Geschwindigkeitsreduzierung durch Schutzstreifen?
+* Durch die geplante Geschwindigkeitserhöhung steigt der Belastungsbereich von Klasse I/II auf II/III.
+* Radweg Ronnenberg-Devese geplant aber keine sichere Ortsdurchfahrt.
+* ADFC'ler diskutieren über Verkehrsdichte, Geschwindigkeit, Radfahren auf Gehwegen mit Schrittgeschwindigkeit und mögliche Schutzstreifen.
+* Experte aus der Region eingeladen.
+
 ### Saisonstart der beliebten ADFC-Mittwochsradtouren
 
 Alle begeistert Radelnden sind herzlich eingeladen zur ersten offiziellen Mittwochsradtour des ADFC Hemmingen/Pattensen in der Radsaison 2018.
@@ -69,17 +81,18 @@ section FSW
   Fahrrad-Selbsthilfe-Werkstatt 1)            :crit,active, 02.01.18, 18.12.18
 
 section Treffen
-  5.1 19. Radeltreff VEP2030                  :             05.01.18, 1d
-  24.1 20. Jahreshauptversammlung             :             24.01.18, 1d
+  5.1 19. Radeltreff VEP2030        : 05.01.18, 1d
+  24.1 20. Jahreshauptversammlung   : 24.01.18, 1d
+  3.5 21. Radeltreff Tempo50 Devese : crit, 03.05.18, 1d
 
 section Touren
-  Feierabendradtouren 2)                      :done,        12.04.18, 30.09.18
-  25.4 18 Uhr Feierabendradtour               :             25.04.18,1d
-  21.5 Motormühle Blumenhagen                 :crit,        21.05.18,1d
-  27.5 Hildesheimer Berge                     : crit,       27.05.18, 1d
-  23.6 Altwarmbüchener See                    :crit,        23.06.18,1d
-  11.8 Calenberger Land                       :crit,        11.08.18,1d
-  29.9 Blauen See Garbsen                     :crit,        29.09.18,1d
+  Feierabendradtouren 2)        :done, 12.04.18, 30.09.18
+  25.4 18 Uhr Feierabendradtour :      25.04.18,1d
+  21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
+  23.6 Altwarmbüchener See      :crit, 23.06.18,1d
+  11.8 Calenberger Land         :crit, 11.08.18,1d
+  29.9 Blauen See Garbsen       :crit, 29.09.18,1d
+
 
 section Stadtradeln
   14.5 Pressetermin                           :             14.05.18, 1d
