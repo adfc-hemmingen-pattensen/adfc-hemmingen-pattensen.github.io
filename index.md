@@ -38,7 +38,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ### 21. Radeltreff - Sondertreffen zum Thema: Tempo 50 in Devese
 
-**Einladung** zum Sondertreffen mit Deveser-Bürger, am **3. Mai um 19:00 bei Mutter Buermann im Jagtzimmer**.
+**Einladung** zum Sondertreffen mit Deveser-Bürgern, am **3. Mai um 19:00 bei Mutter Buermann im Jagdzimmer**.
 
 * Tempo 30 in Devese wird aufgehoben
 * Wir fordern Beibehaltung von Tempo 30, mindestens aber einen zusätzlichen Schutz für Radfahrende.
