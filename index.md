@@ -36,17 +36,13 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 <!-- <iframe src="https://hackmd.io/p/rkSQJE-hz#/" width="100%" height="200%" name="iframe_a" frameborder="0" scrolling="yes" seamless ></iframe> Von unserer [HackMD](https://hackmd.io) Seite. -->
 
-### 21. Radeltreff - Sondertreffen zum Thema: Tempo 50 in Devese
+### **ENTFÄLLT**
 
-**Einladung** zum Sondertreffen mit Deveser-Bürgern, am **3. Mai um 19:00 bei Mutter Buermann im Jagdzimmer**.
+**21. Radeltreff - Sondertreffen zum Thema: Tempo 50 in Devese**
 
-* Tempo 30 in Devese wird aufgehoben
-* Wir fordern Beibehaltung von Tempo 30, mindestens aber einen zusätzlichen Schutz für Radfahrende.
-* Geschwindigkeitsreduzierung durch Schutzstreifen?
-* Durch die geplante Geschwindigkeitserhöhung steigt der Belastungsbereich von Klasse I/II auf II/III.
-* Radweg Ronnenberg-Devese geplant aber keine sichere Ortsdurchfahrt.
-* ADFC'ler diskutieren über Verkehrsdichte, Geschwindigkeit, Radfahren auf Gehwegen mit Schrittgeschwindigkeit und mögliche Schutzstreifen.
-* Experte aus der Region eingeladen.
+> 26. April 2018 - 21:50 Die Presse meldet, dass die Tempo-30-Regelung auf der Ortsdurchfahrt in Devese vorerst bleibt. Das Verkehrsministerium will den Sachverhalt nochmals prüfen. Mehr siehe [Hannoversche Allgemeine - Umland](http://www.haz.de/Umland/Hemmingen/Nachrichten/Tempo-30-auf-Ortsdurchfahrt-Devese-bleibt-vorerst-bestehen).
+>
+> Damit entfällt das geplante Sondertreffen am 3. Mai bei Mutter Buermann.
 
 ### Saisonstart der beliebten ADFC-Mittwochsradtouren
 
@@ -83,7 +79,6 @@ section FSW
 section Treffen
   5.1 19. Radeltreff VEP2030        : 05.01.18, 1d
   24.1 20. Jahreshauptversammlung   : 24.01.18, 1d
-  3.5 21. Radeltreff Tempo50 Devese : crit, 03.05.18, 1d
 
 section Touren
   Feierabendradtouren 2)        :done, 12.04.18, 30.09.18
