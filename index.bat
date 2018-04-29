@@ -18,12 +18,12 @@ Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 
 rem replace tschuess mit Datum
 rem ==========================
-sed s/tschuess/%lda%-%lti%/g %tempfname%.md >%tempfname%.tmp
+sed s/tschuess/%lda%-%lti%/g %tempfname%.md >%tempfname%.tmp2
 
 rem replace mermaid mit PanDoc Mermais
 rem ==================================
 rem Soll: ```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}
-rem sed s/mermaid/\{.mermaidformat\}/g %tempfname%.tmp2 >%tempfname%.tmp
+sed "s/mermaid/\{.mermaid format=svg\}/" %tempfname%.tmp2 >%tempfname%.tmp
 
 rem set pandoc options
 rem ===================

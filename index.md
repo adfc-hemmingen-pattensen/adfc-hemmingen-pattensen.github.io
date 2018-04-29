@@ -63,7 +63,7 @@ Der ADFC Radtourenleiter Günther Kleinod freut sich auf möglichst viele Mitrad
 
 <!-- see https://github.com/raghur/mermaid-filter-->
 <!--```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}-->
-```{.mermaid format=svg}
+```mermaid
 gantt
   title ADFC Hemmingen/Pattensen 2018
   dateFormat  DD.MM.YY
