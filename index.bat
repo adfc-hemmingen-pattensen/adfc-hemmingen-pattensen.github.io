@@ -20,6 +20,11 @@ rem replace tschuess mit Datum
 rem ==========================
 sed s/tschuess/%lda%-%lti%/g %tempfname%.md >%tempfname%.tmp
 
+rem replace mermaid mit PanDoc Mermais
+rem ==================================
+rem Soll: ```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}
+rem sed s/mermaid/\{.mermaidformat\}/g %tempfname%.tmp2 >%tempfname%.tmp
+
 rem set pandoc options
 rem ===================
 set panoptions=%panoptions% -t html5
