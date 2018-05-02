@@ -2,7 +2,7 @@
 
 Übersicht
 
-~~~{.mermaid format=png width=1200 loc=mermaidimg}
+~~~mermaid
 graph TB
 
 subgraph HackMD
@@ -12,6 +12,10 @@ end
 
 subgraph uMap
   Map>Mangelkarte]
+end
+
+subgraph FiiNote
+  FiiNote>Mängel]
 end
 
 subgraph github
@@ -30,6 +34,7 @@ subgraph MeinPC
     Termin --Kopie--> Seiten
     Berichte --Kopie--> Seiten
     Map --eingebunden--> HTML
+    FiiNote --verlinkt--> Map
 
   end
 
@@ -108,6 +113,8 @@ Das gute daran, die Dateien von dem [Github Server](https://github.com/adfc-hemm
 
 #### Mängelkarte
 Für unsere [Mängelkarte](https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) benutze ich den [umap](https://umap.openstreetmap.fr/de/) Service. Die Karten werden direkt mithilfe des Browser auf den [umap](https://umap.openstreetmap.fr/de/) Server erstellt und bleiben dort liegen. Mithilfe des HTML *iFrame* Befehls wird [unsere umap](http://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77) WebSeite im Browser des Betrachter eingebunden.
+
+Die Mängelbeschreibungen selbst sind teilweise mit dem [FiiNote Service](https://www.fiinote.com/#/) erstellt worden. Fiinote ermöglicht es Notizen mit Bildern und Zeichnungen zu erstellen und diese dann als Web-Seite zu veröffentlichen. Dieses geht einfach, sieht nicht besonders hübsch aus und die URLs sind sehr kryptisch. FiiNote selber gibt es als Android, Windows und HTML5 Editor.
 
 #### Terminübersicht und Tourenbeschreibungen
 Für die [Terminübersicht](https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?both#) und [Tourenbeschreibungen](https://hackmd.io/7JqXva29Si2VjOouL6VJxQ?both#) benutzen wir den [HackMD](https://hackmd.io/) Service. Dieses ist ein Online Markdown Editor mit einem eingebauten Markdown Betrachter (Pre-view). Jeder der die Links besitzt kann die Seiten ändern und erweitern. Die Inhalte dieser Seiten kopiere ich bei Bedarf manuell in unsere Markdown Seiten.

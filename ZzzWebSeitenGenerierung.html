@@ -55,24 +55,25 @@ Eine Liste
 <h3 id="extras">Extras</h3>
 <h4 id="mängelkarte">Mängelkarte</h4>
 <p>Für unsere <a href="https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html">Mängelkarte</a> benutze ich den <a href="https://umap.openstreetmap.fr/de/">umap</a> Service. Die Karten werden direkt mithilfe des Browser auf den <a href="https://umap.openstreetmap.fr/de/">umap</a> Server erstellt und bleiben dort liegen. Mithilfe des HTML <em>iFrame</em> Befehls wird <a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&amp;miniMap=false&amp;scrollWheelZoom=false&amp;zoomControl=true&amp;allowEdit=false&amp;moreControl=true&amp;datalayersControl=true&amp;onLoadPanel=undefined&amp;captionBar=false#12/52.25/9.77">unsere umap</a> WebSeite im Browser des Betrachter eingebunden.</p>
+<p>Die Mängelbeschreibungen selbst sind teilweise mit dem <a href="https://www.fiinote.com/#/">FiiNote Service</a> erstellt worden. Fiinote ermöglicht es Notizen mit Bildern und Zeichnungen zu erstellen und diese dann als Web-Seite zu veröffentlichen. Dieses geht einfach, sieht nicht besonders hübsch aus und die URLs sind sehr kryptisch. FiiNote selber gibt es als Android, Windows und HTML5 Editor.</p>
 <h4 id="terminübersicht-und-tourenbeschreibungen">Terminübersicht und Tourenbeschreibungen</h4>
 <p>Für die <a href="https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?both#">Terminübersicht</a> und <a href="https://hackmd.io/7JqXva29Si2VjOouL6VJxQ?both#">Tourenbeschreibungen</a> benutzen wir den <a href="https://hackmd.io/">HackMD</a> Service. Dieses ist ein Online Markdown Editor mit einem eingebauten Markdown Betrachter (Pre-view). Jeder der die Links besitzt kann die Seiten ändern und erweitern. Die Inhalte dieser Seiten kopiere ich bei Bedarf manuell in unsere Markdown Seiten.</p>
 <blockquote>
 <p>An eine teilweise automatische Einbindung von Inhalten, wie z.B. Toureneinladungen, ähnlich wie bei <a href="https://umap.openstreetmap.fr/de/">umap</a> wird noch gearbeitet. (Stand 2018-04-20-Fri)</p>
 </blockquote>
 <h5 id="grafiken">Grafiken</h5>
-<p>Sowohl <a href="https://hackmd.io/">HackMD</a> als auch <a href="https://pandoc.org/">PanDoc</a>, zusammen mit einem <a href="https://github.com/raghur/mermaid-filter">mermaid-filter</a>, unterstützen die Grafiksprache <a href="https://mermaidjs.github.io/">mermaid</a>. Ähnlich wie bei der Markdown Sprache besteht auch hier die Beschreibung und Formatierung rein aus unformatierten Texten.</p>
+<p>Sowohl <a href="https://hackmd.io/">HackMD</a> als auch <a href="https://pandoc.org/">PanDoc</a>, zusammen mit einem <a href="https://github.com/raghur/mermaid-filter">{.mermaid format=png width=1200 loc=mermaidimg}-filter</a>, unterstützen die Grafiksprache <a href="https://mermaidjs.github.io/">mermaid</a>. Ähnlich wie bei der Markdown Sprache besteht auch hier die Beschreibung und Formatierung rein aus unformatierten Texten.</p>
 <p>Aus:</p>
-<pre><code>```mermaid
-graph TD;
+<pre><code>```{.mermaid format=png width=1200 loc=mermaidimg}
+graph LR;
     A--&gt;B;
     A--&gt;C;
     B--&gt;D;
 ```</code></pre>
 <p>wird:</p>
-<p><img src="mermaidimg\diagram-2.svg" /></p>
+<p><code>{.{.mermaid format=png width=1200 loc=mermaidimg} format=svg loc=mermaidimg width=400} graph LR;     A --&gt;B     A --&gt;C;     B -.-&gt;D;     D ==&gt; A</code></p>
 <h3 id="werkzeuge">Werkzeuge</h3>
-<p><a href="https://daringfireball.net/projects/markdown/">Markdown</a> lässt sich mit jedem Text Editor schreiben. Aber ähnlich wie bei <a href="https://hackmd.io/">HackMD</a>, ist der <a href="https://atom.io/">Atom</a> Editor, mit den Zusatzpaketen <a href="https://atom.io/packages/markdown-preview-enhanced">markdown-preview-enhanced</a> und <a href="https://atom.io/packages/atom-mermaid">atom-mermaid</a> der Editor meiner Wahl.</p>
+<p><a href="https://daringfireball.net/projects/markdown/">Markdown</a> lässt sich mit jedem Text Editor schreiben. Aber ähnlich wie bei <a href="https://hackmd.io/">HackMD</a>, ist der <a href="https://atom.io/">Atom</a> Editor, mit den Zusatzpaketen <a href="https://atom.io/packages/markdown-preview-enhanced">markdown-preview-enhanced</a> und <a href="https://atom.io/packages/atom-mermaid">atom-{.mermaid format=png width=1200 loc=mermaidimg}</a> der Editor meiner Wahl.</p>
 <p>Für das schnelle Prüfen den <code>nackten</code> Markdown Seiten gibt es das <a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> Add-on <a href="https://github.com/painyeph/GitLabMarkdownViewer">GitLab Markdown Viewer</a>. Dann kann man sich *.md Dateien direkt im Browser ansehen.</p>
 <hr />
 </body>

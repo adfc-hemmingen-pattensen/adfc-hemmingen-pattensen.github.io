@@ -25,14 +25,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Was wird](#was-wird)
 > - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
-> - [Was war](#was-war) u. a. Bericht über die Tagestour „Durch die Hildesheimer Berge"
+> - [Was war](#was-war) 
 > - [Impressum](#impressum)
 
 ## Was wird
-
-### Fahrrad-Selbsthilfewerkstatt-Hemmingen
-Auch am 1. Maifeiertag ist die *ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen* mit einer Notbesetzung von 17:30 bis 19:00 Uhr geöffnet. Die Ausgabe von instandgesetzte Rädern ist leider *nicht* besetzt.
-
 
 ### Zweite ADFC-Mittwochsradtour am 2. Mai um 18:00 ab Rathausplatz in Hemmingen, Rückkehr gegen ca. 20.00 Uhr.
 
@@ -231,6 +227,9 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Fahrrad-Selbsthilfewerkstatt-Hemmingen
+Auch am 1. Maifeiertag war die *ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen* mit einer Notbesetzung von 17:30 bis 19:00 Uhr geöffnet.
 
 ### Abendtour #47 2018-04-25-Mi.
 
