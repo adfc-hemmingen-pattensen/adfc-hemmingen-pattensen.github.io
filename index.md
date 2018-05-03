@@ -43,6 +43,16 @@ Der ADFC Radtourenleiter Günther Kleinod freut sich auf möglichst viele Mitrad
 ### Hannah in Pattensen
 Ein Lastenrad Hannah wird im Mai und Juni für alle Pattenser kostenlos zur Verfügung stehen. Das REWE-CENTER, unter der Leitung von Lutz Ahlers hat sich freundlicherweise bereit erklärt das kostenlos von jedermann ausleihbare Lastenrad Hannah bei sich zu stationieren. Hannah ist eine Initiative vom ADFC und Velogold und in der Region Hannover das erste Projekt für freie Lastenfahrräder. Es ermöglicht die kostenfreie Ausleihe für bis zu drei Tage über die Webseite: [https://www.hannah-lastenrad.de](https://www.hannah-lastenrad.de)
 
+![Hannah Übergabe](HannahUebergabe2018-05-02.png)
+
+Die Hannah kann von allen Pattenser Bürgern für bis zu drei Tage ausgeliehen werden, um den Großeinkauf zu transportieren, die Kinder spazieren zu fahren oder den Grünschnitt zum Wertstoffhof zu bringen. Und das funktioniert über die Webseite www.hannah-lastenrad.de Dort gibt es auch eine Anleitung dazu. Vier Schritte sind erforderlich:
+1) Es ist eine einmalige Registrierung notwendig, nach der man die Hannah in Pattensen (oder an einer der anderen Stationen) ausleihen kann.
+2) Nach der Auswahl der Hannah bucht man die gewünschten Ausleihtage, bis maximal drei Tage am Stück kann die Hannah ausgeliehen werden.
+3) Die Ausleihe wird durch eine E-Mail bestätigt und gleichzeitig wird ein Kennwort und ein Ausleihvertrag zugemailt. Dieser muss ausgedruckt ausgefüllt und unterschrieben werden.
+4) Mit dem ausgefüllten Ausleihformular, Kennwort und Personalausweis gibt es dann bei REWE die Hannah. Einfach an der Kasse nach dem Hannah-Verantwortlichen fragen.
+
+Die REWE-Öffnungszeiten passen hervorragend zum Hannah-Projekt, so kann man montags bis Samstag zwischen 7 und 22 Uhr ausleihen oder (voll geladen) zurückgeben.
+
 > Eine weitere Hannah steht an der Postfiliale Rathausplatz 8 in Hemmingen und kann zu den Öffnungszeiten
 Montag – Freitag von 09.- 13.00 Uhr und von 14.30 – 18.00 Uhr sowie Samstags von 9.00 bis 12.00 Uhr,
 kostenlos nach Buchung abgeholt werden.
