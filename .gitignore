@@ -2,4 +2,5 @@
 *.db
 *.url
 *.tmp
+*.tmp2
 *.exe
