@@ -30,6 +30,12 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
+### Auftakt Radtour
+
+Pattenser und Hemminger Radelnde fahren nach einem gemeinsamen Frühstück, gemeinsam zur regionsweiten Auftaktveranstalltung in den Reden-Park nach Gerhrden. Starttermine und -Orte folgen.
+
+![](Stadtradeln2018AuftaktPoster.jpg)
+
 ### Hannah in Pattensen
 Ein Lastenrad Hannah wird im Mai und Juni für alle Pattenser kostenlos zur Verfügung stehen. Das REWE-CENTER, unter der Leitung von Lutz Ahlers hat sich freundlicherweise bereit erklärt das kostenlos von jedermann ausleihbare Lastenrad Hannah bei sich zu stationieren. Hannah ist eine Initiative vom ADFC und Velogold und in der Region Hannover das erste Projekt für freie Lastenfahrräder. Es ermöglicht die kostenfreie Ausleihe für bis zu drei Tage über die Webseite: [https://www.hannah-lastenrad.de](https://www.hannah-lastenrad.de)
 
