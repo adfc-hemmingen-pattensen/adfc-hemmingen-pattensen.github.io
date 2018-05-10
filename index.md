@@ -23,10 +23,14 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ## Inhalt
 
 > - [Was wird](#was-wird)
+>   - Stadtradeln
+>   - Lastenrad in Pattensen
 > - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
+>   - Fuß- und Radweg Klewertweg wird saniert
 > - [Was war](#was-war)
 >   - Tolle Projekttage der Grundschule Köllnbrinkweg in der Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen/Pattensen
+> - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 > - [Impressum](#impressum)
 
 ## Was wird
