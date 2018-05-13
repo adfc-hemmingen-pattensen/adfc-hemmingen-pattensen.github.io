@@ -1,3 +1,7 @@
+[![](http://adfc-hemmingen-pattensen.github.io/banner.jpg)](http://www.adfc-hannover.de/)
+
+# [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+
 # Mangel: Loser Schotter
 
 > Kurzbeschreibung: Der Schotter auf dem Radweg durch den Schulwald ist sehr lose.
