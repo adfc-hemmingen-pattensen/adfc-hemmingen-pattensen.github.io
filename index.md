@@ -26,6 +26,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 >   - Stadtradeln
 >   - Lastenrad in Pattensen
 > - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+>   - [Radweg Schulwald - Loser Schotter](https://adfc-hemmingen-pattensen.github.io/Mangelkarte/2018-05-11-Fr_Schulwald_LoserSchotter/Mangel.html)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
 >   - Fuß- und Radweg Klewertweg wird saniert
 > - [Was war](#was-war)
