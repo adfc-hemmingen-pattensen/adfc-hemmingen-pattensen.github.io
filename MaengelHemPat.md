@@ -14,7 +14,7 @@ Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann
 - <font color="#FF0000">Rot</font> - Gefahr
 - <font color="#0000FF">Blau</font> - Unbequem
 - <font color="#00CC00">Grün</font> - Erledigt oder kurzfristige Zusage
-- <font color="#ff00ff">Violet</font> - Wünsch
+- <font color="#ff00ff">Violet</font> - Wunsch
 
 <p>**<a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a>** - Ein Service von [umap](https://umap.openstreetmap.fr/de/), ein OpenStreetMap Projekt</p>
 
@@ -34,6 +34,7 @@ Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann
 - Hemmingen: [Schadenmeldungen](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
 - Pattensen: [Gelbe-Karte](http://www.pattensen.de/Default.aspx?tabid=2741)
 - Hannover: [Ideen und Beschwerden](https://e-government.hannover-stadt.de/impulsweb.nsf/)
+- Laatzen:[Meldestelle für Schäden an Straßen, Wegen, Brücken, Ampeln](https://www.laatzen.de/de/was-erledige-ich-wo-leistung/leistung/263/zustaendigestelle/62/meldestelle_fuer_schaeden_an_strassen_wegen_bruecken_ampeln.html)
 - ADFC Hemmingen / Pattensen: Kontakt Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
 ### Info-Stand

@@ -14,7 +14,7 @@ rem ==============
 SET portpath=C:\DataProg\PortProg\PortableApps
 IF %computername%==JENSDELL SET portpath=C:\DataProg\PortProg\PortableApps
 ::IF %computername%==HANVL1134NT6164 SET portpath=c:\DataJSp\PortProg
-SET PATH=%portpath%\Pandoc\;%PATH%
+SET PATH=%portpath%\pandoc213\;%PATH%
 Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 
 rem replace tschuess mit Datum
@@ -25,7 +25,7 @@ rem set pandoc options
 rem ===================
 set panoptions=%panoptions% -t html5
 set panoptions=%panoptions% -s
-set panoptions=%panoptions% -S
+rem set panoptions=%panoptions% -S
 set panoptions=%panoptions% -c github-pandoc.css
 set panoptions=%panoptions% -M date="%lda% %lti%"
 rem set panoptions=%panoptions% --toc
