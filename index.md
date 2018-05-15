@@ -52,7 +52,7 @@ Wir freueen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine sc
 
 **21 Tage Stadtradeln**. Vom 27. Mai bis 16. Juni.
 
-Anmelden unter [https://www.stadtradeln.de](https://www.stadtradeln.de) und Kilometer sammeln. Z. B. unter Hemmingen - Team [ADFC-Hemmingen](https://www.stadtradeln.de/index.php?&id=171&team_preselect=348992) oder Pattensen - Team "ADFC-Pattensen" oder ein eigenes Team gründen.
+Anmelden unter [https://www.stadtradeln.de](https://www.stadtradeln.de) und Kilometer sammeln. Z. B. unter Team [ADFC-Hemmingen](https://www.stadtradeln.de/index.php?&id=171&team_preselect=348992) oder Team [ADFC-Pattensen](https://www.stadtradeln.de/index.php?&id=171&team_preselect=349038) oder ein eigenes Team gründen.
 
 Das Ziel ist es privat und beruflich möglichst viele Kilometer mit dem Fahrrad zurücklegen für mehr Klimaschutz,  mehr Lebensqualität – und letztlich Spaß beim Fahrradfahren haben!
 
@@ -60,7 +60,12 @@ Jeder Kilometer, der während der dreiwöchigen Aktionszeit mit dem Fahrrad zur�
 
 ### Auftakt Radtour
 
-Pattenser und Hemminger Radelnde fahren nach einem gemeinsamen Frühstück, gemeinsam zur regionsweiten Auftaktveranstalltung in den Reden-Park nach Gerhrden. Starttermine und -Orte folgen.
+Pattenser und Hemminger Radelnde fahren nach einem gemeinsamen Frühstück, gemeinsam zur regionsweiten Auftaktveranstalltung in den Reden-Park nach Gehrden.
+
+- 09:30 Uhr Abfahrt der Pattenser Radelnden vor dem neuen Rathaus als gemeinsame, geführte Tour
+- 10:15 Uhr Abfahrt der Hemminger Radelnden vor dem Rathaus Hemmingen
+- 10:30 Frühstück bei Mutter Buermann in Devese vergünstigt zum Stadtradelpreis bis ca.
+- 11:30 Abfahrt nach Gehrden zusammen mit der [Auftakt-Radtour](http://www.fahrradsternfahrt-hannover.de/)
 
 ![](Stadtradeln2018AuftaktPoster.jpg)
 
