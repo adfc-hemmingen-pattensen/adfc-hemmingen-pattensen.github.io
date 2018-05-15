@@ -52,7 +52,7 @@ Wir freueen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine sc
 
 **21 Tage Stadtradeln**. Vom 27. Mai bis 16. Juni.
 
-Anmelden unter [https://www.stadtradeln.de](https://www.stadtradeln.de) und Kilometer sammeln. Z. B. unter Hemmingen - Team "ADFC-Hemmingen" oder Pattensen - Team "ADFC-Pattensen" oder ein eigenes Team gründen.
+Anmelden unter [https://www.stadtradeln.de](https://www.stadtradeln.de) und Kilometer sammeln. Z. B. unter Hemmingen - Team [ADFC-Hemmingen](https://www.stadtradeln.de/index.php?&id=171&team_preselect=348992) oder Pattensen - Team "ADFC-Pattensen" oder ein eigenes Team gründen.
 
 Das Ziel ist es privat und beruflich möglichst viele Kilometer mit dem Fahrrad zurücklegen für mehr Klimaschutz,  mehr Lebensqualität – und letztlich Spaß beim Fahrradfahren haben!
 

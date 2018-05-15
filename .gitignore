@@ -1,5 +1,6 @@
 *.lnk
 *.db
 *.url
-*.tmp*
+*.tmp
+*.tmp2
 *.exe
