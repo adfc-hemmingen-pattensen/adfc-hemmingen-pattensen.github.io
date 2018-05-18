@@ -23,7 +23,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ## Inhalt
 
 > - [Was wird](#was-wird)
->   - Mittwochstour
+>   - zur Motormühle Blumenhagen
 >   - Stadtradeln
 >   - Lastenrad in Pattensen
 > - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
@@ -37,16 +37,25 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
-### Mittwochsradtour
-![](MittwochLogo200.png)
+### Radtour 1 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen" für Sportliche
 
-Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten *Mittwoch, den 16.05.2018 um 18:00*, zu unser 4. Feierabendtour 2018 einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
+- Pfingstmontag, 21.Mai 2018 (Pfingstmontag): Von Hemmingen zur Motormühle Blumenhagen bei Edemissen. Besichtigung anlässlich des Tags der offenen Mühle
+- Länge: 50 km einfache Strecke, geführte Rückfahrt weitere 50 km per Rad oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif), Lademöglichkeit für Pedelecs vorhanden
+- Dauer: einfache Fahrt ca. 2,5 Stunden
 
-Wir wollen durch die Leinemasch nach Ruthe und evtl. zu den Giftener Seen fahren. Mal sehen, wie weit wir kommen.
+Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei anspruchsvollem Tempo (2,5Std für 50 km sind angesetzt) Rückfahrt ist selbstständig ab Bahnhof Dollbergen im GVH-Hannover möglich oder wieder als geführte Tour. Ausreichende Verpflegung bitte mitnehmen!
 
-Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
+- Start: 9:00 Uhr
+- Treffpunkt: Hemmingen, Rathausplatz 1
 
-Wir freueen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
+Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück.
+
+Geeignet nur für Sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
+
+- Tourenleitung: Dirk Härtel, (0511)-4104749 (mit AB)
+- Anmeldung: Nicht erforderlich
+
+![](MuehleBlumenhagen.png)
 
 ### Stadtradeln
 
@@ -57,6 +66,16 @@ Anmelden unter [https://www.stadtradeln.de](https://www.stadtradeln.de) und Kilo
 Das Ziel ist es privat und beruflich möglichst viele Kilometer mit dem Fahrrad zurücklegen für mehr Klimaschutz,  mehr Lebensqualität – und letztlich Spaß beim Fahrradfahren haben!
 
 Jeder Kilometer, der während der dreiwöchigen Aktionszeit mit dem Fahrrad zurückgelegt wird, kann unter [https://www.stadtradeln.de](https://www.stadtradeln.de) oder direkt über die [STADTRADELN-App](https://www.stadtradeln.de/app/) in den Online-Radelkalender eingetragen werden.
+
+### Fahrrad Check
+
+Der ADFC bietet zwei Fahrradchecks vor dem Start des Stadtradeln an.
+
+- Dienstag, 22. Mai 2018 von 17:30 bis 19:00 in der Fahrrad-Selbsthilfe-Werkstatt Hemmingen.
+- Samstag, 26. Mai 2018 von 11:00 bis 15:00 bei REWE im Calenberger Center in Pattensen.
+
+![](RadZuKlein.png)
+<!--Für jeden Bedürftigen haben wir das passende Fahrrad-->
 
 ### Auftakt Radtour
 
@@ -90,18 +109,6 @@ kostenlos nach Buchung abgeholt werden.
 <!-- > <iframe src="https://www.fiinote.com/gpage.jsp?pi=ssxhkocb7l4fj6beque5ykcj7a" width="100%" height="200" name="iframe_a" frameborder="1" scrolling="no" seamless ></iframe> Von unserer [FiiNote](https://www.fiinote.com) Seite. -->
 
 <!-- <iframe src="https://hackmd.io/p/rkSQJE-hz#/" width="100%" height="200%" name="iframe_a" frameborder="0" scrolling="yes" seamless ></iframe> Von unserer [HackMD](https://hackmd.io) Seite. -->
-
-
-
-### Saisonstart der beliebten ADFC-Mittwochsradtouren
-
-Alle begeistert Radelnden sind herzlich eingeladen zur ersten offiziellen Mittwochsradtour des ADFC Hemmingen/Pattensen in der Radsaison 2018.
-Los gehts am **Mittwoch, den 25. April um 18:00 ab Rathausplatz in Hemmingen**, Rückkehr gegen 20.00 Uhr.
-
-Mögliche Ziele und Dauer werden wie immer gemeinsam festgelegt und die Radtourenpalette gibt da einiges her.
-
-Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-Der ADFC Radtourenleiter Günther Kleinod freut sich auf möglichst viele MitradlerInnen, bestes Fahrradwetter und eine schöne Fahrt.
 
 ### Termine
 
@@ -155,6 +162,8 @@ section Stadtradeln
   10.6 Familienradwandertag                   :             10.06.18, 1d
   1.5-30.6.  Hannah in Pattensen              :crit, done,  01.05.18, 30.06.18
 
+section Projekte
+  7.-9.5 Projekttage der Grundschule      :07.05.18, 3d
 ```
 ### Radtour 1 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen" für Sportliche
 
