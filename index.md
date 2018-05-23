@@ -37,25 +37,18 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
-### Radtour 1 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen" für Sportliche
+### Mittwochstour
+![](MittwochLogo200.png)
 
-- Pfingstmontag, 21.Mai 2018 (Pfingstmontag): Von Hemmingen zur Motormühle Blumenhagen bei Edemissen. Besichtigung anlässlich des Tags der offenen Mühle
-- Länge: 50 km einfache Strecke, geführte Rückfahrt weitere 50 km per Rad oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif), Lademöglichkeit für Pedelecs vorhanden
-- Dauer: einfache Fahrt ca. 2,5 Stunden
+Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch, den 23.05.2018 um 18:00, zu unser
+nächsten Feierabendtour 2018 einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
 
-Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei anspruchsvollem Tempo (2,5Std für 50 km sind angesetzt) Rückfahrt ist selbstständig ab Bahnhof Dollbergen im GVH-Hannover möglich oder wieder als geführte Tour. Ausreichende Verpflegung bitte mitnehmen!
+Nachdem wir uns letzte Woche kurzfristig umentschieden haben, wollen diesmal vielleicht durch die Leinemasch nach Ruthe und evtl. zu den Giftener Seen fahren.
+Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
 
-- Start: 9:00 Uhr
-- Treffpunkt: Hemmingen, Rathausplatz 1
+Mal sehen, was diesmal dabei rauskommt.
 
-Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück.
-
-Geeignet nur für Sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
-
-- Tourenleitung: Dirk Härtel, (0511)-4104749 (mit AB)
-- Anmeldung: Nicht erforderlich
-
-![](MuehleBlumenhagen.png)
+Wir freuen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
 
 ### Stadtradeln
 
@@ -143,6 +136,7 @@ section Abendtouren
 25.4 18 Uhr Abendtour 2/18    : 25.04.18,1d
 2.5 18 Uhr Abendtour 3/18     : 02.05.18,1d
 16.5 18 Uhr Abendtour 4/18     : 16.05.18,1d
+23.5 18 Uhr Abendtour 5/18      : 23.05.18,1d
 
 section 1/2 Tagestouren
   21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
