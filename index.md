@@ -23,7 +23,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ## Inhalt
 
 > - [Was wird](#was-wird)
->   - zur Motormühle Blumenhagen
+>   - Von Pattensen durch die Hildesheimer Berge
 >   - Stadtradeln
 >   - Lastenrad in Pattensen
 > - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
@@ -40,13 +40,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ### Mittwochstour
 ![](MittwochLogo200.png)
 
-Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch, den 23.05.2018 um 18:00, zu unser
+Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch um 18:00, zu unser
 nächsten Feierabendtour 2018 einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
 
-Nachdem wir uns letzte Woche kurzfristig umentschieden haben, wollen diesmal vielleicht durch die Leinemasch nach Ruthe und evtl. zu den Giftener Seen fahren.
 Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-
-Mal sehen, was diesmal dabei rauskommt.
 
 Wir freuen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
 
@@ -60,15 +57,8 @@ Das Ziel ist es privat und beruflich möglichst viele Kilometer mit dem Fahrrad 
 
 Jeder Kilometer, der während der dreiwöchigen Aktionszeit mit dem Fahrrad zurückgelegt wird, kann unter [https://www.stadtradeln.de](https://www.stadtradeln.de) oder direkt über die [STADTRADELN-App](https://www.stadtradeln.de/app/) in den Online-Radelkalender eingetragen werden.
 
-### Fahrrad Check
-
-Der ADFC bietet zwei Fahrradchecks vor dem Start des Stadtradeln an.
-
-- Dienstag, 22. Mai 2018 von 17:30 bis 19:00 in der Fahrrad-Selbsthilfe-Werkstatt Hemmingen.
-- Samstag, 26. Mai 2018 von 11:00 bis 15:00 bei REWE im Calenberger Center in Pattensen.
-
-![](RadZuKlein.png)
-<!--Für jeden Bedürftigen haben wir das passende Fahrrad-->
+<!--![](RadZuKlein.png)
+Für jeden Bedürftigen haben wir das passende Fahrrad-->
 
 ### Auftakt Radtour
 
@@ -80,6 +70,19 @@ Pattenser und Hemminger Radelnde fahren nach einem gemeinsamen Frühstück, geme
 - 11:30 Abfahrt nach Gehrden zusammen mit der [Auftakt-Radtour](http://www.fahrradsternfahrt-hannover.de/)
 
 ![](Stadtradeln2018AuftaktPoster.jpg)
+
+### Radtour 2 „Von Pattensen durch die Hildesheimer Berge" – für Geübte
+
+- Sonntag, 27.5.: Durch die Hildesheimer Berge – für Geübte
+- Länge: 60 km
+- Dauer: ca.7 Std., ausreichende Verpflegung bitte mitnehmen!
+- Start: 10:00 Uhr
+- Treffpunkt: Pattensen, Rewe-Center, Johann-Koch-Str.2
+
+Die Strecke führt uns über Jeinsen und Schulenburg nach Nordstemmen. Dann fahren wir über Mahlerten nach Haus Escherde, wo wir eine kurze Rast machen! Von dort aus fahren/schieben wir den Berg hinauf zum Kammweg des Hildesheimer Waldes. Oben angekommen genießen wir die lange Abfahrt nach Sorsum. Wir fahren am Blaupunktwerk vorbei zum Kloster Marienrode, weiter nach Ochtersum. Bald sind wir am Fluss Innerste, dessen Verlauf wir bis in Höhe der Giesener Berge folgen. Dann radeln wir über Giften durch die Seenplatte nach Jeinsen zurück. Auf dem Wirtschaftsweg geht es an den Windrädern vorbei, nach Pattensen. Die Tour ist landschaftlich sehr abwechslungsreich. Einkehr in einem idyllisch gelegenen Café am Fluss ist möglich!
+
+- Tourenleitung: Helmut Krause und Günther Kleinod, Telefon: (05069) 7979,
+- Anmeldung: Nicht erforderlich
 
 ### Hannah in Pattensen
 Ein Lastenrad Hannah wird im Mai und Juni für alle Pattenser kostenlos zur Verfügung stehen. Das REWE-CENTER, unter der Leitung von Lutz Ahlers hat sich freundlicherweise bereit erklärt das kostenlos von jedermann ausleihbare Lastenrad Hannah bei sich zu stationieren. Hannah ist eine Initiative vom ADFC und Velogold und in der Region Hannover das erste Projekt für freie Lastenfahrräder. Es ermöglicht die kostenfreie Ausleihe für bis zu drei Tage über die Webseite: [https://www.hannah-lastenrad.de](https://www.hannah-lastenrad.de)
@@ -159,38 +162,6 @@ section Stadtradeln
 section Projekte
   7.-9.5 Projekttage der Grundschule      :07.05.18, 3d
 ```
-### Radtour 1 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen" für Sportliche
-
-- Pfingstmontag, 21.Mai 2018 (Pfingstmontag): Von Hemmingen zur Motormühle Blumenhagen bei Edemissen. Besichtigung anlässlich des Tags der offenen Mühle
-- Länge: 50 km einfache Strecke, geführte Rückfahrt weitere 50 km per Rad oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif), Lademöglichkeit für Pedelecs vorhanden
-- Dauer: einfache Fahrt ca. 2,5 Stunden
-
-Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei anspruchsvollem Tempo (2,5Std für 50 km sind angesetzt) Rückfahrt ist selbstständig ab Bahnhof Dollbergen im GVH-Hannover möglich oder wieder als geführte Tour. Ausreichende Verpflegung bitte mitnehmen!
-
-- Start: 9:00 Uhr
-- Treffpunkt: Hemmingen, Rathausplatz 1
-
-Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück.
-
-Geeignet nur für Sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
-
-- Tourenleitung: Dirk Härtel, (0511)-4104749 (mit AB)
-- Anmeldung: Nicht erforderlich
-
-![](MuehleBlumenhagen.png)
-
-### Radtour 2 „Von Pattensen durch die Hildesheimer Berge" – für Geübte
-
-- Sonntag, 27.5.: Durch die Hildesheimer Berge – für Geübte
-- Länge: 60 km
-- Dauer: ca.7 Std., ausreichende Verpflegung bitte mitnehmen!
-- Start: 10:00 Uhr
-- Treffpunkt: Pattensen, Rewe-Center, Johann-Koch-Str.2
-
-Die Strecke führt uns über Jeinsen und Schulenburg nach Nordstemmen. Dann fahren wir über Mahlerten nach Haus Escherde, wo wir eine kurze Rast machen! Von dort aus fahren/schieben wir den Berg hinauf zum Kammweg des Hildesheimer Waldes. Oben angekommen genießen wir die lange Abfahrt nach Sorsum. Wir fahren am Blaupunktwerk vorbei zum Kloster Marienrode, weiter nach Ochtersum. Bald sind wir am Fluss Innerste, dessen Verlauf wir bis in Höhe der Giesener Berge folgen. Dann radeln wir über Giften durch die Seenplatte nach Jeinsen zurück. Auf dem Wirtschaftsweg geht es an den Windrädern vorbei, nach Pattensen. Die Tour ist landschaftlich sehr abwechslungsreich. Einkehr in einem idyllisch gelegenen Café am Fluss ist möglich!
-
-- Tourenleitung: Helmut Krause und Günther Kleinod, Telefon: (05069) 7979,
-- Anmeldung: Nicht erforderlich
 
 ### Radtour 3: „Von Hemmingen zum Altwarmbüchener See"
 
@@ -273,6 +244,37 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Abendtour #5/18 2018-05-23-Mi.
+
+Tourenziel       | Ruthe
+---------------: | -----------------------
+Datum            | 2018-05-23-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 3
+Tourenlänge [km] | 35
+Wetter           | heiter bis wolkig
+
+Die 5. Feierabend-Radtour ging am Mittwoch den 23. Mai mit 3 Radlern, bei gutem Wetter nach Ruthe. Wir sind erst durch die Leinemasch, vorbei an Laatzen, Rethen, ein paar Störchen geradelt. Danach ging es durch die Leineaue an Gleidingen und Heisede vorbei nach Ruthe. In Ruthe fuhren wir zur Einmündung der Innerste in die Leine. Der Rückweg ging dann nach einer kurzen Rast zwischen den Koldinger Teichen hindurch zur Gleidinger Hütte und von dort über Koldingen, Reden, Harkenbleck und Wilkenburg nach Hemmingen. Nach ca. 2,5 Stunden, 35 km und einer schönen Fahrt waren wir wieder zurück.
+
+### Radtour zur Motormühle nach Klein-Blumenhagen Edemissen
+
+Tourenziel       | Klein-Blumenhagen Edemissen
+---------------: | -----------------------
+Datum            | 2018-05-21-Mo
+Tourenrart       | Tagestour
+Tourenleiter     | Dirk Härtel
+Start            | Hemmingen Rathaus 9:00
+Dauer [Stunden]  | ?
+Teilnehmerzahl   | 5
+Tourenlänge [km] | 103,5
+Wetter           | heiter mit Gegenwind
+
+
+Die sportlich angekündigte Tour mit 103,50km ging mit 5 Radlern durch die Eilenride zur Bockwindmühle im Herman-Löns-Park. Nach der ersten Pause an der Mühle ging es an Anderten und Misburg vorbei, über den Eisenbahnerlängsweg nach Lehrte. Durch die Lehrter Altstadt südlich der Bahn über Ramhorst weiter Richtung Arpke. Hinter Arpke ging es durch offene aufgeräumte Bördelandschaft, gegen den schon heftigen Gegenwind (direkt von Vorn) bei ruhigem Tempo 18-20 kmh in die Fuhseniederrung bei Abbensen. Nach kurzem Stop weiter an der Landstraße auf dem Radweg durch Edemissen zur Motormühle in Klein Blumenhagen. Dort konnten wir Radler uns bei Kaffee und selbstgebackenem Kuchen oder Bockwurst stärten. (Beschreibung der Rücktour folgt)
 
 ### Tolle Projekttage der Grundschule Köllnbrinkweg in der Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen/Pattensen
 
