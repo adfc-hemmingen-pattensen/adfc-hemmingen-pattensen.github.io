@@ -276,7 +276,9 @@ Tourenlänge [km] | 103,5
 Wetter           | heiter mit Gegenwind
 
 
-Die sportlich angekündigte Tour mit 103,50km ging mit 5 Radlern durch die Eilenride zur Bockwindmühle im Herman-Löns-Park. Nach der ersten Pause an der Mühle ging es an Anderten und Misburg vorbei, über den Eisenbahnerlängsweg nach Lehrte. Durch die Lehrter Altstadt südlich der Bahn über Ramhorst weiter Richtung Arpke. Hinter Arpke ging es durch offene aufgeräumte Bördelandschaft, gegen den schon heftigen Gegenwind (direkt von Vorn) bei ruhigem Tempo 18-20 kmh in die Fuhseniederrung bei Abbensen. Nach kurzem Stop weiter an der Landstraße auf dem Radweg durch Edemissen zur Motormühle in Klein Blumenhagen. Dort konnten wir Radler uns bei Kaffee und selbstgebackenem Kuchen oder Bockwurst stärten. (Beschreibung der Rücktour folgt)
+Die sportlich angekündigte Tour mit 103,50km ging mit 5 Radlern durch die Eilenride zur Bockwindmühle im Herman-Löns-Park. Nach der ersten Pause an der Mühle ging es an Anderten und Misburg vorbei, über den Eisenbahnerlängsweg nach Lehrte. Durch die Lehrter Altstadt südlich der Bahn über Ramhorst weiter Richtung Arpke. Hinter Arpke ging es durch offene aufgeräumte Bördelandschaft, gegen den schon heftigen Gegenwind (direkt von Vorn) bei ruhigem Tempo 18-20 kmh in die Fuhseniederrung bei Abbensen. Nach kurzem Stop weiter an der Landstraße auf dem Radweg durch Edemissen zur Motormühle in Klein Blumenhagen. Dort konnten wir Radler uns bei Kaffee und selbstgebackenem Kuchen oder Bockwurst stärten. (Beschreibung der Rücktour in offener Landschaft mit Rückenwind folgt)
+
+![](VerlaufNachEdemissen.png)
 
 ### Tolle Projekttage der Grundschule Köllnbrinkweg in der Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen/Pattensen
 
