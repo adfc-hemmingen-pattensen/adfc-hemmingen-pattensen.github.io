@@ -19,6 +19,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <http://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
+ <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
 
 ## Inhalt
 
@@ -218,11 +219,11 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 
 ## Tipps und Nachrichten
 
-### Der Fuß- und Radweg Klewertweg wird saniert
+### Der Fuß- und Radweg Klewertweg **ist** saniert
 
-Der Fuß- und Radweg Klewertweg, zwischen Reuterwiese und Göttinger Landstraße wird saniert. Ende Mai soll die letzte Schicht aufgetragen werden.
+- 30. Mai 2018: Bis auf Restarbeiten ist der Fuß- und Radweg durch die Gartenkolonie Reuterwiese – Göttinger Landstrasse fertiggestellt.
 
-![Klewertweg](Klewertweg.png)
+![GartenkolonieReuterwiese](GartenkolonieReuterwiese.png)
 
 ### Planfeststellungsverfahren für den Neubau eines Radweges im Zuge der K 226/K221 von Ronnenberg nach Devese
 
