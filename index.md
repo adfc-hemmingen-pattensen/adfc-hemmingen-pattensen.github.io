@@ -37,6 +37,14 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
+## Endspurt bis 16. Juni
+
+Damit die persönliche Erfolgsbilanz beim Stadtradeln noch ein wenig aufpoliert wird, bietet der ADFC Hemmingen/Pattensen am Mittwoch, den 13.06.2018 erneut eine lockere, geführte Feierabend-Radtour an für alle Hemminger und Pattenser Radelfreunde.
+
+**Am Hemminger Rathaus wird um 18:00 gestartet** zur gemeinsamen Fahrt nach Pattensen. Pattenser Stadtradler treffen sich **am Neuen Rathaus in Pattensen, dann geht es um 18.30 Uhr gemeinsam los**, sobald die Hemminger eingetroffen sind. Wie immer geht es dann nach Lust und Laune auf ruhigen Wegen drauflosgefahren oder nach den Wünschen der Teilnehmer eine schöne Strecke ausgesucht. Mal sehen, wohin die Reise geht. Ein paar Kilometer sollen ja auch zusammen kommen. **Besonders eingeladen sind die Hemminger und Pattenser Kommunalpolitiker (wenn gerade keine Sitzung ansteht), denn schließlich gibt es ein Pedelec-Lastenrad**, eine E-Hannah für die Kommune mit dem aktivsten Kommunalparlament bei der Klimaschutzagentur zu gewinnen.
+
+Auf der Internetseite [www.stadtradeln.de](www.stadtradeln.de) ist immer noch eine Anmeldung möglich und auch die seit dem 27. Mai zurückgelegten Radkilometer können noch eingetragen werden, noch geht was! Der ADFC Hemmingen/Pattensen freut sich auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
+
 ### Mittwochstour
 ![](MittwochLogo200.png)
 
