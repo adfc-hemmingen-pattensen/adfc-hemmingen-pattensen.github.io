@@ -313,11 +313,11 @@ Wetter           | heiter und heiß
 Frühstück bei Mutter Bürmann
 
 
-### Tagestour #2/18 2018-05-27-Mi. Durch die Hildesheimer-Berge
+### Tagestour #2/18 2018-05-27-So Durch die Hildesheimer-Berge
 
 Tourenziel           | Durch die Hildesheimer-Berge
 -------------------: | ----------------------------
-Datum                | 2018-05-27-Mi.
+Datum                | 2018-05-27-So.
 Tourenrart           | Tagestour
 Tourenleiter         | Helmut Krause
 Start                | Pattensen, Rewe-Center, Johann-Koch-Str.2 10:00
