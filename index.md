@@ -116,7 +116,7 @@ section Ferien&Co
 
 section FSW
   Fahrrad-Selbsthilfe-Werkstatt 1)            :crit,active, 02.01.18, 18.12.18
-  Sommerfest in der HHStr. 23  15-18 Uhr      : 09.08.2018, 1d
+  Sommerfest HHStr23  15-18 Uhr      : 09.08.18, 1d
 
 section Treffen
   5.1 19. Radeltreff VEP2030        : 05.01.18, 1d
