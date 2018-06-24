@@ -41,6 +41,11 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
+### Mittwochstour
+![](MittwochLogo200.png)
+
+Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+
 ### Eintragungen der Kilometer bis Samstag, den 23.06.2108 noch möglich
 
 Das Stadtradeln ist zwar zu Ende, Eintragungen der Kilometer Auf der Internetseite [www.stadtradeln.de](www.stadtradeln.de) sind aber bis **einschließlich Samstag, den 23.06.2108 noch möglich!**
@@ -49,15 +54,6 @@ Trotz hochsommerlicher Temperaturen haben die
 - Hemminger Radlerinnen und Radlerinnen bereits mehr als 91.526 km (Stand 2018-06-17-So_13h00) zusammen geradelt.
 - Pattenser Radlerinnen und Radlerinnen bereits mehr als 29.688 km (Stand 2018-06-17-So_13h00) zusammen geradelt.
 
-### Mittwochstour
-![](MittwochLogo200.png)
-
-Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch um 18:00, zu unser
-nächsten Feierabendtour 2018 einladen. Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
-
-Wir werden uns aber wie immer auch nach Wind, Wetter und evtl. Wünschen der Teilnehmer richten.
-
-Wir freuen uns auf möglichst viele Mitradler, bestes Fahrradwetter und eine schöne Fahrt.
 
 ### Stadtradeln
 
