@@ -135,6 +135,7 @@ section Abendtouren
 06.6 18 Uhr Abendtour 7/18      : 06.06.18,1d
 13.6 18 Uhr Abendtour 8/18      : 13.06.18,1d
 18.7 18 Uhr Abendtour 9/18      : 18.07.18,1d
+25.7 18 Uhr Abendtour 10/18      : 25.07.18,1d
 
 section 1/2 Tagestouren
   21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
@@ -226,6 +227,21 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Abendtour #10/18 2018-07-25-Mi.
+
+Tourenziel       | Eilenriede
+---------------: | -----------------------
+Datum            | 2018-07-25-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 6
+Tourenlänge [km] | 25
+Wetter           | sehr schön warm
+
+Die Fahrt ging durch die Leinemasch zum Maschsee und Bischhofshol. Weiter ging es durch die Eilenriede, in den Hermann-Löns-Park zur alten Mühle. Am Annateich vorbei erreichten wir einen schönen Biergarten. Nach einer kurzen Pause fuhren wir am Tiergarten vorbei nach Bemerode. Dann ging es durch das Döhrener Flüsseviertel mit der Döhrener Wolle. Nach flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach ca. 25 km Hemmingen.
 
 ### Abendtour #9/18 2018-07-18-Mi.
 
