@@ -191,6 +191,12 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 
 ## Tipps und Nachrichten
 
+### Erste Dauerzählstelle in Hemmingen
+
+Die erste Fahrrad-Messstation im Umland ist am Dienstag, den 31.07.2018 durch den Regionspräsidenten Hauke Jagau und Bürgermeister Claus-Dieter Schacht-Gaida in Betrieb genommen worden. Weitere Messstationen sollen in Seelze, Sehnde und Burgwedel folgen.
+
+Ziel: 2025 sollen 21 von 100 Wegen mit dem Rad gefahren werden.
+
 ### Büroensemble Hemmingen - MAX DUDLER
 
 Am 14.06.18 wurde die Analyse der verkehrlichen Auswirkungen vorgestellt.
