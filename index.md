@@ -151,6 +151,15 @@ section Stadtradeln
 section Projekte
   7.-9.5 Projekttage der Grundschule      :07.05.18, 3d
   22.-26.6 Projekttage der KGS      :22.06.18, 5d
+
+section Politik
+  Pat. Feuerschutz, Verkehr                         :20.08.18, 1d
+  Hem. Weetzener Landstraße                         :23.08.18, 1d
+  Hem. Arnum-Mitte                                  :30.08.18, 1d
+  Hem. Devese ISEK                                  :06.09.18, 1d
+  Pat. Feuerschutz, Verkehr                         :17.09.18, 1d
+  Hem. Sondersitzung VEP2030                        :27.09.18, 1d
+  Hem. Verlängerung Stadtbahn                       :18.10.18, 1d
 ```
 
 
@@ -249,7 +258,7 @@ Es gab keine körperlichen und technischen Ausfälle. Alle Teilnehmer waren sehr
 
 Zu bemerken ist noch, dass Radler sogar aus Gehrden, Sarstedt und Hannover kamen.
 
-!()[2018-08DurchsCalenbergerLand.png]
+![](2018-08DurchsCalenbergerLand.png)
 
 ### Abendtour #10/18 2018-07-25-Mi.
 
