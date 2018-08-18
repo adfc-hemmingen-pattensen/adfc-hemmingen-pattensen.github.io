@@ -11,8 +11,8 @@ Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
 > **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
-> Immer Dienstags von 17:30 bis 19:00 Uhr<br>
-> Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
+> in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
+> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet<br>
 
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
@@ -129,6 +129,7 @@ section Abendtouren
 13.6 18 Uhr Abendtour 8/18      : 13.06.18,1d
 18.7 18 Uhr Abendtour 9/18      : 18.07.18,1d
 25.7 18 Uhr Abendtour 10/18      : 25.07.18,1d
+15.8 18 Uhr Abendtour 11/18      : 15.08.18,1d
 
 section 1/2 Tagestouren
   21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
@@ -235,6 +236,22 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Abendtour #11/18 2018-08-15-Mi.
+
+Tourenziel       | Eilenriede
+---------------: | -----------------------
+Datum            | 2018-08-15-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk Härtel
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 12
+Tourenlänge [km] | 33
+Wetter           | schön warm
+
+Die Fahrt ging vorbei am Arnumer Seen über Harkenbleck, Reden nach Koldingen. Weiter ging es durch das Calenberger Land nach Ruthe mit einem kurzen Abstecher zum Zusammenfluss von Leine und Innerste. Nach einer kurzen Pause fuhren wir zurück an den Koldinger Teichen vorbei in die Leinemasch. Am Wiesendachhaus wurde noch eine kurze Trinkpause eingelegt und nach einer flotten und schönen Fahrt, erreichten wir nach ca. 33 km Hemmingen.    
+
 
 ### Tagestour #4/18 2018-08-11-Sa
 
