@@ -1,6 +1,7 @@
+*.tmp2
+*.*~
 *.lnk
 *.db
 *.url
 *.tmp
-*.tmp2
 *.exe

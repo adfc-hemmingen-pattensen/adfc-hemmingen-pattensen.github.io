@@ -25,10 +25,6 @@ Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann
 <!-- Clone 20160510 http://umap.openstreetmap.fr/en/map/anonymous-edit/84746%3AuOs5nHOnczbDxX4cLp4u4mhcuCg -->
 <!-- Clone 201605xx -->
 
-
-
-
-
 ### Schadenmeldungen
 
 - Hemmingen: [Schadenmeldungen](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
