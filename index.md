@@ -919,3 +919,7 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 > **Verwendungszweck: "ADFC Selbsthilfewerkstatt Hemmingen" und Anschrift (für eine Spendenbescheinigung)**
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen. - tschuess.
+
+[ADFC Wiki Test](http://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html)
+[ADFC Wiki Test](http://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#Mängelkarte)
+
