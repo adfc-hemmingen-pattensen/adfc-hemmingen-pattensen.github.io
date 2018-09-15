@@ -29,8 +29,8 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 >   - ADFC Klimatest
 >   - Fahrradbefragung
 >   - Lastenrad in Pattensen
-> - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
->   - [Radweg Schulwald - Loser Schotter](https://adfc-hemmingen-pattensen.github.io/Mangelkarte/2018-05-11-Fr_Schulwald_LoserSchotter/Mangel.html)
+<!-- - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)-->
+> - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#Mängelkarte)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
 >   - Fuß- und Radweg Klewertweg wird saniert
 > - [Was war](#was-war)
