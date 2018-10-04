@@ -49,7 +49,7 @@ Nach 2016 könnt Ihr dies in diesem Jahr wieder bewerten: Nehmt vom **1. Septemb
 
 <iframe width="610" height="343" src="https://www.youtube.com/embed/51t5MmaTZb8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-### Fahrradbefragung
+## Fahrradbefragung
 
 *Inhalt von [https://adfc-hannover.de/fahrradbefragung/](https://adfc-hannover.de/fahrradbefragung/)*
 
@@ -131,6 +131,9 @@ section Abendtouren
 25.7 18 Uhr Abendtour 10/18      : 25.07.18,1d
 15.8 18 Uhr Abendtour 11/18      : 15.08.18,1d
 22.8.18 Uhr Abendtour 12/18      : 22.08.18,1d
+29.8.18 Uhr Abendtour 13/18      : 29.08.18,1d
+05.9.18 Uhr Abendtour 14/18      : 05.09.18,1d
+26.9.18 Uhr Abendtour 15/18      : 26.09.18,1d
 
 section 1/2 Tagestouren
   21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
@@ -166,20 +169,6 @@ section Politik
 
 
 
-### Radtour 5 „Von Hemmingen zum Blauen See nach Garbsen"
-
-- Samstag, 29.9.: Radtour zum Blauen See nach Garbsen
-- Länge: 51 km
-- Dauer: ca. 5 Std., ausreichende Verpflegung bitte mitnehmen!
-- Start: 10:00
-- Treffpunkt: Hemmingen, Rathausplatz 1
-
-Die Strecke führt über Wettbergen und Empelde zum Benther Berg. Von dort geht es über Velber und Letter zum Mittellandkanal. Direkt am Kanal entlang fahren wir, vorbei an Seelze, nach Lohnde. Dort überqueren wir den Kanal und die Leine und erreichen den Blauen See, mit der Möglichkeit zum Picknick (Bitte Verpflegung mitbringen!).
-
-Der Rückweg geht dann durch die Leinewiesen zum Wasserstrassenkreuz von Leine und Mittellandkanal. Danach geht es über Marienwerder und Stöcken wieder an den Stichkanal. An Leine und Ihme entlang fahren wir zurück nach Hemmingen.
-
-- Tourenleitung: Helmut Krause und Jochen Lemke, Telefon: (05069) 7979,
-- Anmeldung: Nicht erforderlich.
 
 ### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
@@ -244,6 +233,69 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Radtour 5 „Von Hemmingen zum Blauen See nach Garbsen"
+
+- Samstag, 29.9.: Radtour zum Blauen See nach Garbsen
+- Länge: 51 km
+- Dauer: ca. 5 Std., ausreichende Verpflegung bitte mitnehmen!
+- Start: 10:00
+- Treffpunkt: Hemmingen, Rathausplatz 1
+
+Die Strecke führte über Wettbergen und Empelde zum Benther Berg. Von dort ging es über Velber und Letter zum Mittellandkanal. Direkt am Kanal entlang fuhren wir, vorbei an Seelze, nach Lohnde. Dort überquerten wir den Kanal und die Leine und erreichen den Blauen See, mit der Möglichkeit zum Picknick.
+
+Der Rückweg ging dann durch die Leinewiesen zum Wasserstrassenkreuz von Leine und Mittellandkanal. Danach ging es über Marienwerder und Stöcken wieder an den Stichkanal. An Leine und Ihme entlang fuhren wir zurück nach Hemmingen.
+
+- Tourenleitung: Helmut Krause und Jochen Lemke, Telefon: (05069) 7979,
+
+
+### Abendtour #12/18 2018-09-26-Mi.
+ 
+Tourenziel       | Tiergarten und Kronsberg
+---------------: | ----------------------- 
+Datum            | 2018-09-26-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2 1/4
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 28
+Wetter           | heiter bis wolkig
+
+Die Fahrt ging durch die Leinemasch zum Maschsee und Bischhofshol. Weiter durch die Eilenriede, Herrmann-Löns-Park zum Tiergarten. Über Bemerode fuhren wir zum Kronsberg. Nach einer kurzen Rast fuhren wir durch die Leinemasch zurück. Nach flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 32 km Hemmingen.
+
+
+### Abendtour #11/18 2018-09-05-Mi.
+ 
+Tourenziel       | Linderte und Vörier Berg
+---------------: | ----------------------- 
+Datum            | 2018-09-05-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk Härtel
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 3 
+Teilnehmerzahl   | 7
+Tourenlänge [km] | 33
+Wetter           | wolkig
+
+Die 4. Feierabend-Radtour ging am Mittwoch den 16. Mai mit 2 Radlern, bei gutem Wetter nach Lüdersen. Wir sind über Wettbergen zur Kükenmühle geradelt, durch Ihme-Roloven nach Vörie. Danach ging es durch Holtensen und über eine kurze Steigung hinauf zum Vörier Berg. Der Rückweg ging dann über Lüdersen, Hiddesdorf und Arnum. Nach ca. 2 Stunden, 33 km und einer flotten und schönen Fahrt, erreichten wir nach ca. 33 km Hemmingen.    
+
+### Abendtour #11/18 2018-08-29-Mi.
+ 
+Tourenziel       | Giftener See
+---------------: | ----------------------- 
+Datum            | 2018-08-29-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 3 
+Teilnehmerzahl   | 7
+Tourenlänge [km] | 33
+Wetter           | schön warm
+
+Die Fahrt ging vorbei am Arnumer Seen über Harkenbleck, Reden nach Koldingen. Weiter ging es durch das Calenberger Land nach Ruthe. Von da aus ging es an der Leine entlang zu den Giftener Seen. Nach einer kurzen Pause fuhren wir weiter nach Sarstedt, suchten eine Eisdiele. Zurück ging es dann über Koldingen, Harkenbleck und Wilkenburg vorbei in die Leinemasch. Nach einer flotten und schönen Fahrt, erreichten wir nach ca. 36 km Hemmingen.    
+
+
 
 ### Abendtour #9/18 2018-08-22-Mi.
  

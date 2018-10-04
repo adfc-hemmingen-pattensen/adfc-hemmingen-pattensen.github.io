@@ -4,4 +4,6 @@
 *.db
 *.url
 *.tmp
+*.tmp2
 *.exe
+*ADFCWiki.html_backup
