@@ -39,9 +39,15 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Was wird
 
+### Letzte Meldung
+<div class="holder" style="width: 100%; height:500px; position:relative;">
+<iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg" frameborder="1"></iframe>
+<div style="position:absolute; top:0; left:0; width:100%; height:40px;"><img src="bannerkurz.png" width=100% alt=""></div>
+</div>
+
 ### ADFC Klimatest – alle zwei Jahre wieder
 
-Macht das Radfahren in Hemmingen und Pattensen Spaß oder ist es Stress?
+acht das Radfahren in Hemmingen und Pattensen Spaß oder ist es Stress?
 
 Nach 2016 könnt Ihr dies in diesem Jahr wieder bewerten: Nehmt vom **1. September bis zum 30 November 2018 an der Umfrage auf [www.fahrradklima-test.de](www.fahrradklima-test.de) teil** und beurteilt die Situation für Radfahrende in unseren Orten. Vor zwei Jahren haben 120.000 Bürgerinnen und Bürger mitgemacht und die Fahrradfreundlichkeit in 539 Städten und Gemeinden bewertet. Ihr habt damit Politik und Verwaltung eine wichtige Rückmeldung aus Sicht der „Alltagsexperten“ gegeben.
 
