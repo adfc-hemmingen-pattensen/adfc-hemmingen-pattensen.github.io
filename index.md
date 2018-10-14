@@ -43,7 +43,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ### Kurzfristige Meldung
 <div class="holder" style="width: 100%; height:500px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg" frameborder="1"></iframe>
-<div style="position:absolute; top:0; left:0; width:100%; height:40px;"><img src="bannerOhneLogo.png" width=100% alt=""></div>
+<div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
 ### ADFC Klimatest – alle zwei Jahre wieder
