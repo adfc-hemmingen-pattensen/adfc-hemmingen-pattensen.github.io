@@ -63,11 +63,11 @@ Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittw
 
 Straßenbauverwaltung: Sperrungen und Umleitungen erforderlich. Hier die [Offizielle Pressemitteilung](http://www.strassenbau.niedersachsen.de/aktuelles/presseinformationen/b-3-ortsumgehung-hemmingen-veraenderte-verkehrsfuehrung-fuer-fugaenger-und-radfahrer-168474.html).
 
-Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der Bauzeit von Überführungsbauwerken und Bundesstraßentrasse dauerhaft mittels provisorischer Umfahrungen aufrechtzuerhalten, wurden durch die Straßenbauverwaltung geprüft und angesichts der bisherigen Erfahrungen im Verlauf der Deveser Straße als nicht praktikabel verworfen. Gegen die Einrichtung und Unterhaltung niveaugleicher Querungsmöglichkeiten für öffentliche Verkehre inmitten des Baufeldes sind in erster Linie Sicherheitsbedenken anzuführen." 
+Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der Bauzeit von Überführungsbauwerken und Bundesstraßentrasse dauerhaft mittels provisorischer Umfahrungen aufrechtzuerhalten, wurden durch die Straßenbauverwaltung geprüft und angesichts der bisherigen Erfahrungen im Verlauf der Deveser Straße als nicht praktikabel verworfen. Gegen die Einrichtung und Unterhaltung niveaugleicher Querungsmöglichkeiten für öffentliche Verkehre inmitten des Baufeldes sind in erster Linie Sicherheitsbedenken anzuführen."
 
 ![(c) Strassenbau Niedersachsen](http://www.strassenbau.niedersachsen.de/assets/image/zoom/169999)
 
-- [ ] Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses haben wir auf der Ausschusssitzung am 27.09.18 angeregt. Sowie je Richtung ein Hinweisschild "Achtung Radfahren". Für Alternative und weitere Anregungen sind wir sehr dankbar. Oberstes Gebot ist die Sicherheit für alle Verkehrsteilnehmer. 
+- [ ] Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses haben wir auf der Ausschusssitzung am 27.09.18 angeregt. Sowie je Richtung ein Hinweisschild "Achtung Radfahren". Für Alternative und weitere Anregungen sind wir sehr dankbar. Oberstes Gebot ist die Sicherheit für alle Verkehrsteilnehmer.
 
 ### Termine
 
@@ -160,8 +160,8 @@ Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sa
 
 ![](MangelkarteBedienung.png)
 
-<!--siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)-->
-siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)
+siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+<!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Tipps und Nachrichten
 
@@ -212,9 +212,9 @@ _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html
 ## Was war
 
 ### Abendtour #16/18 2018-10-10-Mi.
- 
+
 Tourenziel       | Tiergarten und Kronsberg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-10-10-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
@@ -225,12 +225,12 @@ Tourenlänge [km] | 23
 Wetter           | heiter bis wolkig
 
 Die Fahrt ging durch das Ricklinger Holz zu den Maschteichen, weiter zur Döhrener Wolle, durch den Wiehbergpark zum Wülfeler Maschweg. Danach überquerten wir die Wilkenburger Strasse , fuhren am Teichhus vorbei und streiften Alt-Laatzen. Dann ging es wieder in die Leinemasch zur Harkenblecker Furt. Über Harkenbleck, Wilkenburg ging es weiter zum Arnumer See und weiter durch den Sundern nach Hemmingen. Nach flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 23 km Hemmingen. Es war noch fast hell.
-   
-   
+
+
 ### Tagestour #5/18 2018-09-29-Sa
- 
+
 Tourenziel       | Rund um den Blauen See
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-09-29-Sa
 Tourenrart       | Tagestour
 Tourenleiter     | Dirk Härtel
@@ -238,20 +238,20 @@ Start            | Hemmingen, Rathausplatz 1, 10:00
 Dauer [Stunden]  | ca. 6 1/2
 Teilnehmerzahl   | 22
 Tourenlänge [km] | 60
-Wetter           | 18° Sonne + Wolken 
-   
-Die Tour "Rund um den Blauen See" startete mit 22 Radlern bei guten Wetterbedingungen, Temperatur um die 18° mit Sonne und ein paar Wolken. Sie verlief streckenweise über den Grünen Ring. 
-Wir überquerten die neue B3 und fuhren durch Wettbergen und Empelde. Mit einer leichten Steigung ging es rauf zum Benther Berg. Von dort radelten wir weiter durch Velber, vorbei an der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren direkt am Kanal entlang Richtung Westen, vorbei an Seelze, bis nach Lohnde. Dort überqueren wir den Kanal und die Leine und erreichen den Blauen See. Direkt am See, auf einer Aussichtsplattform, konnten wir picknicken. Nach einer kurzweiligen Pause traten wir den Rückweg an. 
-Es geht an Alt-Garbsen vorbei, durch die Leinewiesen zum Wasserstrassenkreuz von Leine und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an der Klosterkirche Marienwerder, durch den 
-Hinüber Garten nach Stöcken und von dort über Letter wieder an den Stichkanal mit einem kurzen Halt an der Wasserkunst. 
-Die nächste Pause legten wir dann am Dornröschen Biergarten ein. An Leine und Ihme entlang fuhren wir wieder zurück. Nach ca. 6 1/2 Stunden 
+Wetter           | 18° Sonne + Wolken
+
+Die Tour "Rund um den Blauen See" startete mit 22 Radlern bei guten Wetterbedingungen, Temperatur um die 18° mit Sonne und ein paar Wolken. Sie verlief streckenweise über den Grünen Ring.
+Wir überquerten die neue B3 und fuhren durch Wettbergen und Empelde. Mit einer leichten Steigung ging es rauf zum Benther Berg. Von dort radelten wir weiter durch Velber, vorbei an der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren direkt am Kanal entlang Richtung Westen, vorbei an Seelze, bis nach Lohnde. Dort überqueren wir den Kanal und die Leine und erreichen den Blauen See. Direkt am See, auf einer Aussichtsplattform, konnten wir picknicken. Nach einer kurzweiligen Pause traten wir den Rückweg an.
+Es geht an Alt-Garbsen vorbei, durch die Leinewiesen zum Wasserstrassenkreuz von Leine und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an der Klosterkirche Marienwerder, durch den
+Hinüber Garten nach Stöcken und von dort über Letter wieder an den Stichkanal mit einem kurzen Halt an der Wasserkunst.
+Die nächste Pause legten wir dann am Dornröschen Biergarten ein. An Leine und Ihme entlang fuhren wir wieder zurück. Nach ca. 6 1/2 Stunden
 und 60 km kamen wir gut gelaunt in Hemmingen an.   
-  
+
 
 ### Abendtour #15/18 2018-09-26-Mi.
- 
+
 Tourenziel       | Tiergarten und Kronsberg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-09-26-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -265,14 +265,14 @@ Die Fahrt ging durch die Leinemasch zum Maschsee und Bischhofshol. Weiter durch 
 
 
 ### Abendtour #14/18 2018-09-05-Mi.
- 
+
 Tourenziel       | Linderte und Vörier Berg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-09-05-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
 Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 3 
+Dauer [Stunden]  | ca. 3
 Teilnehmerzahl   | 7
 Tourenlänge [km] | 33
 Wetter           | wolkig
@@ -280,30 +280,30 @@ Wetter           | wolkig
 Die 4. Feierabend-Radtour ging am Mittwoch den 16. Mai mit 2 Radlern, bei gutem Wetter nach Lüdersen. Wir sind über Wettbergen zur Kükenmühle geradelt, durch Ihme-Roloven nach Vörie. Danach ging es durch Holtensen und über eine kurze Steigung hinauf zum Vörier Berg. Der Rückweg ging dann über Lüdersen, Hiddesdorf und Arnum. Nach ca. 2 Stunden, 33 km und einer flotten und schönen Fahrt, erreichten wir nach ca. 33 km Hemmingen.   
 
 ### Abendtour #13/18 2018-08-29-Mi.
- 
+
 Tourenziel       | Giftener See
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-08-29-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
 Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 3 
+Dauer [Stunden]  | ca. 3
 Teilnehmerzahl   | 7
 Tourenlänge [km] | 33
 Wetter           | schön warm
 
-Die Fahrt ging vorbei am Arnumer Seen über Harkenbleck, Reden nach Koldingen. Weiter ging es durch das Calenberger Land nach Ruthe. Von da aus ging es an der Leine entlang zu den Giftener Seen. Nach einer kurzen Pause fuhren wir weiter nach Sarstedt, suchten eine Eisdiele. Zurück ging es dann über Koldingen, Harkenbleck und Wilkenburg vorbei in die Leinemasch. Nach einer flotten und schönen Fahrt, erreichten wir nach ca. 36 km Hemmingen. 
+Die Fahrt ging vorbei am Arnumer Seen über Harkenbleck, Reden nach Koldingen. Weiter ging es durch das Calenberger Land nach Ruthe. Von da aus ging es an der Leine entlang zu den Giftener Seen. Nach einer kurzen Pause fuhren wir weiter nach Sarstedt, suchten eine Eisdiele. Zurück ging es dann über Koldingen, Harkenbleck und Wilkenburg vorbei in die Leinemasch. Nach einer flotten und schönen Fahrt, erreichten wir nach ca. 36 km Hemmingen.
 
 
 ### Abendtour #12/18 2018-08-22-Mi.
- 
+
 Tourenziel       | Julius-Trip-Ring
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-08-22-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
 Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 3 
+Dauer [Stunden]  | ca. 3
 Teilnehmerzahl   | 6
 Tourenlänge [km] | 32
 Wetter           | sehr schön
@@ -311,14 +311,14 @@ Wetter           | sehr schön
 Die Fahrt ging durch die Leinemasch zum Maschsee und Bischhofshol. Dort stiegen wir in den Julius-Trip-Ring ein. Weiter durch die Eilenriede, am Zoo vorbei, zum Lister Turm. Von dort über die Podbi auf den Pastor-Jäckel-Weg, Niedersachsenring, durch den Herrenhäuser Garten. Aufgrund der hohen Temperaturen mussten wir am Dornröschen Biergarten anhalten. Nach einer kurzen Rast fuhren wir weiter. An Leine und Ihme entlang ging es zurück. Nach flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 32 km Hemmingen.
 
 ### Abendtour #11/18 2018-08-15-Mi.
- 
+
 Tourenziel       | Leine und Innerste
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2018-08-15-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
 Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 3 
+Dauer [Stunden]  | ca. 3
 Teilnehmerzahl   | 12
 Tourenlänge [km] | 33
 Wetter           | schön warm
@@ -580,11 +580,11 @@ Tourenziel       | Lüdersen
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
 Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 2 
+Dauer [Stunden]  | ca. 2
 Teilnehmerzahl   | 2
 Tourenlänge [km] | 33
 Wetter           | heiter bis wolkig
-    
+
 Die 4. Feierabend-Radtour ging am Mittwoch den 16. Mai mit 2 Radlern, bei gutem Wetter nach Lüdersen. Wir sind über Wettbergen zur Kükenmühle geradelt, durch Ihme-Roloven nach Vörie. Danach ging es durch Holtensen und über eine kurze Steigung hinauf zum Vörier Berg. Der Rückweg ging dann über Lüdersen, Hiddesdorf und Arnum. Nach ca. 2 Stunden, 33 km und einer schönen Fahrt waren wir wieder zurück in Hemmingen.
 
 
@@ -986,3 +986,4 @@ Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen. - tsc
 [ADFC Wiki Test](http://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html)
 [ADFC Wiki Test](http://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#Mängelkarte)
 
+<button onclick="alert('tschuess')">tschuess</button>
