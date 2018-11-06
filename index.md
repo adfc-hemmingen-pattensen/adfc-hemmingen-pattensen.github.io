@@ -50,7 +50,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 acht das Radfahren in Hemmingen und Pattensen Spaß oder ist es Stress?
 
-Nach 2016 könnt Ihr dies in diesem Jahr wieder bewerten: Nehmt vom **1. September bis zum 30 November 2018 an der Umfrage auf [www.fahrradklima-test.de](www.fahrradklima-test.de) teil** und beurteilt die Situation für Radfahrende in unseren Orten. Vor zwei Jahren haben 120.000 Bürgerinnen und Bürger mitgemacht und die Fahrradfreundlichkeit in 539 Städten und Gemeinden bewertet. Ihr habt damit Politik und Verwaltung eine wichtige Rückmeldung aus Sicht der „Alltagsexperten“ gegeben.
+Nach 2016 könnt Ihr dies in diesem Jahr wieder bewerten: Nehmt vom **1. September bis zum 30 November 2018 an der Umfrage auf [www.fahrradklima-test.de](https://www.fahrradklima-test.de/) teil** und beurteilt die Situation für Radfahrende in unseren Orten. Vor zwei Jahren haben 120.000 Bürgerinnen und Bürger mitgemacht und die Fahrradfreundlichkeit in 539 Städten und Gemeinden bewertet. Ihr habt damit Politik und Verwaltung eine wichtige Rückmeldung aus Sicht der „Alltagsexperten“ gegeben.
 
 <iframe width="610" height="343" src="https://www.youtube.com/embed/51t5MmaTZb8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
