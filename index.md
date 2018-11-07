@@ -27,6 +27,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > - [Was wird](#was-wird)
 >   - Kurzfristige Meldung
+>   - Radfahrer frei auf der Berliner Straße.
 >   - ADFC Klimatest
 >   - Veränderte Verkehrsführung wegen B3 Neubau
 <!-- - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)-->
@@ -45,6 +46,15 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg" frameborder="1"></iframe>
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
+
+### Radfahrer frei auf der Berliner Straße.
+
+Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
+
+![RichtungOst](RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](RadfahrerFreiRichtungWest.jpg)
+
+Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
+Fußgängern anpassen und dürfen diese nicht gefährden. Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
 
 ### ADFC Klimatest – alle zwei Jahre wieder
 
