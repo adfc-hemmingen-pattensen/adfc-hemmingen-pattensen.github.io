@@ -54,7 +54,7 @@ Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de
 ![RichtungOst](RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](RadfahrerFreiRichtungWest.jpg)
 
 Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
-Fußgängern anpassen und dürfen diese nicht gefährden. Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
+Fußgängern anpassen und dürfen diese nicht gefährden. ![](RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
 
 ### ADFC Klimatest – alle zwei Jahre wieder
 
