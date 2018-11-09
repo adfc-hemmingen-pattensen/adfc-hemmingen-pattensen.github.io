@@ -47,6 +47,9 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### HAZ 2018-11-09-Fr
+Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
+
 ### Radfahrer frei auf der Berliner Straße.
 
 Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
@@ -107,6 +110,7 @@ section Treffen
   5.1 19. Radeltreff VEP2030        : 05.01.18, 1d
   24.1 20. Jahreshauptversammlung   : 24.01.18, 1d
   25.6. 21. Radeltreff              : 25.06.18, 1d
+  25.10. 22. Radeltreff             : 25.10.18, 1d
 
 section Abendtouren
   Feierabendradtouren 2)        :done, 12.04.18, 30.09.18
