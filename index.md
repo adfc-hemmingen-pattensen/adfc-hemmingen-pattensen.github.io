@@ -47,6 +47,20 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Hemmingen ist AGFK Mitglied
+
+Die Stadt Hemmingen ist der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) beigetreten. Die AGFK bietet den Kommunen ein Netzwerk,
+um sich gegenseitig auszutauschen und zu unterstützen. Ziel ist die Zertifizierung „Fahrradfreundliche Kommune Niedersachsen“. Zu den Aufgaben gehört es u.a.:
+
+* das die Kommune darauf hinarbeiten, die Voraussetzungen für die Zertifizierung
+„Fahrradfreundliche Kommune Niedersachsen“ zu erfüllen.
+* das die Kommune bereit ist, in der AGFK mitzuarbeiten und sie zu unterstützen.
+
+
+![AGFK Mitglieder](images/1543229997733.png)
+
+Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](http://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
+
 ### HAZ 2018-11-09-Fr
 Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
 
