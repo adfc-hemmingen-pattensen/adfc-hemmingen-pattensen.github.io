@@ -47,6 +47,14 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Gelungener Auftrifft auf Energiewende Veranstaltung in Springe
+
+Der ADFC Hemmingen Pattensen hat sich am Montag, den 26. Nov. 2018 erfolgreich auf der Veranstaltung ["Erfolgsstragegien für die Energiewende vor Ort"](https://www.klimaschutz-hannover.de/infos-service/veranstaltungen/veranstaltungen-detailansicht/artikel/erfolgsstrategien-fuer-die-energiewende-vor-ort-4.html) präsentiert.
+
+Nach einem eher verhaltenen Start vor Beginn der eigentlichen Veranstaltung, kamen dann doch noch Interessierte an unseren Stand. Die Stadtverwaltung Hemmingen (sie hatte direkt neben uns ebenfalls einen Stand) lobte unser Engagement. Von hier aus vielen Dank an die Aktivisten.
+
+![ADFC Stand](images/1543314645286.png)
+
 ### Hemmingen ist AGFK Mitglied
 
 Die Stadt Hemmingen ist der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) beigetreten. Die AGFK bietet den Kommunen ein Netzwerk,
