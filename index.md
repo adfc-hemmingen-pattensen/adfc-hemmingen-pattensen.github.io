@@ -47,6 +47,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Tempo 50 auf K225 zum Schutz der Radfahrer
+
+Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der K225 zwischen Devese und Ohlendorf 50 km/h beträgt. Der Grund dafür ist der Wegfall von Radwegverbindungen durch den Bau der Ortsumgehung. Die Gefahr für Radfahrende, die gezwungen sind diese Ausweichstrecke zu benutzen, war bei bis zu Tempo 100 einfach zu groß.
+
 ### Gelungener Auftrifft auf Energiewende Veranstaltung in Springe
 
 Der ADFC Hemmingen Pattensen hat sich am Montag, den 26. Nov. 2018 erfolgreich auf der Veranstaltung ["Erfolgsstragegien für die Energiewende vor Ort"](https://www.klimaschutz-hannover.de/infos-service/veranstaltungen/veranstaltungen-detailansicht/artikel/erfolgsstrategien-fuer-die-energiewende-vor-ort-4.html) präsentiert.
