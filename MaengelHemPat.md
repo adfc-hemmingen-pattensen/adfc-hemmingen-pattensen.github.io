@@ -44,7 +44,7 @@ function validatePass(){
 - Pattensen:
 [Ideen-Anregungen-Beschwerden](https://www.pattensen.de/B%C3%BCrger-Familie/Ideen-Anregungen-Beschwerden)
 - Hannover: [Ideen und Beschwerden](https://e-government.hannover-stadt.de/impulsweb.nsf/)
-- Laatzen:[Meldestelle für Schäden an Straßen, Wegen, Brücken, Ampeln](https://www.laatzen.de/de/was-erledige-ich-wo-leistung/leistung/263/zustaendigestelle/62/meldestelle_fuer_schaeden_an_strassen_wegen_bruecken_ampeln.html)
+- Laatzen:[Sags uns einfach](https://www.laatzen.de/de/sags-uns-einfach.html)
 - ADFC Hemmingen / Pattensen: Kontakt Jens Spille, E-Mail: <j.spille@adfc-hannover.de>
 
 ### Info-Stand
