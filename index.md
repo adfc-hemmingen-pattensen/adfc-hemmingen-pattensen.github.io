@@ -29,7 +29,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Was wird](#was-wird)
 >   - Kurzfristige Meldung
 >   - Radfahrer frei auf der Berliner Straße.
->   - ADFC Klimatest
 >   - Veränderte Verkehrsführung wegen B3 Neubau
 <!-- - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)-->
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
@@ -86,18 +85,10 @@ Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de
 Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
 Fußgängern anpassen und dürfen diese nicht gefährden. ![](RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
 
-### ADFC Klimatest – alle zwei Jahre wieder
-
-acht das Radfahren in Hemmingen und Pattensen Spaß oder ist es Stress?
-
-Nach 2016 könnt Ihr dies in diesem Jahr wieder bewerten: Nehmt vom **1. September bis zum 30 November 2018 an der Umfrage auf [www.fahrradklima-test.de](https://www.fahrradklima-test.de/) teil** und beurteilt die Situation für Radfahrende in unseren Orten. Vor zwei Jahren haben 120.000 Bürgerinnen und Bürger mitgemacht und die Fahrradfreundlichkeit in 539 Städten und Gemeinden bewertet. Ihr habt damit Politik und Verwaltung eine wichtige Rückmeldung aus Sicht der „Alltagsexperten“ gegeben.
-
-<iframe width="610" height="343" src="https://www.youtube.com/embed/51t5MmaTZb8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
 ### Mittwochstour
 ![](MittwochLogo200.png)
 
-Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+Spontane Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
 ### Veränderte Verkehrsführung für Fußgänger und Radfahrer
 
