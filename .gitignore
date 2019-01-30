@@ -1,9 +1,8 @@
-*.tmp2
+*.tmp*
 *.*~
 *.lnk
 *.db
 *.url
-*.tmp
-*.tmp2
 *.exe
 *ADFCWiki.html_backup
+*nppBackup

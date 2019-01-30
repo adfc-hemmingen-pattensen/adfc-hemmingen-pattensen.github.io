@@ -13,7 +13,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
 > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
 > hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet<br>
-> **Am 25.12 und 01.01 ist die Selbsthilfewerkstatt wegen Feiertage geschlossen**
 
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
@@ -28,7 +27,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > - [Was wird](#was-wird)
 >   - Kurzfristige Meldung
->   - Radfahrer frei auf der Berliner Straße.
 >   - Veränderte Verkehrsführung wegen B3 Neubau
 <!-- - [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)-->
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
@@ -48,64 +46,61 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-### Hemmingens Grüne spenden 350 Euro an die ADFC Fahrrad-Selbsthilfewerkstatt
+## 23. RadelTreff
 
-Am Dienstag, den 18. Dezenber 2018 überreichte eine Delegation der Hemminger Grünen einen symbolischen Spendenscheck über 350 € an das Team der Fahrrad-Selbsthilfewerkstatt vom ADFC.
-
-Das Geld hatten die Grünen beim Hemminger Weihnachtsmarkt am vergangenen dritten Adventswochenende eingesammelt. Dort hatten sie an ihrem Stand wie jedes Jahr selbstgemachte Kekse, Marmeladen, Honig und anderes mehr angeboten und dafür um Spenden für einen guten Zweck gebeten, dieses Mal für die Arbeit der Fahrrad-Selbsthilfe-Werkstatt.
-
-"Wir haben großen Respekt vor der Arbeit der Ehrenamtlichen des ADFC, die die Werkstatt auf dem Gelände der Flüchtlingsunterkunft in der Heinrich-Hertz-Straße nun schon seit über zwei Jahren mit viel Enthusiasmus und sehr professionell betreiben" erklärt Joachim Steinmetz, Vorsitzender des Grünen Ortsverbandes."Diese Initiative fördert die Integration der Geflüchteten genauso wie den umweltfreundlichen Radverkehr. Alte Fahrräder und Ersatzteile werden weiterverwendet, und auch Mitbürger mit schmalem Geldbeutel können sich Räder und Reparaturen leisten. Solch eine soziale und nachhaltige Initiative würden wir uns noch viel häufiger wünschen!"
-
-"Wir werden das Geld nun für dringend benötigte Aufwertungen der Räder einsetzen, wie zum Beispiel für gute LED-Fahrradbeleuchtungen, die sind unverzichtbar für die Verkehrssicherheit von Radlern in der dunklen Jahreszeit" freuten sich die Mitarbeiter der Fahrradwerkstatt. Die aktuell etwa 15 Ehrenamtlichen - Heminger Einwohner und Geflüchtete - wollen dazu gleich im Januar eine Umrüstaktion starten. "Wir freuen uns auch immer über weitere Mitmacherinnen und Mitmacher, denn Arbeit ist genug da und der Bedarf auch".
-
-"Über das Engagement in der Fahrradwerkstatt hinaus ist der ADFC ist in Hemmingen mittlerweile ein wichtiger Akteur in verkehrspolitischen Belangen geworden", so Steinmetz weiter.  So habe der ADFC in jüngster Zeit beispielsweise beim Verkehrsentwicklungskonzept oder bei Planungen zum Straßenumbau an der Hohen Bünte wichtige Anregungen gegeben. ADFC und Grüne vereinbarten, sich auch 2019 weiter zu Schwachstellen und Perspektiven des Radverkehrs auszutauschen, um die Verkehrswende auch in Hemmingen voranzubringen.
-
-![Spendencheck](images/20181230112148125_31597.png)
-
-### Kurze Winterferien in der ADFC Fahrrad-Selbsthilfe-Werkstatt!
-
-Auch wenn zwei Wochen ohne kaum auszuhalten sind, gönnt sich das Team der ADFC Fahrrad-Selbsthilfe-Werkstatt eine kurze Auszeit. Am 18.12. werden die letzten Fahrräder an Geflüchtete und Bedürftige ausgegeben und die letzten Kundenreparaturen begleitet. Die Werkstatt wird gefegt und aufgeräumt. Am Dienstag, 8. Januar 2019, 17.30 geht es mit neuer Energie an den Start. Das ehrenamtliche Team bedankt sich bei allen Fahrrad-, Material- und Geldspendern aus Hemmingen, Pattensen und "umzu". Die großzügige Überlassung alter oder ausgemusterter Räder erleichtert sehr vielen Menschen den Weg zur Arbeit oder zu Sprachkursen und ermöglicht die alltäglichen Transporte. Auch weiterhin freuen wir uns über Spendenfahrräder. Weihnachten ist ja immer eine gute Tauschgelegenheit, bringen Sie Ihr **Altes** gerne vorbei! In der Werkstatt gab es im Jahresverlauf viele nette Gespräche und Begegnungen zwischen Hemminger Bürgern und Geflüchteten, die auch in der Werkstatt mithelfen. Hunderte Reparaturprojekte konnten gemeinsam abgeschlossen werden: Reifen wurden geflickt, Beleuchtung repariert, Bremsen neu justiert oder Räder neu eingespeicht.
-
-Das soll auch 2019 weitergehen. Die Werkstatt sucht dazu auch weitere Ehrenamtliche, die mit sozialer Kompetenz die Fahrradausgabe an Bedürftige managen oder technisch versiert gerne in der Werkstatt mit schrauben möchten. Kommen Sie einfach an einem Dienstag zu den Öffnungszeiten 17.30 bis 19.00 Uhr in der Heinrich-Hertz-Straße 23 vorbei
+ADFC Mitglieder und Interessierte haben sich am 23. Januar 2019 im Clubheim SC Hemmingen getroffen um die Aktivitäten für das Jahr 2019 zu planen. Zum [Entwurf ISEK/VU Arnum-Mitte](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1202) wird der ADFC rechtzeitig eine Stellungnahme abgeben. Weiterhin wollen wir nochmal einen Schulradwegeplan für Pattensen starten. Zum Abbiegeassistent für LKW gab es eine lebhafte Diskussion. Wir möchten die Diskussion erweitern und versachlichen, dazu gehört es auch die Ampelprofile zu ändern und die Trennung der Grünphasen. Der nächste RadelTreff wird vermutlich Ende Februar im Calenberger Hof in Pattensen stattfinden.
 
 
-### Tempo 50 auf K225 zum Schutz der Radfahrer
+## Neuer Terminplan
 
-Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der K225 zwischen Devese und Ohlendorf 50 km/h beträgt. Der Grund dafür ist der Wegfall von Radwegverbindungen durch den Bau der Ortsumgehung. Die Gefahr für Radfahrende, die gezwungen sind diese Ausweichstrecke zu benutzen, war bei bis zu Tempo 100 einfach zu groß.
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
+2. Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
+4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
 
-### Gelungener Auftrifft auf Energiewende Veranstaltung in Springe
+<!-- see https://github.com/raghur/mermaid-filter-->
+<!--```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}-->
+```mermaid
+gantt
+  title ADFC Hemmingen/Pattensen 2019
+  dateFormat  DD.MM.YY
 
-Der ADFC Hemmingen Pattensen hat sich am Montag, den 26. Nov. 2018 erfolgreich auf der Veranstaltung ["Erfolgsstragegien für die Energiewende vor Ort"](https://www.klimaschutz-hannover.de/infos-service/veranstaltungen/veranstaltungen-detailansicht/artikel/erfolgsstrategien-fuer-die-energiewende-vor-ort-4.html) präsentiert.
+section Ferien&Co
+  Osterferien                        :done,        08.04.19, 23.04.19
+  Ramadan                          :active,done, 06.05.19, 04.06.19
+  Sommerferien                      :done,        04.07.19, 14.08.19
+  Herstferien                      :done,        04.10.19, 18.10.19
 
-Nach einem eher verhaltenen Start vor Beginn der eigentlichen Veranstaltung, kamen dann doch noch Interessierte an unseren Stand. Die Stadtverwaltung Hemmingen (sie hatte direkt neben uns ebenfalls einen Stand) lobte unser Engagement. Von hier aus vielen Dank an die Aktivisten.
+section FSW
+  Fahrrad-Selbsthilfe-Werkstatt            :crit,active, 08.01.19, 17.12.19
+  Sommerfest     : 29.06.19, 1d
 
-![ADFC Stand](images/1543314645286.png)
+section Treffen
+  23.1 23. Radeltreff         : 23.01.19, 1d
+  Febr. 24. Radeltreff         : 27.02.19, 1d
+  
+section Abendtouren
+  Feierabendradtouren        :done,       15.04.19, 15.10.19
 
-### Hemmingen ist AGFK Mitglied
+section Tagestouren
+  12.5 Zum Blauen See   :crit, 12.05.19,1d
+  26.5 Fluss-Seen-Wälder-Klöster    :crit, 26.05.19,1d
+  23.6 Zum Wietzesee :crit, 23.06.19,1d
+  1.9 Hildesheimer-Land  :crit, 01.09.19,1d
+  8.9 Motormühle Blumenhagen  :crit, 08.09.19,1d
+  
 
-Die Stadt Hemmingen ist der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) beigetreten. Die AGFK bietet den Kommunen ein Netzwerk,
-um sich gegenseitig auszutauschen und zu unterstützen. Ziel ist die Zertifizierung „Fahrradfreundliche Kommune Niedersachsen“. Zu den Aufgaben gehört es u.a.:
+section Stadtradeln
+  19.5-08.6 Stadtradeln                       : crit,       19.05.19, 08.06.19
+  19.5 Opernplatz                             :             19.05.19, 1d
+  02.6 Familienradwandertag                   :             02.06.19, 1d
+  VelocityNight   : 07.06.19, 1d
 
-* das die Kommune darauf hinarbeiten, die Voraussetzungen für die Zertifizierung
-„Fahrradfreundliche Kommune Niedersachsen“ zu erfüllen.
-* das die Kommune bereit ist, in der AGFK mitzuarbeiten und sie zu unterstützen.
+section Politik
+```
 
+### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
-![AGFK Mitglieder](images/1543229997733.png)
-
-Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](http://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
-
-### HAZ 2018-11-09-Fr
-Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
-
-### Radfahrer frei auf der Berliner Straße.
-
-Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
-
-![RichtungOst](RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](RadfahrerFreiRichtungWest.jpg)
-
-Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
-Fußgängern anpassen und dürfen diese nicht gefährden. ![](RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
 
 ### Mittwochstour
 ![](MittwochLogo200.png)
@@ -121,92 +116,6 @@ Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der 
 ![(c) Strassenbau Niedersachsen](http://www.strassenbau.niedersachsen.de/assets/image/zoom/169999)
 
 - [ ] Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses haben wir auf der Ausschusssitzung am 27.09.18 angeregt. Sowie je Richtung ein Hinweisschild "Achtung Radfahren". Für Alternative und weitere Anregungen sind wir sehr dankbar. Oberstes Gebot ist die Sicherheit für alle Verkehrsteilnehmer.
-
-### Termine
-
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
-2. Spontane Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
-4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
-
-<!-- see https://github.com/raghur/mermaid-filter-->
-<!--```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}-->
-```mermaid
-gantt
-  title ADFC Hemmingen/Pattensen 2018
-  dateFormat  DD.MM.YY
-
-section Ferien&Co
-  19.3-3.4 Osterferien                        :done,        19.03.18, 03.04.18
-  16.5-14.6  Ramadan                          :active,done, 16.05.18, 14.06.18
-  28.6.-8.8 Sommerferien                      :done,        28.06.18, 08.08.18
-  1.10-12.10 Herstferien                      :done,        01.10.18, 12.10.18
-
-section FSW
-  Fahrrad-Selbsthilfe-Werkstatt 1)            :crit,active, 02.01.18, 18.12.18
-  Sommerfest HHStr23  15-18 Uhr      : 09.08.18, 1d
-
-section Treffen
-  5.1 19. Radeltreff VEP2030        : 05.01.18, 1d
-  24.1 20. Jahreshauptversammlung   : 24.01.18, 1d
-  25.6. 21. Radeltreff              : 25.06.18, 1d
-  25.10. 22. Radeltreff             : 25.10.18, 1d
-
-section Abendtouren
-  Feierabendradtouren 2)        :done, 12.04.18, 30.09.18
-12.4 18 Uhr Abendtour 1/18 (46) : 12.04.18,1d
-25.4 18 Uhr Abendtour 2/18    : 25.04.18,1d
-2.5 18 Uhr Abendtour 3/18     : 02.05.18,1d
-16.5 18 Uhr Abendtour 4/18     : 16.05.18,1d
-23.5 18 Uhr Abendtour 5/18      : 23.05.18,1d
-30.5 18 Uhr Abendtour 6/18      : 30.05.18,1d
-06.6 18 Uhr Abendtour 7/18      : 06.06.18,1d
-13.6 18 Uhr Abendtour 8/18      : 13.06.18,1d
-18.7 18 Uhr Abendtour 9/18      : 18.07.18,1d
-25.7 18 Uhr Abendtour 10/18      : 25.07.18,1d
-15.8 18 Uhr Abendtour 11/18      : 15.08.18,1d
-22.8.18 Uhr Abendtour 12/18      : 22.08.18,1d
-29.8.18 Uhr Abendtour 13/18      : 29.08.18,1d
-05.9.18 Uhr Abendtour 14/18      : 05.09.18,1d
-26.9.18 Uhr Abendtour 15/18      : 26.09.18,1d
-10.10.18 Uhr Abendtour 16/18	 : 10.10.18,1d
-
-section 1/2 Tagestouren
-  21.5 Motormühle Blumenhagen   :crit, 21.05.18,1d
-  27.5 Hildesheimer Berge - für Geübte :crit, 27.05.18, 1d
-  23.6 Altwarmbüchener See      :crit, 23.06.18,1d
-  11.8 Calenberger Land         :crit, 11.08.18,1d
-  29.9 Blauen See Garbsen       :crit, 29.09.18,1d
-
-
-section Stadtradeln
-  22.5 Fahrrad-Check FSW 17h30 - 19h00                     :             22.05.18, 1d
-  24.5 Infostand - Wochenmarkt Hemmingen : 24.05.18,1d
-  26.5 Fahrrad-Check Pattensen 11h00 - 15h00              :             26.05.18, 1d
-  27.5-16.6 Stadtradeln                       : crit,       27.05.18, 16.06.18
-  27.5 Radtour Wennigsen f. Frühstk.          : crit,       27.05.18, 1d
-  3.6 Autofreier So                           :             03.06.18, 1d
-  10.6 Familienradwandertag                   :             10.06.18, 1d
-  1.5-30.6.  Hannah in Pattensen              :crit, done,  01.05.18, 30.06.18
-
-section Projekte
-  7.-9.5 Projekttage der Grundschule      :07.05.18, 3d
-  22.-26.6 Projekttage der KGS      :22.06.18, 5d
-
-section Politik
-  Pat. Feuerschutz, Verkehr                         :20.08.18, 1d
-  Hem. Weetzener Landstraße                         :23.08.18, 1d
-  Hem. Arnum-Mitte                                  :30.08.18, 1d
-  Hem. Devese ISEK                                  :06.09.18, 1d
-  Pat. Feuerschutz, Verkehr                         :17.09.18, 1d
-  Hem. Sondersitzung VEP2030                        :27.09.18, 1d
-  Hem. Verlängerung Stadtbahn                       :18.10.18, 1d
-```
-
-
-
-
-### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
 ## Unsere Mängelkarte
 
@@ -264,6 +173,66 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
 ## Was war
+
+### Hemmingens Grüne spenden 350 Euro an die ADFC Fahrrad-Selbsthilfewerkstatt
+
+Am Dienstag, den 18. Dezember 2018 überreichte eine Delegation der Hemminger Grünen einen symbolischen Spendenscheck über 350 € an das Team der Fahrrad-Selbsthilfewerkstatt vom ADFC.
+
+Das Geld hatten die Grünen beim Hemminger Weihnachtsmarkt am vergangenen dritten Adventswochenende eingesammelt. Dort hatten sie an ihrem Stand wie jedes Jahr selbstgemachte Kekse, Marmeladen, Honig und anderes mehr angeboten und dafür um Spenden für einen guten Zweck gebeten, dieses Mal für die Arbeit der Fahrrad-Selbsthilfe-Werkstatt.
+
+"Wir haben großen Respekt vor der Arbeit der Ehrenamtlichen des ADFC, die die Werkstatt auf dem Gelände der Flüchtlingsunterkunft in der Heinrich-Hertz-Straße nun schon seit über zwei Jahren mit viel Enthusiasmus und sehr professionell betreiben" erklärt Joachim Steinmetz, Vorsitzender des Grünen Ortsverbandes."Diese Initiative fördert die Integration der Geflüchteten genauso wie den umweltfreundlichen Radverkehr. Alte Fahrräder und Ersatzteile werden weiterverwendet, und auch Mitbürger mit schmalem Geldbeutel können sich Räder und Reparaturen leisten. Solch eine soziale und nachhaltige Initiative würden wir uns noch viel häufiger wünschen!"
+
+"Wir werden das Geld nun für dringend benötigte Aufwertungen der Räder einsetzen, wie zum Beispiel für gute LED-Fahrradbeleuchtungen, die sind unverzichtbar für die Verkehrssicherheit von Radlern in der dunklen Jahreszeit" freuten sich die Mitarbeiter der Fahrradwerkstatt. Die aktuell etwa 15 Ehrenamtlichen - Heminger Einwohner und Geflüchtete - wollen dazu gleich im Januar eine Umrüstaktion starten. "Wir freuen uns auch immer über weitere Mitmacherinnen und Mitmacher, denn Arbeit ist genug da und der Bedarf auch".
+
+"Über das Engagement in der Fahrradwerkstatt hinaus ist der ADFC ist in Hemmingen mittlerweile ein wichtiger Akteur in verkehrspolitischen Belangen geworden", so Steinmetz weiter.  So habe der ADFC in jüngster Zeit beispielsweise beim Verkehrsentwicklungskonzept oder bei Planungen zum Straßenumbau an der Hohen Bünte wichtige Anregungen gegeben. ADFC und Grüne vereinbarten, sich auch 2019 weiter zu Schwachstellen und Perspektiven des Radverkehrs auszutauschen, um die Verkehrswende auch in Hemmingen voranzubringen.
+
+![Spendencheck](images/20181230112148125_31597.png)
+
+### Kurze Winterferien in der ADFC Fahrrad-Selbsthilfe-Werkstatt!
+
+Auch wenn zwei Wochen ohne kaum auszuhalten sind, gönnt sich das Team der ADFC Fahrrad-Selbsthilfe-Werkstatt eine kurze Auszeit. Am 18.12. werden die letzten Fahrräder an Geflüchtete und Bedürftige ausgegeben und die letzten Kundenreparaturen begleitet. Die Werkstatt wird gefegt und aufgeräumt. Am Dienstag, 8. Januar 2019, 17.30 geht es mit neuer Energie an den Start. Das ehrenamtliche Team bedankt sich bei allen Fahrrad-, Material- und Geldspendern aus Hemmingen, Pattensen und "umzu". Die großzügige Überlassung alter oder ausgemusterter Räder erleichtert sehr vielen Menschen den Weg zur Arbeit oder zu Sprachkursen und ermöglicht die alltäglichen Transporte. Auch weiterhin freuen wir uns über Spendenfahrräder. Weihnachten ist ja immer eine gute Tauschgelegenheit, bringen Sie Ihr **Altes** gerne vorbei! In der Werkstatt gab es im Jahresverlauf viele nette Gespräche und Begegnungen zwischen Hemminger Bürgern und Geflüchteten, die auch in der Werkstatt mithelfen. Hunderte Reparaturprojekte konnten gemeinsam abgeschlossen werden: Reifen wurden geflickt, Beleuchtung repariert, Bremsen neu justiert oder Räder neu eingespeicht.
+
+Das soll auch 2019 weitergehen. Die Werkstatt sucht dazu auch weitere Ehrenamtliche, die mit sozialer Kompetenz die Fahrradausgabe an Bedürftige managen oder technisch versiert gerne in der Werkstatt mit schrauben möchten. Kommen Sie einfach an einem Dienstag zu den Öffnungszeiten 17.30 bis 19.00 Uhr in der Heinrich-Hertz-Straße 23 vorbei
+
+
+### Tempo 50 auf K225 zum Schutz der Radfahrer
+
+Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der K225 zwischen Devese und Ohlendorf 50 km/h beträgt. Der Grund dafür ist der Wegfall von Radwegverbindungen durch den Bau der Ortsumgehung. Die Gefahr für Radfahrende, die gezwungen sind diese Ausweichstrecke zu benutzen, war bei bis zu Tempo 100 einfach zu groß.
+
+### Gelungener Auftrifft auf Energiewende Veranstaltung in Springe
+
+Der ADFC Hemmingen Pattensen hat sich am Montag, den 26. Nov. 2018 erfolgreich auf der Veranstaltung ["Erfolgsstragegien für die Energiewende vor Ort"](https://www.klimaschutz-hannover.de/infos-service/veranstaltungen/veranstaltungen-detailansicht/artikel/erfolgsstrategien-fuer-die-energiewende-vor-ort-4.html) präsentiert.
+
+Nach einem eher verhaltenen Start vor Beginn der eigentlichen Veranstaltung, kamen dann doch noch Interessierte an unseren Stand. Die Stadtverwaltung Hemmingen (sie hatte direkt neben uns ebenfalls einen Stand) lobte unser Engagement. Von hier aus vielen Dank an die Aktivisten.
+
+![ADFC Stand](images/1543314645286.png)
+
+### Hemmingen ist AGFK Mitglied
+
+Die Stadt Hemmingen ist der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) beigetreten. Die AGFK bietet den Kommunen ein Netzwerk,
+um sich gegenseitig auszutauschen und zu unterstützen. Ziel ist die Zertifizierung „Fahrradfreundliche Kommune Niedersachsen“. Zu den Aufgaben gehört es u.a.:
+
+* das die Kommune darauf hinarbeiten, die Voraussetzungen für die Zertifizierung
+„Fahrradfreundliche Kommune Niedersachsen“ zu erfüllen.
+* das die Kommune bereit ist, in der AGFK mitzuarbeiten und sie zu unterstützen.
+
+
+![AGFK Mitglieder](images/1543229997733.png)
+
+Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](http://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
+
+### HAZ 2018-11-09-Fr
+Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
+
+### Radfahrer frei auf der Berliner Straße.
+
+Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
+
+![RichtungOst](RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](RadfahrerFreiRichtungWest.jpg)
+
+Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
+Fußgängern anpassen und dürfen diese nicht gefährden. ![](RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
+
 
 ### Abendtour #16/18 2018-10-10-Mi.
 
