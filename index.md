@@ -78,6 +78,7 @@ section FSW
 section Treffen
   23.1 23. Radeltreff  : 23.01.19, 1d
   Febr. 24. Radeltreff : 27.02.19, 1d
+  Landes-Aktiventreffen: 22.11.19, 3d
   
 section Abendtouren
   Feierabendradtouren        :done,       15.04.19, 15.10.19
