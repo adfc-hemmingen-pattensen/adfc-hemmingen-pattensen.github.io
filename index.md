@@ -66,35 +66,35 @@ gantt
   dateFormat  DD.MM.YY
 
 section Ferien&Co
-  Osterferien                        :done,        08.04.19, 23.04.19
-  Ramadan                          :active,done, 06.05.19, 04.06.19
-  Sommerferien                      :done,        04.07.19, 14.08.19
-  Herstferien                      :done,        04.10.19, 18.10.19
+  Osterferien :done,        08.04.19, 23.04.19
+  Ramadan     :active,done, 06.05.19, 04.06.19
+  Sommerferien:done,        04.07.19, 14.08.19
+  Herstferien :done,        04.10.19, 18.10.19
 
 section FSW
-  Fahrrad-Selbsthilfe-Werkstatt            :crit,active, 08.01.19, 17.12.19
-  Sommerfest     : 29.06.19, 1d
+  Fahrrad-Selbsthilfe-Werkstatt :crit,active, 08.01.19, 17.12.19
+  Sommerfest                    : 29.06.19, 1d
 
 section Treffen
-  23.1 23. Radeltreff         : 23.01.19, 1d
-  Febr. 24. Radeltreff         : 27.02.19, 1d
+  23.1 23. Radeltreff  : 23.01.19, 1d
+  Febr. 24. Radeltreff : 27.02.19, 1d
   
 section Abendtouren
   Feierabendradtouren        :done,       15.04.19, 15.10.19
 
 section Tagestouren
-  12.5 Zum Blauen See   :crit, 12.05.19,1d
-  26.5 Fluss-Seen-Wälder-Klöster    :crit, 26.05.19,1d
-  23.6 Zum Wietzesee :crit, 23.06.19,1d
-  1.9 Hildesheimer-Land  :crit, 01.09.19,1d
-  8.9 Motormühle Blumenhagen  :crit, 08.09.19,1d
+  12.5 Zum Blauen See             :crit, 12.05.19,1d
+  26.5 Fluss-Seen-Wälder-Klöster  :crit, 26.05.19,1d
+  23.6 Zum Wietzesee              :crit, 23.06.19,1d
+  1.9 Hildesheimer-Land           :crit, 01.09.19,1d
+  8.9 Motormühle Blumenhagen      :crit, 08.09.19,1d
   
 
 section Stadtradeln
-  19.5-08.6 Stadtradeln                       : crit,       19.05.19, 08.06.19
-  19.5 Opernplatz                             :             19.05.19, 1d
-  02.6 Familienradwandertag                   :             02.06.19, 1d
-  VelocityNight   : 07.06.19, 1d
+  19.5-08.6 Stadtradeln    : crit, 19.05.19, 08.06.19
+  19.5 Opernplatz          :       19.05.19, 1d
+  02.6 Familienradwandertag:       02.06.19, 1d
+  07.6 VelocityNight       :       07.06.19, 1d
 
 section Politik
 ```
