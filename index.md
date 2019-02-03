@@ -138,7 +138,8 @@ section Stadtradeln
 
 section Politik
   14.2-18.3 Auslegung ISEK Arnum: 14.02.19, 18.03.19
-  18.2 Info Veranstaltung       : crit, 18.02.19, 1d 
+  18.2 Info Veranstaltung ISEK  : crit, 18.02.19, 1d 
+  25.2 Pat - Bauauss. Abstellanlage : crit, 25.02.19, 1d
   23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d 
 ```
 
