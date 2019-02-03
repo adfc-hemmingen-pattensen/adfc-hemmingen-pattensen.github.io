@@ -250,8 +250,9 @@ durch den Wald bis nach Sorsum. Von dort geht es bergab nach Groß Escherde und 
 nach Heyersum und Rössing, wo wir am „Wasserschloss“ vorbeifahren. Von Rössing fahren 
 wir durch das sehenswerte „Dorf Barnten“. Nun geht es durch die Giftener Seenplatte nach 
 Schliekum und Ruthe. Noch ein paar km, dann sind wir wieder am Ausgangspunkt in 
-Koldingen. Dort schauen wir uns das „Schloss Amtssitz Coldingen“ an.                                                   
-> Dauer ca. 7-8 Std., ausreichende Verpflegung bitte mitnehmen!  
+Koldingen. Dort schauen wir uns das „Schloss Amtssitz Coldingen“ an.
+
+> **Dauer:** ca. 7-8 Std., ausreichende Verpflegung bitte mitnehmen!  
 > **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC 
 Hemmingen/Pattensen)  
 > **Treffpunkt:** Koldingen, Am Lindenplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
