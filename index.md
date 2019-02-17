@@ -21,6 +21,20 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <http://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
+### Einladung zum 24. Radeltreff
+
+Liebe Mitglieder des ADFC Hemmingen und Pattensen, liebe Interessierte,
+
+wir möchten Euch zu unserem nächsten RadelTreff einladen. 
+
+Es soll um Radwege und andere Radverkehrsanlagen in und um Pattensen gehen, die geplante Abstellanlage am Lidl-Parkplatz  und um den ISEC Entwurf für Arnum.
+
+    Mittwoch, 27. Februar 2019
+    Start um 18.30 Uhr bis ca. 21.00
+    Calenberger Hof,  Göttinger Str. 26  in 30982 Pattensen
+
+Wir laden zu einem lockeren Gespräch ein.
+
 ## Wer sind wir?
 
 Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Seit 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen in den beiden Städten für 
@@ -116,7 +130,7 @@ section FSW
 
 section Treffen
   23.1 23. Radeltreff  : 23.01.19, 1d
-  Febr. 24. Radeltreff : 27.02.19, 1d
+  27.2 24. Radeltreff : 27.02.19, 1d
   Landes-Aktiventreffen: 22.11.19, 3d
   
 section Abendtouren
@@ -142,6 +156,7 @@ section Politik
   25.2 Pat - Bauauss. Abstellanlage : crit, 25.02.19, 1d
   23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d 
 ```
+<!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
 #### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
