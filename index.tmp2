@@ -1,7 +1,11 @@
 
-[![](banner.jpg)](http://www.adfc-hannover.de/)
+<iframe src="bannerAnimated.sozi.html" width="100%" height="90" frameBorder="0">
+    ADFC Banner
+</iframe>
 
 # [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+
+<!--[![](banner.jpg)](http://www.adfc-hannover.de/)-->
 
 <!-- <img src="smiley2.png" alt="" style="float:right;">-->
 <img src="smiley2.png" alt="" style="float:right;">
@@ -66,11 +70,8 @@ Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Ein
 
 > Die ADFC Mitglieder haben auf Ihren 23. RadelTreff in diesem Zusammenhang auch über einen [Shared Space](https://de.wikipedia.org/wiki/Shared_Space) (deutsch: „gemeinsamer Raum“) diskutiert. *Charakteristisch ist dabei die Idee, auf Verkehrszeichen, Signalanlagen und Fahrbahnmarkierungen zu verzichten. Gleichzeitig sollen die Verkehrsteilnehmer vollständig gleichberechtigt werden, wobei die Vorfahrtsregel weiterhin Gültigkeit besitzt. Im Gegensatz zur konventionellen Verkehrsberuhigung soll auch eine Anwendung in Hauptverkehrsstraßen möglich sein. (Wikipedia)*
 
-> Beispiel: Verkehrsberuhigter Bereich Opernplatz Duisburg: Fußverkehrsvortritt mit bislang höchster Kfz-Dichte (18.000 Kfz/Tag) und Schritttempo.  
-
-> ![(c)FUSS e.V.](http://www.strassen-fuer-alle.de/images/stories/sfa/Schwab-D-Duisburg-B400.jpg)
-
-
+> Beispiel: Shared-Space Kreisel in Bohmte (NdS).
+> ![Shared Space Kreisel](https://www.adfc-nrw.de/typo3temp/_processed_/d/d/csm_Kreisel_20160809_3c2f520b57.jpg)
 
 ## Was wird
 
@@ -421,4 +422,4 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-<button onclick="alert('2019-03-04-20h55')">2019-03-04-20h55</button>
+<button onclick="alert('2019-03-17-19h05')">2019-03-17-19h05</button>

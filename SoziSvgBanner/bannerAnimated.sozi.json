@@ -1,0 +1,216 @@
+{
+  "aspectWidth": 29,
+  "aspectHeight": 4,
+  "enableKeyboardZoom": false,
+  "enableKeyboardRotation": false,
+  "enableKeyboardNavigation": false,
+  "enableMouseTranslation": false,
+  "enableMouseZoom": false,
+  "enableMouseRotation": false,
+  "enableMouseNavigation": false,
+  "frames": [
+    {
+      "frameId": "start",
+      "title": "Start",
+      "timeoutMs": 1000,
+      "timeoutEnable": true,
+      "transitionDurationMs": 0,
+      "showInFrameList": false,
+      "showFrameNumber": false,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "image3907",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "stepEnd",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "layer2": {
+          "link": false,
+          "referenceElementId": "path3887",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "stepEnd",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "stepEnd",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": ""
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 89.61095353696253,
+          "cy": -19.0681973031845,
+          "width": 241.65041613337178,
+          "height": 33.28286981466579,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.9999999999999998
+        },
+        "layer2": {
+          "cx": -48.15626837821014,
+          "cy": 12.30571537023586,
+          "width": 341.0185897863793,
+          "height": 46.832340183429274,
+          "opacity": 1,
+          "angle": 6.868781351935468,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9970905189928945,
+          "clipHeightFactor": 0.9999999999999983
+        },
+        "__sozi_auto__": {
+          "cx": 89.61095353696253,
+          "cy": -19.0681973031845,
+          "width": 241.65041613337175,
+          "height": 33.28286981466579,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.9999999999999998
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 0.40856858823205755,
+          "deltaY": 0.7413272329483114,
+          "widthFactor": 1.0036532161836436,
+          "heightFactor": 0.96025593435803,
+          "deltaAngle": 0
+        },
+        "layer2": {
+          "deltaX": -184.69487311453827,
+          "deltaY": -6.865490150394022,
+          "widthFactor": 11.658500309526188,
+          "heightFactor": 1.6904666099568912,
+          "deltaAngle": 186.86878135193547
+        }
+      }
+    },
+    {
+      "frameId": "end",
+      "title": "Ende",
+      "timeoutMs": 2000,
+      "timeoutEnable": true,
+      "transitionDurationMs": 3000,
+      "showInFrameList": false,
+      "showFrameNumber": false,
+      "layerProperties": {
+        "layer1": {
+          "link": false,
+          "referenceElementId": "image3907",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": "file:///C:/DataJens/Documents/ADFC/Projekte2019/2019-03-16-Sa%20Sozi%20Test/drawing.sozi.html#frame3815"
+        },
+        "layer2": {
+          "link": false,
+          "referenceElementId": "path3889",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": "file:///C:/DataJens/Documents/ADFC/Projekte2019/2019-03-16-Sa%20Sozi%20Test/drawing.sozi.html#frame3815"
+        },
+        "__sozi_auto__": {
+          "link": false,
+          "referenceElementId": "",
+          "outlineElementId": "",
+          "outlineElementAuto": false,
+          "transitionTimingFunction": "linear",
+          "transitionRelativeZoom": 0,
+          "transitionPathId": "file:///C:/DataJens/Documents/ADFC/Projekte2019/2019-03-16-Sa%20Sozi%20Test/drawing.sozi.html#frame3815"
+        }
+      },
+      "cameraStates": {
+        "layer1": {
+          "cx": 89.89064151859837,
+          "cy": -19.34788528482035,
+          "width": 241.65041613337178,
+          "height": 33.28286981466579,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.9999999999999998
+        },
+        "layer2": {
+          "cx": 225.40966362424547,
+          "cy": 16.674277319414962,
+          "width": 148.35239318791665,
+          "height": 20.432794895095,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999993,
+          "clipHeightFactor": 0.9999999999999997
+        },
+        "__sozi_auto__": {
+          "cx": 89.89064151859837,
+          "cy": -19.34788528482035,
+          "width": 241.65041613337175,
+          "height": 33.28286981466579,
+          "opacity": 1,
+          "angle": 0,
+          "clipped": true,
+          "clipXOffset": 0,
+          "clipYOffset": 0,
+          "clipWidthFactor": 0.9999999999999996,
+          "clipHeightFactor": 0.9999999999999998
+        }
+      },
+      "cameraOffsets": {
+        "layer1": {
+          "deltaX": 0.6882565698679031,
+          "deltaY": 0.4616392513124623,
+          "widthFactor": 1.0036532161836436,
+          "heightFactor": 0.96025593435803,
+          "deltaAngle": 0
+        },
+        "layer2": {
+          "deltaX": 88.86696953244859,
+          "deltaY": -2.4473829131289833,
+          "widthFactor": 5.038446005646512,
+          "heightFactor": 0.7349568917323482,
+          "deltaAngle": 180
+        }
+      }
+    }
+  ],
+  "elementsToHide": [
+    "file:///C:/DataJens/Documents/ADFC/Projekte2019/2019-03-16-Sa%20Sozi%20Test/drawing.sozi.html#frame3815"
+  ],
+  "selectedFrames": [
+    "end"
+  ],
+  "selectedLayers": [
+    "layer2"
+  ],
+  "editableLayers": [
+    "layer1",
+    "layer2"
+  ]
+}
