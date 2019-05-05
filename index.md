@@ -58,6 +58,28 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Stadtradeln
+
+Das Stadtradeln 2019 beginnt am So. 26. Mai 2019. Erneut werden die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilnehmen.
+Die Teilnehmer können die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. 
+Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/) registrieren.
+Beide Städte haben besondere Aktionen geplant: 
+
+**Pattensen** lädt am 19. Mai von 10 bis 17 Uhr zum Klimaschutzforum im Rathaus ein. 
+Um 10:15 treffen sich die Radfahrenden die sich an der Sternfahrt nach Hannover beteiligen wollen. 
+Von dort geht es nach Hemmingen zum Rathausplatz, um mit Ronnenberger und Hemminger gemeinsam nach Hannover zu fahren.
+
+**Hemminger** treffen sich zunächst um 09:30 am Rathausplatz und fahren zum Frühstück nach Devese zu Mutter Buermann. Das Frühstück kosten 2 Euro.
+Gemeinsam mit den Ronnenberger und Pattenser geht es ab 11:00 zur Sternfahrt nach Hannover. Um 12:30 sollen alle am Opernplatz sein.
+
+Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstour ab dem Rathausplatz ein.
+
+### Velo City Night
+
+Als diesjährige Besonderheit findet währenden des Stadtradeln die Velo City Night am Freitag den 7. Juni in Hemmingen und Pattensen statt.
+Die Velo City Night beginnt um 19:00 auf dem Rathausplatz in Hemmingen führt nach Pattensen und endet gegen 22:30 wieder in Hemmingen. Ein DJ sorgt auf einer kleinen Bühne für Musik.
+Die Geschäfte werden länger geöffnet haben.
+
 ### Das Fahrrad braucht mehr Platz
 ![](ADFC_MehrPlatzFuersRad_Logo_blau_rgb.png)
 
