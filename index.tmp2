@@ -57,6 +57,17 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg" frameborder="1"></iframe>
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
+
+### Erste Mittwochstour in diesem Jahr
+Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch, den 08.05.2019 um 18:00,
+zu unserer ersten Feierabendtour 2019 einladen.
+ 
+Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
+ 
+Wir werden uns wie immer nach Lust und Laune, sowie nach evtl. Wünschen der Teilnehmer richten. Ein Vorschlag ist, durch die Eilenriede zur Anderter Schleuse zu fahren.
+ 
+Mal sehen, wohin die Reise geht ...
+
 ### RADTOUR 1 „Nach Garbsen zum Blauen See“ 
 
 > 12.5., Sonntag, 10:00 Uhr 
@@ -87,11 +98,16 @@ Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stad
 Beide Städte haben besondere Aktionen geplant: 
 
 **Pattensen** lädt am 19. Mai von 10 bis 17 Uhr zum Klimaschutzforum im Rathaus ein. 
-Um 10:15 treffen sich die Radfahrenden die sich an der Sternfahrt nach Hannover beteiligen wollen. 
+Um 10:15 treffen sich die Radfahrenden die sich an der [Sternfahrt nach Hannover](https://fahrradsternfahrt-hannover.de/) beteiligen wollen. 
 Von dort geht es nach Hemmingen zum Rathausplatz, um mit Ronnenberger und Hemminger gemeinsam nach Hannover zu fahren.
 
 **Hemminger** treffen sich zunächst um 09:30 am Rathausplatz und fahren zum Frühstück nach Devese zu Mutter Buermann. Das Frühstück kosten 2 Euro.
-Gemeinsam mit den Ronnenberger und Pattenser geht es ab 11:00 zur Sternfahrt nach Hannover. Um 12:30 sollen alle am Opernplatz sein.
+Gemeinsam mit den Ronnenberger und Pattenser geht es ab 11:00 zur [Sternfahrt nach Hannover](https://fahrradsternfahrt-hannover.de/). Um 12:30 sollen alle am Opernplatz sein.
+
+![Sternfahrt](https://fahrradsternfahrt-hannover.de/wp-content/uploads/2019/03/Logo-blau-150dpi-50px-1.jpg)
+*Um die [Fahrradroute](https://fahrradsternfahrt-hannover.de/touren/) sicher zu gestalten, suchen wir engagierte, ambitionierte RadfahrerInnen, die uns als OrdnerIn unterstützen.*
+
+![Routen](https://fahrradsternfahrt-hannover.de/wp-content/uploads/2019/04/Streckengrafik-Sternfahrt-2019-Bild-web.jpg)
 
 Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstour ab dem Rathausplatz ein.
 
@@ -145,15 +161,17 @@ section Ferien&Co
 
 section FSW
   Fahrrad-Selbsthilfe-Werkstatt :crit,active, 08.01.19, 17.12.19
+  Fahrradcheck des ADFC         : 14.05.19, 1d
   Sommerfest                    : 29.06.19, 1d
 
 section Treffen
   23.1 23. Radeltreff  : 23.01.19, 1d
   27.2 24. Radeltreff : 27.02.19, 1d
+  25.4 Sicher Rad fahren : 25.04.19, 1d
   Landes-Aktiventreffen: 22.11.19, 3d
   
 section Abendtouren
-  Feierabendradtouren        :done,       15.04.19, 15.10.19
+  Feierabendradtouren        :done,       08.05.19, 15.10.19
 
 section Tagestouren
   12.5 Zum Blauen See 1)           :crit, 12.05.19,1d
@@ -165,7 +183,7 @@ section Tagestouren
 
 section Stadtradeln
   19.5-08.6 Stadtradeln    : crit, 19.05.19, 08.06.19
-  19.5 Opernplatz          :       20.05.19, 1d
+  19.5 Sternfahrt          :       19.05.19, 1d
   02.6 Familienradwandertag:       02.06.19, 1d
   07.6 VeloCityNight       :       07.06.19, 1d
 
@@ -174,6 +192,8 @@ section Politik
   18.2 Info Veranstaltung ISEK  : crit, 18.02.19, 1d 
   25.2 Pat - Bauauss. Abstellanlage : crit, 25.02.19, 1d
   07.3 Hem - VEP2030 2te Version : crit, 07.03.19, 1d
+  09.5 Hem - Auss. Arnum-Mitte : crit,  09.05.19, 1d
+  13.5 Hem - Auss. Hochwasserschutz: crit, 13.05.19, 1d
   23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d 
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
@@ -470,4 +490,4 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-<button onclick="alert('2019-05-05-15h39')">2019-05-05-15h39</button>
+<button onclick="alert('2019-05-05-20h45')">2019-05-05-20h45</button>
