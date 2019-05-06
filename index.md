@@ -113,6 +113,7 @@ Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstou
 
 ### Familien-Radwandertag
 Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
+![](RWT2019_Karte-1_1.png)
 
 ### Velo City Night
 
