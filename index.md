@@ -90,6 +90,11 @@ fahren wir zurück nach Hemmingen.
 > **Treffpunkt:** Hemmingen, Am Rathausplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
 > **Anmeldung:** Nicht erforderlich, Infos unter 05101-4164 
 
+### Fahrrad-Frühlingscheck in ADFC-Selbsthilfewerkstatt
+
+Am 14.5., 17:30 - 19:00 findet ein Fahrrad-Frühlingscheck in der **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen** in der 
+Heinrich-Hertz-Straße 23 (Hinterhof) statt.
+
 ### Stadtradeln
 
 Das Stadtradeln 2019 beginnt am So. 26. Mai 2019. Erneut werden die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilnehmen.
@@ -97,7 +102,7 @@ Die Teilnehmer können die gefahrenen Kilometer zählen und Ihren Kommunen gutsc
 Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/) registrieren.
 Beide Städte haben besondere Aktionen geplant: 
 
-**Pattensen** lädt am 19. Mai von 10 bis 17 Uhr zum Klimaschutzforum im Rathaus ein. 
+**Pattensen** lädt am 19. Mai von 10 bis 17 Uhr zum Klimaschutzforum im Rathaus ein. Der ADFC ist mit einem Infostand vor Ort. 
 Um 10:15 treffen sich die Radfahrenden die sich an der [Sternfahrt nach Hannover](https://fahrradsternfahrt-hannover.de/) beteiligen wollen "[Flyer](Flyer Fahrradsternfahrt 2019.pdf)". 
 Von dort geht es nach Hemmingen zum Rathausplatz, um mit Ronnenberger und Hemminger gemeinsam nach Hannover zu fahren.
 
@@ -111,7 +116,37 @@ Gemeinsam mit den Ronnenberger und Pattenser geht es ab 11:00 zur [Sternfahrt na
 
 Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstour ab dem Rathausplatz ein.
 
-### Familien-Radwandertag
+### RADTOUR 2 Radtour für Geübte „Fluss-Seen-Wälder-Klöster“ 
+
+> 26.05., Sonntag, 10 Uhr 
+
+Die ca.50 km lange Strecke führt uns in südlicher Richtung auf guten Wirtschafts-und 
+Fahrradwegen über Jeinsen, Sieger beim Regionswettbewerb “Unser Dorf hat Zukunft“, 
+weiter nach Schulenburg. Dort durchqueren wir den Ort und fahren unterhalb des 
+Marienberges ein Stück auf dem Leine-Heide-Radweg, überqueren die Leine und fahren vor 
+Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen. Nachdem wir ein kurzes Stück 
+entlang der B3 gefahren sind, biegen wir auf einen asphaltierten Wirtschaftsweg ab und 
+erreichen den Ort Wittenburg. Dort fahren wir steil hinauf zum „Augustiner Kloster 
+Wittenburg“ mit seiner wuchtigen Klosterkirche und einen weiten Blick ins Land. Nun geht es 
+weiter am Rande des Osterwaldes zum sehenswerten „Klostergut Wülfinghausen“, welches 
+wir durchqueren und radeln danach auf einem sehr schönen Weg am Waldrand weiter zum 
+„Cafe Am Waldkater“ mit Einkehrmöglichkeit, man sitzt dort in einem gemütlichen 
+Biergarten mit weiten Blick ins Land. Danach radeln wir am Nordrand des Osterwaldes zum 
+„Forsthaus Fahrensen“ und fahren in den Osterwald hinein zum „Waldrestaurant 
+Holzmühle“. Innerhalb der Wildschweingehege-Mauer, am Rande des „Kleinen Deisters“, 
+radeln wir nach Eldagsen und fahren dann auf der ehemaligen Landstraße weiter nach 
+Mittelrode, wo uns das rustikale „Bauerncafe Mittelrode“ mit Biergarten, zu Kaffee und 
+Kuchen einlädt. Gut gestärkt geht es auf die letzte Etappe unserer Rundtour in nördlicher 
+Richtung nach Bennigsen und von dort aus über die „Calenberger-Ackerwege“ nach 
+Pattensen zurück. 
+
+> **Dauer:** ca. 6-7 Std., Verpflegung bitte mitnehmen!  
+> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC 
+Hemmingen/Pattensen)  
+> **Treffpunkt:** Pattensen Neues Rathaus, rechtzeitig zur Abfahrt um 10.00 Uhr  
+> **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979 
+
+### Familien-Radwandertag am 2.6.
 Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
 ![](RWT2019_Karte-1_1.png)
 
@@ -166,7 +201,6 @@ section Ferien&Co
 section FSW
   Fahrrad-Selbsthilfe-Werkstatt :crit,active, 08.01.19, 17.12.19
   Fahrradcheck des ADFC         : 14.05.19, 1d
-  Sommerfest                    : 29.06.19, 1d
 
 section Treffen
   23.1 23. Radeltreff  : 23.01.19, 1d
