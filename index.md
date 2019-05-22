@@ -58,61 +58,12 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-### Erste Mittwochstour in diesem Jahr
-Die ADFC-Ortsgruppe Hemmingen-Pattensen möchte euch am nächsten Mittwoch, den 08.05.2019 um 18:00,
-zu unserer ersten Feierabendtour 2019 einladen.
- 
-Treffpunkt ist wie immer der Rathausplatz in Hemmingen.
- 
-Wir werden uns wie immer nach Lust und Laune, sowie nach evtl. Wünschen der Teilnehmer richten. Ein Vorschlag ist, durch die Eilenriede zur Anderter Schleuse zu fahren.
- 
-Mal sehen, wohin die Reise geht ...
-
-### RADTOUR 1 „Nach Garbsen zum Blauen See“ 
-
-> 12.5., Sonntag, 10:00 Uhr 
-
-Die ca. 51 km lange Strecke beginnt am Rathausplatz in Hemmingen und führt uns durch  
-Wettbergen, Empelde, an der Kalihalde vorbei zum Benther Berg. Von dort geht es über 
-Velber und Letter zum Stichkanal Hannover-Linden (Abzweig vom Mittellandkanal).  
-Direkt am Kanal entlang fahren wir, vorbei an Seelze, nach Lohnde. Dort überqueren wir den 
-Mittellandkanal und etwas später die Leine und erreichen den Blauen See, mit der 
-Möglichkeit zum Picknick (bitte Verpflegung mitbringen!). 
-Der Rückweg geht dann durch die Leinewiesen zum Wasserstraßenkreuz, ein imposantes 
-Bauwerk. Danach geht es über Marienwerder mit der gleichnamigen Klosterkirche in den 
-Hinüberschen Garten. Weiter fahren wir durch die Maschwiesen bei Stöcken und kommen 
-wieder an den Stichkanal. An Leine und Ihme entlang, an den Ricklinger Teichen vorbei, 
-fahren wir zurück nach Hemmingen.  
-
-> **Dauer:** ca. 5-6 Std., bitte ausreichende Verpflegung mitnehmen! Einkehrmöglichkeiten sind unterwegs vorhanden.  
-> **Führung:** Dirk Härtel, Günther Kleinod, Helmut Krause, Jochen Lemke, 
-(ADFC Hemmingen/Pattensen)  
-> **Treffpunkt:** Hemmingen, Am Rathausplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, Infos unter 05101-4164 
-
-### Fahrrad-Frühlingscheck in ADFC-Selbsthilfewerkstatt
-
-Am 14.5., 17:30 - 19:00 findet ein Fahrrad-Frühlingscheck in der **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen** in der 
-Heinrich-Hertz-Straße 23 (Hinterhof) statt.
 
 ### Stadtradeln
 
 Das Stadtradeln 2019 beginnt am So. 26. Mai 2019. Erneut werden die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilnehmen.
 Die Teilnehmer können die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. 
 Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/) registrieren.
-Beide Städte haben besondere Aktionen geplant: 
-
-**Pattensen** lädt am 19. Mai von 10 bis 17 Uhr zum Klimaschutzforum im Rathaus ein. Der ADFC ist mit einem Infostand vor Ort. 
-Um 10:15 treffen sich die Radfahrenden die sich an der [Sternfahrt nach Hannover](https://fahrradsternfahrt-hannover.de/) beteiligen wollen "[Flyer](Flyer Fahrradsternfahrt 2019.pdf)". 
-Von dort geht es nach Hemmingen zum Rathausplatz, um mit Ronnenberger und Hemminger gemeinsam nach Hannover zu fahren.
-
-**Hemminger** treffen sich zunächst um 09:30 am Rathausplatz und fahren zum Frühstück nach Devese zu Mutter Buermann. Das Frühstück kosten 2 Euro.
-Gemeinsam mit den Ronnenberger und Pattenser geht es ab 11:00 zur [Sternfahrt nach Hannover](https://fahrradsternfahrt-hannover.de/). Um 12:30 sollen alle am Opernplatz sein.
-
-![Sternfahrt](https://fahrradsternfahrt-hannover.de/wp-content/uploads/2019/03/Logo-blau-150dpi-50px-1.jpg)
-*Um die [Fahrradroute](https://fahrradsternfahrt-hannover.de/touren/) sicher zu gestalten, suchen wir engagierte, ambitionierte RadfahrerInnen, die uns als OrdnerIn unterstützen.*
-
-![Routen](https://fahrradsternfahrt-hannover.de/wp-content/uploads/2019/04/Streckengrafik-Sternfahrt-2019-Bild-web.jpg)
 
 Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstour ab dem Rathausplatz ein.
 
