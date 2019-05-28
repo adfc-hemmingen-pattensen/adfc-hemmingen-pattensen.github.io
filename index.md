@@ -28,12 +28,12 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Wer sind wir?
 
-Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Seit 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen in den beiden Städten für 
+Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für 
 
 1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik) 
 2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit) 
 3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren) 
-4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt.
+4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
 
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt. 
 
@@ -67,35 +67,6 @@ Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stad
 
 Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur Mittwochstour ab dem Rathausplatz ein.
 
-### RADTOUR 2 Radtour für Geübte „Fluss-Seen-Wälder-Klöster“ 
-
-> 26.05., Sonntag, 10 Uhr 
-
-Die ca.50 km lange Strecke führt uns in südlicher Richtung auf guten Wirtschafts-und 
-Fahrradwegen über Jeinsen, Sieger beim Regionswettbewerb “Unser Dorf hat Zukunft“, 
-weiter nach Schulenburg. Dort durchqueren wir den Ort und fahren unterhalb des 
-Marienberges ein Stück auf dem Leine-Heide-Radweg, überqueren die Leine und fahren vor 
-Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen. Nachdem wir ein kurzes Stück 
-entlang der B3 gefahren sind, biegen wir auf einen asphaltierten Wirtschaftsweg ab und 
-erreichen den Ort Wittenburg. Dort fahren wir steil hinauf zum „Augustiner Kloster 
-Wittenburg“ mit seiner wuchtigen Klosterkirche und einen weiten Blick ins Land. Nun geht es 
-weiter am Rande des Osterwaldes zum sehenswerten „Klostergut Wülfinghausen“, welches 
-wir durchqueren und radeln danach auf einem sehr schönen Weg am Waldrand weiter zum 
-„Cafe Am Waldkater“ mit Einkehrmöglichkeit, man sitzt dort in einem gemütlichen 
-Biergarten mit weiten Blick ins Land. Danach radeln wir am Nordrand des Osterwaldes zum 
-„Forsthaus Fahrensen“ und fahren in den Osterwald hinein zum „Waldrestaurant 
-Holzmühle“. Innerhalb der Wildschweingehege-Mauer, am Rande des „Kleinen Deisters“, 
-radeln wir nach Eldagsen und fahren dann auf der ehemaligen Landstraße weiter nach 
-Mittelrode, wo uns das rustikale „Bauerncafe Mittelrode“ mit Biergarten, zu Kaffee und 
-Kuchen einlädt. Gut gestärkt geht es auf die letzte Etappe unserer Rundtour in nördlicher 
-Richtung nach Bennigsen und von dort aus über die „Calenberger-Ackerwege“ nach 
-Pattensen zurück. 
-
-> **Dauer:** ca. 6-7 Std., Verpflegung bitte mitnehmen!  
-> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC 
-Hemmingen/Pattensen)  
-> **Treffpunkt:** Pattensen Neues Rathaus, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979 
 
 ### Familien-Radwandertag am 2.6.
 Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
@@ -195,57 +166,6 @@ section Politik
 
 Spontane Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
-### RADTOUR 1 „Nach Garbsen zum Blauen See“ 
-
-> 12.5., Sonntag, 10:00 Uhr 
-
-Die ca. 51 km lange Strecke beginnt am Rathausplatz in Hemmingen und führt uns durch  
-Wettbergen, Empelde, an der Kalihalde vorbei zum Benther Berg. Von dort geht es über 
-Velber und Letter zum Stichkanal Hannover-Linden (Abzweig vom Mittellandkanal).  
-Direkt am Kanal entlang fahren wir, vorbei an Seelze, nach Lohnde. Dort überqueren wir den 
-Mittellandkanal und etwas später die Leine und erreichen den Blauen See, mit der 
-Möglichkeit zum Picknick (bitte Verpflegung mitbringen!). 
-Der Rückweg geht dann durch die Leinewiesen zum Wasserstraßenkreuz, ein imposantes 
-Bauwerk. Danach geht es über Marienwerder mit der gleichnamigen Klosterkirche in den 
-Hinüberschen Garten. Weiter fahren wir durch die Maschwiesen bei Stöcken und kommen 
-wieder an den Stichkanal. An Leine und Ihme entlang, an den Ricklinger Teichen vorbei, 
-fahren wir zurück nach Hemmingen.  
-
-> **Dauer:** ca. 5-6 Std., bitte ausreichende Verpflegung mitnehmen! Einkehrmöglichkeiten sind unterwegs vorhanden.  
-> **Führung:** Dirk Härtel, Günther Kleinod, Helmut Krause, Jochen Lemke, 
-(ADFC Hemmingen/Pattensen)  
-> **Treffpunkt:** Hemmingen, Am Rathausplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, Infos unter 05101-4164 
-
-### RADTOUR 2 Radtour für Geübte „Fluss-Seen-Wälder-Klöster“ 
-
-> 26.05., Sonntag, 10 Uhr 
-
-Die ca.50 km lange Strecke führt uns in südlicher Richtung auf guten Wirtschafts-und 
-Fahrradwegen über Jeinsen, Sieger beim Regionswettbewerb “Unser Dorf hat Zukunft“, 
-weiter nach Schulenburg. Dort durchqueren wir den Ort und fahren unterhalb des 
-Marienberges ein Stück auf dem Leine-Heide-Radweg, überqueren die Leine und fahren vor 
-Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen. Nachdem wir ein kurzes Stück 
-entlang der B3 gefahren sind, biegen wir auf einen asphaltierten Wirtschaftsweg ab und 
-erreichen den Ort Wittenburg. Dort fahren wir steil hinauf zum „Augustiner Kloster 
-Wittenburg“ mit seiner wuchtigen Klosterkirche und einen weiten Blick ins Land. Nun geht es 
-weiter am Rande des Osterwaldes zum sehenswerten „Klostergut Wülfinghausen“, welches 
-wir durchqueren und radeln danach auf einem sehr schönen Weg am Waldrand weiter zum 
-„Cafe Am Waldkater“ mit Einkehrmöglichkeit, man sitzt dort in einem gemütlichen 
-Biergarten mit weiten Blick ins Land. Danach radeln wir am Nordrand des Osterwaldes zum 
-„Forsthaus Fahrensen“ und fahren in den Osterwald hinein zum „Waldrestaurant 
-Holzmühle“. Innerhalb der Wildschweingehege-Mauer, am Rande des „Kleinen Deisters“, 
-radeln wir nach Eldagsen und fahren dann auf der ehemaligen Landstraße weiter nach 
-Mittelrode, wo uns das rustikale „Bauerncafe Mittelrode“ mit Biergarten, zu Kaffee und 
-Kuchen einlädt. Gut gestärkt geht es auf die letzte Etappe unserer Rundtour in nördlicher 
-Richtung nach Bennigsen und von dort aus über die „Calenberger-Ackerwege“ nach 
-Pattensen zurück. 
-
-> **Dauer:** ca. 6-7 Std., Verpflegung bitte mitnehmen!  
-> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC 
-Hemmingen/Pattensen)  
-> **Treffpunkt:** Pattensen Neues Rathaus, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979 
 
 ### RADTOUR 3 „Durchs grüne Hannover zum Wietzesee“ 
 
@@ -394,6 +314,31 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+### Tagestour #2/19 2019-05-26-So
+ 
+Tourenziel       | „Fluss-Seen-Wälder-Klöster“ 
+---------------: | ----------------------- 
+Datum            | 2019-05-26-So
+Tourenrart       | Tagestour
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen, Rathausplatz 1,  9:00
+Start            | Arnum Freibad,              9:25
+Start            | Pattensen, Rathausplatz 1, 10:00
+Dauer [Stunden]  | ca. 6 - 7
+Teilnehmerzahl   | 31
+Tourenlänge [km] | 55 - 70
+Wetter           | 18° Sonne + Wolken 
+
+Die Radtour begann mit einer organisierten Anfahrt von Hemmingen über Arnum nach Pattensen. Um 10:00 starteten dann 31 Radler am Neuen Rathaus in Pattensen. Von dort 
+fuhren wir in südlicher Richtung auf guten Wirtschaft-und Fahrradwegen über Jeinsen  nach Schulenburg. Dort durchquerten wir den Ort und fuhren unterhalb des Marienberges ein Stück auf dem Leine-Heide-Radweg, überquerten die Leine und fuhren vor Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen. 
+Nachdem wir ein kurzes Stück entlang der B3 fahren mussten, bogen wir auf einen asphaltierten Wirtschaftsweg ab und erreichten den Ort Wittenburg. Dort fuhren wir steil hinauf zum „Augustiner Kloster Wittenburg“ mit seiner wuchtigen, ca. 700 Jahre alten Klosterkirche. Der weite Blick über das Land entschädigte für den steilen Anstieg.
+Nun ging es weiter am Rande des Osterwaldes zum sehenswerten „Klostergut Wülfinghausen“. Wir durchquerten es und radelten danach auf einem sehr schönen Weg am Waldrand weiter zum „Cafe Am Waldkater“. Dort hatten wir uns eine Einkehr redlich verdient. Es war ein gemütlicher Biergarten mit herrlicher Aussicht.
+Danach radelten wir am Nordrand des Osterwaldes zum „Forsthaus Fahrensen“ und fuhren durch den idyllischen Osterwald vorbei am „Waldrestaurant Holzmühle“. 
+Innerhalb der Wildschweingehege-Mauer, am Rande des „Kleinen Deisters“, radelten wir, ab jetzt mit Rückenwind, weiter nach Eldagsen und fuhren dann auf der ehemaligen Landstraße weiter nach Mittelrode, wo wir nicht ohne anzuhalten an dem rustikalen „Bauerncafe Mittelrode“ mit Biergarten vorbeikamen.
+Gut gestärkt, mit Kaffee und Kuchen, geht es auf die letzte Etappe unserer Rundtour in nordöstlicher Richtung nach Bennigsen und von dort aus über die „Calenberger-Ackerwege“ nach Pattensen zurück.
+Nach ca.6 Std. und 55 km erreichten wir wieder Pattensen. Die Arnumer und Hemminger Radler mussten noch etwas weiterfahren und kamen so auf ca. 70 km für das Stadtradeln.
+
+
 ### Tagestour #1/19 2019-05-12-S0
  
 Tourenziel       | Rund um den Blauen See
@@ -416,6 +361,23 @@ kurzweiligen Pause traten wir den Rückweg an. Es ging an Alt-Garbsen vorbei, du
 und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an der Klosterkirche, durch den Hinüberschen Garten nach 
 Stöcken und von dort über Letter wieder an den Stichkanal. An Leine und Ihme entlang fuhren wir zurück. Nach ca. 5 1/2 Stunden und 
 knapp 60 km kamen wir gut gelaunt in Hemmingen an. 
+
+### Abendtour #2/19 2019-05-21-Mi.
+ 
+Tourenziel       | Anderter Schleuse u. Kronsberg
+---------------: | ----------------------- 
+Datum            | 2019-05-21-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk Härtel
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 33
+Wetter           | heiter bis wolkig
+
+
+Die 2. Feierabend-Radtour ging am Mittwoch den 21. Juni mit 8 Radlern (5 Herren und 3 Damen) bei gutem Wetter, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es durch den Herrmann-Löns-Park mit der "Alten Mühle", einer Bockwindmühle, zur Anderter Schleuse. Nach einer kurzen Rast ging es auf den höchsten Punkt des Kronsbergs (118 m ü. NN). Die schöne Aussicht über Hannover und bis zum Brocken entschädigte für den letzten steilen Anstieg. Nach ca. 2,5 Std. und 33 km erreichten wir wieder Hemmingen.
+
 
 ### Abendtour #1/19 2019-05-08-Mi.
  
