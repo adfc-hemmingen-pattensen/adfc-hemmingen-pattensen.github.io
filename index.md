@@ -65,17 +65,13 @@ Das Stadtradeln 2019 beginnt am So. 26. Mai 2019. Erneut werden die Kommunen Hem
 Die Teilnehmer können die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. 
 Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/) registrieren.
 
-Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur kostenlosen Mittwochstour ab dem Rathausplatz ein.
+<!--Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur kostenlosen Mittwochstour ab dem Rathausplatz ein.-->
 
-
-### Familien-Radwandertag am 2.6.
-Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
-![](RWT2019_Karte-1_1.png)
 
 ### Velo City Night
 
-Als diesjährige Besonderheit findet währenden des Stadtradeln die Velo City Night am Freitag den 7. Juni in Hemmingen und Pattensen statt.
-Die Velo City Night beginnt um 19:00 auf dem Rathausplatz in Hemmingen führt nach Pattensen und endet gegen 22:30 wieder in Hemmingen. Ein DJ sorgt auf einer kleinen Bühne für Musik.
+Als diesjährige Besonderheit findet währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
+Die Velo City Night beginnt um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgt auf einer kleinen Bühne für Musik. Der Start beginnt um 20:00 führt nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Das Startgeld beträgt 2 €. 
 Die Geschäfte werden länger geöffnet haben.
 
 ### Das Fahrrad braucht mehr Platz
@@ -313,6 +309,11 @@ Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sa
 
 siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
+
+
+## Familien-Radwandertag am 2.6.
+Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
+![](RWT2019_Karte-1_1.png)
 
 ## Was war
 ### Tagestour #2/19 2019-05-26-So
