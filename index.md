@@ -54,25 +54,10 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 
 ### Kurzfristige Meldung
 <div class="holder" style="width: 100%; height:500px; position:relative;">
-<iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg" frameborder="1"></iframe>
+<iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-
-### Stadtradeln
-
-Das Stadtradeln 2019 beginnt am So. 26. Mai 2019. Erneut werden die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilnehmen.
-Die Teilnehmer können die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. 
-Radler können sich auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/) registrieren.
-
-<!--Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur kostenlosen Mittwochstour ab dem Rathausplatz ein.-->
-
-
-### Velo City Night
-
-Als diesjährige Besonderheit findet währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
-Die Velo City Night beginnt um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgt auf einer kleinen Bühne für Musik. Der Start beginnt um 20:00 führt nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Das Startgeld beträgt 2 €. 
-Die Geschäfte werden länger geöffnet haben.
 
 ### Das Fahrrad braucht mehr Platz
 ![](ADFC_MehrPlatzFuersRad_Logo_blau_rgb.png)
@@ -316,6 +301,19 @@ Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
 ![](RWT2019_Karte-1_1.png)
 
 ## Was war
+
+### Stadtradeln
+
+Das Stadtradeln 2019 began am So. 26. Mai 2019. Erneut haben die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilgenommen. Die Teilnehmer Konnten die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. Mehr auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/).
+
+<!--Am 22. und 20. Mai sowie am 5. Juni, jeweils um 18:00 laden wir zur kostenlosen Mittwochstour ab dem Rathausplatz ein.-->
+
+
+### Velo City Night
+
+Als diesjährige Besonderheit fand währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
+Die Velo City Night began um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgte auf einer kleinen Bühne für Musik. Der Start begann um 20:00 führte nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Ca. 300 Radfahrende haben teilgenommen. 
+
 ### Tagestour #2/19 2019-05-26-So
  
 Tourenziel       | „Fluss-Seen-Wälder-Klöster“ 
