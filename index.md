@@ -26,25 +26,15 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <http://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
 
-## Wer sind wir?
-
-Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für 
-
-1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik) 
-2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit) 
-3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren) 
-4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
-
-Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt. 
 
 ## Inhalt
 > - [Aktuelles](#aktuelles)
->   - Kurzfristige Meldung
+> - [Wer sind wir?](#wer-sind-wir)
 > - [Was wird](#was-wird)
 >   - 5 Tagestouren in 2019 geplant. 
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
 >   - Veränderte Verkehrsführung wegen B3 Neubau
-> - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
+> - **[Mängelkarte für Hemmingen und Pattensen]**(#unsere-mängelkarte)
 > - [Was war](#was-war)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 >   -  <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
@@ -58,6 +48,16 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+## Wer sind wir?
+
+Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für 
+
+1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik) 
+2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit) 
+3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren) 
+4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
+
+Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt. 
 
 ### Das Fahrrad braucht mehr Platz
 ![](ADFC_MehrPlatzFuersRad_Logo_blau_rgb.png)
@@ -296,9 +296,7 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 
-## Familien-Radwandertag am 2.6.
-Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
-![](RWT2019_Karte-1_1.png)
+
 
 ## Was war
 
@@ -313,6 +311,26 @@ Das Stadtradeln 2019 began am So. 26. Mai 2019. Erneut haben die Kommunen Hemmin
 
 Als diesjährige Besonderheit fand währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
 Die Velo City Night began um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgte auf einer kleinen Bühne für Musik. Der Start begann um 20:00 führte nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Ca. 300 Radfahrende haben teilgenommen. 
+
+### Abendtour #4/19 2019-06-05-Mi.
+ 
+Tourenziel       | Maschsee, Eilenriede
+---------------: | ----------------------- 
+Datum            | 2019-06-05-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 30
+Wetter           | sonnig und schwül
+
+Die 4. Feierabend-Radtour startete am Mittwoch den 05. Juli mit acht Radlern. Bei ca. 30° im Schatten war klar, möglichst viel im Wald zu fahren. Es ging
+in die durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei am Zoo, Seuerndieb. Der Bischhofsholer Biergarten kam us gerade recht. Nach einer kurzen Rast ging es wieder zum Machsee und in die Leinemasch. Nach ca. 2,5 Std. und 30 km erreichten wir wieder Hemmingen.
+
+## Familien-Radwandertag am 2.6.
+Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
+![](RWT2019_Karte-1_1.png)
 
 ### Tagestour #2/19 2019-05-26-So
  
