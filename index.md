@@ -136,6 +136,7 @@ section Politik
   09.5 Hem - Auss. Arnum-Mitte : crit,  09.05.19, 1d
   13.5 Hem - Auss. Hochwasserschutz: crit, 13.05.19, 1d
   23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d 
+  27.6 Pat - Aussc. FFW, Verkehr, ... : crit, 27.06.19,1d 
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
