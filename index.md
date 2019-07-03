@@ -60,7 +60,6 @@ Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fa
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
 ### Das Fahrrad braucht mehr Platz
-![](ADFC_MehrPlatzFuersRad_Logo_blau_rgb.png)
 
 Mehr Radverkehr ist die Lösung bei Stau, dicker Luft und Fahrverboten. Steigen mehr Menschen auf das Fahrrad um, ist das gut für alle. Wie das gelingt, zeigt der Allgemeine Deutsche Fahrrad-Club zu seinem 40-jährigen Bestehen mit einer großen, bundesweiten Kampagne. Das Ziel: Mehr Platz fürs Rad - für gute, breite Radwege, sichere Kreuzungen und viel mehr Fahrradparkplätze. Mit Aktionen vor Ort macht der Fahrradclub auf die Platzdebatte im Straßenraum aufmerksam und zeigt, wie dieser Platz fürs Fahrrad, für gute Radwege und für bessere Radfahrbedingungen genutzt werden kann. Weitere Informationen auf [mehrplatzfuersrad.de](http://mehrplatzfuersrad.de ). Hashtag: #MehrPlatzFürsRad.
 
@@ -300,17 +299,16 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 
 
 
-
 ## Was war
 
-### 25 RadelTreff
+### 25. RadelTreff
 
 Der 25. RadelTreff fand am 2. Juli in dem Schulungsraum des Roten Kreuz in der Heinrich-Hertz-Str. 23 in Hemmingen statt.
 Themen war u.a. die Radwegeführung in der Stadtbahn Baustelle. Diese kann sich täglich ändern. Beschwerden bitte direkt in der **infra** Sprechstunde ansprechen, jeden Mittwoch von 15 bis 17 Uhr in ihrem eigens eingerichteten Büro Göttinger Landstr. 44 in Hemmingen-Westerfeld. Es wurde viel über die Benutzung von Schutzstreifen diskutiert. Gewohnheitsfahrer nutzen sie gerne, Gelegenheitsfahrer empfinden sie meist zu schmal. Wir fordern breitere Schutzstreifen mit mehr Abstand zu parkenden Fahrzeugen und zum fließenden Verkehr. Wenn wir Interessiert zu Gewohnheitsfahrer machen wollen, müssen wir nicht nur die objektive, sondern auch die subjektive Sicherheit erhöhen [Nationaler Radverkehrsplan](https://nationaler-radverkehrsplan.de/de/forschung/schwerpunktthemen/subjektive-sicherheit-im-radverkehr). Die [Unfallforschung der Versicherer](https://udv.de/de/strasse/stadtstrasse/radverkehr/radfahrstreifen-und-schutzstreifen) fordert:
 
 - Sicherheitstrennstreifen mit einer Breite von 0,75 m zum ruhenden Verkehr.
 - Radfahr- und Schutzstreifen sollten jeweils mindestens 1,85 m breit sein.
-- Sicherheitstrennstreifen von 0,75 m Breite zur Kfz-Fahrbahn erhalten. 
+- Sicherheitstrennstreifen von 0,75 m Breite zur Kfz-Fahrbahn erhalten.
 - Breite der verbleibenden Restfahrbahn für den Kfz-Verkehr mindestens 5 m.
 
 ### Stadtradeln
