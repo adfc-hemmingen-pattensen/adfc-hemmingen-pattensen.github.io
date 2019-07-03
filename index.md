@@ -31,10 +31,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Aktuelles](#aktuelles)
 > - [Wer sind wir?](#wer-sind-wir)
 > - [Was wird](#was-wird)
->   - 5 Tagestouren in 2019 geplant. 
+>   - 5 Tagestouren in 2019 geplant.
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
 >   - Veränderte Verkehrsführung wegen B3 Neubau
-> - **[Mängelkarte für Hemmingen und Pattensen]**(#unsere-mängelkarte)
+> - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 > - [Was war](#was-war)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 >   -  <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
@@ -50,14 +50,14 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## Wer sind wir?
 
-Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für 
+Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für
 
-1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik) 
-2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit) 
-3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren) 
+1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik)
+2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit)
+3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren)
 4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
 
-Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt. 
+Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
 ### Das Fahrrad braucht mehr Platz
 ![](ADFC_MehrPlatzFuersRad_Logo_blau_rgb.png)
@@ -66,13 +66,13 @@ Mehr Radverkehr ist die Lösung bei Stau, dicker Luft und Fahrverboten. Steigen 
 
 ### ISEK Arnum-Mitte
 
-Die Stadt Hemmingen hat einen 80-seitgen Entwurf zum "Teilräumliches ISEK - Voruntersuchung Arnum Mitte" im Internet bereit gestellt [Drucksache 341/2019](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1202). 
+Die Stadt Hemmingen hat einen 80-seitgen Entwurf zum "Teilräumliches ISEK - Voruntersuchung Arnum Mitte" im Internet bereit gestellt [Drucksache 341/2019](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1202).
 
 Hier eine von vielen Umbaumaßnahmen die angedacht sind.
 
 ![Straßenprofil bei Pizza Pinocchio](2019-02-03_ISEK_Arnum_Profil.png)
 
-Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Eine öffentliche Informationsveranstaltung ist am Mo. 18.02 ab 19:00 in der Wäldchenschule replant. 
+Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Eine öffentliche Informationsveranstaltung ist am Mo. 18.02 ab 19:00 in der Wäldchenschule replant.
 
 > Die ADFC Mitglieder haben auf Ihren 23. RadelTreff in diesem Zusammenhang auch über einen [Shared Space](https://de.wikipedia.org/wiki/Shared_Space) (deutsch: „gemeinsamer Raum“) diskutiert. *Charakteristisch ist dabei die Idee, auf Verkehrszeichen, Signalanlagen und Fahrbahnmarkierungen zu verzichten. Gleichzeitig sollen die Verkehrsteilnehmer vollständig gleichberechtigt werden, wobei die Vorfahrtsregel weiterhin Gültigkeit besitzt. Im Gegensatz zur konventionellen Verkehrsberuhigung soll auch eine Anwendung in Hauptverkehrsstraßen möglich sein. (Wikipedia)*
 
@@ -108,9 +108,10 @@ section FSW
 section Treffen
   23.1 23. Radeltreff  : 23.01.19, 1d
   27.2 24. Radeltreff : 27.02.19, 1d
+  03.7 25. Radeltreff : 03.07.19, 1d
   25.4 Sicher Rad fahren : 25.04.19, 1d
   Landes-Aktiventreffen: 22.11.19, 3d
-  
+
 section Abendtouren
   Feierabendradtouren        :done,       08.05.19, 15.10.19
 
@@ -120,23 +121,24 @@ section Tagestouren
   23.6 Zum Wietzesee 3)            :crit, 23.06.19,1d
   1.9 Hildesheimer-Land 4)         :crit, 01.09.19,1d
   8.9 Motormühle Blumenhagen 5)    :crit, 08.09.19,1d
-  
+
 
 section Stadtradeln
   19.5-08.6 Stadtradeln    : crit, 19.05.19, 08.06.19
   19.5 Sternfahrt          :       19.05.19, 1d
   02.6 Familienradwandertag:       02.06.19, 1d
   07.6 VeloCityNight       :       07.06.19, 1d
+  18.11 Ehrung       :       18.11.19, 1d
 
 section Politik
   14.2-18.3 Auslegung ISEK Arnum: 14.02.19, 18.03.19
-  18.2 Info Veranstaltung ISEK  : crit, 18.02.19, 1d 
+  18.2 Info Veranstaltung ISEK  : crit, 18.02.19, 1d
   25.2 Pat - Bauauss. Abstellanlage : crit, 25.02.19, 1d
   07.3 Hem - VEP2030 2te Version : crit, 07.03.19, 1d
   09.5 Hem - Auss. Arnum-Mitte : crit,  09.05.19, 1d
   13.5 Hem - Auss. Hochwasserschutz: crit, 13.05.19, 1d
-  23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d 
-  27.6 Pat - Aussc. FFW, Verkehr, ... : crit, 27.06.19,1d 
+  23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d
+  27.6 Pat - Aussc. FFW, Verkehr, ... : crit, 27.06.19,1d
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
@@ -149,87 +151,87 @@ section Politik
 Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
 
-### RADTOUR 3 „Durchs grüne Hannover zum Wietzesee“ 
+### RADTOUR 3 „Durchs grüne Hannover zum Wietzesee“
 
-> 23.6., Sonntag, 10.00 Uhr 
+> 23.6., Sonntag, 10.00 Uhr
 
 Die ca. 60 km lange Strecke beginnt am Rathausplatz in Hemmingen und führt uns durch  
-die Hemminger Wiesen, an den Ricklinger Teichen vorbei zum Maschsee. Von dort geht es, 
+die Hemminger Wiesen, an den Ricklinger Teichen vorbei zum Maschsee. Von dort geht es,
 fast immer im Grünen durch die Eilenriede, nach Bischhofshol und Kleefeld zum Pferdeturm.  
-Weiter geht es am Zoo vorbei, über Vier Grenzen in die List. Hier überqueren wir den 
-Mittellandkanal, und fahren weiter zum Silbersee in Langenhagen. Vorbei an der 
-Pferderennbahn Neue Bult kommen wir nach Isernhagen an den Hufeisensee, mit der 
-Möglichkeit zum Picknick oder Einkehr. Nach einer ausreichenden Pause fahren wir weiter 
-zum Wietzesee, am Golfplatz vorbei, zum Waldkater. Hier kehren wir um und fahren zurück 
-durch die Felder der Isernhagener Bauernschaften zum Altwarmbüchener See. Dort machen 
-wir eine weitere Pause. Anschließend fahren wir weiter durch den Misburger Wald und 
-kommen wieder an den Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang biegen 
-wir ab, fahren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den 
-Hermann-Löns-Park mit der Alten Mühle. Zurück geht es wieder vorbei am Maschsee, den 
-Ricklinger Teichen nach Hemmingen. 
+Weiter geht es am Zoo vorbei, über Vier Grenzen in die List. Hier überqueren wir den
+Mittellandkanal, und fahren weiter zum Silbersee in Langenhagen. Vorbei an der
+Pferderennbahn Neue Bult kommen wir nach Isernhagen an den Hufeisensee, mit der
+Möglichkeit zum Picknick oder Einkehr. Nach einer ausreichenden Pause fahren wir weiter
+zum Wietzesee, am Golfplatz vorbei, zum Waldkater. Hier kehren wir um und fahren zurück
+durch die Felder der Isernhagener Bauernschaften zum Altwarmbüchener See. Dort machen
+wir eine weitere Pause. Anschließend fahren wir weiter durch den Misburger Wald und
+kommen wieder an den Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang biegen
+wir ab, fahren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den
+Hermann-Löns-Park mit der Alten Mühle. Zurück geht es wieder vorbei am Maschsee, den
+Ricklinger Teichen nach Hemmingen.
 
 > **Dauer:** ca. 6-7 Std., bitte ausreichende Verpflegung mitnehmen! Einkehrmöglichkeiten sind unterwegs vorhanden.  
-> **Führung:** Dirk Härtel, Günther Kleinod, Helmut Krause, Jochen Lemke (ADFC 
+> **Führung:** Dirk Härtel, Günther Kleinod, Helmut Krause, Jochen Lemke (ADFC
 Hemmingen/Pattensen)  
 > **Treffpunkt:** Hemmingen, Am Rathausplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
 > **Anmeldung:** Nicht erforderlich, weitere Infos unter 05101-4164. Die Tour ist kostenlos.
 
-### RADTOUR 4 für Geübte „Unterwegs im Hildesheimer-Land“ 
+### RADTOUR 4 für Geübte „Unterwegs im Hildesheimer-Land“
 
-> 1.9., Sonntag, 10 Uhr 
+> 1.9., Sonntag, 10 Uhr
 
-Die ca. 65 km lange Strecke, führt uns vom „Reiterdorf Koldingen“ nach Ruthe, wo wir das 
-„Landwirtschaftliche Versuchsgut“ sehen, weiter zur Innerstebrücke. 
-Danach verlassen wir die Straße und radeln auf dem Innerste-Radweg weiter zum Bahnhof 
+Die ca. 65 km lange Strecke, führt uns vom „Reiterdorf Koldingen“ nach Ruthe, wo wir das
+„Landwirtschaftliche Versuchsgut“ sehen, weiter zur Innerstebrücke.
+Danach verlassen wir die Straße und radeln auf dem Innerste-Radweg weiter zum Bahnhof
 Sarstedt, den wir unterqueren.  
-Weiter geht es ein kurzes Stück durch die Altstadt, wieder zum Innerste-Radweg an der 
-sehenswerten „Malzfeldt-Mühle“ vorbei. Wir überqueren ein Wehr, verlassen den Fluss und 
-radeln am „Bruchgraben“ entlang, unterqueren die Bundesstraße und fahren weiter nach 
-Ahrbergen und Giesen. Wir sehen das Naturschutzgebiet „Giesener Berge“, welches nur zu 
-Fuß erkundet werden kann. 
-Weiter geht es auf dem Innerste-Radweg durch das grüne Hildesheim, vorbei am schönen 
-„Hohnsensee“ bis zur „Domäne Marienburg“. Dort gibt es Einkehrmöglichkeit im sehr schön 
-gelegenen „Domänencafé“. 
-Nachdem wir uns gestärkt haben, fahren wir in westlicher Richtung nach Söhre, wo wir ein 
-Stück auf dem „Bahntrassen-Radweg“ fahren und dann weiter zum „Kloster Marienrode“ 
-radeln. Dann geht es hinauf in den Hildesheimer Wald, an den Boschwerken vorbei und 
-durch den Wald bis nach Sorsum. Von dort geht es bergab nach Groß Escherde und weiter 
-nach Heyersum und Rössing, wo wir am „Wasserschloss“ vorbeifahren. Von Rössing fahren 
-wir durch das sehenswerte „Dorf Barnten“. Nun geht es durch die Giftener Seenplatte nach 
-Schliekum und Ruthe. Noch ein paar km, dann sind wir wieder am Ausgangspunkt in 
+Weiter geht es ein kurzes Stück durch die Altstadt, wieder zum Innerste-Radweg an der
+sehenswerten „Malzfeldt-Mühle“ vorbei. Wir überqueren ein Wehr, verlassen den Fluss und
+radeln am „Bruchgraben“ entlang, unterqueren die Bundesstraße und fahren weiter nach
+Ahrbergen und Giesen. Wir sehen das Naturschutzgebiet „Giesener Berge“, welches nur zu
+Fuß erkundet werden kann.
+Weiter geht es auf dem Innerste-Radweg durch das grüne Hildesheim, vorbei am schönen
+„Hohnsensee“ bis zur „Domäne Marienburg“. Dort gibt es Einkehrmöglichkeit im sehr schön
+gelegenen „Domänencafé“.
+Nachdem wir uns gestärkt haben, fahren wir in westlicher Richtung nach Söhre, wo wir ein
+Stück auf dem „Bahntrassen-Radweg“ fahren und dann weiter zum „Kloster Marienrode“
+radeln. Dann geht es hinauf in den Hildesheimer Wald, an den Boschwerken vorbei und
+durch den Wald bis nach Sorsum. Von dort geht es bergab nach Groß Escherde und weiter
+nach Heyersum und Rössing, wo wir am „Wasserschloss“ vorbeifahren. Von Rössing fahren
+wir durch das sehenswerte „Dorf Barnten“. Nun geht es durch die Giftener Seenplatte nach
+Schliekum und Ruthe. Noch ein paar km, dann sind wir wieder am Ausgangspunkt in
 Koldingen. Dort schauen wir uns das „Schloss Amtssitz Coldingen“ an.
 
 > **Dauer:** ca. 7-8 Std., ausreichende Verpflegung bitte mitnehmen!  
-> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC 
+> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC
 Hemmingen/Pattensen)  
 > **Treffpunkt:** Koldingen, Am Lindenplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
 > **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979. Die Tour ist kostenlos.
 
 
-### RADTOUR 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende 
+### RADTOUR 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
 
-> Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr 
+> Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
 
-Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals 
-Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km 
-oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine 
-Auflademöglichkeit für Pedelecs vorhanden 
-Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei 
-anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt) 
-Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter 
-Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach 
-ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb 
-besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für 
-Bahnfahrende eigenständig nach Dolbergen. 
-Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden) 
+Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals
+Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km
+oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine
+Auflademöglichkeit für Pedelecs vorhanden
+Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei
+anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt)
+Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter
+Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach
+ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb
+besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für
+Bahnfahrende eigenständig nach Dolbergen.
+Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
 
 
-> **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende 
+> **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
 Verpflegung mitnehmen!  
 > **Führung:** Dirk Härtel, (0511)-4104749 (mit AB).  
 > **Treffpunkt:** Hemmingen, Rathausplatz 1, rechtzeitig zur Abfahrt um 9.00 Uhr.  
 > **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.
- 
+
 
 ## Tipps und Nachrichten
 
@@ -301,6 +303,16 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 
 ## Was war
 
+### 25 RadelTreff
+
+Der 25. RadelTreff fand am 2. Juli in dem Schulungsraum des Roten Kreuz in der Heinrich-Hertz-Str. 23 in Hemmingen statt.
+Themen war u.a. die Radwegeführung in der Stadtbahn Baustelle. Diese kann sich täglich ändern. Beschwerden bitte direkt in der **infra** Sprechstunde ansprechen, jeden Mittwoch von 15 bis 17 Uhr in ihrem eigens eingerichteten Büro Göttinger Landstr. 44 in Hemmingen-Westerfeld. Es wurde viel über die Benutzung von Schutzstreifen diskutiert. Gewohnheitsfahrer nutzen sie gerne, Gelegenheitsfahrer empfinden sie meist zu schmal. Wir fordern breitere Schutzstreifen mit mehr Abstand zu parkenden Fahrzeugen und zum fließenden Verkehr. Wenn wir Interessiert zu Gewohnheitsfahrer machen wollen, müssen wir nicht nur die objektive, sondern auch die subjektive Sicherheit erhöhen [Nationaler Radverkehrsplan](https://nationaler-radverkehrsplan.de/de/forschung/schwerpunktthemen/subjektive-sicherheit-im-radverkehr). Die [Unfallforschung der Versicherer](https://udv.de/de/strasse/stadtstrasse/radverkehr/radfahrstreifen-und-schutzstreifen) fordert:
+
+- Sicherheitstrennstreifen mit einer Breite von 0,75 m zum ruhenden Verkehr.
+- Radfahr- und Schutzstreifen sollten jeweils mindestens 1,85 m breit sein.
+- Sicherheitstrennstreifen von 0,75 m Breite zur Kfz-Fahrbahn erhalten. 
+- Breite der verbleibenden Restfahrbahn für den Kfz-Verkehr mindestens 5 m.
+
 ### Stadtradeln
 
 Das Stadtradeln 2019 began am So. 26. Mai 2019. Erneut haben die Kommunen Hemmingen und Pattensen an der dreiwöchigen Aktion vom 26. Mai bis 8. Juni teilgenommen. Die Teilnehmer Konnten die gefahrenen Kilometer zählen und Ihren Kommunen gutschreiben. Mehr auf der Seite [https://www.stadtradeln.de/](https://www.stadtradeln.de/).
@@ -311,12 +323,12 @@ Das Stadtradeln 2019 began am So. 26. Mai 2019. Erneut haben die Kommunen Hemmin
 ### Velo City Night
 
 Als diesjährige Besonderheit fand währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
-Die Velo City Night began um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgte auf einer kleinen Bühne für Musik. Der Start begann um 20:00 führte nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Ca. 300 Radfahrende haben teilgenommen. 
+Die Velo City Night began um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgte auf einer kleinen Bühne für Musik. Der Start begann um 20:00 führte nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Ca. 300 Radfahrende haben teilgenommen.
 
 ### Abendtour #4/19 2019-06-05-Mi.
- 
+
 Tourenziel       | Maschsee, Eilenriede
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-06-05-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -334,9 +346,9 @@ Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
 ![](RWT2019_Karte-1_1.png)
 
 ### Tagestour #2/19 2019-05-26-So
- 
-Tourenziel       | „Fluss-Seen-Wälder-Klöster“ 
----------------: | ----------------------- 
+
+Tourenziel       | „Fluss-Seen-Wälder-Klöster“
+---------------: | -----------------------
 Datum            | 2019-05-26-So
 Tourenrart       | Tagestour
 Tourenleiter     | Günther Kleinod
@@ -346,22 +358,22 @@ Start            | Pattensen, Rathausplatz 1, 10:00
 Dauer [Stunden]  | ca. 6 - 7
 Teilnehmerzahl   | 31
 Tourenlänge [km] | 55 - 70
-Wetter           | 18° Sonne + Wolken 
+Wetter           | 18° Sonne + Wolken
 
-Die Radtour begann mit einer organisierten Anfahrt von Hemmingen über Arnum nach Pattensen. Um 10:00 starteten dann 31 Radler am Neuen Rathaus in Pattensen. Von dort 
-fuhren wir in südlicher Richtung auf guten Wirtschaft-und Fahrradwegen über Jeinsen  nach Schulenburg. Dort durchquerten wir den Ort und fuhren unterhalb des Marienberges ein Stück auf dem Leine-Heide-Radweg, überquerten die Leine und fuhren vor Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen. 
+Die Radtour begann mit einer organisierten Anfahrt von Hemmingen über Arnum nach Pattensen. Um 10:00 starteten dann 31 Radler am Neuen Rathaus in Pattensen. Von dort
+fuhren wir in südlicher Richtung auf guten Wirtschaft-und Fahrradwegen über Jeinsen  nach Schulenburg. Dort durchquerten wir den Ort und fuhren unterhalb des Marienberges ein Stück auf dem Leine-Heide-Radweg, überquerten die Leine und fuhren vor Nordstemmen durch ein kleines Seen-Gebiet nach Wülfingen.
 Nachdem wir ein kurzes Stück entlang der B3 fahren mussten, bogen wir auf einen asphaltierten Wirtschaftsweg ab und erreichten den Ort Wittenburg. Dort fuhren wir steil hinauf zum „Augustiner Kloster Wittenburg“ mit seiner wuchtigen, ca. 700 Jahre alten Klosterkirche. Der weite Blick über das Land entschädigte für den steilen Anstieg.
 Nun ging es weiter am Rande des Osterwaldes zum sehenswerten „Klostergut Wülfinghausen“. Wir durchquerten es und radelten danach auf einem sehr schönen Weg am Waldrand weiter zum „Cafe Am Waldkater“. Dort hatten wir uns eine Einkehr redlich verdient. Es war ein gemütlicher Biergarten mit herrlicher Aussicht.
-Danach radelten wir am Nordrand des Osterwaldes zum „Forsthaus Fahrensen“ und fuhren durch den idyllischen Osterwald vorbei am „Waldrestaurant Holzmühle“. 
+Danach radelten wir am Nordrand des Osterwaldes zum „Forsthaus Fahrensen“ und fuhren durch den idyllischen Osterwald vorbei am „Waldrestaurant Holzmühle“.
 Innerhalb der Wildschweingehege-Mauer, am Rande des „Kleinen Deisters“, radelten wir, ab jetzt mit Rückenwind, weiter nach Eldagsen und fuhren dann auf der ehemaligen Landstraße weiter nach Mittelrode, wo wir nicht ohne anzuhalten an dem rustikalen „Bauerncafe Mittelrode“ mit Biergarten vorbeikamen.
 Gut gestärkt, mit Kaffee und Kuchen, geht es auf die letzte Etappe unserer Rundtour in nordöstlicher Richtung nach Bennigsen und von dort aus über die „Calenberger-Ackerwege“ nach Pattensen zurück.
 Nach ca.6 Std. und 55 km erreichten wir wieder Pattensen. Die Arnumer und Hemminger Radler mussten noch etwas weiterfahren und kamen so auf ca. 70 km für das Stadtradeln.
 
 
 ### Tagestour #1/19 2019-05-12-S0
- 
+
 Tourenziel       | Rund um den Blauen See
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-05-12-So
 Tourenrart       | Tagestour
 Tourenleiter     | Dirk Härtel
@@ -369,22 +381,22 @@ Start            | Hemmingen, Rathausplatz 1, 10:00
 Dauer [Stunden]  | ca. 5 1/2
 Teilnehmerzahl   | 12
 Tourenlänge [km] | 60
-Wetter           | 12° Sonne + Wolken 
-   
-Die Tour Zum Blauen See nach Garbsen startete mit 13 Radlern bei kühlen Wetterbedingungen, Temperaturen um die 12°, aber sonnig. 
-Wir überquerten die neue B3, leider über die 3 Kreisel, und fuhren durch Wettbergen und Empelde. Mit einer leichten Steigung ging 
-es zum Benther Berg. Von dort radelten wir weiter durch Velber, vorbei an der Gedenkstätte nach Ahlem. Danach erreichten wir den 
-Mittellandkanal und fuhren direkt am Kanal entlang Richtung Westen, vorbei an Seelze, bis nach Lohnde. Dort überquerten wir den 
-Kanal und die Leine und erreichten den Blauen See. Direkt am See, auf einer Aussichtsterrasse konnten wir picknicken. Nach einer 
-kurzweiligen Pause traten wir den Rückweg an. Es ging an Alt-Garbsen vorbei, durch die Leinewiesen zum Wasserstrassenkreuz von Leine 
-und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an der Klosterkirche, durch den Hinüberschen Garten nach 
-Stöcken und von dort über Letter wieder an den Stichkanal. An Leine und Ihme entlang fuhren wir zurück. Nach ca. 5 1/2 Stunden und 
-knapp 60 km kamen wir gut gelaunt in Hemmingen an. 
+Wetter           | 12° Sonne + Wolken
+
+Die Tour Zum Blauen See nach Garbsen startete mit 13 Radlern bei kühlen Wetterbedingungen, Temperaturen um die 12°, aber sonnig.
+Wir überquerten die neue B3, leider über die 3 Kreisel, und fuhren durch Wettbergen und Empelde. Mit einer leichten Steigung ging
+es zum Benther Berg. Von dort radelten wir weiter durch Velber, vorbei an der Gedenkstätte nach Ahlem. Danach erreichten wir den
+Mittellandkanal und fuhren direkt am Kanal entlang Richtung Westen, vorbei an Seelze, bis nach Lohnde. Dort überquerten wir den
+Kanal und die Leine und erreichten den Blauen See. Direkt am See, auf einer Aussichtsterrasse konnten wir picknicken. Nach einer
+kurzweiligen Pause traten wir den Rückweg an. Es ging an Alt-Garbsen vorbei, durch die Leinewiesen zum Wasserstrassenkreuz von Leine
+und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an der Klosterkirche, durch den Hinüberschen Garten nach
+Stöcken und von dort über Letter wieder an den Stichkanal. An Leine und Ihme entlang fuhren wir zurück. Nach ca. 5 1/2 Stunden und
+knapp 60 km kamen wir gut gelaunt in Hemmingen an.
 
 ### Abendtour #2/19 2019-05-21-Mi.
- 
+
 Tourenziel       | Anderter Schleuse u. Kronsberg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-05-21-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
@@ -399,9 +411,9 @@ Die 2. Feierabend-Radtour ging am Mittwoch den 21. Juni mit 8 Radlern (5 Herren 
 
 
 ### Abendtour #1/19 2019-05-08-Mi.
- 
+
 Tourenziel       | Maschsee, Eilenriede, Leinemasch
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-05-08-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Dirk Härtel
@@ -411,10 +423,10 @@ Teilnehmerzahl   | 3
 Tourenlänge [km] | 20
 Wetter           | bedrohliche Regenwolken
 
-Die 1. Feierabend-Radtour 2019 ging mit 3 Radlern bei dunklen Wolken durch das Ricklinger Holz zum Maschsee. Durch den Rathauspark 
-in Hannover, vorbei am Maschteich fuhren wir weiter auf einer Fahrradstrasse bis zum Döhrener Turm. Weiter in die Eilenriede, durch 
-Waldheim, Seelhorst und Döhren. Danach kamen wir durch den Wiehegraben, überquerten die Leine und fuhren durch die Leinemasch. Am Schwarzen 
-Weg machten wir einen Abstecher zu den Döhrener Teichen mit einer kleinen Insel. Von dort ging es zurück über den Johann-Duve-Weg. 
+Die 1. Feierabend-Radtour 2019 ging mit 3 Radlern bei dunklen Wolken durch das Ricklinger Holz zum Maschsee. Durch den Rathauspark
+in Hannover, vorbei am Maschteich fuhren wir weiter auf einer Fahrradstrasse bis zum Döhrener Turm. Weiter in die Eilenriede, durch
+Waldheim, Seelhorst und Döhren. Danach kamen wir durch den Wiehegraben, überquerten die Leine und fuhren durch die Leinemasch. Am Schwarzen
+Weg machten wir einen Abstecher zu den Döhrener Teichen mit einer kleinen Insel. Von dort ging es zurück über den Johann-Duve-Weg.
 Nach knapp 2 Std. und 20 km erreichten wir Hemmingen vor dem angekündigten Regen.
 
 ### 24. Radeltreff
