@@ -41,7 +41,14 @@ function validatePass(){
 ### Schadenmeldungen
 
 - Hemmingen: [Schadenmeldungen](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
-  - Stadtbahn Baustelle: Infrastrukturgesellschaft (Infra) Region Hannover, Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr im Büro Göttinger Landstraße 44 (neben Volksbank) in Hemmingen-Westerfeld.
+  - Radwegeführung Stadtbahnbaustelle
+
+> Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße > 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
+> 
+> ![](https://i.imgur.com/uFiSpSh.png)
+> 
+> - Info: https://www.infra-hannover.de/hemmingenwesterfeld/
+> - Email: https://www.infra-hannover.de/kontakt/
 - Pattensen:
 [Ideen-Anregungen-Beschwerden](https://www.pattensen.de/B%C3%BCrger-Familie/Ideen-Anregungen-Beschwerden)
 - Hannover: [Ideen und Beschwerden](https://e-government.hannover-stadt.de/impulsweb.nsf/)
