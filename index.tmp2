@@ -92,52 +92,56 @@ Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Ein
 ```mermaid
 gantt
   title ADFC Hemmingen/Pattensen 2019
-  dateFormat  DD.MM.YY
+#  dateFormat  DD.MM.YY
+  dateFormat  YYYY-MM-DD
 
 section Ferien&Co
-  Osterferien :done,        08.04.19, 23.04.19
-  Ramadan     :active,done, 06.05.19, 04.06.19
-  Sommerferien:done,        04.07.19, 14.08.19
-  Herstferien :done,        04.10.19, 18.10.19
+  Osterferien :done,        2019-04-08, 2019-04-23
+  Ramadan     :active,done, 2019-05-06, 2019-06-04
+  Sommerferien:done,        2019-07-04, 2019-08-14
+  Herstferien :done,        2019-10-04, 2019-08-18
 
 section FSW
-  Fahrrad-Selbsthilfe-Werkstatt :crit,active, 08.01.19, 17.12.19
-  Fahrradcheck des ADFC         : 14.05.19, 1d
+  Fahrrad-Selbsthilfe-Werkstatt :crit,active, 2019-01-08, 2019-12-17
+  Fahrradcheck des ADFC         : 2019-05-14, 1d
 
 section Treffen
-  23.1 23. Radeltreff  : 23.01.19, 1d
-  27.2 24. Radeltreff : 27.02.19, 1d
-  03.7 25. Radeltreff : 03.07.19, 1d
-  25.4 Sicher Rad fahren : 25.04.19, 1d
-  Landes-Aktiventreffen: 22.11.19, 3d
+  23.1 23. Radeltreff  : 2019-01-23, 1d
+  27.2 24. Radeltreff : 2019-02-27, 1d
+  03.7 25. Radeltreff : 2019-07-03, 1d
+  25.4 Sicher Rad fahren : 2019-04-25, 1d
+  Landes-Aktiventreffen: 2019-11-22, 3d
 
 section Abendtouren
-  Feierabendradtouren        :done,       08.05.19, 15.10.19
+Feierabendradtouren        :done,       2019-05-08, 2019-10-15
 
 section Tagestouren
-  12.5 Zum Blauen See 1)           :crit, 12.05.19,1d
-  26.5 Fluss-Seen-Wälder-Klöster 2):crit, 26.05.19,1d
-  23.6 Zum Wietzesee 3)            :crit, 23.06.19,1d
-  1.9 Hildesheimer-Land 4)         :crit, 01.09.19,1d
-  8.9 Motormühle Blumenhagen 5)    :crit, 08.09.19,1d
+  12.5 Zum Blauen See 1)           :crit, 2019-05-12,1d
+  26.5 Fluss-Seen-Wälder-Klöster 2):crit, 2019-05-26,1d
+  23.6 Zum Wietzesee 3)            :crit, 2019-06-23,1d
+  1.9 Hildesheimer-Land 4)         :crit, 2019-09-01,1d
+  8.9 Motormühle Blumenhagen 5)    :crit, 2019-09-08,1d
 
 
 section Stadtradeln
-  19.5-08.6 Stadtradeln    : crit, 19.05.19, 08.06.19
-  19.5 Sternfahrt          :       19.05.19, 1d
-  02.6 Familienradwandertag:       02.06.19, 1d
-  07.6 VeloCityNight       :       07.06.19, 1d
-  18.11 Ehrung       :       18.11.19, 1d
+  19.5-08.6 Stadtradeln    : crit, 2019-05-19, 2019-06-08
+  19.5 Sternfahrt          :       2019-05-19, 1d
+  02.6 Familienradwandertag:       2019-06-02, 1d
+  07.6 VeloCityNight       :       2019-06-07, 1d
+  18.11 Ehrung       :       2019-11-18, 1d
 
 section Politik
-  14.2-18.3 Auslegung ISEK Arnum: 14.02.19, 18.03.19
-  18.2 Info Veranstaltung ISEK  : crit, 18.02.19, 1d
-  25.2 Pat - Bauauss. Abstellanlage : crit, 25.02.19, 1d
-  07.3 Hem - VEP2030 2te Version : crit, 07.03.19, 1d
-  09.5 Hem - Auss. Arnum-Mitte : crit,  09.05.19, 1d
-  13.5 Hem - Auss. Hochwasserschutz: crit, 13.05.19, 1d
-  23.5 Antrag Förderungsprogramm ISEK : crit, 23.05.19,1d
-  27.6 Pat - Aussc. FFW, Verkehr, ... : crit, 27.06.19,1d
+  14.2-18.3 Auslegung ISEK Arnum: 2019-02-14, 2019-03-18
+  18.2 Info Veranstaltung ISEK  : crit, 2019-02-18, 1d
+  25.2 Pat - Bauauss. Abstellanlage : crit, 2019-02-25, 1d
+  07.3 Hem - VEP2030 2te Version : crit, 2019-03-07, 1d
+  09.5 Hem - Auss. Arnum-Mitte : crit,  2019-05-09, 1d
+  13.5 Hem - Auss. Hochwasserschutz: crit, 2019-05-13, 1d
+  23.5 Antrag Förderungsprogramm ISEK : crit, 2019-05-23,1d
+  27.6 Pat - Auss. FFW, Verkehr, ... : crit, 2019-06-27,1d
+  15.8 Hem - Auss. AG Radverkehr & ISEC : crit, 2019-08-15,1d
+  19.9 Pat - Auss. Verkehr : crit, 2019-09-19,1d
+  20.9 Parking Day - globalen Klimastreik : crit, 2019-09-20,1d
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
@@ -148,32 +152,6 @@ section Politik
 ![](MittwochLogo200.png)
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-
-
-### RADTOUR 3 „Durchs grüne Hannover zum Wietzesee“
-
-> 23.6., Sonntag, 10.00 Uhr
-
-Die ca. 60 km lange Strecke beginnt am Rathausplatz in Hemmingen und führt uns durch  
-die Hemminger Wiesen, an den Ricklinger Teichen vorbei zum Maschsee. Von dort geht es,
-fast immer im Grünen durch die Eilenriede, nach Bischhofshol und Kleefeld zum Pferdeturm.  
-Weiter geht es am Zoo vorbei, über Vier Grenzen in die List. Hier überqueren wir den
-Mittellandkanal, und fahren weiter zum Silbersee in Langenhagen. Vorbei an der
-Pferderennbahn Neue Bult kommen wir nach Isernhagen an den Hufeisensee, mit der
-Möglichkeit zum Picknick oder Einkehr. Nach einer ausreichenden Pause fahren wir weiter
-zum Wietzesee, am Golfplatz vorbei, zum Waldkater. Hier kehren wir um und fahren zurück
-durch die Felder der Isernhagener Bauernschaften zum Altwarmbüchener See. Dort machen
-wir eine weitere Pause. Anschließend fahren wir weiter durch den Misburger Wald und
-kommen wieder an den Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang biegen
-wir ab, fahren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den
-Hermann-Löns-Park mit der Alten Mühle. Zurück geht es wieder vorbei am Maschsee, den
-Ricklinger Teichen nach Hemmingen.
-
-> **Dauer:** ca. 6-7 Std., bitte ausreichende Verpflegung mitnehmen! Einkehrmöglichkeiten sind unterwegs vorhanden.  
-> **Führung:** Dirk Härtel, Günther Kleinod, Helmut Krause, Jochen Lemke (ADFC
-Hemmingen/Pattensen)  
-> **Treffpunkt:** Hemmingen, Am Rathausplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, weitere Infos unter 05101-4164. Die Tour ist kostenlos.
 
 ### RADTOUR 4 für Geübte „Unterwegs im Hildesheimer-Land“
 
@@ -297,9 +275,75 @@ Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sa
 siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
-
-
 ## Was war
+
+### Abendtour 11/19 2019-08-07-Mi.
+
+Tourenziel       | Giftener See
+---------------: | -----------------------
+Datum            | 2019-08-07-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 10
+Tourenlänge [km] | 42
+Wetter           | heiter bis wolkig
+
+Die 11. Feierabend-Radtour startete am Mittwoch den  8. August mit 10 Radlern. Wir fuhren durch die Leinemasch nach Rethen zu den Koldinger Teichen.
+In Ruthe erreichten wir den Welfen Weg, der direkt an der Leine entlang führt. Vorbei an Schliekum ging es zu den Giftener Seen. Nach einer kurzen Pause fuhren wir weiter nach Jeinsen, Örie und Hüpede. In Pattensen fuhren wir durch das Fachsbachtal nach Reden, Harkenbleck und Wilkenburg. Nach ca. 3 Std. und 42 km erreichten wir wieder Hemmingen.
+
+### Abendtour #10/19 2019-07-17-Mi.
+
+Tourenziel       | Benther Berg, Lindener Berg
+---------------: | -----------------------
+Datum            | 2019-07-17-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk, Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 13
+Tourenlänge [km] | 28
+Wetter           | heiter bis wolkig
+
+Die 10. Feierabend-Radtour startete am Mittwoch den 17. Juli mit 13 Radlern. Wir fuhren über Ricklingen, Mühlenberg nach Empelde. Weiter ging es nach Benthe und in südlicher Richtung, bei sehr guter Fernsicht, um den Benther Berg herum. Vorbei an Everloh radelten wir am Fuss des Benther Berges wieder nach Norden.
+Auf einigen Schleichwegen ging es dann durch Badenstedt nach Linden, zum Lindener Berg. An der Sternwarte gab es einen kurzen Boxenstop. Der Rückweg ging dann durch Linden und Ricklingen. Nach ca. 2 1/2 Std. und knapp 30 km erreichten wir wieder Hemmingen. Nach ca. 2,5 Std. und 25 km erreichten wir wieder Hemmingen.
+
+### Abendtour #9/19 2019-07-10-Mi.
+
+Tourenziel       | Gleidingen, Ruthe, Sarstedt
+---------------: | -----------------------
+Datum            | 2019-07-10-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk, Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 33
+Wetter           | heiter bis wolkig
+
+Die 9. Feierabend-Radtour startete am Mittwoch den 10. Juli mit 8 Radlern. Wir fuhren durch die Leinemasch nach Rethen und den Koldiger Teichen. Ein kurzer Abstecher
+nach Gleidingen und Heisede sollte in Ruthe münden. Durch eine Umleitung wurden wir gezwungen über Sarstedt zu fahren. Dort gab es eine kurze Pause mit einem schönen
+Eis. Der Rückweg ging dann an der Innerste entlang nach Ruthe. Weiter ging es durch die Koldinger Teiche nach Koldingen, Reden, Harkenbleck und Wilkenburg. Nach ca. 2,5 Std. und 33 km erreichten wir wieder Hemmingen.
+
+
+### Abendtour #8/19 2019-07-03-Mi.
+
+Tourenziel       | Maschsee, Eilenriede
+---------------: | -----------------------
+Datum            | 2019-07-03-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk, Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 6
+Tourenlänge [km] | 25
+Wetter           | heiter bis wolkig
+
+Die 8. Feierabend-Radtour startete am Mittwoch den 3. Juli mit 6 Radlern. Wir fuhren über Devese nach Ihme-Roloven und weiter nach Vörie. Nach einer kurzen Pause bei den Wasserbüffeln und anderen Tieren an dem Naturschutz-Aussichtsturm fuhren wir weiter nach Holtensen. Der Rückweg ging über Lüdersen, an Hiddesdorf vorbei nach Arnum.
+Nach ca. 2,5 Std. und 25 km erreichten wir wieder Hemmingen.
+
+
 
 ### 25. RadelTreff
 
@@ -310,6 +354,73 @@ Themen war u.a. die Radwegeführung in der Stadtbahn Baustelle. Diese kann sich 
 - Radfahr- und Schutzstreifen sollten jeweils mindestens 1,85 m breit sein.
 - Sicherheitstrennstreifen von 0,75 m Breite zur Kfz-Fahrbahn erhalten.
 - Breite der verbleibenden Restfahrbahn für den Kfz-Verkehr mindestens 5 m.
+
+
+### Abendtour #7/19 2019-06-26-Mi.
+
+Tourenziel       | Maschsee, Eilenriede
+---------------: | -----------------------
+Datum            | 2019-06-26-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 32
+Wetter           | sehr warm
+
+Die 7. Feierabend-Radtour startete am Mittwoch den 26. Juli mit acht Radlern. Bei ca. 30° im Schatten war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei am Zoo, Seuerndieb. Der Bischhofsholer Biergarten kam uns gerade recht. Nach einer kurzen Rast ging es wieder zum Machsee und in die Leinemasch. Nach ca. 2,5 Std. und 32 km erreichten wir wieder Hemmingen.
+
+### Tagestour #3/19 2019-06-23-So
+
+Tourenziel       | „Durchs grüne Hannover zum Wietzesee“
+---------------: | -----------------------
+Datum            | 2019-06-23-So
+Tourenrart       | Tagestour
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathausplatz 10:00
+Dauer [Stunden]  | ca. 6 - 7
+Teilnehmerzahl   | 25
+Tourenlänge [km] | 65
+Wetter           | 25° Sonne + Wolken
+
+Die Tour durchs grüne Hannover zum Wietzesee startete bei herrlichem Wetter am Rathausplatz in Hemmingen und führte uns durchs Ricklinger Holz zu den Ricklinger Seen. An der Ihme fuhren wir entlang bis zur Einmündung der Leine.
+Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vorbei fuhren wir weiter auf dem Julius-Trip-Ring, den wir in der List Richtung Norden verliessen. Den Mittellandkanal überquerten wir beim Lister Bad und erreichten den Silbersee. An der Pferderennbahn Neue Bult vorbei kamen wir an die Wietze und wenig später zum Hufeisensee. Der Biergarten und der Sandstrand luden zum Picknick ein. Nach einer kurzweiligen Pause fuhren wir weiter zum Wietzesee, nach Hainhaus und durch einen Golfplatz. Kurz vor dem Waldkater verliessen wir die Wietze und bogen nach Osten Richtung Isernhagen ab. Durch die Felder der Isernhagener Bauernschaften mit einer kurzen Steigung ging es weiter bis nach Altwarmbüchen. Am Altwarmbüchener See hatten wir uns die 2. Pause verdient. Anschließend ging es durchs Misburger Holz zum Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang bogen wir ab und fuhren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den Hermann-Löns-Park mit der Alten Mühle. Eine letzte Pause machten wir am Verein für Rasenspiele. Zurück ging es wieder vorbei am Maschsee und den Ricklinger Teichen. Nach einer sehr schönen Fahrt, auf guten, schattigen Wegen kamen wir gut gelaunt in Hemmingen an, nach ca. 6 1/2 Stunden und 65 km.
+
+### Abendtour #6/19 2019-06-19-Mi.
+
+Tourenziel       | Maschsee, Eilenriede
+---------------: | -----------------------
+Datum            | 2019-06-19-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Dirk, Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 3
+Tourenlänge [km] | 20
+Wetter           | heiter bis wolkig
+
+Die 6. Feierabend-Radtour startete am Mittwoch den 19. Juni mit drei Radlern. Bei ca. 25° fuhren wir gen Westen nach Ihme-Roloven. In der Kükenmühle mussten wir den Biergarten testen. Nach einer kurzweiligen Rast ging es weiter nach Ihme-Roloven und zurück durch das Bürgerholz nach Hemmingen. Die neue B3 zwang uns zu einigen
+Umwegen. Nach ca. 2,5 Std. und 20 km erreichten wir wieder Hemmingen.
+
+
+### Abendtour #5/19 2019-06-12-Mi.
+
+Tourenziel       | Hemmingen
+---------------: | -----------------------
+Datum            | 2019-06-12-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 1,5
+Teilnehmerzahl   | 3
+Tourenlänge [km] | 15
+Wetter           | regnerisch
+
+
+Die 5. Feierabend-Radtour startete am Mittwoch den 12. Juni mit 3 Radlern. Wegen des leichten Regens wurde es eine kurze Tour, durchs Ricklinger Holz, nach Arnum und zurück nach Hemmingen.
+
+
 
 ### Stadtradeln
 
@@ -511,4 +622,4 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-<button onclick="alert('2019-07-03-22h31')">2019-07-03-22h31</button>
+<button onclick="alert('2019-08-14-21h46')">2019-08-14-21h46</button>
