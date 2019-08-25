@@ -324,6 +324,35 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+### Abendtour 13/19 2019-08-21-Mi.
+
+Tourenziel       | Julius-Trip-Ring
+---------------: | -----------------------
+Datum            | 2019-08-21-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 10
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+
+Die 13. Feierabend-Radtour startete am Mittwoch den 21. August mit 10 Radlern zum Julius-Trip-Ring. Die Fahrt ging durch die Leinemasch zum Maschsee. Dort stiegen wir in den Julius-Trip-Ring ein. Weiter ging es durch die Eilenriede, am Pferdeturm vorbei zum Zoo. An Vier Grenzen überquerten wir die Podbi und fuhren auf den Pastor-Jäckel-Weg, Niedersachsenring und dem Hans-Meinecke-Weg nach Hainholz. Vorbei am Berggarten kamen wir zu den Herrenhäuser Gärten. Am Leibnitz Tempel machten wir eine kurze Rast. Auf der Dornröschenbrücke überquerten wir die Leine und fuhren dann an Leine und Ihme entlang zurück. Nach ca. 2 1/2 Stunden flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 32 km Hemmingen.
+
+### Abendtour 12/19 2019-08-14-Mi.
+
+Tourenziel       | Anderten Kronsberg
+---------------: | -----------------------
+Datum            | 2019-08-14-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 14:00
+Dauer [Stunden]  | ca. 5
+Teilnehmerzahl   | 12 / 70
+Tourenlänge [km] | 40
+Wetter           | heiter bis wolkig
+
+Die 12. Feierabend-Radtour startete am Mittwoch den 14. August ausnahmsweise mal um 14:00. Mit 12 Radlern fuhren wir durch die Eilenriede nach Anderten. Dort startete um 15:00 die Sommerradtour der Regionspräsidenten Hauke Jagau. Die Tour, mit dann 70 Teilnehmern, ging dann über den Kronsberg, wo der erste Stopp am geplanten „essbaren Rastplatz“ eingelegt wurde. Nach einer kurzen Pause fuhren wir weiter durch Laatzen nach Grasdorf zur Freien Martinsschule. Hier gab es eine Führung mit Erfrischung. Anschließend fuhren wir durch die Leinemasch nach Hemmingen. Im Sundern gab es eine Besichtigung des Mausoleums des Grafen Carl von Alten. Der Nachmittag klangt im Strandbad in Hemmingen aus. 
 
 ### Abendtour 11/19 2019-08-07-Mi.
 
