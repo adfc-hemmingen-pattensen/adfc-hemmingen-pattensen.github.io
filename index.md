@@ -167,6 +167,7 @@ section Tagestouren
   26.5 Fluss-Seen-Wälder-Klöster 2):crit, 2019-05-26,1d
   23.6 Zum Wietzesee 3)            :crit, 2019-06-23,1d
   1.9 Hildesheimer-Land 4)         :crit, 2019-09-01,1d
+  8.9 Motormühle Blumenhagen 5)    :crit, 2019-09-08,1d
 
 section Stadtradeln
   19.5-08.6 Stadtradeln    : crit, 2019-05-19, 2019-06-08
@@ -230,11 +231,11 @@ Hemmingen/Pattensen)
 > **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979. Die Tour ist kostenlos.
 
 
-### ENTFÄLLT 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
+### 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
 
-> Die Tour und die Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals muss aus organisatorischen Gründen leider entfallen. Wir bitten den Ausfall zu entschuldigen.
+<!-- Die Tour und die Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals muss aus organisatorischen Gründen leider entfallen. Wir bitten den Ausfall zu entschuldigen.-->
 
-<!-- Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
+Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
 
 Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals
 Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km
@@ -252,9 +253,9 @@ Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
 
 > **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
 Verpflegung mitnehmen!  
-> **Führung:** Dirk Härtel, (0511)-4104749 (mit AB).  
+> **Führung:** Udo Scherer Tel: 01520 9800808
 > **Treffpunkt:** Hemmingen, Rathausplatz 1, rechtzeitig zur Abfahrt um 9.00 Uhr.  
-> **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.-->
+> **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.
 
 
 ## Tipps und Nachrichten
