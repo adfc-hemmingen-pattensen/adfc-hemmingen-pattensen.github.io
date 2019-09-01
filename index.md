@@ -35,6 +35,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)
 >   - Veränderte Verkehrsführung wegen B3 Neubau
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
+>   - [Direkter Link](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 > - [Was war](#was-war)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 >   -  <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
@@ -47,6 +48,35 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
+
+## Tour 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
+
+<!-- Die Tour und die Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals muss aus organisatorischen Gründen leider entfallen. Wir bitten den Ausfall zu entschuldigen.-->
+
+Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
+
+Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals
+Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km
+oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine
+Auflademöglichkeit für Pedelecs vorhanden
+Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei
+anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt)
+Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter
+Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach
+ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb
+besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für
+Bahnfahrende eigenständig nach Dolbergen.
+Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
+
+> **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
+Verpflegung mitnehmen!  
+> **Führung:** Udo Scherer Tel: 01520 9800808
+> **Treffpunkt:** Hemmingen, Rathausplatz 1, rechtzeitig zur Abfahrt um 9.00 Uhr.  
+> **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.
+
+## Stadtgespräch auf zwei Rädern: Hemmingen - Fahrradfreundliche Kommune voller Hindernisse?
+
+Hemmingen hat sich auf den Weg zu einer "fahrradfreundlichen Kommune" gemacht. Es liegen jedoch noch einige Hindernisse auf der Wegstrecke, die beim "Stadtgespräch auf zwei Rädern" der Grünen Ortsgruppe erfahrbar gemacht werden sollen. Unter kundiger Führung von zwei Referenten der ADFC-Ortsgruppe Hemmingen/Pattensen ruft die Grüne Ortsgruppe am Montag, den 09.09.19 zu einer gemeinsamen Radtour durch Hemmingen auf. Die Strecke führt uns auf einem Rundkurs vom Strandbad über das alte Dorf nach Wilkenburg, durch den Sundern, das Gewerbegebiet und durch Hemmingen-Westerfeld zurück zum Ausgangspunkt. Wir halten zwischendurch immer wieder an und tauschen uns über die Erfahrungen im Radverkehr aus. Eingeladen sind alle Alltagsradfahrenden und solche, die es werden wollen. Jede*r kommt bitte mit ihrem/seinem eigenen Fahrrad und fährt auf eigene Verantwortung mit. Treffpunkt ist um 18:30 Uhr am Strandbad in Hemmingen. Die gesamte Tour dauert ca. 2 Stunden. Im Anschluss lassen wir das "Stadtgespräch auf zwei Rädern" in geselliger Runde im Seecafé "ShineBar" an der Hohen Bünte 10 ausklingen.
 
 ## Wer sind wir?
 
@@ -157,6 +187,7 @@ section Treffen
   27.2 24. Radeltreff : 2019-02-27, 1d
   03.7 25. Radeltreff : 2019-07-03, 1d
   25.4 Sicher Rad fahren : 2019-04-25, 1d
+  9.9 Stadtgespräch mit Grüne: 2019-09-09, 1d
   Landes-Aktiventreffen: 2019-11-22, 3d
 
 section Abendtouren
@@ -352,7 +383,7 @@ Teilnehmerzahl   | 12 / 70
 Tourenlänge [km] | 40
 Wetter           | heiter bis wolkig
 
-Die 12. Feierabend-Radtour startete am Mittwoch den 14. August ausnahmsweise mal um 14:00. Mit 12 Radlern fuhren wir durch die Eilenriede nach Anderten. Dort startete um 15:00 die Sommerradtour der Regionspräsidenten Hauke Jagau. Die Tour, mit dann 70 Teilnehmern, ging dann über den Kronsberg, wo der erste Stopp am geplanten „essbaren Rastplatz“ eingelegt wurde. Nach einer kurzen Pause fuhren wir weiter durch Laatzen nach Grasdorf zur Freien Martinsschule. Hier gab es eine Führung mit Erfrischung. Anschließend fuhren wir durch die Leinemasch nach Hemmingen. Im Sundern gab es eine Besichtigung des Mausoleums des Grafen Carl von Alten. Der Nachmittag klangt im Strandbad in Hemmingen aus. 
+Die 12. Feierabend-Radtour startete am Mittwoch den 14. August ausnahmsweise mal um 14:00. Mit 12 Radlern fuhren wir durch die Eilenriede nach Anderten. Dort startete um 15:00 die Sommerradtour der Regionspräsidenten Hauke Jagau. Die Tour, mit dann 70 Teilnehmern, ging dann über den Kronsberg, wo der erste Stopp am geplanten „essbaren Rastplatz“ eingelegt wurde. Nach einer kurzen Pause fuhren wir weiter durch Laatzen nach Grasdorf zur Freien Martinsschule. Hier gab es eine Führung mit Erfrischung. Anschließend fuhren wir durch die Leinemasch nach Hemmingen. Im Sundern gab es eine Besichtigung des Mausoleums des Grafen Carl von Alten. Der Nachmittag klangt im Strandbad in Hemmingen aus.
 
 ### Abendtour 11/19 2019-08-07-Mi.
 
