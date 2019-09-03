@@ -55,17 +55,8 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
 
-Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals
-Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km
-oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine
-Auflademöglichkeit für Pedelecs vorhanden
-Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei
-anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt)
-Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter
-Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach
-ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb
-besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für
-Bahnfahrende eigenständig nach Dolbergen.
+Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine Auflademöglichkeit für Pedelecs vorhanden Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt) Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für Bahnfahrende eigenständig nach Dolbergen.
+
 Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
 
 > **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
@@ -217,6 +208,7 @@ section Politik
   23.5 Antrag Förderungsprogramm ISEK : crit, 2019-05-23,1d
   27.6 Pat - Auss. FFW, Verkehr, ... : crit, 2019-06-27,1d
   15.8 Hem - Auss. AG Radverkehr & ISEC : crit, 2019-08-15,1d
+  09.9 Hem - Stadtgespräch/Tour mit Grünen :  crit, 2019-09-09,1d
   19.9 Pat - Auss. Verkehr : crit, 2019-09-19,1d
   20.9 Parking Day - globalen Klimastreik : crit, 2019-09-20,1d
 ```
@@ -355,6 +347,26 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+
+### Tagestour #4/19 2019-09-01-So
+
+Tourenziel       | „Unterwegs im Hildesheimer Land“
+---------------: | -----------------------
+Datum            | 2019-09-01-So
+Tourenrart       | Tagestour
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen, Rathausplatz 1,    9:00
+Start            | Arnum Freibad,                9:25
+Start            | Koldingen, Am Lindenplatz, 10:00
+Dauer [Stunden]  | ca. 7 - 8
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 65 - 80
+Wetter           | 20° Wolken, Sonne und etwas Regen
+
+Die ca. 65 km lange Strecke, führte uns vom Reiterdorf Koldingen“ nach Ruthe, vorbei am „Landwirtschaftlichen Versuchsgut“, weiter zur Innerstebrücke. Danach radelten wir auf dem Innerste-Radweg durch Sarstedt. Vorbei an der sehenswerten „Malzfeldt-Mühle“ fuhren wir auf den Willi-Jaedtke-Weg, überquerten das Wehr, und radelten am „Bruchgraben“ entlang, bis zur B6. Von da ging es weiter, an den Ahrberger Seen vorbei nach Ahrbergen und Giesen. Weiter ging es auf dem Innerste-Radweg durch das grüne Hildesheim, immer an der Innerste entlang, vorbei am schönen „Hohnsensee“ bis zur „Domäne Marienburg“. Im sehr schön gelegenen „Domänencafe“ machten wir Rast. Nach einer längeren Pause, fuhren wir in westlicher Richtung nach Söhre,
+und weiter zum „Kloster Marienrode“. Dann ging es hinauf in den Hildesheimer Wald, an den Boschwerken vorbei und durch den Wald bis nach Sorsum. Von dort geht es bergab nach Groß Escherde und weiter nach Heyersum und Rössing, wo wir das „Wasserschloss“ umrundeten. Von Rössing fahren wir durch das sehenswerte „Dorf Barnten“. Hier hielten wir nochmal an einem Hofcafe an. Leider fing es jetzt an zu regnen. Deshalb ging es nun direkt durch die Giftener Seenplatte nach Schliekum und Ruthe und wieder zurück zum Ausgangspunkt in Koldingen.
+
+
 ### Abendtour 13/19 2019-08-21-Mi.
 
 Tourenziel       | Julius-Trip-Ring
