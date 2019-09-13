@@ -49,26 +49,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-## Tour 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
-
-<!-- Die Tour und die Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals muss aus organisatorischen Gründen leider entfallen. Wir bitten den Ausfall zu entschuldigen.-->
-
-Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
-
-Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine Auflademöglichkeit für Pedelecs vorhanden Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt) Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für Bahnfahrende eigenständig nach Dolbergen.
-
-Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
-
-> **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
-Verpflegung mitnehmen!  
-> **Führung:** Udo Scherer Tel: 01520 9800808
-> **Treffpunkt:** Hemmingen, Rathausplatz 1, rechtzeitig zur Abfahrt um 9.00 Uhr.  
-> **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.
-
-## Stadtgespräch auf zwei Rädern: Hemmingen - Fahrradfreundliche Kommune voller Hindernisse?
-
-Hemmingen hat sich auf den Weg zu einer "fahrradfreundlichen Kommune" gemacht. Es liegen jedoch noch einige Hindernisse auf der Wegstrecke, die beim "Stadtgespräch auf zwei Rädern" der Grünen Ortsgruppe erfahrbar gemacht werden sollen. Unter kundiger Führung von zwei Referenten der ADFC-Ortsgruppe Hemmingen/Pattensen ruft die Grüne Ortsgruppe am Montag, den 09.09.19 zu einer gemeinsamen Radtour durch Hemmingen auf. Die Strecke führt uns auf einem Rundkurs vom Strandbad über das alte Dorf nach Wilkenburg, durch den Sundern, das Gewerbegebiet und durch Hemmingen-Westerfeld zurück zum Ausgangspunkt. Wir halten zwischendurch immer wieder an und tauschen uns über die Erfahrungen im Radverkehr aus. Eingeladen sind alle Alltagsradfahrenden und solche, die es werden wollen. Jede*r kommt bitte mit ihrem/seinem eigenen Fahrrad und fährt auf eigene Verantwortung mit. Treffpunkt ist um 18:30 Uhr am Strandbad in Hemmingen. Die gesamte Tour dauert ca. 2 Stunden. Im Anschluss lassen wir das "Stadtgespräch auf zwei Rädern" in geselliger Runde im Seecafé "ShineBar" an der Hohen Bünte 10 ausklingen.
-
 ## Wer sind wir?
 
 Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für
@@ -214,6 +194,8 @@ section Politik
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
+- 2020-06-07-So. bis 27.-Sa. Stadtradeln 2020
+
 #### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
 
@@ -221,65 +203,6 @@ section Politik
 ![](MittwochLogo200.png)
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-
-### RADTOUR 4 für Geübte „Unterwegs im Hildesheimer-Land“
-
-> 1.9., Sonntag, 10 Uhr
-
-Die ca. 65 km lange Strecke, führt uns vom „Reiterdorf Koldingen“ nach Ruthe, wo wir das
-„Landwirtschaftliche Versuchsgut“ sehen, weiter zur Innerstebrücke.
-Danach verlassen wir die Straße und radeln auf dem Innerste-Radweg weiter zum Bahnhof
-Sarstedt, den wir unterqueren.  
-Weiter geht es ein kurzes Stück durch die Altstadt, wieder zum Innerste-Radweg an der
-sehenswerten „Malzfeldt-Mühle“ vorbei. Wir überqueren ein Wehr, verlassen den Fluss und
-radeln am „Bruchgraben“ entlang, unterqueren die Bundesstraße und fahren weiter nach
-Ahrbergen und Giesen. Wir sehen das Naturschutzgebiet „Giesener Berge“, welches nur zu
-Fuß erkundet werden kann.
-Weiter geht es auf dem Innerste-Radweg durch das grüne Hildesheim, vorbei am schönen
-„Hohnsensee“ bis zur „Domäne Marienburg“. Dort gibt es Einkehrmöglichkeit im sehr schön
-gelegenen „Domänencafé“.
-Nachdem wir uns gestärkt haben, fahren wir in westlicher Richtung nach Söhre, wo wir ein
-Stück auf dem „Bahntrassen-Radweg“ fahren und dann weiter zum „Kloster Marienrode“
-radeln. Dann geht es hinauf in den Hildesheimer Wald, an den Boschwerken vorbei und
-durch den Wald bis nach Sorsum. Von dort geht es bergab nach Groß Escherde und weiter
-nach Heyersum und Rössing, wo wir am „Wasserschloss“ vorbeifahren. Von Rössing fahren
-wir durch das sehenswerte „Dorf Barnten“. Nun geht es durch die Giftener Seenplatte nach
-Schliekum und Ruthe. Noch ein paar km, dann sind wir wieder am Ausgangspunkt in
-Koldingen. Dort schauen wir uns das „Schloss Amtssitz Coldingen“ an.
-
-> **Dauer:** ca. 7-8 Std., ausreichende Verpflegung bitte mitnehmen!  
-> **Führung:** Helmut Krause, Jochen Lemke, Günter Kleinod, Dirk Härtel (ADFC
-Hemmingen/Pattensen)  
-> **Treffpunkt:** Koldingen, Am Lindenplatz, rechtzeitig zur Abfahrt um 10.00 Uhr  
-> **Anmeldung:** Nicht erforderlich, weitere Infos unter 05069-7979. Die Tour ist kostenlos.
-
-
-### 5 „Von Hemmingen zur Motormühle Blumenhagen bei Edemissen“ für sportlich Radfahrende
-
-<!-- Die Tour und die Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals muss aus organisatorischen Gründen leider entfallen. Wir bitten den Ausfall zu entschuldigen.-->
-
-Tag des offenen Denkmals am 8. Sep. 2019, 9.00 Uhr
-
-Besichtigung der historischen Motormühle anlässlich des Tags des offenen Denkmals
-Länge: 50 km einfache Strecke. Rückfahrt möglich als geführte Radtour mit weiteren 50 km
-oder eigenständig per Bahn ab Dolbergen möglich (GVH-Tarif). Bei der Motormühle ist eine
-Auflademöglichkeit für Pedelecs vorhanden
-Charakter: Anspruchsvolle Tour über 50 km (einfach) oder 100 km (Hin- und Rückfahrt) bei
-anspruchsvollem Tempo (2,5 Std. für 50 km sind angesetzt)
-Strecke: Durch die Eilenriede entlang der Güterbahnumgehung geht es durch Lehrte. Hinter
-Ramhorst fahren wir über Arpke und Abbensen durch Edemissen zur Motormühle. Nach
-ausführlichem Genuß von Kaffee und Kuchen kann die Historische Motormühle in Betrieb
-besichtigt werden. Gemeinsam geht es denselben Weg wieder 50 km zurück, bzw. für
-Bahnfahrende eigenständig nach Dolbergen.
-Geeignet nur für sportliche Fahrer (Lademöglichkeit für E-Bikes vorhanden)
-
-
-> **Dauer:** Einfache Fahrt ca. 2,5 Stunden, insgesamt ca. 8-9 Stunden, bitte ausreichende
-Verpflegung mitnehmen!  
-> **Führung:** Udo Scherer Tel: 01520 9800808
-> **Treffpunkt:** Hemmingen, Rathausplatz 1, rechtzeitig zur Abfahrt um 9.00 Uhr.  
-> **Anmeldung:** Nicht erforderlich. Die Tour ist kostenlos.
-
 
 ## Tipps und Nachrichten
 
@@ -347,8 +270,60 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+### Abendtour 15/19 2019-09-11-Mi.
+ 
+Tourenziel       | Rethen, Bockemer Holz
+---------------: | ----------------------- 
+Datum            | 2019-09-11-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 5
+Tourenlänge [km] | 32
+Wetter           | regnerisch
 
-### Tagestour #4/19 2019-09-01-So
+Die 15. Feierabend-Radtour startete am Mittwoch den   11. September mit 5 Radlern bei drohendem Regen. Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede. Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Nach einer kurzen Regenpause traten wir den Rückweg an. Über den Kronsberg ging es durch Laatzen und wieder in die Leinemasch. Nach ca. 2 1/2 Stunden flotter und schöner Fahrt erreichten wir nach 32 km Hemmingen.
+
+### Tagestour 05/19 2019-09-08-So.
+ 
+Tourenziel       | Blumenhagen bei Edemissen
+---------------: | ----------------------- 
+Datum            | 2019-09-08-So
+Tourenrart       | Tagestour
+Tourenleiter     | Udo
+Start            | Hemmingen Rathaus 09:00
+Dauer [Stunden]  | ca. 5:13 
+Teilnehmerzahl   | 3
+Tourenlänge [km] | 116 km
+Wetter           | schönstes Wetter
+
+Drei Muske(l)tiere mit S-Pedelec, Pedelec und vollgefederte, rein bioenergetisch angetriebene Greenmachine, haben bei schönstem Wetter eine sportliche und sehr schöne Tour erlebt sich und den Planer der Tour, der leider nicht mitfahren konnte, in Gästebuch der Motormühle Blumenhagen bei Edemissen verewigt. 
+
+116 km standen am Ende auf der Uhr bei 22,5 km/h Durchschnitt und 5:13 h reine Fahrzeit.
+Alle waren wir rundum zufrieden, insbesondere mit den Ansagen und der Streckenführung durch Google Maps.
+
+![](https://i.imgur.com/xUCeoBP.png)
+
+
+### Abendtour 14/19 2019-09-04-Mi.
+ 
+Tourenziel       | Holtensen, Vörier Berg
+---------------: | ----------------------- 
+Datum            | 2019-09-04-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+
+Die 14. Feierabend-Radtour startete am Mittwoch den 4. September mit 9 Radlern. Bei ca. 20° fuhren wir gen Westen nach Ihme-Roloven, Vörie und Holtensen. An der 
+Holtenser Kirche machten wir eine kurze Rast, bevor es über einen schönen Weg am Pastorenteich vorbeiging. Anschließend fuhren wir auf den Vörier Berg, zum letzten verbliebenen Holtenser Windrad. Nach der Anstrengung hatten wir einen sehr schönen Rundumblick. Weiter fuhren wir dann durch Lüdersen nach Pattensen. Zurück ging es dann durch das Fuchsbachtal über Reden, Harkenbleck nach Hemmingen, das wir nach ca. 2,5 Std. und 32 km erreichten.
+
+
+### Tagestour 4/19 2019-09-01-So
 
 Tourenziel       | „Unterwegs im Hildesheimer Land“
 ---------------: | -----------------------
@@ -491,7 +466,7 @@ Wetter           | sehr warm
 
 Die 7. Feierabend-Radtour startete am Mittwoch den 26. Juli mit acht Radlern. Bei ca. 30° im Schatten war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei am Zoo, Seuerndieb. Der Bischhofsholer Biergarten kam uns gerade recht. Nach einer kurzen Rast ging es wieder zum Machsee und in die Leinemasch. Nach ca. 2,5 Std. und 32 km erreichten wir wieder Hemmingen.
 
-### Tagestour #3/19 2019-06-23-So
+### Tagestour 3/19 2019-06-23-So
 
 Tourenziel       | „Durchs grüne Hannover zum Wietzesee“
 ---------------: | -----------------------
@@ -507,7 +482,7 @@ Wetter           | 25° Sonne + Wolken
 Die Tour durchs grüne Hannover zum Wietzesee startete bei herrlichem Wetter am Rathausplatz in Hemmingen und führte uns durchs Ricklinger Holz zu den Ricklinger Seen. An der Ihme fuhren wir entlang bis zur Einmündung der Leine.
 Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vorbei fuhren wir weiter auf dem Julius-Trip-Ring, den wir in der List Richtung Norden verliessen. Den Mittellandkanal überquerten wir beim Lister Bad und erreichten den Silbersee. An der Pferderennbahn Neue Bult vorbei kamen wir an die Wietze und wenig später zum Hufeisensee. Der Biergarten und der Sandstrand luden zum Picknick ein. Nach einer kurzweiligen Pause fuhren wir weiter zum Wietzesee, nach Hainhaus und durch einen Golfplatz. Kurz vor dem Waldkater verliessen wir die Wietze und bogen nach Osten Richtung Isernhagen ab. Durch die Felder der Isernhagener Bauernschaften mit einer kurzen Steigung ging es weiter bis nach Altwarmbüchen. Am Altwarmbüchener See hatten wir uns die 2. Pause verdient. Anschließend ging es durchs Misburger Holz zum Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang bogen wir ab und fuhren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den Hermann-Löns-Park mit der Alten Mühle. Eine letzte Pause machten wir am Verein für Rasenspiele. Zurück ging es wieder vorbei am Maschsee und den Ricklinger Teichen. Nach einer sehr schönen Fahrt, auf guten, schattigen Wegen kamen wir gut gelaunt in Hemmingen an, nach ca. 6 1/2 Stunden und 65 km.
 
-### Abendtour #6/19 2019-06-19-Mi.
+### Abendtour 6/19 2019-06-19-Mi.
 
 Tourenziel       | Maschsee, Eilenriede
 ---------------: | -----------------------
@@ -524,7 +499,7 @@ Die 6. Feierabend-Radtour startete am Mittwoch den 19. Juni mit drei Radlern. Be
 Umwegen. Nach ca. 2,5 Std. und 20 km erreichten wir wieder Hemmingen.
 
 
-### Abendtour #5/19 2019-06-12-Mi.
+### Abendtour 5/19 2019-06-12-Mi.
 
 Tourenziel       | Hemmingen
 ---------------: | -----------------------
@@ -554,7 +529,7 @@ Das Stadtradeln 2019 began am So. 26. Mai 2019. Erneut haben die Kommunen Hemmin
 Als diesjährige Besonderheit fand währenden des Stadtradeln die [Velo City Night](https://velocitynight.de/07-juni-2019/) am Freitag den 7. Juni in Hemmingen und Pattensen statt.
 Die Velo City Night began um 18:00 auf dem Rathausplatz in Hemmingen. Ein DJ sorgte auf einer kleinen Bühne für Musik. Der Start begann um 20:00 führte nach Pattensen und endet gegen 22:00 wieder in Hemmingen. Ca. 300 Radfahrende haben teilgenommen.
 
-### Abendtour #4/19 2019-06-05-Mi.
+### Abendtour 4/19 2019-06-05-Mi.
 
 Tourenziel       | Maschsee, Eilenriede
 ---------------: | -----------------------
@@ -574,7 +549,7 @@ in die durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei a
 Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
 ![](RWT2019_Karte-1_1.png)
 
-### Tagestour #2/19 2019-05-26-So
+### Tagestour 2/19 2019-05-26-So
 
 Tourenziel       | „Fluss-Seen-Wälder-Klöster“
 ---------------: | -----------------------
@@ -599,7 +574,7 @@ Gut gestärkt, mit Kaffee und Kuchen, geht es auf die letzte Etappe unserer Rund
 Nach ca.6 Std. und 55 km erreichten wir wieder Pattensen. Die Arnumer und Hemminger Radler mussten noch etwas weiterfahren und kamen so auf ca. 70 km für das Stadtradeln.
 
 
-### Tagestour #1/19 2019-05-12-S0
+### Tagestour 1/19 2019-05-12-S0
 
 Tourenziel       | Rund um den Blauen See
 ---------------: | -----------------------
@@ -622,7 +597,7 @@ und Mittellandkanal. Danach fuhren wir über Marienwerder, mit kurzem Stop an de
 Stöcken und von dort über Letter wieder an den Stichkanal. An Leine und Ihme entlang fuhren wir zurück. Nach ca. 5 1/2 Stunden und
 knapp 60 km kamen wir gut gelaunt in Hemmingen an.
 
-### Abendtour #2/19 2019-05-21-Mi.
+### Abendtour 2/19 2019-05-21-Mi.
 
 Tourenziel       | Anderter Schleuse u. Kronsberg
 ---------------: | -----------------------
@@ -639,7 +614,7 @@ Wetter           | heiter bis wolkig
 Die 2. Feierabend-Radtour ging am Mittwoch den 21. Juni mit 8 Radlern (5 Herren und 3 Damen) bei gutem Wetter, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es durch den Herrmann-Löns-Park mit der "Alten Mühle", einer Bockwindmühle, zur Anderter Schleuse. Nach einer kurzen Rast ging es auf den höchsten Punkt des Kronsbergs (118 m ü. NN). Die schöne Aussicht über Hannover und bis zum Brocken entschädigte für den letzten steilen Anstieg. Nach ca. 2,5 Std. und 33 km erreichten wir wieder Hemmingen.
 
 
-### Abendtour #1/19 2019-05-08-Mi.
+### Abendtour 1/19 2019-05-08-Mi.
 
 Tourenziel       | Maschsee, Eilenriede, Leinemasch
 ---------------: | -----------------------
