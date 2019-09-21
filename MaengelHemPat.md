@@ -9,6 +9,10 @@
 
 Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann ein Link zu weiteren Details angezeigt.
 
+### Details in Mängelliste
+
+Die Mängelkarte gibt nur einen groben Überblick. Details und mögliche Maßnahmen sind für Hemmingen in der [Mängelliste](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/) beschrieben.
+
 ### Legende
 
 - <font color="#FF0000">Rot</font> - Gefahr
