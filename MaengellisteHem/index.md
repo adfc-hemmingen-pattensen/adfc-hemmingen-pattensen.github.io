@@ -3,7 +3,7 @@
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 
-## [Mängelliste für Hemmingen](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/MaengellisteHem.html)
+## [Mängelliste für Hemmingen](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem)
 
 > Letzte Änderung: LetzteAenderung  
 > Autor: Jens Spille
@@ -81,6 +81,7 @@ Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereic
  ![](OpenLocationCodesHannover.jpg)
 
 Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9'auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein.
+Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Man kann ihn weglassen, wenn ohnehin klar ist, welchen Ort man meint.
 
 
 # OLC 8P77+W8

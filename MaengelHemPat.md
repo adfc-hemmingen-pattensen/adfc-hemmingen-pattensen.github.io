@@ -11,7 +11,10 @@ Für Details bitte auf die **Markierungen klicken**, im Pop-Up Fenster wird dann
 
 ### Details in Mängelliste
 
-Die Mängelkarte gibt nur einen groben Überblick. Details und mögliche Maßnahmen sind für Hemmingen in der [Mängelliste](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/) beschrieben.
+Die Mängelkarte gibt nur einen groben Überblick. Details und mögliche Maßnahmen sind in den Mängelliste für 
+
+- [Mängelliste Hemmingen](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/) und 
+- [Mängelliste Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengellistePat/) beschrieben.
 
 ### Legende
 
