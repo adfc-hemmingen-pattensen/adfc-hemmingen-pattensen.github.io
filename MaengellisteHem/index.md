@@ -65,6 +65,10 @@ Link zur [Open Location Code](https://plus.codes/9F4F8P9F+J9) Karte.
     - [Orientierungslos am Ortseingang](#orientierungslos-am-ortseingang)
 - [OLC 7M8V+Q4](#olc-7m8vq4)
     - [Radweg an K 227 fehlt](#radweg-an-k-227-fehlt)
+- [OLC 8Q63+HP](#olc-8q63hp)
+    - [Querung Dörrieweg - Kösterecke](#querung-dörrieweg---kösterecke)
+- [OLC 8Q92+PM](#olc-8q92pm)
+    - [Überweg Hotel zur Post](#überweg-hotel-zur-post)
 
 # Open Location Code
 
@@ -472,12 +476,8 @@ kann der nördliche Seitenraum Richtungsbezogen für den Radverkehr freigegeben
 werden.
 
 ### Mögliche Maßnahmen
-Einfädelhilfe
-
-![](8PFG+4G_EinfädelhilfeWunstorf.png)
 
 ### Status
-- 2017-09-25 Jens Spille - Beispiel Einfädelhilfe aus Wunstorf - Koordinaren 52.42882/9.41554 'Am hohen Holz' gegenüber Rübensaftkocherei Reinhold - lecker
 
 # OLC 8PFJ+M8
 ## Berliner Straße - Kreuzung Köllnbringweg/Dorle-und-Albrecht-Heuer-Weg
@@ -612,6 +612,26 @@ Gefahr durch Stürze, besonders entlang der Längskanten.
 
 Der alte kombinierte Rad-/Fußweg an der Wülfeler Str zwischen Wilkenburg und Dorfstr (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
 
+#### Über RADar! wurde eine neue Meldung eingestellt.
+
+ID: 2019-19318
+
+Adresse: Wülfeler Straße, Arnum, Wilkenburg, Region Hannover, Niedersachsen, 30966, Deutschland
+
+Meldungsgrund: Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko
+
+weitere Angaben: 2019-05-27-Mo
+
+#### Über RADar! wurde eine neue Meldung eingestellt.
+
+ID: 2019-19275
+
+Adresse: Wülfeler Straße, Wilkenburg, Region Hannover, Niedersachsen, 30966, Deutschland
+
+Meldungsgrund: Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko
+
+weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Str zwischen Wilkenburg und Dorfstr (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
+
 ### Mögliche Maßnahmen
 Sanierung
 
@@ -718,7 +738,86 @@ Radweg
 
 ### Status
 
+# OLC 8Q63+HP
+## Querung Dörrieweg - Kösterecke
+
+| Kurzbeschreibung | Die Querung Dörrieweg - Kösterecke wird durch einen hohen Bordstein gehindert.               |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#16/52.3111/9.7532) |
+| Einstelldatum    | 2017-09-10                                                                                   |
+| Status           | Ist der Verwaltung bekannt                                                                   |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Wilkenburg - Wülfener Straße (L389) - Kreuzung Dörrieweg - Kösterecke                        |
+| Fahrtrichtung    | Von Dörrieweg zur Kösterecke                                                                 |
+| Verantwortlich   | Region                                                                                       |
+
+### Ist Zustand/Mangel/Gefahr
+Radfahrer die, die Wülfeler Straße (L 389) queren wollen, können entweder den Fußgängerüberweg "schiebend" benutzen, da diese
+ eine Fußgängerstreuscheibe besitzt, oder sie queren direkt die L 389. Soweit OK. Durch den hochstehenden Bordstein werden sie am zügigen Überqueren gehindert.
+
+![](8Q63+HP_KöstereckeKarte.png)
+![](8Q63+HP_KöstereckeFoto.png)
+
+### Mögliche Maßnahmen
+Bordsteinabsenkung
+
+### Status
+
+# OLC 8Q92+PM
+## Überweg Hotel zur Post
+
+| Kurzbeschreibung | Gefährliche Auffahrt - Überquerung spitzwinklig                                                |
+| ---------------: | -----------------------                                                                        |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.31914/9.75246) |
+| Einstelldatum    | 2019-09-22                                                                                     |
+| Status           | offen                                                                                          |
+| Autor            | Jens Spille                                                                                    |
+| Ort              | Hemmingen Dorf - Vor Hotel zu Post                                                             |
+| Fahrtrichtung    | In beiden Fahrtrichtungen                                                                                              |
+| Verantwortlich   |                                                                                                |
+
+### Ist Zustand/Mangel/Gefahr
+#### Fahrtrichtung in Richtung Westen
+Der gemeinsame Geh und Radweg wird in Höhe der Querungshilfe zum reinen Gehweg. Für die Einfädelung auf die Fahrbahn ist die engste Stelle bei der Querungshilfe vorgesehen. Hinzu kommt das die Bordstein Absenkung sehr kurz ist. Es ist schwierig gleichzeitig den KFZ Verkehr von hinten zu beobachten und gleichzeitig die Absenkung zu treffen. 
+
+#### Mögliche Maßnahme
+
+Eine Einfädelspur schaffen und 'Achtung Radfahrer' Zeichen aufstellen.
+
+![](8Q92+PM_EinfädelhilfeWunstorf.png)
+
+Beispiel Einfädelhilfe aus Wunstorf - Koordinaren 52.42882/9.41554 'Am hohen Holz' gegenüber Rübensaftkocherei Reinhold - lecker
+
+#### Fahrtrichtung in Richtung Osten
+Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht auf Grund der Baulichen Anordnung fast nur im rechten Winkel. 
+
+Oder der Radfahrer kommt vom Gehweg - Radfahrer frei auf der rechten Seiten und muss die viel zu schmalen Bordsteinabsenkung benutzen.
+
+#### Mögliche Maßnahmen
+Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benutzen und breitere Bordsteinabsenkungen für die Anderen. 
+
+![](8Q92+PM_HotelZurPost.svg)
+
+### Status
+
+- 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
+
 <!-- 
+
+Todo
+
+- Hemmingen Dorf 
+  - Durchfahrt
+  - Tempo 30 und Überholverbot
+- Stadtbahn - nördlich Kirchdamm
+  - Überholverbot
+- Restliche Mängel aus Karte aufnehmen
+- mkdx
+  - TOC test
+  - Level einstellen
+- Überschriften Sortieren
+
+
 ########################################################################################################
 Vorlage für weitere Einträge
 
