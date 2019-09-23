@@ -2,7 +2,6 @@
 
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
-
 ## [Mängelliste für Hemmingen](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem)
 
 > Letzte Änderung: LetzteAenderung  
@@ -14,6 +13,7 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
 Link zur [Open Location Code](https://plus.codes/9F4F8P9F+J9) Karte.
 
 <!-- TOC in VIM Leader+i -->
+<!-- :let g:mkdx_settings_toc_text = ‘Übersicht' -->
 
 ## Übersicht
 
@@ -802,16 +802,398 @@ Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benut
 
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 
+# OLC 8PFC+M26
+## Saarstr. - Zugang Deveser Str.  
+
+| Kurzbeschreibung | Drängelgitter                                                                                |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#16/52.3240/9.7209) |
+| Einstelldatum    | 2019-09-23                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Durchgang Saarstraße -  Deveser Str.                                                         |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Umlaufgitter verhindern das Durchkommen von Fahrrädern mit Anhänger und Lastenräder. 
+
+ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr erschwert werden kann. Sie müssen nachts und bei schlechten Sichtverhältnissen ausreichend erkennbar sein."
+
+### Mögliche Maßnahmen
+Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
+
+![](8PHG+RW_VerengungRadweg.png)
+
+### Status
+
+# OLC 8P96+3V
+## Deveser Str. - Fahrradstr.  
+
+| Kurzbeschreibung | Deveser Str. zur Radfahrstr. umwindmen                                                       |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#14/52.3197/9.7219) |
+| Einstelldatum    | 2019-07-03                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | 25. RadelTreff                                                                               |
+| Ort              | Deveser Str.                                                                                 |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Regionstraße                                                                                 |
+
+### Ist Zustand/Mangel/Gefahr
+Die Deveser Straße hat jetzt und auch später wenig KFZ Verkehr und ist gut geeignet den Radverkehr zu fördern.
+
+### Mögliche Maßnahmen
+Zur Steigerung des Radverkehr wird vorgeschlagen die Deveser Str. zur Radfahrstraße umzuwindmen.
+
+### Status
+
+# OLC 8M7R+VR
+## Loydbrunnenweg Verlängerung
+
+| Kurzbeschreibung | Pfad von Loydbrunnenweg bis zur Ihme sanierungsbedürftig                                     |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3150/9.6952) |
+| Einstelldatum    | 2019-01-23                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Devese- Loydbrunnenweg bis zur Ihme                                                                  |
+| Fahrtrichtung    | In beiden Fahrrichtungen                                                                     |
+| Verantwortlich   | Hier Stadt Hemmingen                                                                         |
+
+### Ist Zustand/Mangel/Gefahr
+Der Weg entlang der Ihme wurde im Sommer 2019 saniert. Jetzt fehlt noch der Teil auf Hemminger Gebiet.
+
+### Mögliche Maßnahmen
+Sanierung
+
+### Status
+
+# OLC 8P89+C7
+## Alle 3 Kreises mit Rot Markierung versehen
+
+| Kurzbeschreibung | Alle 3 Kreises mit Rot Markierung versehen                                                   |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#16/52.3164/9.7182) |
+| Einstelldatum    | 2019-07-03                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | 25. RadelTreff                                                                               |
+| Ort              | Devese - 3 Kreisel                                                                           |
+| Fahrtrichtung    | In allen Fahrtrichtungen                                                                     |
+| Verantwortlich   | Region Hannover                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Mehr Aufmerksamkeit durch KFZ gewünscht. Erhöhung der Sicherheit. 
+
+### Mögliche Maßnahmen
+Alle 3 Kreises mit Rot Markierung versehen
+
+### Status
+
+# OLC 8P9M+QW
+## Radweg Weetzener Landstraße
+
+| Kurzbeschreibung | Loch, Unebenheit, Bruch oder Riss im Oberbau                                                 |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3189/9.7349) |
+| Einstelldatum    | 2019-06-03                                                                                   |
+| Status           | Verbesserungskonzept durch Region vorgestellt                                                |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Weetzener Landstr. - östlich B3 (alt)                                                        |
+| Fahrtrichtung    | In beiden Fahrtrichtungen                                                                    |
+| Verantwortlich   |                                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Über RADar! wurde eine neue Meldung eingestellt. ID: 2019-19750
+
+Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg entlang der Weetzener Landstr zwischen B3 und Hemmingen Dorf ist in einem sehr schlechten Zustand. Neben den Abbrüchen und Versackungen sind auch die Risse zwischen den Abschnitten teilweise schmerzhafte Stauchstellen für die Wirbelsäule.
+
+### Mögliche Maßnahmen
+Sanierung und Verbreiterung
+
+### Status
+
+
+# OLC 8PFH+FM
+## Radweg Berliner Straße
+
+| Kurzbeschreibung | Radwegebenutzungspflicht überprüfen                                                          |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3230/9.7308) |
+| Einstelldatum    | 2019-06-03                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Berliner Straße zwischen Katzbachweg und Köllnbrinkweg                                       |
+| Fahrtrichtung    | In beiden Richtungen - Insbesondere in Richtung Osten                                        |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Über RADar! wurde eine neue Meldung eingestellt.  ID: 2019-19545
+
+Adresse: Berliner Straße, Hemmingen, Wilkenburg, Hemmingen, Region Hannover, Niedersachsen, 30966, Deutschland
+
+Meldungsgrund: Radwegebenutzungspflicht überprüfen
+
+weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtrichtung nach Osten ein linksseitiger Radweg vorgeschrieben. Als Radfahrer von Penny kommend muss ich also für diesen Bereich auf die Linke Seite wechseln und danach wieder auf die Rechte Seite fahren, auch wenn sich auf dem Fußweg (Fahrrad frei) zu viele Fußgänger befinden. Warum ist hier die Linke Seite vorgeschrieben?
+
+### Mögliche Maßnahmen
+Radwegebenutzungspflicht aufheben.
+
+### Status
+
+# OLC 8P9X+G7 
+## Im Hammfeld
+
+| Kurzbeschreibung | Loch                                                                                         |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3185/9.7483) |
+| Einstelldatum    | 2019-05-27                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Hemmingen - Im Hammfeld                                                                      |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   |                                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Über RADar! wurde eine neue Meldung eingestellt.  ID: 2019-19311
+
+Adresse: Im Hammfeld, Hemmingen, Wilkenburg, Hemmingen, Region Hannover, Niedersachsen, 30966, Deutschland
+
+Meldungsgrund: Loch
+
+### Mögliche Maßnahmen
+Ausbesserung
+
+### Status
+
+# OLC 8P7G+46
+## Ausfahrt auf die Freda-Wüsthoff-Str. 
+
+| Kurzbeschreibung | schlecht einsehbar                                                                           |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3132/9.7265) |
+| Einstelldatum    | 2019-06                                                                                      |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Devese - Freda-Wüsthoff-Str                                                                   |
+| Fahrtrichtung    | Aus Süden komment                                                                            |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Ausfahrt auf die Freda-Wüsthoff-Str. schlecht einsehbar, also mit Vorsicht zu genießen. 
+
+### Mögliche Maßnahmen
+Ausschilderung "Achtung-Radfahrer" auf der F.-Wüsthoff-Str. wünschenswert.
+
+### Status
+Bei "offizieller" Ausschilderung wäre eine "Achtung-Radfahrer"-Warnung des Verkehrs auf der F.-Wüsthoff-Str. in Erwägung zu ziehen.
+
+# OLC 8P7H+35
+## Lückenschluss südostlich Freda-Wüsthoff-Straße
+
+| Kurzbeschreibung | Lückenschluss fehlt                                                                            |
+| ---------------: | -----------------------                                                                        |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#17/52.31272/9.72787) |
+| Einstelldatum    | 2015                                                                                           |
+| Status           | offen                                                                                          |
+| Autor            | Radverkehrskonzept                                                                             |
+| Ort              | Feld südostlich Freda-Wüsthoff-Straße                                                           |
+| Fahrtrichtung    | In beiden Richtungen                                                                           |
+| Verantwortlich   | Stadt Hemmingen                                                                                |
+
+### Ist Zustand/Mangel/Gefahr
+Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+
+![](8P7H+35_Radverkehrskonzept_Lücken.png)
+
+### Mögliche Maßnahmen
+Verbindung herstellen
+
+### Status
+Aus Radverkehrskonzept 2015 bekannt.
+
+# OLC 8P2H+WH
+## Bockstr. bis Beethofenstr. - Lückenschluss fehlt
+
+| Kurzbeschreibung | Lückenschluss fehlt                                                                          |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#16/52.3027/9.7287) |
+| Einstelldatum    | 2015                                                                                         |
+| Status           | offen                                                                                        |
+| Autor            | Radverkehrskonzept                                                                           |
+| Ort              | Bockstr. bis Beethofenstr.                                                                   |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+
+![](8P7H+35_Radverkehrskonzept_Lücken.png)
+
+### Mögliche Maßnahmen
+Verbindung herstellen
+
+### Status
+Aus Radverkehrskonzept 2015 bekannt.
+
+# OLC 7PMQ+G5
+## Lücke Pattenser Feldweg nach Hiddestorf
+
+| Kurzbeschreibung | Lückenschluss fehlt                                                                          |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.2861/9.7442) |
+| Einstelldatum    | 2015                                                                                         |
+| Status           | offen                                                                                        |
+| Autor            | Radverkehrskonzept                                                                           |
+| Ort              | Pattenser Feldweg nach Hiddestorf                                                            |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+
+![](8P7H+35_Radverkehrskonzept_Lücken.png)
+
+### Mögliche Maßnahmen
+Verbindung herstellen
+
+### Status
+Aus Radverkehrskonzept 2015 bekannt.
+
+
+# OLC 8Q59+JP
+## Lücke Wilkenburg - Grassdachhaus
+
+| Kurzbeschreibung | Lückenschluss fehlt                                                                          |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3069/9.7745) |
+| Einstelldatum    | 2015                                                                                         |
+| Status           | offen                                                                                        |
+| Autor            | Radverkehrskonzept                                                                           |
+| Ort              | Pattenser Feldweg nach Hiddestorf                                                            |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+
+![](8P7H+35_Radverkehrskonzept_Lücken.png)
+
+### Mögliche Maßnahmen
+Verbindung herstellen
+
+### Status
+Aus Radverkehrskonzept 2015 bekannt.
+
+
+# OLC 7PXX+MM
+## Weg an Arnumer Landwehr
+
+| Kurzbeschreibung | Nass und dreckig                                                                             |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.2990/9.7526) |
+| Einstelldatum    | 2019-01-23                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | 23. RadelTreff                                                                               |
+| Ort              | Osterbuschweg - an der Arnumer Landwehr                                                      |
+| Fahrtrichtung    | In beiden Fahrtrichtungen                                                                    |
+| Verantwortlich   | Stadt Hemmingen                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Weg ist bei Regen nass und dreckig. Rutschgefahr.
+
+### Mögliche Maßnahmen
+Sanierung
+
+### Status
+
+# OLC 8PCX+H4
+## Tempo 30 u. Überholverbot
+
+| Kurzbeschreibung | Enge Fahrbahn                                                                                |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3219/9.7505) |
+| Einstelldatum    | 2019-09-23                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Hemmingen Dorf - Dorfstraße                                                                  |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   | Region Hannover                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Die Dorfstraße ist unübersichtlich und eng. Ein Überholen, auch von Fahrrädern mit einem Abstand von mind. 1,5 m ist nicht sicher möglich. 
+
+### Mögliche Maßnahmen
+Wir fordern Tempo 30 und ein Überholverbot von Fahrrädern. 
+
+Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeichens die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.
+
+![](8PCX+H4_Dorfstaße.svg)
+
+### Status
+- 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
+
+# OLC 8PGF+J2
+## Engstelle nach Umbau Stadtbahnverlängerung
+
+| Kurzbeschreibung | Enge Fahrbahn                                                                                |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#16/52.3265/9.7222) |
+| Einstelldatum    | 2019-09-23                                                                                   |
+| Status           | offen                                                                                        |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Göttinger Landstraße - nördlich Kirchdamm                                                    |
+| Fahrtrichtung    | In Richtung Norden                                                                           |
+| Verantwortlich   | Unbekannt                                                                                    |
+
+### Ist Zustand/Mangel/Gefahr
+Nach dem Umbau der B3 alt wegen der Stadtbahnverlängerung wird es für den Radverkehr eng.
+Vorgesehen ist eine Fahrbahnbreite von 3.00 m mit einem Schutzstreifen von 1.50 m und Parkstreifen von 2.0 m.
+Der KFZ Verkehr kann wegen der Gleiskörpers nicht nach links ausweichen. Wir haben 2014 vorgeschlagen:
+
+> Einwand: Heutige Fahrzeuge, sogenannte SUVs und Vans, sind teilweise breiter als 2 m und 
+auch Lieferfahrzeuge werden hier halten und in den Schutzstreifen hinein ragen. Wir fordern, 
+die Verbreiterung der Parkbuchten und einen Sicherheitsstreifen. 
+> Vorschlag: Eine Verbreiterung der Parkbuchten auf mindestens 2,3 m. Weiterhin eine 
+Verbreiterung des östlichen Schutzstreifens auf 1,75 m. Wir würden eine Reduzierung des westlichen Schutzstreifens auf 1,5 m gerne in Kauf nehmen. Wir brauchen einen Sicherheitsstreifen zu sich plötzlich öffnende KFZ-Türen.
+
+Dieses wurde damals abgelehnt. 
+
+### Mögliche Maßnahmen
+
+Jetzt fordert die Novelle der StvO 2019 einen Überholabstand von 1.5 m zwischen Radfahrenden und dem KFZ Verkehr. Dieses kann auf Grund der baulichen Gegebenheiten nicht gewährleistet werden. Wir fordern deshalb ein Überholverbot von Radfahrenden. 
+
+Damit hat der Radfahrende zu mindestens die Möglichkeit einen, von Gerichten geforderten, Sicherheitsabstand von 0,8 bis 1,2 m zu parkenden Fahrzeugen einzuhalten und gleichzeitig eine gesetzliche Sicherheit nicht durch überholende Fahrzeuge bedrängt zu werden. 
+
+![](8PGF+J2_Stadtbahnverlängerung.svg)
+
+### Status
+
+# OLC 8QC7+2M
+## Radweg Wilkenburger Spinne bis Ziegenbocksbrücke
+
+| Kurzbeschreibung | Nass und dreckig                                                                             |
+| ---------------: | -----------------------                                                                      |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#16/52.3215/9.7633) |
+| Einstelldatum    | 2019-09-23                                                                                   |
+| Status           | immer mal wieder angesprochen                                                                |
+| Autor            | Jens Spille                                                                                  |
+| Ort              | Radweg Wilkenburger Spinne bis Ziegenbocksbrücke                                             |
+| Fahrtrichtung    | In beiden Richtungen                                                                         |
+| Verantwortlich   |                                                                                              |
+
+### Ist Zustand/Mangel/Gefahr
+Weg ist bei Regen nass und dreckig. Rutschgefahr.
+
+### Mögliche Maßnahmen
+Sanierung
+
+### Status
+
 <!-- 
 
 Todo
 
-- Hemmingen Dorf 
-  - Durchfahrt
-  - Tempo 30 und Überholverbot
-- Stadtbahn - nördlich Kirchdamm
-  - Überholverbot
-- Restliche Mängel aus Karte aufnehmen
 - mkdx
   - TOC test
   - Level einstellen
