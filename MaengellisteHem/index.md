@@ -1034,7 +1034,7 @@ Bei "offizieller" Ausschilderung wäre eine "Achtung-Radfahrer"-Warnung des Verk
 | Verantwortlich   | Stadt Hemmingen                                                                                |
 
 ### Ist Zustand/Mangel/Gefahr
-Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+Geforderter Lückenschluss aus Radverkehrskonzept 2015.
 
 ![](8P7H+35_Radverkehrskonzept_Lücken.png)
 
@@ -1058,7 +1058,7 @@ Aus Radverkehrskonzept 2015 bekannt.
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+Geforderter Lückenschluss aus Radverkehrskonzept 2015.
 
 ![](8P7H+35_Radverkehrskonzept_Lücken.png)
 
@@ -1082,7 +1082,7 @@ Aus Radverkehrskonzept 2015 bekannt.
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+Geforderter Lückenschluss aus Radverkehrskonzept 2015.
 
 ![](8P7H+35_Radverkehrskonzept_Lücken.png)
 
@@ -1107,7 +1107,7 @@ Aus Radverkehrskonzept 2015 bekannt.
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Gefordeter Lückschluss auf Radverkehrskonzept 2015.
+Geforderter Lückenschluss aus Radverkehrskonzept 2015.
 
 ![](8P7H+35_Radverkehrskonzept_Lücken.png)
 
