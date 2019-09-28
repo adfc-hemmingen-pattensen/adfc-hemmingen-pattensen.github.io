@@ -6,3 +6,7 @@
 *.exe
 *ADFCWiki.html_backup
 *nppBackup
+index.pdf
+index.docx
+tex2pdf*
+indexTemp*

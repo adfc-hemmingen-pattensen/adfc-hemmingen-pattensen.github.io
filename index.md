@@ -64,6 +64,14 @@ Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fa
 
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
+### Auszeichnung: **Stadt ist fahrradfreundlich**
+
+Die Stadt Hemmingen wurde am Mittwoch den 2019-09-25 von der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) als „Fahrradfreundliche Kommune Niedersachsen“ zertifiziert. Die Jury lobte besonders die ADFC—Fahrradwerkstatt in Hemmingen. Hier möchte der ADFC den Initiator und Begründer der Fahrrad-Selbsthilfewerkstatt, Dirk Härtel, ihren besonderen Dank aussprechen. Dank gilt auch Michael Maier der die Fahrrad-Selbsthilfewerkstatt vor der Jury hervorragend präsentiert hat sowie der Stadt Hemmingen, die die Räumlichkeiten kostenlos zur Verfügung stellt.
+
+Bei der "straßenbegleitenden Infrastruktur" sieht die Jury aber noch Nachholbedarf. In diesem Zusammenhang verweisen wir hier auf unsere [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html).
+
+Die AGFK bietet den Kommunen ein Netzwerk, um sich gegenseitig auszutauschen und zu unterstützen. 
+
 ### Arbeitsgemeinschaft (AG) Radverkehr in Hemmingen
 
 Der Ausschusses für Stadtentwicklung und Umwelt hat am 15. Aug. 2019 beschlossen, dass zur Umsetzung des Radverkehrskonzeptes eine Arbeitsgemeinschaft (AG) Radverkehr gebildet wird, die mindestens einmal im Jahr tagt. Die Zusammensetzung soll sich an dem Teilnehmerkreis orientieren, der auch bei der Erarbeitung des Radverkehrskonzeptes beteiligt war. Feste Teilnehmer sind Vertreter von ADFC, ADAC, Polizei, Rat und Stadtverwaltung.

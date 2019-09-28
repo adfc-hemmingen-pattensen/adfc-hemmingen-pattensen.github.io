@@ -897,6 +897,7 @@ Damit hat der Radfahrende zu mindestens die Möglichkeit einen, von Gerichten ge
 Radfaher auf dem gemeinsamen, einseitigen, zweirichtungs Rad- und Fußweg, müssen in der Einmündung Hohe Bünte der eingerückten Furt folgen. Hinzu kommt das die Radfahrerfurt sehr schmal und nur einseitig vom Zebrastreifen angeordnet ist. Damit ist der Radfahrer nicht mehr im Sichtfeld des von der Berliner Straße kommenden rechts abbiegenden Autofahrer.
 
 ![](8PGR+7W_EinmuendungHoheBuente.png)
+
 ![](8PGR+7W_EinmuendungHoheBuenteFoto.png)
 
 ### Mögliche Maßnahmen
@@ -1107,6 +1108,7 @@ Radfahrer die, die Wülfeler Straße (L 389) queren wollen, können entweder den
  eine Fußgängerstreuscheibe besitzt, oder sie queren direkt die L 389. Soweit OK. Durch den hochstehenden Bordstein werden sie am zügigen Überqueren gehindert.
 
 ![](8Q63+HP_KöstereckeKarte.png)
+
 ![](8Q63+HP_KöstereckeFoto.png)
 
 ### Mögliche Maßnahmen
@@ -1260,6 +1262,7 @@ Desweiteren ist die Querung (blauer Pfeil) vom Parkplatz kommend sehr gefährlic
 hinter einer Kurve liegt. "Grüner Ring".
 
 ![](8Q94+VR_WilkenburgerSpinne.png)
+
 ![](8Q94+VR_WilkenburgerSpinneFoto.png)
 
 ### Mögliche Maßnahmen

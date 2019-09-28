@@ -198,9 +198,14 @@ Radweg bauen
 
 ### Ist Zustand/Mangel/Gefahr
 
-siehe [HAZ Artikel](7Q64+F9_2019-03-26 HAZ Pat Radweg zur KGS ist kurvig.pdf)
+siehe [HAZ Artikel](7Q64+F9_2019-03-26 HAZ Pat Radweg zur KGS ist kurvig.pdf).
+
+700 Meter lang und 2.5 bis 3.5 Meter breit. 
 
 ### Status
+
+- 2019-09-27-Fr - J. Spille - Bau verzögert sich um mehrere Monate, wegen Artenschutzkartierung - Bau 2020 (Quelle HAZ 2019-09-25-Mi.) 
+
 
 # OLC 7Q87+6P
 ##  Radwegführung Göttinger Straße - Ein Hin und Her
