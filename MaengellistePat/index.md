@@ -78,9 +78,13 @@ Im Rahmen einer Umfrage im Jahre 2017 wurden Bürger der Stadt Pattensen befragt
 ### Ist Zustand/Mangel/Gefahr
 Radweg entlang L460 fehlt. Es gibt gefährliche Situationen, insbesondere wenn sich in den Kurzenbereichen Fahrzeuge überholen, weil vermeintlich kein entgegenkommendes Fahrzeug gesehen wird, aber dann doch Radfahrende auftauchen.                                                                   
 
+
 ### Mögliche Maßnahmen
+
+Die Strecke gehört zum Vorrangsnetz der Region Hannover. Das Ziel ist es, das Vorrangsnetz bis 2030 fertig gestellt zu haben. 
+
 1. Bau eines Radweges.
-2. Überholverbot
+2. Überholverbot von Fahrzeugen. 
 
 ### Status
 - 2018 - J. Spille - Es gibt Anzeichen das dort langfristig ein Radweg gebaut wird. 
