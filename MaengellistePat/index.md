@@ -11,7 +11,7 @@
 Die Radverkehrs-Mängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich größtenteils auf unsere [Mängelkarte](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) (Übersicht). Somit steht einmal zur Übersicht die  Mängelkarte zur Verfügung, andererseits steht diese Liste mit detaillierteren Angaben zur Verfügung. 
 
 Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)  
-Link zur [Open Location Code](https://plus.codes/9F4F8P9F+J9) Karte.
+Link zur [Open Location Code](https://plus.codes/9F4F7Q76+G8) Karte.
 
 <!-- TOC in VIM Leader+i -->
 
@@ -19,18 +19,25 @@ Link zur [Open Location Code](https://plus.codes/9F4F8P9F+J9) Karte.
 
 - [ADFC Ortsgruppe Hemmingen/Pattensen](#adfc-ortsgruppe-hemmingenpattensen)
     - [Mängelliste für Pattensen](#mängelliste-für-pattensen)
+    - [Übersicht](#übersicht)
 - [Open Location Code](#open-location-code)
-- [OLC 6Q7V+23](#olc-6q7v23)
-    - [Jeinsen Süd](#jeinsen-süd)
-- [OLC 7QF6+HG](#olc-7qf6hg)
-    - [Kreisel Pattensen Nord](#kreisel-pattensen-nord)
-- [OLC 7QJF+2R](#olc-7qjf2r)
-    - [Pattenser Str.](#pattenser-str)
-- [OLC 7Q64+F9](#olc-7q64f9)
-    - [Radweg zur KGS](#radweg-zur-kgs)
+- [Pattensen Stadt allgemein](#pattensen-stadt-allgemein)
+- [Radweg entlang L460 fehlt](#radweg-entlang-l460-fehlt)
+    - [OLC 6Q3G+97](#olc-6q3g97)
+- [Jeinsen Süd - Irreführende Beschilderung](#jeinsen-süd---irreführende-beschilderung)
+    - [OLC 6Q7V+23](#olc-6q7v23)
+- [Kreisel Pattensen Nord - Doppelte Vorfahr Gewährung](#kreisel-pattensen-nord---doppelte-vorfahr-gewährung)
+    - [OLC 7QF6+HG](#olc-7qf6hg)
+- [Pattenser Straße - Radweg fehlt](#pattenser-straße---radweg-fehlt)
+    - [OLC 7QJF+2R](#olc-7qjf2r)
+- [Radweg zur KGS - In Planung](#radweg-zur-kgs---in-planung)
+    - [OLC 7Q64+F9](#olc-7q64f9)
 - [OLC 7Q87+6P](#olc-7q876p)
-    - [Radwegführung Göttinger Straße](#radwegführung-göttinger-straße)
-
+    - [Radwegführung Göttinger Straße - Ein Hin und Her](#radwegführung-göttinger-straße---ein-hin-und-her)
+- [B443 - Starke Bodenwelle durch Wurzelwuchs](#b443---starke-bodenwelle-durch-wurzelwuchs)
+    - [OLC 7RG4+R6](#olc-7rg4r6)
+- [Brücke bei Wasserwerk Grassdorf - Hoher Absatz - Sturzgefahr](#brücke-bei-wasserwerk-grassdorf---hoher-absatz---sturzgefahr)
+    - [OLC 7RP3+H8](#olc-7rp3h8)
 
 # Open Location Code
 
@@ -49,18 +56,47 @@ Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereic
 Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9'auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein.
 Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Man kann ihn weglassen, wenn ohnehin klar ist, welchen Ort man meint.
 
-# OLC 6Q7V+23
-## Jeinsen Süd
+# Pattensen Stadt allgemein
 
-| Kurzbeschreibung | Irreführende Beschilderung                                                                 |
-| ---------------: | -----------------------                                                                    |
-| Mängelkarte      | [Link](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/#olc-6Q7V+23)             |
-| Einstelldatum    | 2017-12-04                                                                                 |
-| Status           | offen                                                                                      |
-| Autor            | Jens Spille                                                                                |
-| Ort              | Jeinsen - Ortseingang Süd  Einmündung Bürgermeister Rasch Str. in Calenberger Str. (K 202) |
-| Fahrtrichtung    | in Richtung Norden - Ortseinfahrt                                                          |
-| Verantwortlich   | Region Hannover                                                                            |
+Im Rahmen einer Umfrage im Jahre 2017 wurde Bürger der Stadt Pattensen befragt, wo sie die kritischsten Punkte im Radverkehr sehen. Als Ergebnis entstand folgende Karte:
+
+![](0000+00 2016-04-10-SoADFCMangelkartePattensen.jpg)
+
+# Radweg entlang L460 fehlt
+## OLC 6Q3G+97
+
+| Kurzbeschreibung | Radweg entlang L460 fehlt                                                                     |
+| ---------------: | -----------------------                                                                       |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#13/52.2057/9.7605) |
+| Einstelldatum    | 2018                                                                                          |
+| Status           | offen                                                                                         |
+| Autor            | Jens Spille                                                                                   |
+| Ort              | L460 zwischen Tiedenwiese und Schulenburg                                                     |
+| Fahrtrichtung    | In beiden Richtungen                                                                          |
+| Verantwortlich   | Land Niedersachen                                                                             |
+
+### Ist Zustand/Mangel/Gefahr
+Radweg entlang L460 fehlt. Es gibt gefährliche Situationen, insbesondere wenn sich in den Kurzenbereichen Fahrzeuge überholen, weil vermeintlich kein entgegenkommendes Fahrzeug gesehen wird, aber dann doch Radfahrende auftauchen.                                                                   
+
+### Mögliche Maßnahmen
+1. Bau eines Radweges.
+2. Überholverbot
+
+### Status
+- 2018 - J. Spille - Es gibt Anzeichen das dort langfristig ein Radweg gebaut wird. 
+
+# Jeinsen Süd - Irreführende Beschilderung
+## OLC 6Q7V+23
+
+| Kurzbeschreibung | Jeinsen Süd - Irreführende Beschilderung                                                                      |
+| ---------------: | -----------------------                                                                         |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.21220/9.79277) |
+| Einstelldatum    | 2017-12-04                                                                                      |
+| Status           | offen                                                                                           |
+| Autor            | Jens Spille                                                                                     |
+| Ort              | Jeinsen - Ortseingang Süd  Einmündung Bürgermeister Rasch Str. in Calenberger Str. (K 202)      |
+| Fahrtrichtung    | in Richtung Norden - Ortseinfahrt                                                               |
+| Verantwortlich   | Region Hannover                                                                                 |
 
 ### Ist Zustand/Mangel/Gefahr
 Der Radweg von Süden trifft linkseitig auf den Ort. Ab hier müssen Radfahrende auf die rechte Fahrbahn wechseln. Dieses Querung ist gefährlich und irreführende beschildert.
@@ -78,18 +114,18 @@ Beispiel: Korrektur des "Symboles der FAHRRADREGION Hannover" - Furt für Radfah
 
 ### Status
 
-# OLC 7QF6+HG
-## Kreisel Pattensen Nord
+# Kreisel Pattensen Nord - Doppelte Vorfahr Gewährung
+## OLC 7QF6+HG
 
-| Kurzbeschreibung | Doppelte Vorfahr Gewährung                                                     |
-| ---------------: | -----------------------                                                        |
-| Mängelkarte      | [Link](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem/#olc-7QF6+HG) |
-| Einstelldatum    | 2010-09-10                                                                     |
-| Status           | offen                                                                          |
-| Autor            | Jens Spille                                                                    |
-| Ort              | Pattensen - Göttinger Straße - K233 - B3 - K226 - Kreisel                      |
-| Fahrtrichtung    | Alle                                                                           |
-| Verantwortlich   | ?                                                                              |
+| Kurzbeschreibung | Kreisel Pattensen Nord - Doppelte Vorfahr Gewährung                                           |
+| ---------------: | -----------------------                                                                       |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#13/52.2762/9.7715) |
+| Einstelldatum    | 2010-09-10                                                                                    |
+| Status           | offen                                                                                         |
+| Autor            | Jens Spille                                                                                   |
+| Ort              | Pattensen - Göttinger Straße - K233 - B3 - K226 - Kreisel                                     |
+| Fahrtrichtung    | Alle                                                                                          |
+| Verantwortlich   | Region Hannover                                                                               |
 
 ### Ist Zustand/Mangel/Gefahr
 Autofahrer müssen, aus dem Kreisel kommend, Vorfahrt gewähren, zugleich habe die Radfahrer das Zeichen 205 Vorfahrt gewähren. Das stiftet Verwirrung. Die Idee dahinter ist eine scheinbare doppelte Sicherheit. In der Realität gewöhnt sich der Stärkere an seine scheinbare Vorfahrt. Hinzu kommt, das eine Einigung per Sichtkontakt, bei Dunkelheit mit Scheinwerferlicht für den Radfahrer nicht zu machen ist.
@@ -99,10 +135,10 @@ Autofahrer müssen, aus dem Kreisel kommend, Vorfahrt gewähren, zugleich habe d
 
 ### Status
 
-# OLC 7QJF+2R
-## Pattenser Str. 
+# Pattenser Straße - Radweg fehlt 
+## OLC 7QJF+2R
 
-| Kurzbeschreibung | Radweg fehlt                                                                                 |
+| Kurzbeschreibung | Pattenser Straße - Radweg fehlt                                                              |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.2795/9.7740) |
 | Einstelldatum    | 2018-12-06                                                                                   |
@@ -143,10 +179,10 @@ Radweg bauen
 ### Status
 - 2018-12-06 - Region - „Ein Neubau eines Radweges außerhalb des Vorrangnetzes kann leider nicht in Aussicht gestellt werden.“
 
-# OLC 7Q64+F9
-## Radweg zur KGS 
+# Radweg zur KGS - In Planung 
+## OLC 7Q64+F9
 
-| Kurzbeschreibung | Radweg zur KGS ist kurvig                                                                    |
+| Kurzbeschreibung | Radweg zur KGS - In Planung                                                                  |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#16/52.2625/9.7550) |
 | Einstelldatum    | 2019-03-26                                                                                   |
@@ -163,9 +199,9 @@ siehe [HAZ Artikel](7Q64+F9_2019-03-26 HAZ Pat Radweg zur KGS ist kurvig.pdf)
 ### Status
 
 # OLC 7Q87+6P
-##  Radwegführung Göttinger Straße
+##  Radwegführung Göttinger Straße - Ein Hin und Her
 
-| Kurzbeschreibung | Ein Hin und Her                                                                              |
+| Kurzbeschreibung | Radwegführung Göttinger Straße - Ein Hin und Her                                             |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.2651/9.7655) |
 | Einstelldatum    | 2019-09-22                                                                                   |
@@ -217,12 +253,62 @@ siehe: Semesterarbeit der Studenten der HAWK Hildesheim (WS 2015/2016)
 
 ### Status
 
+# B443 - Starke Bodenwelle durch Wurzelwuchs
+## OLC 7RG4+R6
+
+| Kurzbeschreibung | B443 - Starke Bodenwelle durch Wurzelwuchs                                                    |
+| ---------------: | -----------------------                                                                       |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#16/52.2769/9.8055) |
+| Einstelldatum    | 2018-11-27                                                                                    |
+| Status           | unbekannt                                                                                     |
+| Autor            | Jens Spille                                                                                   |
+| Ort              | B443 - Brücke über Leine                                                                      |
+| Fahrtrichtung    | In beiden Richtungen                                                                          |
+| Verantwortlich   | Straßenmeisterei Ronnenberg                                                                   |
+
+### Ist Zustand/Mangel/Gefahr
+Starke Bodenwelle durch Wurzelwuchs
+
+### Mögliche Maßnahmen
+Ausbesserung
+
+### Status
+Status 2018-11-27 J. Spille: Der Mangel ist schon bekannt und wurde jetzt mit zusätzlichen Schildern gesichert, die die Radfahrer zum Absteigen auffordern.
+
+Status 2018-12-05 Stadt Pattensen: Für den Radweg ist die Straßenmeisterei Ronnenberg zuständig. Nach unserer Auskunft sollte der Radweg eigentlich dieses Jahr gemacht werden. Leider musste die erste Ausschreibung im Sommer aufgehoben werden, da kein Angebot eingegangen war. Die Straßenmeisterei Ronnenberg hat es noch ein mal ausgeschrieben. Es ist zurzeit nicht absehbar, ob die Arbeiten in diesem Jahr witterungsbedingt umsetzbar sind. Sollte dieses nicht der Fall sein, ist es geplant, den Radweg Anfang 2019, sobald es die Witterung zulässt, zu erneuern.
+
+# Brücke bei Wasserwerk Grassdorf - Hoher Absatz - Sturzgefahr
+## OLC 7RP3+H8
+
+| Kurzbeschreibung | Brücke bei Wasserwerk Grassdorf - Hoher Absatz - Sturzgefahr                                  |
+| ---------------: | -----------------------                                                                       |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.2874/9.8053) |
+| Einstelldatum    | 2018-11-27                                                                                    |
+| Status           | unbekannt                                                                                     |
+| Autor            | Jens Spille                                                                                   |
+| Ort              | Brücke bei Wasserwerk Grassdorf                                                               |
+| Fahrtrichtung    | In beiden Richtungen                                                                          |
+| Verantwortlich   | Straßenmeisterei Sarstedt                                                                     |
+
+### Ist Zustand/Mangel/Gefahr
+Die Zufahrt auf die Brücke hat auf beiden Seiten einen ziemlichen Absatz zur Brücke,
+der beim Überfahren zu einem Sturz oder auch zu einem Reifen-/ Schlauchdurchschlag
+führen kann. Wer's kann und sieht, hebt sein Rad während der Fahrt oder steigt ab.
+
+### Mögliche Maßnahmen
+### Status
+Status 2018-11-27 J. Spille: Welche Stadt ist verantwortlich? Pattensen oder Laatzen. Die Brücke befindet sich auf den Grenzverlauf.
+
+Status 2018-11-28 J.Spille: Schäden sowohl an Laatzen als auch Pattensen gemeldet.
+
+Status 2018-12-05 Stadt Pattensen: ..Für den Fuß-und Radweg von Koldingen in Richtung Rethen (hinter der Leinebrücke) ist die Straßenmeisterei Sarstedt zuständig. Ihre Beschwerde haben wir an die zuständige Stelle weitergeleitet. ..
+
 <!-- 
 ########################################################################################################
 Vorlage für weitere Einträge
 
-# OLC ?
-## ?
+# ?
+## OLC ?
 
 | Kurzbeschreibung | ?                       |
 | ---------------: | ----------------------- |
