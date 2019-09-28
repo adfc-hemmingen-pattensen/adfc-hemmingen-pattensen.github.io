@@ -17,6 +17,7 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [Mängelliste für Hemmingen](#mängelliste-für-hemmingen)
     - [Übersicht](#übersicht)
     - [Open Location Code](#open-location-code)
+- ["Stadtgespräch" der Grünen Ortsgruppe](#stadtgespräch-der-grünen-ortsgruppe)
 - [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
     - [OLC 7M8V+Q4](#olc-7m8vq4)
 - [Lücke von Pattenser Feldweg nach Hiddestorf](#lücke-von-pattenser-feldweg-nach-hiddestorf)
@@ -99,6 +100,8 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8Q94+WW](#olc-8q94ww)
 - [Radweg Wilkenburger Spinne bis Ziegenbocksbrücke - bei Nässe rutschig](#radweg-wilkenburger-spinne-bis-ziegenbocksbrücke---bei-nässe-rutschig)
     - [OLC 8QC7+2M](#olc-8qc72m)
+- [Wilkenburger Starße - Kritik an Verkehrszeichen](#wilkenburger-starße---kritik-an-verkehrszeichen)
+    - [OLC 8QF6+GV](#olc-8qf6gv)
 - [Radwegverschwenkung und Einengung auf Brücke](#radwegverschwenkung-und-einengung-auf-brücke)
     - [OLC 8QH3+R4](#olc-8qh3r4)
 
@@ -120,6 +123,11 @@ Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereic
 Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9'auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein.
 Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Der Area Code wird hier weggelassen, da ohnehin klar ist, welcher Ort gemeint ist.
 
+# "Stadtgespräch" der Grünen Ortsgruppe
+
+Am 2019-09-09 bei strömenden Regen hatte die Ortsgruppe der Grünen im Rahmen der Reihe "Stadtgespräch" zu einem "Stadtgespräch on tour" zum Thema "Fahrradverkehr" in Hemmingen eingeladen. In diesem Zusammenhang entstand die abgebildete Mängeltour.
+
+![]0000+00_Mängeltour.pdf)
 
 # An der K227 fehlt ein Radweg
 ## OLC 7M8V+Q4
@@ -499,6 +507,10 @@ Zur Steigerung des Radverkehr wird vorgeschlagen die Deveser Straße zur Radfahr
 ### Mögliche Maßnahmen
 Sichtdreieck herstellen. Evtl. Spiegel. Bodenmarkierung mit zwei Pfeilen.
 
+Empfehlungen für Sichtfelder aus [Musterlösungen für Radverkehrsanlagen in Baden-Württemberg](https://www.fahrradland-bw.de/fileadmin/user_upload_fahrradlandbw/1_Radverkehr_in_BW/c_Projekte_Infrastruktur/Landesradverkehrsnetz/1604_25_Musterloesungen_RadNETZ.pdf):
+
+![](8P9J+H4_SichtfelderBei50und70.png)
+
 ### Status
 - 2018 - Jens Spille - Rote Bodenmarkierung wurde aufgebracht - Sehr gut. 
 
@@ -525,7 +537,9 @@ Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg ent
 Sanierung und Verbreiterung
 
 ### Status
+- 2018-08-23 - Jens Spille - Herr Vinken (Region Hannover) informiert über die Planungsabsichten der Region Hannover, als zuständige Straßenbaulastträgerin, die Weetzener Landstraße (K 221) zwischen der Einmündung Dorfstraße und dem Kreisverkehr Marie-Curie-Straße/ Alfred-Bentz-Straße umzugestalten. Der Bereich wird in insgesamt 5 Abschnitte unterteilt. Die Planung wird stufenweise umgesetzt.  
 
+[Umgestaltung Weetzener Landstraße (K221) (4579 KB)](https://www.stadthemmingen.de/allris/to020.asp?TOLFDNR=8080)
 
 # Im Hammfeld - Einige Unebenheiten
 ## OLC 8P9X+G7 
@@ -581,7 +595,9 @@ ein zügiges Überqueren möglich wird und keine Rotlicht-Sünder herangezogen w
 
 ### Status
 
-- 2019 - Jens Spille - Region hat Plan zum Umbau vorgelegt. 
+- 2019 - Jens Spille - Region hat Plan zum Umbau vorgelegt.
+
+![](8PCW+5H_PlanKreuzungBortHenke.png)
 
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot
@@ -758,6 +774,8 @@ Hinweisschilder "Achtung Gegenverkehr" und Radfahrerfurt.
 ### Ist Zustand/Mangel/Gefahr
 
 Die Auffahrt auf den Radweg Berliner Straße aus dem Dorf kommend ist schwierig, da die Bordsteinabsenkung nur in Richtung Döhren existiert. 
+
+![](8PFW+JW_Absenkung Dorfstr. auf Berliner Str.jpg)
 
 ### Mögliche Maßnahmen
 Bordstein Abflachung
@@ -937,6 +955,10 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 ### Mögliche Maßnahmen
 Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
+
+![](8PHG+RW_VerengungRadweg.png)
+
+Beispiel aus Rostock.
 
 ![](8PHG+RW_VerengungRadwegRostock.png)
 
@@ -1190,6 +1212,12 @@ Eine Einfädelspur schaffen und 'Achtung Radfahrer' Zeichen aufstellen.
 
 Beispiel Einfädelhilfe aus Wunstorf - Koordinaren 52.42882/9.41554 'Am hohen Holz' gegenüber Rübensaftkocherei Reinhold - lecker
 
+Empfehlungen für ein Radwegende aus [Musterlösungen für Radverkehrsanlagen in Baden-Württemberg](https://www.fahrradland-bw.de/fileadmin/user_upload_fahrradlandbw/1_Radverkehr_in_BW/c_Projekte_Infrastruktur/Landesradverkehrsnetz/1604_25_Musterloesungen_RadNETZ.pdf)
+
+![](8Q92+PM_Radwegende.png)
+
+![](8Q92+PM_Querungshilfe.png)
+
 #### Fahrtrichtung in Richtung Osten
 Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht auf Grund der Baulichen Anordnung fast nur im rechten Winkel. 
 
@@ -1316,6 +1344,32 @@ Sanierung
 
 ### Status
 
+
+# Wilkenburger Starße - Kritik an Verkehrszeichen
+## OLC 8QF6+GV
+
+| Kurzbeschreibung | Wilkenburger Starße - Kritik an Verkehrszeichen                                               |
+| ---------------: | -----------------------                                                                       |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.3242/9.7692) |
+| Einstelldatum    | 2018-06-03                                                                                    |
+| Status           | Der Region bekannt                                                                            |
+| Autor            | Jens Spille                                                                                   |
+| Ort              | L398 - Wilkenburger Straße                                                                    |
+| Fahrtrichtung    | In beiden Richtungen´                                                                         |
+| Verantwortlich   | Land Hannover                                                                                 |
+
+### Ist Zustand/Mangel/Gefahr
+Der neue Geh-, Radweg entlang der Wilkenburger Straße ist als Gehweg mit Radfahrer frei beschildert. Das heißt lauf StvO Schrittgeschwindigkeit für den Radfahrenden. 
+
+![](8QF6+GV_V-ZeichenWilkenburger.png)
+
+### Mögliche Maßnahmen
+
+Der Weg gehört zum Vorrangsnetz der Region Hannover und sollte als gemeinsamer **Geh- und Radweg** umgewidmet werden. 
+
+### Status
+
+- 2018 - Jens Spille - Herr Vinken (Region Hannover) kennt unseren Wunsch, aber die Landesbehörde hat bis jetzt nicht reagiert.
 
 # Radwegverschwenkung und Einengung auf Brücke
 ## OLC 8QH3+R4

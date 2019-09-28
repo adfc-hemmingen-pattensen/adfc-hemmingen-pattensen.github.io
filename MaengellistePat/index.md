@@ -58,7 +58,7 @@ Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Man kann i
 
 # Pattensen Stadt allgemein
 
-Im Rahmen einer Umfrage im Jahre 2017 wurde Bürger der Stadt Pattensen befragt, wo sie die kritischsten Punkte im Radverkehr sehen. Als Ergebnis entstand folgende Karte:
+Im Rahmen einer Umfrage im Jahre 2017 wurden Bürger der Stadt Pattensen befragt, wo sie die kritischsten Punkte im Radverkehr sehen. Als Ergebnis entstand folgende Karte:
 
 ![](0000+00 2016-04-10-SoADFCMangelkartePattensen.jpg)
 
@@ -128,7 +128,7 @@ Beispiel: Korrektur des "Symboles der FAHRRADREGION Hannover" - Furt für Radfah
 | Verantwortlich   | Region Hannover                                                                               |
 
 ### Ist Zustand/Mangel/Gefahr
-Autofahrer müssen, aus dem Kreisel kommend, Vorfahrt gewähren, zugleich habe die Radfahrer das Zeichen 205 Vorfahrt gewähren. Das stiftet Verwirrung. Die Idee dahinter ist eine scheinbare doppelte Sicherheit. In der Realität gewöhnt sich der Stärkere an seine scheinbare Vorfahrt. Hinzu kommt, das eine Einigung per Sichtkontakt, bei Dunkelheit mit Scheinwerferlicht für den Radfahrer nicht zu machen ist.
+Autofahrer müssen, aus dem Kreisel kommend, Vorfahrt gewähren, zugleich haben die Radfahrer das Zeichen 205 Vorfahrt gewähren. Das stiftet Verwirrung. Die Idee dahinter ist eine scheinbare doppelte Sicherheit. In der Realität gewöhnt sich der Stärkere an seine scheinbare Vorfahrt. Hinzu kommt, das eine Einigung per Sichtkontakt, bei Dunkelheit mit Scheinwerferlicht für den Radfahrer nicht zu machen ist.
 
 ### Mögliche Maßnahmen
 "Rechts vor Links" wie immer. Je weniger Ausnahmen, desto einfacher und sicherer der Verkehr.
