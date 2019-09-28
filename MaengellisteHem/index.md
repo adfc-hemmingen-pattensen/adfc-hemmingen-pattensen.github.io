@@ -1,6 +1,6 @@
 [![](../banner.png)](http://www.adfc-hannover.de/)
 
-# [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+## [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 ## [Mängelliste für Hemmingen](http://adfc-hemmingen-pattensen.github.io/MaengellisteHem)
 
@@ -431,6 +431,7 @@ Ausfahrt auf die Freda-Wüsthoff-Straße ist unübersichtlich.
 
 ### Ist Zustand/Mangel/Gefahr
 Sturzgefahr am Radwegrand, da das Bankett versackt ist. 
+
 ![](8P7J+98_B3Bankett.png)
 
 ### Mögliche Maßnahmen
@@ -568,23 +569,27 @@ Ausbesserung
 # Querung Brot Henke
 ## OLC 8PCW+5H
 
-| Kurzbeschreibung | Radfahrer die die K211 überqueren möchten müssen sich häufig zwischen den stauenden Fahrzeugen auf der K221 drängeln. |
-| ---------------: | -----------------------                                                                                               |
-| Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.32053/9.74647)                        |
-| Einstelldatum   | 2017-09-10                                                                                                            |
-| Status           | Zustand bekannt - Region will Inkuktionsschleife einbauen.                                                            |
-| Autor            | Jens Spille                                                                                                           |
-| Ort              | Hemmingen (Altes Dorf) -  Weetzener Landstraße (K221) - Kreuzung - Im Dorfeld                                         |
-| Fahrtrichtung    | Im Dorffeld folgend - Nord-Süd und Süd-Nord                                                                           |
-| Verantwortlich   | Region Hannover                                                                                                       |
+| Kurzbeschreibung | Querung Brot Henke                                                                             |
+| ---------------: | -----------------------                                                                        |
+| Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.32053/9.74647) |
+| Einstelldatum    | 2017-09-10                                                                                     |
+| Status           | Zustand bekannt - Region will Inkuktionsschleife einbauen.                                     |
+| Autor            | Jens Spille                                                                                    |
+| Ort              | Hemmingen (Altes Dorf) -  Weetzener Landstraße (K221) - Kreuzung - Im Dorfeld                  |
+| Fahrtrichtung    | Im Dorffeld folgend - Nord-Süd und Süd-Nord                                                    |
+| Verantwortlich   | Region Hannover                                                                                |
 
 ### Ist Zustand/Mangel/Gefahr
- Die Querung der K 221 (aus und in die Fahrradstraße) ist zu Stoßzeiten schwierig, da sich auf der K221 
+
+Radfahrer die die K211 überqueren möchten müssen sich häufig zwischen den stauenden Fahrzeugen auf der K221 drängeln.
+
+Die Querung der K 221 (aus und in die Fahrradstraße) ist zu Stoßzeiten schwierig, da sich auf der K221 
 längere Rückstaus bilden. Das führt dazu, dass Radfahrer den Drücker der Fußgängerample betätigen, und mit dem Grün 
 der Fußgänger-Ampel die K221 überqueren. Dazu müssen sie, wenn sie von Norden kommen, die Gegenfahrtrichtung auf 
 Im Dorffeld überqueren.
 
 ![](8PCW+5H_BrotHenke.png)
+
 ![](8PCW+5H_BrotHenkeFoto.png)
 
 ### Mögliche Maßnahmen
@@ -668,6 +673,7 @@ Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu ve
 Radfahrer von der B3 kommend und auf der rechten Seite den Radweg fahrend, müssen ab dem Katzbachweg die linksseitigen verpflichtenden Radweg benutzen. Es gibt keinerlei Führung oder Hilfsmittel um hier die Berliner Straße gefahrlos zu überqueren. Insbesondere von hinten kommenden B3 Rechtsabbieger können schnell übersehen werden.
 
 ![](8PFG+4G_Katzbachweg.png)
+
 ![](8PFG+4G_Katzbachweg2.png)
 
 Radfahrer die aus Richtung Norden von der B3 (alt) kommen, dürfen nicht links bleiben, obwohl Sie 200 Meter später links fahren müssen.
