@@ -125,9 +125,7 @@ Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Der Area C
 
 # "Stadtgespräch" der Grünen Ortsgruppe
 
-Am 2019-09-09 bei strömenden Regen hatte die Ortsgruppe der Grünen im Rahmen der Reihe "Stadtgespräch" zu einem "Stadtgespräch on tour" zum Thema "Fahrradverkehr" in Hemmingen eingeladen. In diesem Zusammenhang entstand die abgebildete Mängeltour.
-
-![]0000+00_Mängeltour.pdf)
+Am 2019-09-09 bei strömenden Regen hatte die Ortsgruppe der Grünen im Rahmen der Reihe "Stadtgespräch" zu einem "Stadtgespräch on tour" zum Thema "Fahrradverkehr" in Hemmingen eingeladen. In diesem Zusammenhang entstand die folgende Mängeltour [PDF](0000+00_Mängeltour.pdf).
 
 # An der K227 fehlt ein Radweg
 ## OLC 7M8V+Q4
