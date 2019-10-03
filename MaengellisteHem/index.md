@@ -116,16 +116,15 @@ So befindet sich zum Beispiel die Fahrrad-Selbsthilfewerkstatt mit den Ziffern [
 
 ![](OpenLocationCodesWorld.jpg) 
 
-Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereich in jeder Dimension. Die Ziffern 9F4F beschreiben den Bereich um Hannover.
+Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereich in jeder Dimension. Die Ziffern 9F4F beschreiben den Bereich um Hannover den Area Code. Der Area Code wird hier weggelassen, da ohnehin klar ist, welcher Ort gemeint ist.
 
  ![](OpenLocationCodesHannover.jpg)
 
-Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9'auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein.
-Die ersten vier Stellen nennt man Area-Code, 9F4F im obigen Beispiel. Der Area Code wird hier weggelassen, da ohnehin klar ist, welcher Ort gemeint ist.
+Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9' auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein. 
 
-# "Stadtgespräch" der Grünen Ortsgruppe
+# "Stadtgespräch" mit dem Ortsverband Bündnis 90 / die Grünen
 
-Am 2019-09-09 bei strömenden Regen hatte die Ortsgruppe der Grünen im Rahmen der Reihe "Stadtgespräch" zu einem "Stadtgespräch on tour" zum Thema "Fahrradverkehr" in Hemmingen eingeladen. In diesem Zusammenhang entstand die folgende Mängeltour [PDF](0000+00_Mängeltour.pdf).
+Am 2019-09-09 bei strömenden Regen hatte die Ortsverband Bündnis 90/die Grünen im Rahmen der Reihe "Stadtgespräch" zu einem "Stadtgespräch on tour" zum Thema "Fahrradverkehr" in Hemmingen eingeladen. In diesem Zusammenhang entstand die folgende Mängeltour [PDF](0000+00_Mängeltour.pdf).
 
 # An der K227 fehlt ein Radweg
 ## OLC 7M8V+Q4
@@ -136,16 +135,18 @@ Am 2019-09-09 bei strömenden Regen hatte die Ortsgruppe der Grünen im Rahmen d
 | Einstelldatum    | 2017-09-13                                                                                   |
 | Status           | Der Verwaltung bekannt                                                                       |
 | Autor            | Jens Spille                                                                                  |
-| Ort              | Hemmingen - Verbindung Hiddesdorf (L389) - Lüdersen - K227                                   |
+| Ort              | Hemmingen - Verbindung Hiddestorf (L389) - Lüdersen - K227                                   |
 | Fahrtrichtung    | In beiden Richtungen                                                                         |
 | Verantwortlich   | Kreisstraße - Region Hannover                                                                |
 
 ### Ist Zustand/Mangel/Gefahr
-Entlang der K227 fehlt ein Radweg. Die Straße ist schmal und es ist vor einigen Jahren zu einem tödlichen Unfall gekommen.
+
+Entlang der K227 fehlt ein Radweg. Die Straße ist schmal und es ist 2013 zu einem [tödlichen Unfall](https://www.presseportal.de/blaulicht/pm/66841/2396843) einer 24-jährige Radfahrerin gekommen.
 
 ![](7M8V+Q4_Lüdersen.png)
 
 ### Mögliche Maßnahmen
+
 Bau eines Radweges.
 
 ### Status
@@ -165,6 +166,7 @@ Bau eines Radweges.
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
+
 Geforderter Lückenschluss aus Radverkehrskonzept 2015.
 
 ![](8P7H+35_Radverkehrskonzept_Lücken.png)
@@ -190,7 +192,7 @@ Aus Radverkehrskonzept 2015 bekannt.
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Der Osterbuschweg - an der Arnumer Landwehr - ist bei Regen nass und matschig. Es besteht Rutschgefahr.
+Der Osterbuschweg - an der Arnumer Landwehr - ist bei Regen schlammig. Es besteht Rutschgefahr.
 
 ### Mögliche Maßnahmen
 Neues Mineralgemisch aufbringen und regelmäßig von Laub befreien, bevor es zerfällt.
@@ -257,7 +259,7 @@ Ertüchtigung des Weges
 | Verantwortlich   | Stadt Hemmingen                                                                               |
 
 ### Ist Zustand/Mangel/Gefahr
-Die Bundesstraße in Arnum Mitte soll nach Fertigstellung der B3 Neu zurück gebaut werden. 
+Die Bundesstraße in Arnum Mitte soll nach Fertigstellung der B3-Neu zurück gebaut werden. 
 
 ### Mögliche Maßnahmen
 Der ADFC Hemmingen/Pattensen ist für einen "gemeinsamen Raum" im Zentrumsbereich auch 
@@ -294,7 +296,7 @@ parkenden Verkehr sowie Räume zum Verweilen und Kommunizieren mit ein.
 
 ### Status
 - 2019-03-17 - Jens Spille - ADFC-Stellungsnahme wurde als Stellungsnahme an den Bürgermeister, die Verwaltung und die Fraktionen geschickt.
-- 2019-09-26 - Jens Spille - [Konzeptplanung Ortsdurchfahrt Arnum](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1299) der Stadt Hemmingen. Was hier als Shared Space beschrieben wird entspricht nicht unseren Vorstellungen.
+- 2019-09-26 - Jens Spille - [Konzeptplanung Ortsdurchfahrt Arnum](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1299) der Stadt Hemmingen. Was hier als Shared-Space beschrieben wird entspricht nicht unseren Vorstellungen.
 
 
 # Bockstraße bis Beethovenstraße - Lückenschluss fehlt
@@ -340,7 +342,7 @@ Aus Radverkehrskonzept 2015 bekannt.
 
 Vom Hohen Holzweg kommend gibt es keinen Radweg zur Ampel. Unklare Verkehrsführung für Radfahrer, da die Streuscheibe der Ampel eine kombinierte Fußgänger und Radfahrer Ampel ist. Wenn Radfahrer vor der Shell Tankstelle stehen, besteht eine Gefahr durch Rechtsabbieger. Verwirrung durch ungünstige Verkehrsführung.
 
-Radfahrer aus Hoher Holzweg in Richtung Sundernweg richten sich teilweise nach der LSA mit der gemeinsamen Streuscheibe für Fuß- und Radverkehr. Dazu wechseln sie von der Fahrbahn Hoher Holzweg auf den Hochbord, um die Furt des LSA zu benutzen (Karte - Punkt 1). Rechts abbiegende Autofahrer aus Hoher Holzweg übersehen leicht die Fußgänger und Radfahrer, da ein Schild den Blick versperrt (Karte - Punkt 2). 
+Radfahrer aus Hoher Holzweg in Richtung Sundernweg richten sich teilweise nach der LSA mit der gemeinsamen Streuscheibe für Fuß- und Radverkehr. Dazu wechseln sie von der Fahrbahn Hoher Holzweg auf den Hochbord, um die Furt des LSA zu benutzen. Rechts abbiegende Autofahrer aus Hoher Holzweg übersehen leicht die Fußgänger und Radfahrer, da ein Schild den Blick versperrt.
 
 Das Radfahren von der Gartenstraße/Mühlenweg bis zur Shell-Tankstelle auf der linken Seite ist nicht freigegeben. Einen sicheren Übergang vom der Gartenstraße auf die rechte Fahrbahnseite gibt es nicht, deshalb fahren die Schüler, linksseitig auf den Fußweg, um dann die LSA Hoher Holzweg - Sundernweg zu benutzen. In umgekehrter Richtung ist der Fußweg an der B3 für Radfahrer frei gegeben "Fahrrad frei".
 
@@ -354,7 +356,7 @@ Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). -  Überweg in H�
 
 ### Status
 
-- 2018-01-05 J. Spille: Verbesserungsvorschlag wurde in unserer Stellungsnahme vom VEP2030 wiederholt.  *ADFCStellungnahmeVEP2030.doc* 
+- 2018-01-05 J. Spille: Verbesserungsvorschlag wurde in unserer Stellungsnahme vom VEP2030 wiederholt.
 - 2018-11 J. Spille: Vorschlag wurde im Rahmen einer Ortsbegehung wiederholt.
 - 2018-11 J. Spille: Alles ist offen. Hier könnte evtl. auch ein Kreisverkehr entstehen.
 - 2019-09-26-Do - Jens Spille - Es wurde wieder ein Kreisverkehr vorgeschlagen. Radverkehrsführung auf Fahrbahn "Konzept für Arnum Mitte".
@@ -369,7 +371,7 @@ Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). -  Überweg in H�
 | Einstelldatum    | 2017-12-05-Di                                                                                |
 | Status           | Verbesserungsvorschlag                                                                       |
 | Autor            | Jens Spille                                                                                  |
-| Ort              | Devese K 221 / Stadweg                                                                       |
+| Ort              | Devese K 221 / Stadtweg                                                                       |
 | Fahrtrichtung    | Von West nach Ost                                                                            |
 | Verantwortlich   | Region                                                                                       |
 
@@ -387,8 +389,8 @@ Angebot einer Alternative - z.B. indirektes Abbiegen.
 
 ### Status
 
-- 2018-01-05 J. Spille: Verbesserungsvorschlag wurde in unserer Stellungsnahme vom VEP2030 vorgestellt. *ADFCStellungnahmeVEP2030.doc*
-- 2018-10 J.Spille: Bündnes 90/Die Grünen haben ein Gesprächsangebot gemacht.
+- 2018-01-05 J. Spille: Verbesserungsvorschlag wurde in unserer Stellungsnahme vom VEP2030 vorgestellt. 
+- 2018-10 J.Spille: Der Ortsverband BÜNDNIS 90/DIE GRÜNEN haben ein Gesprächsangebot gemacht.
 
 
 # Ausfahrt auf die Freda-Wüsthoff-Straße - unübersichtlich
@@ -400,7 +402,7 @@ Angebot einer Alternative - z.B. indirektes Abbiegen.
 | Einstelldatum    | 2015                                                                                           |
 | Status           | offen                                                                                          |
 | Autor            | Radverkehrskonzept                                                                             |
-| Ort              | Feld südostlich Freda-Wüsthoff-Straße                                                          |
+| Ort              | Feld südöstlich Freda-Wüsthoff-Straße                                                          |
 | Fahrtrichtung    | In beiden Richtungen                                                                           |
 | Verantwortlich   | Stadt Hemmingen                                                                                |
 
@@ -413,7 +415,7 @@ Ausfahrt auf die Freda-Wüsthoff-Straße ist unübersichtlich.
 
 ### Status
 
-- 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
+- 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnis 90 / Die Grünen erörtert.
 
 
 # Bankett B3 zwischen Westerfeld und Arnum ist abgesackt
@@ -441,10 +443,10 @@ Bankett auffüllen
 - 2019 - Jens Spille - Radweg soll saniert werden, wegen Beleuchtung.
 
 
-# Alle 3 Kreisel mit Radwege Rot Markierung versehen
+# Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen
 ## OLC 8P89+C7
 
-| Kurzbeschreibung | Alle 3 Kreisel mit Radwege Rot Markierung versehen                                           |
+| Kurzbeschreibung | Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen                                |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#16/52.3164/9.7182) |
 | Einstelldatum    | 2019-07-03                                                                                   |
@@ -455,10 +457,10 @@ Bankett auffüllen
 | Verantwortlich   | Region Hannover                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Mehr Aufmerksamkeit durch KFZ gewünscht. Erhöhung der Sicherheit. 
+Mehr Aufmerksamkeit durch KFZ Fahrer gewünscht. Erhöhung der Sicherheit. 
 
 ### Mögliche Maßnahmen
-Alle 3 Kreisel mit einer Rot Markierung versehen
+Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen
 
 ### Status
 
@@ -477,10 +479,10 @@ Alle 3 Kreisel mit einer Rot Markierung versehen
 | Verantwortlich   | Regionstraße                                                                                 |
 
 ### Ist Zustand/Mangel/Gefahr
-Die Deveser Straße hat jetzt und auch später wenig KFZ Verkehr und ist gut geeignet den Radverkehr zu fördern.
+Die Deveser Straße hat jetzt und auch später wenig KFZ Verkehr und ist sehr gut geeignet den Radverkehr zu fördern.
 
 ### Mögliche Maßnahmen
-Zur Steigerung des Radverkehr wird vorgeschlagen die Deveser Straße zur Radfahrstraße umzuwidmen.
+Zur Steigerung des Radverkehrs wird vorgeschlagen die Deveser Straße zur Radfahrstraße umzuwidmen.
 
 ### Status
 
@@ -499,7 +501,7 @@ Zur Steigerung des Radverkehr wird vorgeschlagen die Deveser Straße zur Radfahr
 | Verantwortlich   | Hemmingen                                                                                      |
 
 ### Ist Zustand/Mangel/Gefahr
- Fahrzeugfahrer aus der Sundernstraße kommend, können die Radfahrer die linksseitig aus Richtung Westen kommen nicht, oder erst spät sehen. Erschwerend kommt hinzu, dass die Radfahrer (auch ungeübte), an dieser Stelle, aufgrund des Gefälles eine "flotte" Geschwindigkeit erreichen. 
+Fahrzeugfahrer aus der Sundernstraße kommend, können die Radfahrer die linksseitig aus Richtung Westen kommen nicht, oder erst spät sehen. Erschwerend kommt hinzu, dass die Radfahrer (auch ungeübte), an dieser Stelle, aufgrund des Gefälles eine "flotte" Geschwindigkeit erreichen. 
 
 ![](8P9J+H4_SundernstrWeetzener.png)
 
@@ -528,9 +530,9 @@ Empfehlungen für Sichtfelder aus [Musterlösungen für Radverkehrsanlagen in Ba
 | Verantwortlich   |                                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Über RADar! wurde eine neue Meldung eingestellt. ID: 2019-19750
+Über das Portal RADar! wurde eine neue Meldung eingestellt. ID: 2019-19750
 
-Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg entlang der Weetzener Landstr zwischen B3 und Hemmingen Dorf ist in einem sehr schlechten Zustand. Neben den Abbrüchen und Versackungen sind auch die Risse zwischen den Abschnitten teilweise schmerzhafte Stauchstellen für die Wirbelsäule.
+Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg entlang der Weetzener Landstraße zwischen B3 und Hemmingen Dorf ist in einem sehr schlechten Zustand. Neben den Abbrüchen und Versackungen sind auch die Risse zwischen den Abschnitten teilweise schmerzhafte "Stauchstellen" für die Wirbelsäule.
 
 ### Mögliche Maßnahmen
 Sanierung und Verbreiterung
@@ -584,7 +586,7 @@ Ausbesserung
 Radfahrer die die K211 überqueren möchten müssen sich häufig zwischen den stauenden Fahrzeugen auf der K221 drängeln.
 
 Die Querung der K 221 (aus und in die Fahrradstraße) ist zu Stoßzeiten schwierig, da sich auf der K221 
-längere Rückstaus bilden. Das führt dazu, dass Radfahrer den Drücker der Fußgängerample betätigen, und mit dem Grün 
+längere Rückstaus bilden. Das führt dazu, dass Radfahrer den Drücker der Fußgängerampel betätigen, und mit dem Grün 
 der Fußgänger-Ampel die K221 überqueren. Dazu müssen sie, wenn sie von Norden kommen, die Gegenfahrtrichtung auf 
 Im Dorffeld überqueren.
 
@@ -593,12 +595,13 @@ Im Dorffeld überqueren.
 ![](8PCW+5H_BrotHenkeFoto.png)
 
 ### Mögliche Maßnahmen
-Extra Radfahrer-Ampel. Am besten als Dunkel-Dunkel Ampel geschaltet, damit in ruhigen Zeiten 
-ein zügiges Überqueren möglich wird und keine Rotlicht-Sünder herangezogen werden.
+Extra Radfahrer-Ampel. Am besten als Dunkel-Dunkel Ampel geschaltet, damit in ruhigen Zeiten ein zügiges Überqueren möglich wird und keine Rotlicht-Sünder herangezogen werden.
 
 ### Status
 
 - 2019 - Jens Spille - Region hat Plan zum Umbau vorgelegt.
+
+[Umgestaltung Weetzener Landstraße (K221) (4579 KB)](https://www.stadthemmingen.de/allris/to020.asp?TOLFDNR=8080)
 
 ![](8PCW+5H_PlanKreuzungBortHenke.png)
 
@@ -617,12 +620,14 @@ ein zügiges Überqueren möglich wird und keine Rotlicht-Sünder herangezogen w
 | Verantwortlich   | Region Hannover                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Die Dorfstraße ist unübersichtlich und eng. Ein Überholen, auch von Fahrrädern mit einem Abstand von mind. 1,5 m ist nicht sicher möglich. 
+Die Dorfstraße ist unübersichtlich und eng. Ein Überholen, auch von Fahrrädern mit einem Abstand von mindestens 1,5 m ist nicht sicher möglich. 
 
 ### Mögliche Maßnahmen
 Wir fordern Tempo 30 und ein Überholverbot von Fahrrädern. 
 
 Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeichens die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.
+
+[Überholverbot von Fahrrädern und anderen einspurigen Fahrzeugen](https://www.bmvi.de/SharedDocs/DE/Artikel/StV/stvo-novelle.html)
 
 ![](8PCX+H4_Dorfstaße.svg)
 
@@ -697,7 +702,7 @@ von Schutzstreifen ist vom Verkehrsaufkommen und der Fahrbahnbreite
 abhängig. Aufgrund der zur Verfügung stehenden Fahrbahnbreite ist
 dies für die nördliche Seite nicht möglich. Somit soll der Radfahrende in
 westliche Richtung im Mischverkehr auf der Fahrbahn fahren. Ergänzend
-kann der nördliche Seitenraum Richtungsbezogen für den Radverkehr freigegeben
+kann der nördliche Seitenraum richtungsbezogen für den Radverkehr freigegeben
 werden.
 
 ### Mögliche Maßnahmen
@@ -726,9 +731,9 @@ werden.
 
 Adresse: Berliner Straße, Hemmingen, Wilkenburg, Hemmingen, Region Hannover, Niedersachsen, 30966, Deutschland
 
-Meldungsgrund: Radwegebenutzungspflicht überprüfen
+Meldungsgrund: Radwegbenutzungspflicht überprüfen
 
-weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtrichtung nach Osten ein linksseitiger Radweg vorgeschrieben. Als Radfahrer von Penny kommend muss ich also für diesen Bereich auf die Linke Seite wechseln und danach wieder auf die Rechte Seite fahren, auch wenn sich auf dem Fußweg (Fahrrad frei) zu viele Fußgänger befinden. Warum ist hier die Linke Seite vorgeschrieben?
+Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtrichtung nach Osten ein linksseitiger Radweg vorgeschrieben. Als Radfahrer von Penny kommend muss ich also für diesen Bereich auf die Linke Seite wechseln und danach wieder auf die Rechte Seite fahren, auch wenn sich auf dem Fußweg (Fahrrad frei) zu viele Fußgänger befinden. Warum ist hier die Linke Seite vorgeschrieben?
 
 ### Mögliche Maßnahmen
 Radwegebenutzungspflicht aufheben.
@@ -830,7 +835,7 @@ Der Übergang müsste in einem flacheren Winkel und ohne Übergang erfolgen.
 | Verantwortlich   | Unbekannt                                                                                    |
 
 ### Ist Zustand/Mangel/Gefahr
-der ADFC Hemmingen/Pattensen möchte, sowohl ortskundige als auch ortsfremde Radfahrende, eine Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle geben. Dazu schlagen wir vor, Infotafeln an den den Zufahrten zur Baustelle, an Sammelpunkten wie Rathausplatz und Einkaufzentren aufzustellen und den Inhalt sowohl Online als auch per Pressemitteilung zu verbreiten.
+Der ADFC Hemmingen/Pattensen möchte, sowohl ortskundige als auch ortsfremde Radfahrende, eine Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle geben. Dazu schlagen wir vor, Infotafeln an den Zufahrten zur Baustelle, an Sammelpunkten wie Rathausplatz und Einkaufzentren aufzustellen und den Inhalt sowohl Online als auch per Pressemitteilung zu verbreiten.
 
 Die Umleitungen verlaufen auf den Strecken, die Sie auch als Umleitung gekennzeichnet haben bzw. über die Fahrradstraßen. Die Empfehlungen sollten sich auf keinen Fall widersprechen.
 
@@ -858,20 +863,20 @@ Hier ein erster Entwurf, basierend auf der OpenStreetMap Karte, die nur den Hinw
 
 ### Ist Zustand/Mangel/Gefahr
 Nach dem Umbau der B3 alt wegen der Stadtbahnverlängerung wird es für den Radverkehr eng.
-Vorgesehen ist eine Fahrbahnbreite von 3.00 m mit einem Schutzstreifen von 1.50 m und Parkstreifen von 2.0 m.
+Vorgesehen ist eine Fahrbahnbreite von 3.00 m mit einem Schutzstreifen von 1.50 m und Parkstreifen von 2.00 m.
 Der KFZ Verkehr kann wegen der Gleiskörpers nicht nach links ausweichen. Wir haben 2014 vorgeschlagen:
 
-> Einwand: Heutige Fahrzeuge, sogenannte SUVs und Vans, sind teilweise breiter als 2 m und 
+> Einwand: Heutige Fahrzeuge, sogenannte SUVs und Vans, sind teilweise breiter als 2.00 m und 
 auch Lieferfahrzeuge werden hier halten und in den Schutzstreifen hinein ragen. Wir fordern, 
 die Verbreiterung der Parkbuchten und einen Sicherheitsstreifen. 
-> Vorschlag: Eine Verbreiterung der Parkbuchten auf mindestens 2,3 m. Weiterhin eine 
-Verbreiterung des östlichen Schutzstreifens auf 1,75 m. Wir würden eine Reduzierung des westlichen Schutzstreifens auf 1,5 m gerne in Kauf nehmen. Wir brauchen einen Sicherheitsstreifen zu sich plötzlich öffnende KFZ-Türen.
+> Vorschlag: Eine Verbreiterung der Parkbuchten auf mindestens 2,30 m. Weiterhin eine 
+Verbreiterung des östlichen Schutzstreifens auf 1,75 m. Wir würden eine Reduzierung des westlichen Schutzstreifens auf 1,50 m gerne in Kauf nehmen. Wir brauchen einen Sicherheitsstreifen zu sich plötzlich öffnende KFZ-Türen.
 
 Dieses wurde damals abgelehnt. 
 
 ### Mögliche Maßnahmen
 
-Jetzt fordert die Novelle der StvO 2019 einen Überholabstand von 1.5 m zwischen Radfahrenden und dem KFZ Verkehr. Dieses kann auf Grund der baulichen Gegebenheiten nicht gewährleistet werden. Wir fordern deshalb ein Überholverbot von Radfahrenden. 
+Jetzt fordert die Novelle der StvO 2019 einen Überholabstand von 1.5 m zwischen Radfahrenden und dem KFZ Verkehr. Dieses kann aufgrund der baulichen Gegebenheiten nicht gewährleistet werden. Wir fordern deshalb ein Überholverbot von Radfahrenden. 
 
 Damit hat der Radfahrende zu mindestens die Möglichkeit einen, von Gerichten geforderten, Sicherheitsabstand von 0,8 bis 1,2 m zu parkenden Fahrzeugen einzuhalten und gleichzeitig eine gesetzliche Sicherheit nicht durch überholende Fahrzeuge bedrängt zu werden. 
 
@@ -894,7 +899,7 @@ Damit hat der Radfahrende zu mindestens die Möglichkeit einen, von Gerichten ge
 | Verantwortlich   | Stadt Hemmingen                                                  |
 
 ### Ist Zustand/Mangel/Gefahr
-Radfaher auf dem gemeinsamen, einseitigen, zweirichtungs Rad- und Fußweg, müssen in der Einmündung Hohe Bünte der eingerückten Furt folgen. Hinzu kommt das die Radfahrerfurt sehr schmal und nur einseitig vom Zebrastreifen angeordnet ist. Damit ist der Radfahrer nicht mehr im Sichtfeld des von der Berliner Straße kommenden rechts abbiegenden Autofahrer.
+Radfahrer auf dem gemeinsamen, einseitigen, zweirichtungs Rad- und Fußweg, müssen in der Einmündung Hohe Bünte der eingerückten Furt folgen. Hinzu kommt das die Radfahrerfurt sehr schmal und nur einseitig vom Zebrastreifen angeordnet ist. Damit ist der Radfahrer nicht mehr im Sichtfeld des von der Berliner Straße kommenden rechts abbiegenden Autofahrer.
 
 ![](8PGR+7W_EinmuendungHoheBuente.png)
 
@@ -927,7 +932,7 @@ Adresse: Berliner Straße, Hemmingen, Wilkenburg, Hemmingen, Region Hannover, Ni
 
 Meldungsgrund: Unfallschwerpunkt
 
-weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbauen (direkter Weg zur KGS). Wenn man als Fußgänger in den Bus steigen will, ist es sehr unangenehm, wenn die vielen Schüler die aus der Börie kommen zwischen den wartenden Passanten hindurch kurven.
+Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbauen (direkter Weg zur KGS). Wenn man als Fußgänger in den Bus steigen will, ist es sehr unangenehm, wenn die vielen Schüler die aus der Börie kommen zwischen den wartenden Passanten hindurchkurven.
 
 ### Mögliche Maßnahmen
 Trampelpfad bei der Bushaltestelle Börie als Radweg ausbauen.
@@ -954,7 +959,7 @@ Trampelpfad bei der Bushaltestelle Börie als Radweg ausbauen.
 
 Umlaufgitter verhindern das Durchkommen von Fahrrädern mit Anhänger und Lastenräder. 
 
-ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr erschwert werden kann. Sie müssen nachts und bei schlechten Sichtverhältnissen ausreichend erkennbar sein."
+ERA "Empfehlungen für Radverkehrsanlagen": "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr erschwert werden kann. Sie müssen nachts und bei schlechten Sichtverhältnissen ausreichend erkennbar sein."
 
 ![](8PHG+RW_AmSiek.png)
 
@@ -995,7 +1000,7 @@ Adresse: Hohe Bünte, Wilkenburg, Hemmingen, Region Hannover, Niedersachsen, 309
 
 Meldungsgrund: Auffahrt auf Radweg nur mit Umweg möglich
 
-weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Straße fahren möchte (Fahrradstraße) muss man unglücklich um die Ecke kurven.
+Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Straße fahren möchte (Fahrradstraße) muss man unglücklich um die Ecke kurven.
 
 ![](8PJR+55_BeiStrandbad.png)
 
@@ -1131,14 +1136,14 @@ Bordsteinabsenkung
 | Verantwortlich   | Region Hannover                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Der Radweg entlang der L398 ist von Arnum bis Ortseingang / Friedhof Wilkenburg verpflichtend (Zeichen 240). Ab ca. Orteingang wird der Weg (zurecht aufgrund der geringen Breite) zum "Fußweg / Radfahrer frei" herabgestuft, d. h. der Alltagsradfahrer/Berufspendler sollte/muss auf die Straße wechseln. Nach der Kurve vor der Kirchstraße neben der Pferdekoppel wird der Weg wieder zum verpflichtenden Radweg auf der linken Seite heraufgestuft, d. h. ein erneuter Wechsel der Straßenseite steht an. 
+Der Radweg entlang der L398 ist von Arnum bis Ortseingang / Friedhof Wilkenburg verpflichtend (Zeichen 240). Ab ca. Ortseingang wird der Weg (zurecht aufgrund der geringen Breite) zum "Fußweg / Radfahrer frei" herabgestuft, d.h. der Alltagsradfahrer/Berufspendler sollte/muss auf die Straße wechseln. Nach der Kurve vor der Kirchstraße neben der Pferdekoppel wird der Weg wieder zum verpflichtenden Radweg auf der linken Seite heraufgestuft, d. h. ein erneuter Wechsel der Straßenseite steht an. 
 
 Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freigegeben ist und in der Ortsdurchfahrt Wilkenburg dafür eigentlich zu schmal ist.
 
 ![](8Q64+XF_DurchfahrtWilkenburg.png)
 
 ### Mögliche Maßnahmen
-Maximalforderung: Einen der ERA entsprechenden Radweg durch Wilkenburg bauen. Realistisch: Warnzeichen 138 an den gefährlichen Stellen aufstellen. Eventuell einen Radstreifen einrichten. Dieser würde allerdings nicht das Problem des doppelten Seitenwechsels lösen.
+Maximalforderung: Einen der ERA "Empfehlungen für Radverkehrsanlagen" entsprechenden Radweg durch Wilkenburg bauen. Realistisch: Warnzeichen 138 an den gefährlichen Stellen aufstellen. Eventuell einen Radstreifen einrichten. Dieser würde allerdings nicht das Problem des doppelten Seitenwechsels lösen.
 
 ### Status
 - 2017 - Jens Spille - L389 soll saniert werden.
@@ -1160,7 +1165,7 @@ Maximalforderung: Einen der ERA entsprechenden Radweg durch Wilkenburg bauen. Re
 ### Ist Zustand/Mangel/Gefahr
 Gefahr durch Stürze, besonders entlang der Längskanten.
 
-Der alte kombinierte Rad-/Fußweg an der Wülfeler Str zwischen Wilkenburg und Dorfstr (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite.
+Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite.
 
 ![](8Q84+6P_L389Radweg.png)
 
@@ -1182,7 +1187,7 @@ Adresse: Wülfeler Straße, Wilkenburg, Region Hannover, Niedersachsen, 30966, D
 
 Meldungsgrund: Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko
 
-weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Str zwischen Wilkenburg und Dorfstr (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
+Weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
 
 ### Mögliche Maßnahmen
 Sanierung
@@ -1225,9 +1230,9 @@ Empfehlungen für ein Radwegende aus [Musterlösungen für Radverkehrsanlagen in
 ![](8Q92+PM_Querungshilfe.png)
 
 #### Fahrtrichtung in Richtung Osten
-Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht auf Grund der Baulichen Anordnung fast nur im rechten Winkel. 
+Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht aufgrund der baulichen Anordnung fast nur im rechten Winkel. 
 
-Oder der Radfahrer kommt vom Gehweg - Radfahrer frei auf der rechten Seiten und muss die viel zu schmalen Bordsteinabsenkung benutzen.
+Oder der Radfahrer kommt vom Gehweg - Radfahrer frei - auf der rechten Seiten und muss die viel zu schmalen Bordsteinabsenkung benutzen.
 
 #### Mögliche Maßnahmen
 Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benutzen und breitere Bordsteinabsenkungen für die Anderen. 
@@ -1236,7 +1241,7 @@ Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benut
 
 ### Status
 
-- 2019-08-14 - Jens Spille - Tour mit Regionspräsident - Bürgermeister "Die gefährlichste Kreuzung in Hemmingen".
+- 2019-08-14 - Jens Spille - Tour mit Regionspräsident - Bürgermeister: "Die gefährlichste Kreuzung in Hemmingen".
 - 2019-09-09 - Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 
 
@@ -1258,7 +1263,7 @@ Der Radweg entlang der Wülfeler Straße (L 389) (grüner Pfeil) hat eine abgefa
 Zu den Stoßzeiten bildet sich ein Rückstau auf der Dorfstraße, da auf der Wülfeler Straße ein kontinuierlicher Verkehrsfluss besteht. 
 Durch den "Druck" der Fahrer eine Lücke erwischen zu müssen (Tunnelblick), sind Radfahrer und Fußgänger auf der Querung nicht mehr sicher.
 
-Desweiteren ist die Querung (blauer Pfeil) vom Parkplatz kommend sehr gefährlich, da der Verkehr aus Richtung Wilkenburg 
+Des weiteren ist die Querung (blauer Pfeil) vom Parkplatz kommend sehr gefährlich, da der Verkehr aus Richtung Wilkenburg 
 hinter einer Kurve liegt. "Grüner Ring".
 
 ![](8Q94+VR_WilkenburgerSpinne.png)
@@ -1268,7 +1273,7 @@ hinter einer Kurve liegt. "Grüner Ring".
 ### Mögliche Maßnahmen
 Hier brauchen wir dringend eine Entschleunigung
   - Ideal wäre ein Kreisel, mit STOP und Zusatzzeichen Radfahrer von links und rechts.
-  - Notfalls eine LSA
+  - Notfalls eine Lichtsignalanlage (LSA).
   - Dringend eine Geschwindigkeitsbegrenzung auf 50 km/h.
 
 Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinsel) sinnvoll. Mindestens ein Spiegel.
@@ -1291,10 +1296,10 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 | Verantwortlich   | Hemmingen                                                                                      |
 
 ### Ist Zustand/Mangel/Gefahr
-Ortsunkundige wissen nicht wann sie welchen Ort passieren. Hinweise auf Sehenswürdigkeiten und Hilfe (Gastronomie, Lebensmittel und Pannendienst) erleichtern das Leben und solche Gäste kommen wieder.
+Ortsunkundige wissen nicht, wann sie welchen Ort passieren. Hinweise auf Sehenswürdigkeiten und Hilfe (Gastronomie, Lebensmittel und Pannendienst) erleichtern das Leben und solche Gäste kommen wieder.
 
 ### Mögliche Maßnahmen
-Beispiel Ortseingangstafel aus Koldingen. Aufgestellt vom Ortsrat
+Beispiel Ortseingangstafel aus Koldingen. Aufgestellt vom Ortsrat.
 
 ![](8Q98+W4_Willkommenstafel.png)
 
@@ -1319,9 +1324,9 @@ Beispiel Ortseingangstafel aus Koldingen. Aufgestellt vom Ortsrat
 
 Adresse: Wilkenburger Straße, Wülfel, Döhren-Wülfel, Hemmingen, Region Hannover, Niedersachsen, 30519, Deutschland
 
-Meldungsgrund: Sichere Straßenquerung fehlt
+Meldegrund: Sichere Straßenquerung fehlt
 
-weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger Spinne die Wilkenburger Str. überqueren muss, um auf den ggü liegenden Radweg oder die Dorfstr. zu gelangen, wird von Autofahrern aus Richtg Wilkenburg erst spät gesehen wie auch umgekehrt, da die Gefahrenstelle hinter einer leichten Kurve liegt. 
+Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger Spinne die Wilkenburger Straße überqueren muss, um auf den gegenüber liegenden Radweg oder die Dorfstraße zu gelangen, wird von Autofahrern aus Richtung Wilkenburg erst spät gesehen wie auch umgekehrt, da die Gefahrenstelle hinter einer leichten Kurve liegt. 
 
 ### Mögliche Maßnahmen
 Deutliche Warnschilder, die auch im Dunkeln gut sichtbar sind, aus rechtzeitiger Entfernung könnten helfen. 

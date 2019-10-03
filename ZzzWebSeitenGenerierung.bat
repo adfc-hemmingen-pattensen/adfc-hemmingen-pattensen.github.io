@@ -1,6 +1,6 @@
 
-SET portpath=C:\DataProg\PortProg\PortableApps
-IF %computername%==JENSDELL SET portpath=C:\DataProg\PortProg\PortableApps
+SET portpath=C:\DataProg\PortProg
+IF %computername%==JENSDELL SET portpath=C:\DataProg\PortProg
 SET PATH=%portpath%\pandoc213\;%PATH%
 Set PATH=%portpath%\UnxUtil\usr\local\wbin\;%Path%
 

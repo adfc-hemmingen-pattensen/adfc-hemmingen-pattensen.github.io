@@ -3,11 +3,11 @@
 :: 2019-09-28 
 @cd .
 @set PROMPT=$G
-@SET PATH=%PATH%;C:\DataProg\PortProg\PortableApps\gVimPortable
-@SET PATH=%PATH%;C:\DataProg\PortProg\PortableApps\pandoc213
-@SET PATH=%PATH%;C:\DataProg\MikTexPort\texmfs\install\miktex\bin
-@SET PATH=%PATH%;C:\DataProg\PortProg\PortableApps\rscg-convert
-@SET PATH=%PATH%;C:\DataProg\PortProg\PortableApps\UnxUtil\usr\local\wbin
+@SET PATH=%PATH%;C:\DataProg\PortProg\gVimPortable
+@SET PATH=%PATH%;C:\DataProg\PortProg\pandoc213
+@SET PATH=%PATH%;C:\DataProg\PortProg\MikTexPort\texmfs\install\miktex\bin
+@SET PATH=%PATH%;C:\DataProg\PortProg\rscg-convert
+@SET PATH=%PATH%;C:\DataProg\PortProg\UnxUtil\usr\local\wbin
 @SET DT=%date%
 @SET TM=%time:~0,5%
 @echo Today is %DT% %TM%
