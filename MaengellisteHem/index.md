@@ -503,6 +503,8 @@ Zur Steigerung des Radverkehrs wird vorgeschlagen die Deveser Straße zur Radfah
 
 Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg entlang der Weetzener Landstraße zwischen B3 und Hemmingen Dorf ist in einem sehr schlechten Zustand. Neben den Abbrüchen und Versackungen sind auch die Risse zwischen den Abschnitten teilweise schmerzhafte "Stauchstellen" für die Wirbelsäule.
 
+![](8P9M+QW_RadwegWeetzenerLandstraße.jpg)
+
 ### Mögliche Maßnahmen
 Sanierung und Verbreiterung
 
