@@ -282,6 +282,21 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+### Abendtour 16/19 2019-09-18-Mi.
+ 
+Tourenziel       | Gehrdener Berg
+---------------: | ----------------------- 
+Datum            | 2019-09-18-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 7
+Tourenlänge [km] | 33
+Wetter           | heiter bis wolkig
+    
+Die 16. Feierabend-Radtour startete am Mittwoch den 18. September mit 7 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurze Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen, weiter nach Ihme Roloven, durchs Bürgerholz nach Hemmingen, das wir nach ca. 2,5 Std. und 33 km erreichten.
+
 ### Abendtour 15/19 2019-09-11-Mi.
  
 Tourenziel       | Rethen, Bockemer Holz
