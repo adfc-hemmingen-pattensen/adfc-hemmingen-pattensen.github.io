@@ -23,9 +23,12 @@
 @echo " git commit -am "
 @echo " git push
 @echo .
-doskey mysed="sed s/LetzteAenderung/%DT%_%TM%/g index.md >indexTemp.md"
-doskey myhtml=pandoc -o index.html indexTemp.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=Maengelliste
-doskey myshow=index.html
+doskey ed=gVimPortable index.md
+doskey sed=sed s/LetzteAenderung/%DT%_%TM%/g index.md $g indexTemp.md
+doskey html=pandoc -o index.html indexTemp.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=Maengelliste
+doskey pdf=pandoc -o index.pdf indexTemp.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey docx=pandoc -o index.docx indexTemp.md
+doskey show=index.html
 @cmd.exe /K
 
 

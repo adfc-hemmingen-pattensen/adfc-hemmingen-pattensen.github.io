@@ -625,7 +625,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 ### Mögliche Maßnahmen
 Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
 
-![](8PFC+M26_WeserradwegHamelnEinengung.jpg)
+![](8PFC+M26_WeserradwegHamelnEinengung.png)
 
 ### Status
 
@@ -939,7 +939,7 @@ Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu ve
 
 Beispiel Weserradweg.
 
-![](8PHG+RW_WeserradwegHamelnEinengung.jpg)
+![](gg0.png)
 
 Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältnisse zu gewähren.
 
