@@ -44,8 +44,6 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8P89+C7](#olc-8p89c7)
 - [Deveser Straße zur Radfahrstraße umwidmen](#deveser-straße-zur-radfahrstraße-umwidmen)
     - [OLC 8P96+3V](#olc-8p963v)
-- [Weetzener Landstraße - Einmündung Sundernstraße](#weetzener-landstraße---einmündung-sundernstraße)
-    - [OLC 8P9J+H4](#olc-8p9jh4)
 - [Radweg Weetzener Landstraße - Löcher, Brüche und Unebenheiten](#radweg-weetzener-landstraße---löcher-brüche-und-unebenheiten)
     - [OLC 8P9M+QW](#olc-8p9mqw)
 - [Im Hammfeld - Einige Unebenheiten](#im-hammfeld---einige-unebenheiten)
@@ -487,35 +485,6 @@ Zur Steigerung des Radverkehrs wird vorgeschlagen die Deveser Straße zur Radfah
 ### Status
 
 
-# Weetzener Landstraße - Einmündung Sundernstraße
-## OLC 8P9J+H4
-
-| Kurzbeschreibung | Autofahrer und Radfahrer können sich nicht sehen.                                              |
-| ---------------: | -----------------------                                                                        |
-| Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.31897/9.73191) |
-| Einstelldatum    | 2017-09-10                                                                                     |
-| Status           | Verwaltung bekannt´                                                                            |
-| Autor            | Jens Spille                                                                                    |
-| Ort              | Hemmingen - Westerfeld - Weetzener Landstraße (K221) - Einmündung Sundernstraße                |
-| Fahrtrichtung    | In Richtung Osten                                                                              |
-| Verantwortlich   | Hemmingen                                                                                      |
-
-### Ist Zustand/Mangel/Gefahr
-Fahrzeugfahrer aus der Sundernstraße kommend, können die Radfahrer die linksseitig aus Richtung Westen kommen nicht, oder erst spät sehen. Erschwerend kommt hinzu, dass die Radfahrer (auch ungeübte), an dieser Stelle, aufgrund des Gefälles eine "flotte" Geschwindigkeit erreichen. 
-
-![](8P9J+H4_SundernstrWeetzener.png)
-
-### Mögliche Maßnahmen
-Sichtdreieck herstellen. Evtl. Spiegel. Bodenmarkierung mit zwei Pfeilen.
-
-Empfehlungen für Sichtfelder aus [Musterlösungen für Radverkehrsanlagen in Baden-Württemberg](https://www.fahrradland-bw.de/fileadmin/user_upload_fahrradlandbw/1_Radverkehr_in_BW/c_Projekte_Infrastruktur/Landesradverkehrsnetz/1604_25_Musterloesungen_RadNETZ.pdf):
-
-![](8P9J+H4_SichtfelderBei50und70.png)
-
-### Status
-- 2018 - Jens Spille - Rote Bodenmarkierung wurde aufgebracht - Sehr gut. 
-
-
 # Radweg Weetzener Landstraße - Löcher, Brüche und Unebenheiten
 ## OLC 8P9M+QW
 
@@ -656,7 +625,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 ### Mögliche Maßnahmen
 Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
 
-![](8PFC+M26_VerengungRadweg.png)
+![](8PFC+M26_WeserradwegHamelnEinengung.jpg)
 
 ### Status
 
@@ -826,7 +795,7 @@ Der Übergang müsste in einem flacheren Winkel und ohne Übergang erfolgen.
 
 | Kurzbeschreibung | Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle                         |
 | ---------------: | -----------------------                                                                      |
-| Mängelkarte      | [Link]https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.3224/9.7277) |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#15/52.3224/9.7277) |
 | Einstelldatum    | 2019-06-01                                                                                   |
 | Status           | offen                                                                                        |
 | Autor            | Jens Spille                                                                                  |
@@ -968,9 +937,9 @@ Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu ve
 
 ![](8PHG+RW_VerengungRadweg.png)
 
-Beispiel aus Rostock.
+Beispiel Weserradweg.
 
-![](8PHG+RW_VerengungRadwegRostock.png)
+![](8PHG+RW_WeserradwegHamelnEinengung.jpg)
 
 Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältnisse zu gewähren.
 
