@@ -939,7 +939,7 @@ Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu ve
 
 Beispiel Weserradweg.
 
-![](gg0.png)
+![](8PHG+RW_WeserradwegHamelnEinengung.png)
 
 Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältnisse zu gewähren.
 
