@@ -10,7 +10,7 @@
 <!-- <img src="smiley2.png" alt="" style="float:right;">-->
 <img src="smiley2.png" alt="" style="float:right;">
 
-Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf)
+Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf)
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
