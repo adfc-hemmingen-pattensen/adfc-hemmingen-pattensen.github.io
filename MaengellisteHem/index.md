@@ -64,6 +64,8 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8PFW+JW](#olc-8pfwjw)
 - [Döhrener Straße Seniebachbrücke - unangenehme Höhenunterschiede](#döhrener-straße-seniebachbrücke---unangenehme-höhenunterschiede)
     - [OLC 8PFX+Q2](#olc-8pfxq2)
+- [Eine Fahrradstraße die keine sein darf](#eine-fahrradstraße-die-keine-sein-darf)
+    - [OLC 8PGG+VC](#olc-8pggvc)
 - [Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle](#orientierungshilfe-zur-gefahrlosen-umfahrung-der-stadtbahn-baustelle)
     - [OLC 8PGF+2H](#olc-8pgf2h)
 - [Engstelle nach Umbau Stadtbahnverlängerung](#engstelle-nach-umbau-stadtbahnverlängerung)
@@ -791,6 +793,35 @@ weitere Angaben: Bei der Reparatur der Brücke wurde auf Kosten der Radfahrer di
 Der Übergang müsste in einem flacheren Winkel und ohne Übergang erfolgen.
 
 ### Status
+
+# Eine Fahrradstraße die keine sein darf
+## OLC 8PGG+VC
+
+| Kurzbeschreibung | Eine Fahrradstraße die keine sein darf                                                          |
+| ---------------: | -----------------------                                                                         |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#17/52.32704/9.72654) |
+| Einstelldatum    | 2019-10-20                                                                                      |
+| Status           | offen                                                                                           |
+| Autor            | Jens Spille                                                                                     |
+| Ort              | Köllnbrinkweg zwischen Rathausplatz und Grundschule                                             |
+| Fahrtrichtung    | In beiden Richtungen                                                                            |
+| Verantwortlich   | Stadt Hemmingen                                                                                 |
+
+### Ist Zustand/Mangel/Gefahr
+
+Im Köllnbrinkweg zwischen Weidenkamp und Grundschule gibt es ein Konfliktpotential zwischen KFZ und Fahrrädern. Durch die parkenden Autos am Rand wird durch entgegenkommende Fahrzeuge bzw. überholende Fahrzeuge der geforderte Mindest-Seitenabstand von 1.5 Meter oft/meist nicht eingehalten.
+
+In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hannorad2019-3.pdf) steht ein Artikel zur Fahrradstraße Kleefelder Straße in Hannover. Diese darf keine Fahrradstraße mehr sein, da durch die parkenden Autos die Straße zu schmal ist. Die verbleibenden, etwas mehr als 3 Meter reichen nicht aus, um als Fahrradstraße mit KFZ frei zu dienen. Einfach nur blaue Schilder aufhängen und baulich nichts zu verändern reicht nicht aus.
+
+![](8PGG+VC_ArtikelAusHannoRadAusgabe2019-3.jpg)
+
+### Mögliche Maßnahmen
+
+- In gleicher Richtung: Überholverbot von Zweirädern für KFZ.
+- In entgegengesetzter Richtung: Ideen werden gesucht, so das Radfahrer (u.a. Grundschüler) nicht zwischen parkenden Autos oder dem Bordstein und entgegenkommende Fahrzeuge "gequetscht" werden.
+
+### Status
+- 2016-10-20 Jens Spille - Eintrag auf dieser Seite.
 
 # Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle
 ## OLC 8PGF+2H
