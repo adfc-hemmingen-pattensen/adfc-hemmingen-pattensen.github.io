@@ -18,6 +18,8 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
 > hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet<br>
 
+>> **Wir benötigen Spenden: (Kinder)räder, Schlösser, Helme und Regenbekleidung**
+
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
@@ -38,8 +40,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 >   - [Direkter Link](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 > - [Was war](#was-war)
->    * [Abendtour 15/19 2019-09-11-Mi.](#abendtour-1519-2019-09-11-mi.)
->    * [Tagestour 05/19 2019-09-08-So.](#tagestour-0519-2019-09-08-so.)
 > * [Impressum](#impressum)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 >   -  <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
@@ -282,6 +282,32 @@ siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattense
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
+
+Das war unsere Abendradtouren 2019:
+
+![](Abendradtouren2019.jpg)
+
+Und das waren unsere Tagestouren 2019:
+
+![](Tagestouren2019.jpg)
+
+Wir hoffen es hat allen Spaß gemacht.
+
+### Abendtour 17/19 2019-10-23-Mi.
+ 
+Tourenziel       | Benthe, Velber und Ahlen
+---------------: | ----------------------- 
+Datum            | 2019-10-23-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+    
+Die 17. Feierabend-Radtour startete am Mittwoch den 23. Oktober mit 11 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter nach Ahlen. Am Stichkanal entlang, an der Wasserkunst vorbei erreichten wir die Ihme und gelangten zum Maschsee. Nach ca. 2 1/2 Stunden und 34 km kamen wir gut gelaunt in Hemmingen an.
+
 ### Abendtour 16/19 2019-09-18-Mi.
  
 Tourenziel       | Gehrdener Berg
