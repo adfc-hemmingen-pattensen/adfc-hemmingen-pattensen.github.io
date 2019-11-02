@@ -3,9 +3,9 @@
     ADFC Banner
 </iframe>
 
-# [ADFC Hemmingen / Pattensen](http://adfc-hemmingen-pattensen.github.io/)
+# [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
 
-<!--[![](banner.jpg)](http://www.adfc-hannover.de/)-->
+<!--[![](banner.jpg)](https://www.adfc-hannover.de/)-->
 
 <!-- <img src="smiley2.png" alt="" style="float:right;">-->
 <img src="smiley2.png" alt="" style="float:right;">
@@ -25,7 +25,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > ![](MitgliedWerden.png) oder [Mitglied werden](https://www.adfc.de/7678_1)
 
-> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <http://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
+> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
 
 
@@ -38,7 +38,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 >    * [Veränderte Verkehrsführung für Fußgänger und Radfahrer](#veränderte-verkehrsführung-für-fußgänger-und-radfahrer)  
 >    * [Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-](#umgestaltung-der-weetzener-landstraße--planung-der-region-hannover-)  
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)  
->   - [Direkter Link](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)  
+>   - [Direkter Link](https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)  
 > - [Was war](#was-war)
 > * [Impressum](#impressum)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
@@ -78,7 +78,7 @@ function validatePass(){
 2. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
 4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
-5. Weiter Termine unter <http://www.adfc-hannover.de/termine/>
+5. Weiter Termine unter <https://www.adfc-hannover.de/termine/>
 
 
 ## Wer sind wir?
@@ -96,7 +96,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC H
 
 Die Stadt Hemmingen wurde am Mittwoch den 2019-09-25 von der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) als „Fahrradfreundliche Kommune Niedersachsen“ zertifiziert. Die Jury lobte besonders die ADFC—Fahrradwerkstatt in Hemmingen. Hier möchte der ADFC den Initiator und Begründer der Fahrrad-Selbsthilfewerkstatt, Dirk Härtel, ihren besonderen Dank aussprechen. Dank gilt auch Michael Maier der die Fahrrad-Selbsthilfewerkstatt vor der Jury hervorragend präsentiert hat sowie der Stadt Hemmingen, die die Räumlichkeiten kostenlos zur Verfügung stellt.
 
-Bei der "straßenbegleitenden Infrastruktur" sieht die Jury aber noch Nachholbedarf. In diesem Zusammenhang verweisen wir hier auf unsere [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html).
+Bei der "straßenbegleitenden Infrastruktur" sieht die Jury aber noch Nachholbedarf. In diesem Zusammenhang verweisen wir hier auf unsere [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html).
 
 Die AGFK bietet den Kommunen ein Netzwerk, um sich gegenseitig auszutauschen und zu unterstützen. 
 
@@ -149,7 +149,7 @@ Einrichtung von Fahrradzonen
 
 ### Das Fahrrad braucht mehr Platz
 
-Mehr Radverkehr ist die Lösung bei Stau, dicker Luft und Fahrverboten. Steigen mehr Menschen auf das Fahrrad um, ist das gut für alle. Wie das gelingt, zeigt der Allgemeine Deutsche Fahrrad-Club zu seinem 40-jährigen Bestehen mit einer großen, bundesweiten Kampagne. Das Ziel: Mehr Platz fürs Rad - für gute, breite Radwege, sichere Kreuzungen und viel mehr Fahrradparkplätze. Mit Aktionen vor Ort macht der Fahrradclub auf die Platzdebatte im Straßenraum aufmerksam und zeigt, wie dieser Platz fürs Fahrrad, für gute Radwege und für bessere Radfahrbedingungen genutzt werden kann. Weitere Informationen auf [mehrplatzfuersrad.de](http://mehrplatzfuersrad.de ). Hashtag: #MehrPlatzFürsRad.
+Mehr Radverkehr ist die Lösung bei Stau, dicker Luft und Fahrverboten. Steigen mehr Menschen auf das Fahrrad um, ist das gut für alle. Wie das gelingt, zeigt der Allgemeine Deutsche Fahrrad-Club zu seinem 40-jährigen Bestehen mit einer großen, bundesweiten Kampagne. Das Ziel: Mehr Platz fürs Rad - für gute, breite Radwege, sichere Kreuzungen und viel mehr Fahrradparkplätze. Mit Aktionen vor Ort macht der Fahrradclub auf die Platzdebatte im Straßenraum aufmerksam und zeigt, wie dieser Platz fürs Fahrrad, für gute Radwege und für bessere Radfahrbedingungen genutzt werden kann. Weitere Informationen auf [mehrplatzfuersrad.de](https://mehrplatzfuersrad.de ). Hashtag: #MehrPlatzFürsRad.
 
 ### ISEK Arnum-Mitte
 
@@ -243,11 +243,11 @@ Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Somme
 
 ### Veränderte Verkehrsführung für Fußgänger und Radfahrer
 
-Straßenbauverwaltung: Sperrungen und Umleitungen erforderlich. Hier die [Offizielle Pressemitteilung](http://www.strassenbau.niedersachsen.de/aktuelles/presseinformationen/b-3-ortsumgehung-hemmingen-veraenderte-verkehrsfuehrung-fuer-fugaenger-und-radfahrer-168474.html).
+Straßenbauverwaltung: Sperrungen und Umleitungen erforderlich. Hier die [Offizielle Pressemitteilung](https://www.strassenbau.niedersachsen.de/aktuelles/presseinformationen/b-3-ortsumgehung-hemmingen-veraenderte-verkehrsfuehrung-fuer-fugaenger-und-radfahrer-168474.html).
 
 Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der Bauzeit von Überführungsbauwerken und Bundesstraßentrasse dauerhaft mittels provisorischer Umfahrungen aufrechtzuerhalten, wurden durch die Straßenbauverwaltung geprüft und angesichts der bisherigen Erfahrungen im Verlauf der Deveser Straße als nicht praktikabel verworfen. Gegen die Einrichtung und Unterhaltung niveaugleicher Querungsmöglichkeiten für öffentliche Verkehre inmitten des Baufeldes sind in erster Linie Sicherheitsbedenken anzuführen."
 
-![(c) Strassenbau Niedersachsen](http://www.strassenbau.niedersachsen.de/assets/image/zoom/169999)
+![(c) Strassenbau Niedersachsen](https://www.strassenbau.niedersachsen.de/assets/image/zoom/169999)
 
 - [ ] Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses haben wir auf der Ausschusssitzung am 27.09.18 angeregt. Sowie je Richtung ein Hinweisschild "Achtung Radfahren". Für Alternative und weitere Anregungen sind wir sehr dankbar. Oberstes Gebot ist die Sicherheit für alle Verkehrsteilnehmer.
 
@@ -284,14 +284,14 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 
 ### Einige nützliche Links
 
-[Stadt Pattensen](http://www.pattensen.de/) und das [Wanderbare Calenberger Land](http://www.pattensen.de/Default.aspx?tabid=3110)<br>
+[Stadt Pattensen](https://www.pattensen.de/) und das [Wanderbare Calenberger Land](https://www.pattensen.de/Default.aspx?tabid=3110)<br>
 [Stadt Hemmingen](https://www.stadthemmingen.de/) und das [Radvehrkehrskonzept](https://www.stadthemmingen.de/portal/seiten/radverkehrskonzept-der-stadt-hemmingen-907000093-22500.html)
 
-[**GPSies**](http://www.gpsies.com/) bietet die Möglichkeit Touren zu planen und mit anderen auszutauschen. Auch als Apps erhältlich.
+[**GPSies**](https://www.gpsies.com/) bietet die Möglichkeit Touren zu planen und mit anderen auszutauschen. Auch als Apps erhältlich.
 
-**Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](http://www.adfc-hannover.de/termine/) zu finden.
+**Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](https://www.adfc-hannover.de/termine/) zu finden.
 
-**Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](http://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
+**Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](https://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
 
 _Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
 
@@ -301,7 +301,7 @@ Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sa
 
 ![](MangelkarteBedienung.png)
 
-siehe [Mängelkarte für Hemmingen und Pattensen](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
 <!--siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/TiddlyWiki/ADFCWiki.html#M%C3%A4ngelkarte)-->
 
 ## Was war
@@ -729,7 +729,7 @@ um sich gegenseitig auszutauschen und zu unterstützen. Ziel ist die Zertifizier
 
 ![AGFK Mitglieder](images/1543229997733.png)
 
-Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](http://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
+Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](https://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
 
 
 ### Hemmingens Grüne spenden 350 Euro an die ADFC Fahrrad-Selbsthilfewerkstatt
