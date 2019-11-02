@@ -34,11 +34,11 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > - [Aktuelles](#aktuelles)
 > - [Wer sind wir?](#wer-sind-wir)
 > - [Was wird](#was-wird)
-> - [Tipps und Nachrichten](#tipps-und-nachrichten)
->    * [Veränderte Verkehrsführung für Fußgänger und Radfahrer](#veränderte-verkehrsführung-für-fußgänger-und-radfahrer)
->    * [Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-](#umgestaltung-der-weetzener-landstraße--planung-der-region-hannover-)
-> - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
->   - [Direkter Link](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)
+> - [Tipps und Nachrichten](#tipps-und-nachrichten)  
+>    * [Veränderte Verkehrsführung für Fußgänger und Radfahrer](#veränderte-verkehrsführung-für-fußgänger-und-radfahrer)  
+>    * [Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-](#umgestaltung-der-weetzener-landstraße--planung-der-region-hannover-)  
+> - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)  
+>   - [Direkter Link](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)  
 > - [Was war](#was-war)
 > * [Impressum](#impressum)
 > - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
@@ -52,6 +52,34 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
 <div style="position:absolute; top:3px; left:5px; width:100%; height:130px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
 </div>
+
+### Termine
+
+<p>**<a href="https://teamup.com/ksju1rrabvbvttzec9">Vollbildanzeige</a>** - Ein Service von [Teamup Solutions AG in Zurich](https://www.teamup.com/)</p>
+
+<div class="holder" style="width: 100%; height:500px; position:relative;">
+<iframe width="100%" height="100%" src="https://teamup.com/ksju1rrabvbvttzec9" frameborder="1"></iframe>
+</div>
+
+FSW und Touren Termine ändern? *Nur für Eingeweihte.* Bitte Passwort eingeben: <input id='password' type='text'  />
+<a href="https://teamup.com/ksv5o3rh2nfezafnqd" onclick="javascript:return validatePass()">und Click hier</a>
+<script>
+function validatePass(){
+    if(document.getElementById('password').value == 'adfchempat'){
+        return true;
+    }else{
+        alert('wrong password!!');
+        return false;
+    }
+}
+</script>
+
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
+2. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
+4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
+5. Weiter Termine unter <http://www.adfc-hannover.de/termine/>
+
 
 ## Wer sind wir?
 
@@ -140,15 +168,12 @@ Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Ein
 
 ## Was wird
 
-## Neuer Terminplan
+<!--## Neuer Terminplan-->
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
-2. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
-4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
 
 <!-- see https://github.com/raghur/mermaid-filter-->
 <!--```{.mermaid format=svg  theme=forest caption="ADFC Hemmingen/Pattensen"}-->
+<!--
 ```mermaid
 gantt
   title ADFC Hemmingen/Pattensen 2019
@@ -206,9 +231,7 @@ section Politik
 ```
 <!-- Preview for editors https://mermaidjs.github.io/mermaid-live-editor/ -->
 
-- 2020-06-07-So. bis 27.-Sa. Stadtradeln 2020
 
-#### Weiter Termine unter <http://www.adfc-hannover.de/termine/>
 
 
 ### Mittwochstour
