@@ -187,12 +187,12 @@ Aus Radverkehrskonzept 2015 bekannt.
 | Einstelldatum    | 2019-01-23                                                                                   |
 | Status           | offen                                                                                        |
 | Autor            | 23. RadelTreff                                                                               |
-| Ort              | Osterbruchweg - Verlängerung an der Arnumer Landwehr                                                      |
+| Ort              | Osterbuschweg - an der Arnumer Landwehr                                                      |
 | Fahrtrichtung    | In beiden Fahrtrichtungen                                                                    |
 | Verantwortlich   | Stadt Hemmingen                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Der Osterbruchweg - in der Verlängerung an der Arnumer Landwehr - ist bei Regen schlammig. Es besteht Rutschgefahr.
+Der Osterbuschweg - an der Arnumer Landwehr - ist bei Regen schlammig. Es besteht Rutschgefahr.
 
 ### Mögliche Maßnahmen
 Neues Mineralgemisch aufbringen und regelmäßig von Laub befreien, bevor es zerfällt.
@@ -214,7 +214,7 @@ Neues Mineralgemisch aufbringen und regelmäßig von Laub befreien, bevor es zer
 | Verantwortlich   | Region Hannover                                                                               |
 
 ### Ist Zustand/Mangel/Gefahr
-Sturzgefahr am Radwegrand, da das Bankett abgesackt ist. 
+Sturzgefahr am Radwegrand, da das Bankett versackt ist. 
 
 ![](7QPG+76_BankettAbgesackt.png)
 
@@ -238,7 +238,7 @@ Bankett auffüllen und befestigen.
 | Verantwortlich   | Hier Stadt Hemmingen                                                                         |
 
 ### Ist Zustand/Mangel/Gefahr
-Der Weg entlang der Ihme, auf dem Gebiet Ronnenberg, wurde im Sommer 2019 saniert. Jetzt fehlt noch die Verbindung zwischen diesem Weg und dem Loydbrunnenweg - der Teil des Weges auf Hemminger Gebiet.
+Der Weg entlang der Ihme, auf dem Gebiet Ronnenberg, wurde im Sommer 2019 saniert. Jetzt fehlt noch der Teil auf dem Hemminger Gebiet.
 
 ### Mögliche Maßnahmen
 Ertüchtigung des Weges
@@ -259,21 +259,36 @@ Ertüchtigung des Weges
 | Verantwortlich   | Stadt Hemmingen                                                                               |
 
 ### Ist Zustand/Mangel/Gefahr
-Die Bundesstraße 3 in Arnum Mitte soll nach Fertigstellung der B3-Neu zurückgebaut werden. 
+Die Bundesstraße in Arnum Mitte soll nach Fertigstellung der B3-Neu zurück gebaut werden. 
 
 ### Mögliche Maßnahmen
-Der ADFC Hemmingen/Pattensen plädiert für einen "gemeinsamen Raum" im Zentrumsbereich - auch "Shared-Space" genannt - von der Einmündung Klapperweg auf die Göttinger Strasse im Norden bis zur Einmündung Harkenblecker Weg im Süden. 
+Der ADFC Hemmingen/Pattensen ist für einen "gemeinsamen Raum" im Zentrumsbereich auch 
+"Shared-Space" genannt, vom Klapperweg im Norden bis zum Harkenblecker Weg im Süden. 
 
-Der Bereich selber sollte nicht mehr streng unterteilt sein nach Verkehrsflächen für die einzelnen Nutzergruppen und muss durch eine deutliche Kennzeichnung von der übrigen Straßengestaltung - bestehend aus zwei Fahrspuren mit Fahrrad-Schutzstreifen - getrennt werden, zum Beispiel durch 
-eine besondere Pflasterung und Stadttore.  
+Der Bereich selber soll nicht streng nach Verkehrsflächen für die einzelnen Nutzergruppen 
+unterteilt sein und muss durch eine deutliche Kennzeichnung von der übrigen Straßengestaltung, 
+bestehend aus zwei Fahrspuren mit Fahrrad-Schutzstreifen getrennt werden, zum Beispiel durch 
+eine Pflasterung und Stadttore.  
 
-Die Ausgestaltung muss an die zu erwartenden Verkehrsdichte angepasst werden und eventuell Schutzräume für Fußgänger sowie Querungshilfen für Kinder beinhalten. Der Kfz-Verkehr sollte durch die Umgestaltung in seinen Verhaltensweisen so beeinflusst werden, dass sich eine langsamere, aber stetige und reibungslose Verkehrsabwicklung einstellt. Es soll damit erreicht werden dass der Weg über die Umgehungsstraße die attraktivere Alternative als Verbindung in der Nord-Süd-Achse wird. 
+Die Ausgestaltung muss an der zu erwartenden Verkehrsdichte angepasst werden und eventuell 
+Schutzräume für Fußgänger sowie Querungshilfen für Kinder beinhalten. Der Kfz-Verkehr soll 
+durch die Umgestaltung in seinen Verhaltensweisen so beeinflusst werden, dass sich eine 
+langsamere, aber reibungslose Verkehrsabwicklung einstellt. Es muss sichergestellt sein, dass 
+der Weg über die Umgehungsstraße die attraktivere Verbindung in der Nord-Süd-Achse ist. 
 
-In der Ortschaft Bohmte (Nds.), einer Stadt mit etwa 12.600 Einwohnern (2016) in der Nähe von Osnabrück, wird dieses "Shared-Space" - Konzept nach niederländischen Vorbildern seit vielen Jahren erfolgreich angewendet.  
+In der Ortschaft Bohmte (Nds.), eine Stadt mit etwa 12.600 Einwohnern (2016) in der Nähe von 
+Osnabrück, gibt es seit vielen Jahren den ersten Ort mit einem Shared-Space Konzept nach 
+niederländischen Vorbildern.  
 
-Im Verkehrsschwerpunkt am zentralen Platz in Bohmte überlagern sich zwei Kreuzungen, die von täglich 12.000 Fahrzeugen passiert werden. Shared-Space ist keine "Spielstraße" und durchaus für Arnum umsetzbar. Gerne würden wir eine gemeinsame Exkursion mit allen Interessierten nach Bohmte durchführen. 
+Im Verkehrsschwerpunkt am zentralen Platz in Bohmte überlagern sich zwei Kreuzungen, die 
+von täglich 12.000 Fahrzeugen passiert werden. Shared-Space ist keine "Spielstraße" und 
+durchaus für Arnum umsetzbar. Gerne würden wir eine gemeinsame Exkursion mit allen 
+Interessierten nach Bohmte durchführen. 
 
-Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehrs-Trasse. Ziel ist eine Gestaltung des Straßenraumes, die intuitiv zu einer langsameren Fahrweise und einer stärkeren gegenseitigen Rücksichtnahme anhält. Dieses schließt rollenden und parkenden Verkehr sowie Räume zum Verweilen und Kommunizieren mit ein. 
+Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehrs-
+Trasse. Ziel ist eine Gestaltung des Straßenraumes, die intuitiv zu einer langsameren Fahrweise 
+und einer stärkeren gegenseitigen Rücksichtnahme anhält. Dieses schließt fließenden und 
+parkenden Verkehr sowie Räume zum Verweilen und Kommunizieren mit ein. 
 
 [ADFC-Stellungnahme_Städtebauliche-Sanierung-Arnum-Mitte.pdf](8P2Q+XR_ADFC-Stellungnahme_Städtebauliche-Sanierung-Arnum-Mitte.pdf)
 
@@ -325,9 +340,9 @@ Aus Radverkehrskonzept 2015 bekannt.
 
 ### Ist Zustand/Mangel/Gefahr
 
-Vom Hohen Holzweg kommend gibt es keinen Radweg zur Ampel. Unklare Verkehrsführung für Radfahrer, da die Streuscheibe der Ampel (LSA) eine kombinierte Fußgänger und Radfahrer Ampel ist. Wenn Radfahrer vor der Shell Tankstelle stehen, besteht eine Gefahr durch Rechtsabbieger. Verwirrung durch ungünstige Verkehrsführung.
+Vom Hohen Holzweg kommend gibt es keinen Radweg zur Ampel. Unklare Verkehrsführung für Radfahrer, da die Streuscheibe der Ampel eine kombinierte Fußgänger und Radfahrer Ampel ist. Wenn Radfahrer vor der Shell Tankstelle stehen, besteht eine Gefahr durch Rechtsabbieger. Verwirrung durch ungünstige Verkehrsführung.
 
-Radfahrer aus Hoher Holzweg in Richtung Sundernweg richten sich teilweise nach der LSA mit der gemeinsamen Streuscheibe für Fuß- und Radverkehr. Dazu wechseln sie von der Fahrbahn Hoher Holzweg auf den Gehweg mit Hochbord, um die Fussgänger-Furt an der LSA zu benutzen. Rechts abbiegende Autofahrer aus Hoher Holzweg übersehen leicht die Fußgänger und Radfahrer, da ein Schild den Blick versperrt.
+Radfahrer aus Hoher Holzweg in Richtung Sundernweg richten sich teilweise nach der LSA mit der gemeinsamen Streuscheibe für Fuß- und Radverkehr. Dazu wechseln sie von der Fahrbahn Hoher Holzweg auf den Hochbord, um die Furt des LSA zu benutzen. Rechts abbiegende Autofahrer aus Hoher Holzweg übersehen leicht die Fußgänger und Radfahrer, da ein Schild den Blick versperrt.
 
 Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlenweg und der Shell-Tankstelle ist nicht freigegeben. Einen sicheren Übergang von der Gartenstraße auf den kombinierten Fuss-Radweg auf der rechten Fahrbahnseite gibt es nicht, deshalb fahren die Schüler, linksseitig auf den Fußweg, um dann die LSA Hoher Holzweg - Sundernweg zu benutzen. In umgekehrter Richtung ist der Fußweg an der B3 für Radfahrer freigegeben durch das Zusatzschild "Fahrrad frei".
 
@@ -347,10 +362,10 @@ Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). -  Überweg in H�
 - 2019-09-26-Do - Jens Spille - Es wurde wieder ein Kreisverkehr vorgeschlagen. Radverkehrsführung auf Fahrbahn "Konzept für Arnum Mitte".
 
 
-# Kreuzung am Hotel "Mutter Buermann" - Querungshilfe fehlt
+# Kreuzung Mutter Buermann - Querungshilfe fehlt
 ## OLC 8P77+W8
 
-| Kurzbeschreibung | Kreuzung am Hotel "Mutter Buermann" - Querungshilfe fehlt                                               |
+| Kurzbeschreibung | Kreuzung Mutter Buermann - Querungshilfe fehlt                                               |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3150/9.7132) |
 | Einstelldatum    | 2017-12-05-Di                                                                                |
@@ -362,7 +377,7 @@ Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). -  Überweg in H�
 
 
 ### Ist Zustand/Mangel/Gefahr
-Radfahrende auf der Strasse "Vorm Dorfe" aus Richtung Westen müssen ungesichert die Fahrbahn kreuzen, um auf den linksseitigen Radweg zu gelangen. Radfahrende haben keine vernünftige Alternative um die Fahrbahn sicher zu queren.
+Radfahrende aus Richtung Westen müssen ungesichert die Fahrbahn kreuzen, um auf den linksseitigen Radweg zu gelangen. Radfahrende haben keine vernünftige Alternative um die Fahrbahn sicher zu queren.
 
 ![](8P77+W8_IstZustand.png)
 
@@ -578,7 +593,7 @@ Extra Radfahrer-Ampel. Am besten als Dunkel-Dunkel Ampel geschaltet, damit in ru
 | Verantwortlich   | Region Hannover                                                                              |
 
 ### Ist Zustand/Mangel/Gefahr
-Die Dorfstraße ist unübersichtlich und eng. Ein Überholen, auch von Fahrrädern mit einem Abstand von mindestens 1,5 m, ist nicht sicher möglich. 
+Die Dorfstraße ist unübersichtlich und eng. Ein Überholen, auch von Fahrrädern mit einem Abstand von mindestens 1,5 m ist nicht sicher möglich. 
 
 ### Mögliche Maßnahmen
 Wir fordern Tempo 30 und ein Überholverbot von Fahrrädern. 
@@ -822,7 +837,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 | Verantwortlich   | Unbekannt                                                                                    |
 
 ### Ist Zustand/Mangel/Gefahr
-Der ADFC Hemmingen/Pattensen möchte sowohl ortskundigen als auch ortsfremden Radfahrenden eine Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle geben. Dazu schlagen wir vor, Infotafeln an den Zufahrten zur Baustelle, an Sammelpunkten wie Rathausplatz und Einkaufzentren aufzustellen und den Inhalt sowohl Online als auch per Pressemitteilung zu verbreiten.
+Der ADFC Hemmingen/Pattensen möchte, sowohl ortskundige als auch ortsfremde Radfahrende, eine Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle geben. Dazu schlagen wir vor, Infotafeln an den Zufahrten zur Baustelle, an Sammelpunkten wie Rathausplatz und Einkaufzentren aufzustellen und den Inhalt sowohl Online als auch per Pressemitteilung zu verbreiten.
 
 Die Umleitungen verlaufen auf den Strecken, die Sie auch als Umleitung gekennzeichnet haben bzw. über die Fahrradstraßen. Die Empfehlungen sollten sich auf keinen Fall widersprechen.
 
@@ -1152,7 +1167,7 @@ Maximalforderung: Einen der ERA "Empfehlungen für Radverkehrsanlagen" entsprech
 ### Ist Zustand/Mangel/Gefahr
 Gefahr durch Stürze, besonders entlang der Längskanten.
 
-Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite.
+Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite.
 
 ![](8Q84+6P_L389Radweg.png)
 
@@ -1174,7 +1189,7 @@ Adresse: Wülfeler Straße, Wilkenburg, Region Hannover, Niedersachsen, 30966, D
 
 Meldungsgrund: Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko
 
-Weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
+Weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwischen Wilkenburg und Dorfstraße (Spinne) ist seit Langem ein Ärgernis mit Rissen, Brüchen und Wellen. Wer seinen Rücken liebt, fährt auf der Straße und setzt sich dem hupenden, drängelnden Autoverkehr aus. Positives Beispiel: Die Weiterführung auf Hannoverscher Seite. 
 
 ### Mögliche Maßnahmen
 Sanierung
@@ -1344,7 +1359,7 @@ Sanierung
 ### Status
 
 
-# Wilkenburger Straße - Kritik an Verkehrszeichen
+# Wilkenburger Starße - Kritik an Verkehrszeichen
 ## OLC 8QF6+GV
 
 | Kurzbeschreibung | Wilkenburger Starße - Kritik an Verkehrszeichen                                               |
