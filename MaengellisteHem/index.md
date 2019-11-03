@@ -895,6 +895,8 @@ Radfahrer auf dem gemeinsamen, einseitigen, zweirichtungs Rad- und Fußweg, müs
 ### Mögliche Maßnahmen
 Straßenbegleitende Radwegeführung
 
+![](8PGR+7W_Lösung.jpg)
+
 ### Status
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 
