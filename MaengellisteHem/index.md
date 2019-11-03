@@ -1260,10 +1260,13 @@ hinter einer Kurve liegt. "Grüner Ring".
 ### Mögliche Maßnahmen
 Hier brauchen wir dringend eine Entschleunigung
   - Ideal wäre ein Kreisel, mit STOP und Zusatzzeichen Radfahrer von links und rechts.
+  - Eine Trennung der Zufahrt aus Hemmingen und der Zufahrt zum Parkplatz.
   - Notfalls eine Lichtsignalanlage (LSA).
   - Dringend eine Geschwindigkeitsbegrenzung auf 50 km/h.
 
 Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinsel) sinnvoll. Mindestens ein Spiegel.
+
+![](8Q94+VR_VorschlagWilkerburgerSpinne.svg)
 
 ### Status
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
