@@ -955,7 +955,7 @@ ERA "Empfehlungen für Radverkehrsanlagen": "Poller sind unzulässig, wo Verkehr
 ### Mögliche Maßnahmen
 Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
 
-![](8PHG+RW_VerengungRadweg.png)
+![](8PHG+RW_VerengungRadweg.svg)
 
 Beispiel Weserradweg.
 
@@ -966,6 +966,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 ### Status
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 - 2019-09-21 Jens Spille - siehe auch [https://www.adfc.de/artikel/umgang-mit-pollern-und-umlaufsperren](https://www.adfc.de/artikel/umgang-mit-pollern-und-umlaufsperren)
+- 2019-11-23 Jens Spille - Mögliche Maßnahme - auf dem 26. RadelTreff abgesprochen
 
 
 # Hohe Bünte - Verbindung Fahrradstraße zum Radweg optimieren
