@@ -9,19 +9,74 @@
 
 Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich größtenteils auf unsere [Mängelkarte](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) (Übersicht). Somit steht einmal zur Übersicht die Mängelkarte zur Verfügung, andererseits steht diese Liste mit detaillierteren Angaben zur Verfügung. 
 
-Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html)  
+<p>**<a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a>** - Ein Service von [umap](https://umap.openstreetmap.fr/de/), ein OpenStreetMap Projekt</p>
 
-## Übersicht
+<iframe width="100%" height="1000px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77"></iframe>
 
-- [ADFC Ortsgruppe Hemmingen/Pattensen](#adfc-ortsgruppe-hemmingenpattensen)
-    - [Mängelliste für Hemmingen](#mängelliste-für-hemmingen)
-    - [Übersicht](#übersicht)
-    - [Open Location Code](#open-location-code)
-- ["Stadtgespräch" der Grünen Ortsgruppe](#stadtgespräch-der-grünen-ortsgruppe)
+Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in drei Kategorien hervorgehoben. Einige Mängel werden hier mehrfach genannt. Alle anderen Mängel sind in der **Übersicht** bzw. der [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) gelistet.
+
+1. Schwerpunktthema Verbindungen zu Nachbarorten
+2. Mängel mit hohem Gefahrenpotential
+3. Mängel die leicht zu beheben sind - "Tief hängende Früchte" 
+
+## Schwerpunktthema Verbindungen zu Nachbarorten
+- [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
+- [Pattenser Feldweg - asphaltieren](#pattenser-feldweg---asphaltieren)
+- [Pfad von Loydbrunnenweg bis zur Ihme ist sanierungsbedürftig](#pfad-von-loydbrunnenweg-bis-zur-ihme-ist-sanierungsbedürftig)
+- [Pflaster abgesackt - Sturzgefahr - Am Siek](#pflaster-abgesackt---sturzgefahr---am-siek)
+- [Am Siek - Drängelgitter abbauen](#am-siek---drängelgitter-abbauen)
+- [Döhrener Straße Seniebachbrücke - unangenehme Höhenunterschiede](#döhrener-straße-seniebachbrücke---unangenehme-höhenunterschiede)
+- [Radweg Wilkenburger Spinne bis Ziegenbocksbrücke - bei Nässe rutschig](#radweg-wilkenburger-spinne-bis-ziegenbocksbrücke---bei-nässe-rutschig)
+- [Wilkenburger Spinne - Gefährliche Zweirichtungsquerung](#wilkenburger-spinne---gefährliche-zweirichtungsquerung)
+- [Lücke Wilkenburg - Grassdachhaus](#lücke-wilkenburg---grassdachhaus)
+- [Leinebrücke zum Grassdachhaus](#leinebrücke-zum-grassdachhaus)
+
+
+## Mängel mit hohem Gefahrenpotential
+- [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
+- [Kreuzung am Hotel "Mutter Buermann" - Querungshilfe fehlt](#kreuzung-am-hotel-mutter-buermann---querungshilfe-fehlt)
+- [Bankett B3 zwischen Westerfeld und Arnum ist abgesackt](#bankett-b3-zwischen-westerfeld-und-arnum-ist-abgesackt)
+- [Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen](#radweg-querungen-aller-3-kreisel-mit-rote-markierung-versehen)
+- [Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot](#dorfstraße---enge-fahrbahn---tempo-30-u-überholverbot)
+- [Berliner Straße - Linksseitiger Radweg Katzbachweg - Querung ohne Führung](#berliner-straße---linksseitiger-radweg-katzbachweg---querung-ohne-führung)
+- [L 389 gefährliche Schlaglöcher im Radweg - Sturzgefahr](#l-389-gefährliche-schlaglöcher-im-radweg---sturzgefahr)
+- [Hotel zur Post - Gefährliche Einfädelung und spitzwinklig Querung](#hotel-zur-post---gefährliche-einfädelung-und-spitzwinklig-querung)
+- [Wilkenburger Spinne - Gefährliche Zweirichtungsquerung](#wilkenburger-spinne---gefährliche-zweirichtungsquerung)
+
+
+## Mängel die leicht zu beheben sind - "Tief hängende Früchte" 
+- [Weg an Arnumer Landwehr nass und rutschig](#weg-an-arnumer-landwehr-nass-und-rutschig)
+- [Bockstraße bis Beethovenstraße - Lückenschluss fehlt](#bockstraße-bis-beethovenstraße---lückenschluss-fehlt)
+- [Berliner Straße - Linksseitiger Radweg Katzbachweg - Querung ohne Führung](#berliner-straße---linksseitiger-radweg-katzbachweg---querung-ohne-führung)
+- [Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig](#bordsteinabsenkung-zwischen-berliner-straße-u-döhrener-straße-notwendig)
+- [Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle](#orientierungshilfe-zur-gefahrlosen-umfahrung-der-stadtbahn-baustelle)
+- [Pflaster abgesackt - Sturzgefahr - Am Siek](#pflaster-abgesackt---sturzgefahr---am-siek)
+- [Am Siek - Drängelgitter abbauen](#am-siek---drängelgitter-abbauen)
+- [Querung Dörrieweg - Kösterecke - Bordsteinabsenkung](#querung-dörrieweg---kösterecke---bordsteinabsenkung)
+- [Berliner Straße - Haltestelle KGS - Konflikt zwischen Wartenden und Radfahrern](#berliner-straße---haltestelle-kgs---konflikt-zwischen-wartenden-und-radfahrern)
+- [Orientierungslos am Ortseingang - fehlende Ortstafeln](#orientierungslos-am-ortseingang---fehlende-ortstafeln)
+- [Wilkenburger Spinne - Zeichen für KFZ aus Richtung Süden - Achtung Radfahrer](#wilkenburger-spinne---zeichen-für-kfz-aus-richtung-süden---achtung-radfahrer)
+- [Radweg Wilkenburger Spinne bis Ziegenbocksbrücke - bei Nässe rutschig](#radweg-wilkenburger-spinne-bis-ziegenbocksbrücke---bei-nässe-rutschig)
+ 
+## Open Location Code (OLC)
+
+Um eine eindeutige Zuordnung der Mängel und Verbesserungsvorschläge zu ermöglichen, ist jeder **Pin** und jede **Linie** auf der Mängelkarte mit einer eindeutigen Bezeichnung versehen.
+
+Als Bezeichner wird der [Open Location Code](https://de.wikipedia.org/wiki/Open_Location_Code) verwendet. Der Open Location Code (OLC) gibt geographische Koordinaten an. Gegenüber der konventionellen Schreibweise in Winkelgrad ist er kompakt, eindeutig, und leicht an die erforderliche Genauigkeit anzupassen. OLC wird auch als [**"Plus Codes"**](https://plus.codes/9F4F8P9F+J9) bezeichnet.
+
+Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-location-code) 
+
+<!-- generate TOC ",i" -->
+## Übersicht aller Mängel
+
+- [Open Location Code (OLC)](#open-location-code-olc)
+- ["Stadtgespräch" mit dem Ortsverband Bündnis 90 / die Grünen](#stadtgespräch-mit-dem-ortsverband-bündnis-90--die-grünen)
 - [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
     - [OLC 7M8V+Q4](#olc-7m8vq4)
 - [Lücke von Pattenser Feldweg nach Hiddestorf](#lücke-von-pattenser-feldweg-nach-hiddestorf)
     - [OLC 7PMQ+G5](#olc-7pmqg5)
+- [Pattenser Feldweg - asphaltieren](#pattenser-feldweg---asphaltieren)
+    - [OLC 7PQW+X2](#olc-7pqwx2)
 - [Weg an Arnumer Landwehr nass und rutschig](#weg-an-arnumer-landwehr-nass-und-rutschig)
     - [OLC 7PXX+MM](#olc-7pxxmm)
 - [Radweg zwischen Harkenbleck und Reden - Bankett ist abgesackt](#radweg-zwischen-harkenbleck-und-reden---bankett-ist-abgesackt)
@@ -34,13 +89,13 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8P2H+WH](#olc-8p2hwh)
 - [Kreuzung B3 (alt) - Zwischen Hoher Holzweg und Im Sundern - Unklare Verkehrsführung](#kreuzung-b3-alt---zwischen-hoher-holzweg-und-im-sundern---unklare-verkehrsführung)
     - [OLC 8P5M+RG](#olc-8p5mrg)
-- [Kreuzung Mutter Buermann - Querungshilfe fehlt](#kreuzung-mutter-buermann---querungshilfe-fehlt)
+- [Kreuzung am Hotel "Mutter Buermann" - Querungshilfe fehlt](#kreuzung-am-hotel-mutter-buermann---querungshilfe-fehlt)
     - [OLC 8P77+W8](#olc-8p77w8)
 - [Ausfahrt auf die Freda-Wüsthoff-Straße - unübersichtlich](#ausfahrt-auf-die-freda-wüsthoff-straße---unübersichtlich)
     - [OLC 8P7G+46](#olc-8p7g46)
 - [Bankett B3 zwischen Westerfeld und Arnum ist abgesackt](#bankett-b3-zwischen-westerfeld-und-arnum-ist-abgesackt)
     - [OLC 8P7J+98](#olc-8p7j98)
-- [Alle 3 Kreisel mit Radwege Rot Markierung versehen](#alle-3-kreisel-mit-radwege-rot-markierung-versehen)
+- [Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen](#radweg-querungen-aller-3-kreisel-mit-rote-markierung-versehen)
     - [OLC 8P89+C7](#olc-8p89c7)
 - [Deveser Straße zur Radfahrstraße umwidmen](#deveser-straße-zur-radfahrstraße-umwidmen)
     - [OLC 8P96+3V](#olc-8p963v)
@@ -74,6 +129,8 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8PGR+7W](#olc-8pgr7w)
 - [Berliner Straße - Haltestelle KGS - Konflikt zwischen Wartenden und Radfahrern](#berliner-straße---haltestelle-kgs---konflikt-zwischen-wartenden-und-radfahrern)
     - [OLC 8PGV+4C](#olc-8pgv4c)
+- [Pflaster abgesackt - Sturzgefahr - Am Siek](#pflaster-abgesackt---sturzgefahr---am-siek)
+    - [OLC 8PHG+QV](#olc-8phgqv)
 - [Am Siek - Drängelgitter abbauen](#am-siek---drängelgitter-abbauen)
     - [OLC 8PHG+RW](#olc-8phgrw)
 - [Hohe Bünte - Verbindung Fahrradstraße zum Radweg optimieren](#hohe-bünte---verbindung-fahrradstraße-zum-radweg-optimieren)
@@ -100,27 +157,13 @@ Link zur [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHem
     - [OLC 8Q94+WW](#olc-8q94ww)
 - [Radweg Wilkenburger Spinne bis Ziegenbocksbrücke - bei Nässe rutschig](#radweg-wilkenburger-spinne-bis-ziegenbocksbrücke---bei-nässe-rutschig)
     - [OLC 8QC7+2M](#olc-8qc72m)
-- [Wilkenburger Starße - Kritik an Verkehrszeichen](#wilkenburger-starße---kritik-an-verkehrszeichen)
+- [Wilkenburger Straße - Kritik an Verkehrszeichen](#wilkenburger-straße---kritik-an-verkehrszeichen)
     - [OLC 8QF6+GV](#olc-8qf6gv)
 - [Radwegverschwenkung und Einengung auf Brücke](#radwegverschwenkung-und-einengung-auf-brücke)
     - [OLC 8QH3+R4](#olc-8qh3r4)
+    - [Open Location Code](#open-location-code)
 
 
-## Open Location Code
-
-Um eine Zuordnung der Mängel und Verbesserungsvorschläge zu ermöglichen, ist jeder **Pin** und jede **Linie** auf der Mängelkarte mit einer eindeutigen Bezeichnung versehen.
-
-Als Bezeichner wird der [Open Location Code](https://de.wikipedia.org/wiki/Open_Location_Code) verwendet. Der Open Location Code (OLC) gibt geographische Koordinaten an. Gegenüber der konventionellen Schreibweise in Winkelgrad ist er kompakt, eindeutig, und leicht an die erforderliche Genauigkeit anzupassen. OLC wird auch als [**"Plus Codes"**](https://plus.codes/9F4F8P9F+J9) bezeichnet.
-
-So befindet sich zum Beispiel die Fahrrad-Selbsthilfewerkstatt mit den Ziffern [**9F4F8P9F+J9**](https://plus.codes/9F4F8P9F+J9) an der den geographische Koordinaten 52.319063 Grad Nord und 9.723438 Grad Ost (Heinrich-Hertz-Straße 23, 30966 Hemmingen, Deutschland). Das erste Ziffernpaar des Open Location Codes zerlegt den Globus in 20 × 20 Grad große Flächen. Norddeutschland liegt im Sektor 9F. 
-
-![](OpenLocationCodesWorld.jpg) 
-
-Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereich in jeder Dimension. Die Ziffern 9F4F beschreiben den Bereich um Hannover den Area Code. Der Area Code wird hier weggelassen, da ohnehin klar ist, welcher Ort gemeint ist.
-
- ![](OpenLocationCodesHannover.jpg)
-
-Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9' auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein. 
 
 # "Stadtgespräch" mit dem Ortsverband Bündnis 90 / die Grünen
 
@@ -177,7 +220,28 @@ Verbindung herstellen
 ### Status
 Aus Radverkehrskonzept 2015 bekannt.
 
+# Pattenser Feldweg - asphaltieren
+## OLC 7PQW+X2
 
+| Kurzbeschreibung | Pattenser Feldweg - asphaltieren                                                                |
+| ---------------: | -----------------------                                                                         |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#18/52.28985/9.74491) |
+| Einstelldatum    | 2019-12-10                                                                                      |
+| Status           | offen                                                                                           |
+| Autor            | Jens Spille                                                                                     |
+| Ort              | Pattenser Feldweg                                                                               |
+| Fahrtrichtung    | In beiden Fahrtrichtungen                                                                       |
+| Verantwortlich   | Stadt Hemmingen                                                                                 |
+
+### Ist Zustand/Mangel/Gefahr
+Der Pattenser Feldweg befindet sich im Umbau, dort entsteht eine Brücke über die B3 neu. Vor dem Umbau bestand der Hemminger Teil auf Schotter.
+
+### Mögliche Maßnahmen
+Der Pattenser Feldweg sollte als Verbindungsweg nach Pattensen durchgehend asphaltiert werden. Falls es durch den Brückenbau nicht automatisch geschieht. 
+
+### Status
+
+ 
 # Weg an Arnumer Landwehr nass und rutschig
 ## OLC 7PXX+MM
 
@@ -930,6 +994,30 @@ Trampelpfad bei der Bushaltestelle Börie als Radweg ausbauen.
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 
 
+# Pflaster abgesackt - Sturzgefahr - Am Siek
+## OLC 8PHG+QV
+
+| Kurzbeschreibung | Pflaster abgesackt - Sturzgefahr - Am Siek                                                      |
+| ---------------: | -----------------------                                                                         |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#19/52.32932/9.72724) |
+| Einstelldatum    | 2019-12-10                                                                                      |
+| Status           | offen                                                                                           |
+| Autor            | Michael Maier                                                                                   |
+| Ort              | Am Siek                                                                                         |
+| Fahrtrichtung    | In beiden Richtungen                                                                            |
+| Verantwortlich   | Stadt Hemmingen                                                                                 |
+
+
+### Ist Zustand/Mangel/Gefahr
+Durch die Errichtung des neuen Bügels ist man geneigt, links am neuen Bügel vorbeizufahren. Die Pflasterung ist jedoch tückisch und gefährlich. Die Regenrinne sollte eigentlich der tiefste Punkt der Wegfläche sein, sodass das Regenwasser abfließen kann. Tatsächlich hat sich die Pflasterung des Fuß- und Radweges daneben so weit abgesenkt, dass sich eine erhöhte Kante der Regenrinne über eine längere Strecke herausgebildet hat. Wenn dort Laub liegt (aber auch sonst), kann dies zur Sturzgefahr werden, wenn man unerwartet an diese Kante kommt … wie es einen ADFC Kollegen fast passiert ist.
+
+![](8PHG+RW_AmSiek_PflasterAbgesackt.jpg)
+
+### Mögliche Maßnahmen
+Abgesackte Pflastersteine anheben & neu verlegen.
+
+### Status
+
 # Am Siek - Drängelgitter abbauen
 ## OLC 8PHG+RW
 
@@ -1403,6 +1491,22 @@ Mögliche Maßnahmen: Erkennbarkeit im Dunklen durch geeignete Reflektoren o. ä
 ### Status
 - 2017-09-13 J. Spille: Straßenbeleuchtung (evtl. Solar) wäre hilfreich.
 - 2019 J. Spille: Absperrschranke (Zeichen 600) in Richtung Hemmingen wurde angebracht.
+
+## Open Location Code
+
+Um eine Zuordnung der Mängel und Verbesserungsvorschläge zu ermöglichen, ist jeder **Pin** und jede **Linie** auf der Mängelkarte mit einer eindeutigen Bezeichnung versehen.
+
+Als Bezeichner wird der [Open Location Code](https://de.wikipedia.org/wiki/Open_Location_Code) verwendet. Der Open Location Code (OLC) gibt geographische Koordinaten an. Gegenüber der konventionellen Schreibweise in Winkelgrad ist er kompakt, eindeutig, und leicht an die erforderliche Genauigkeit anzupassen. OLC wird auch als [**"Plus Codes"**](https://plus.codes/9F4F8P9F+J9) bezeichnet.
+
+So befindet sich zum Beispiel die Fahrrad-Selbsthilfewerkstatt mit den Ziffern [**9F4F8P9F+J9**](https://plus.codes/9F4F8P9F+J9) an der den geographische Koordinaten 52.319063 Grad Nord und 9.723438 Grad Ost (Heinrich-Hertz-Straße 23, 30966 Hemmingen, Deutschland). Das erste Ziffernpaar des Open Location Codes zerlegt den Globus in 20 × 20 Grad große Flächen. Norddeutschland liegt im Sektor 9F. 
+
+![](OpenLocationCodesWorld.jpg) 
+
+Jedes weitere OLC-Ziffernpaar „zwanzigselt“ den bis dahin definierten Bereich in jeder Dimension. Die Ziffern 9F4F beschreiben den Bereich um Hannover den Area Code. Der Area Code wird hier weggelassen, da ohnehin klar ist, welcher Ort gemeint ist.
+
+ ![](OpenLocationCodesHannover.jpg)
+
+Zum Auffinden des Bereichs gibt man zum Beispiel die Ziffern '9F4F8P9F+J9' auf der Webseite [https://plus.codes](https://plus.codes/9F4F8P9F+J9) ein. 
 
 
 <!-- 
