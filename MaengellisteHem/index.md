@@ -67,6 +67,7 @@ Als Bezeichner wird der [Open Location Code](https://de.wikipedia.org/wiki/Open_
 Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-location-code) 
 
 <!-- generate TOC ",i" -->
+
 ## Übersicht aller Mängel
 
 - [Open Location Code (OLC)](#open-location-code-olc)
@@ -145,6 +146,8 @@ Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-l
     - [OLC 8Q63+HP](#olc-8q63hp)
 - [Ortsdurchfahrt Wilkenburg - Radweg-Nichtradweg-Radweg](#ortsdurchfahrt-wilkenburg---radweg-nichtradweg-radweg)
     - [OLC 8Q64+XF](#olc-8q64xf)
+- [Steinweg auf Wülfener Str. kaputt und verdeckt](#steinweg-auf-wülfener-str-kaputt-und-verdeckt)
+    - [OLC 8Q74+2P](#olc-8q742p)
 - [L 389 gefährliche Schlaglöcher im Radweg - Sturzgefahr](#l-389-gefährliche-schlaglöcher-im-radweg---sturzgefahr)
     - [OLC 8Q84+6P](#olc-8q846p)
 - [Hotel zur Post - Gefährliche Einfädelung und spitzwinklig Querung](#hotel-zur-post---gefährliche-einfädelung-und-spitzwinklig-querung)
@@ -262,7 +265,6 @@ Der Osterbruchweg - in der Verlängerung an der Arnumer Landwehr - ist bei Regen
 Neues Mineralgemisch aufbringen und regelmäßig von Laub befreien, bevor es zerfällt.
 
 ### Status
-
 
 # Radweg zwischen Harkenbleck und Reden - Bankett ist abgesackt
 ## OLC 7QPG+76
@@ -1225,6 +1227,27 @@ Maximalforderung: Einen der ERA "Empfehlungen für Radverkehrsanlagen" entsprech
 
 ### Status
 - 2017 - Jens Spille - L389 soll saniert werden.
+
+# Steinweg auf Wülfener Str. kaputt und verdeckt
+## OLC 8Q74+2P
+
+| Kurzbeschreibung | Steinweg auf Wülfener Str. kaputt und verdeckt                                                  |
+| ---------------: | -----------------------                                                                         |
+| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#19/52.31258/9.75692) |
+| Einstelldatum    | 2019-01-23                                                                                      |
+| Status           | offen                                                                                               |
+| Autor            | Udo Scherer                                                                                     |
+| Ort              | Wilkenburg: Verbindung Steinweg zur Wülfener Straße                                             |
+| Fahrtrichtung    | In beiden Richtungen                                                                            |
+| Verantwortlich   | Stadt Hemmingen                                                                                 |
+
+### Ist Zustand/Mangel/Gefahr
+Radfahrer die aus Harkenbleck kommen und in Richtung Wilkenburger Spinne fahren, nutzen den Steinweg. Die Verbindung vom Steinweg zur Wülfener Straße ist eine kurze und schmale Furt die in der Regel verdeckt ist.  
+
+### Mögliche Maßnahmen
+Durchfahrt verbreitern und befestigen. 
+
+### Status
 
 
 # L 389 gefährliche Schlaglöcher im Radweg - Sturzgefahr
