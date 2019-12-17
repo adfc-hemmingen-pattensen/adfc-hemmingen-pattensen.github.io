@@ -17,7 +17,7 @@ Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in d
 
 1. Schwerpunktthema Verbindungen zu Nachbarorten
 2. Mängel mit hohem Gefahrenpotential
-3. Mängel die leicht zu beheben sind - "Tief hängende Früchte" 
+3. Mängel die leicht zu beheben sind - "Tief hängende Früchte"
 
 ## Schwerpunktthema Verbindungen zu Nachbarorten
 - [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
@@ -37,7 +37,7 @@ Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in d
 - [Kreuzung am Hotel "Mutter Buermann" - Querungshilfe fehlt](#kreuzung-am-hotel-mutter-buermann---querungshilfe-fehlt)
 - [Bankett B3 zwischen Westerfeld und Arnum ist abgesackt](#bankett-b3-zwischen-westerfeld-und-arnum-ist-abgesackt)
 - [Radweg-Querungen aller 3 Kreisel mit rote Markierung versehen](#radweg-querungen-aller-3-kreisel-mit-rote-markierung-versehen)
-- [Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot](#dorfstraße---enge-fahrbahn---tempo-30-u-überholverbot)
+- [Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot](#dorfstraße---enge-fahrbahn---tempo-30-und-überholverbot)
 - [Berliner Straße - Linksseitiger Radweg Katzbachweg - Querung ohne Führung](#berliner-straße---linksseitiger-radweg-katzbachweg---querung-ohne-führung)
 - [L 389 gefährliche Schlaglöcher im Radweg - Sturzgefahr](#l-389-gefährliche-schlaglöcher-im-radweg---sturzgefahr)
 - [Hotel zur Post - Gefährliche Einfädelung und spitzwinklig Querung](#hotel-zur-post---gefährliche-einfädelung-und-spitzwinklig-querung)
@@ -48,7 +48,7 @@ Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in d
 - [Weg an Arnumer Landwehr nass und rutschig](#weg-an-arnumer-landwehr-nass-und-rutschig)
 - [Bockstraße bis Beethovenstraße - Lückenschluss fehlt](#bockstraße-bis-beethovenstraße---lückenschluss-fehlt)
 - [Berliner Straße - Linksseitiger Radweg Katzbachweg - Querung ohne Führung](#berliner-straße---linksseitiger-radweg-katzbachweg---querung-ohne-führung)
-- [Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig](#bordsteinabsenkung-zwischen-berliner-straße-u-döhrener-straße-notwendig)
+- [Bordsteinabsenkung zwischen Berliner Straße und Döhrener Straße notwendig](#bordsteinabsenkung-zwischen-berliner-straße-und-döhrener-straße-notwendig)
 - [Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle](#orientierungshilfe-zur-gefahrlosen-umfahrung-der-stadtbahn-baustelle)
 - [Pflaster abgesackt - Sturzgefahr - Am Siek](#pflaster-abgesackt---sturzgefahr---am-siek)
 - [Am Siek - Drängelgitter abbauen](#am-siek---drängelgitter-abbauen)
@@ -106,7 +106,7 @@ Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-l
     - [OLC 8P9X+G7](#olc-8p9xg7)
 - [Querung Brot Henke](#querung-brot-henke)
     - [OLC 8PCW+5H](#olc-8pcw5h)
-- [Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot](#dorfstraße---enge-fahrbahn---tempo-30-u-überholverbot)
+- [Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot](#dorfstraße---enge-fahrbahn---tempo-30-und-überholverbot)
     - [OLC 8PCX+H4](#olc-8pcxh4)
 - [Saarstraße - Zugang Deveser Straße](#saarstraße---zugang-deveser-straße)
     - [OLC 8PFC+M26](#olc-8pfcm26)
@@ -116,7 +116,7 @@ Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-l
     - [OLC 8PFH+FM](#olc-8pfhfm)
 - [Geradeausfahrer aus Dorle-und-Albrecht-Heuer-Weg werden ignoriert](#geradeausfahrer-aus-dorle-und-albrecht-heuer-weg-werden-ignoriert)
     - [OLC 8PFJ+M8](#olc-8pfjm8)
-- [Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig](#bordsteinabsenkung-zwischen-berliner-straße-u-döhrener-straße-notwendig)
+- [Bordsteinabsenkung zwischen Berliner Straße und Döhrener Straße notwendig](#bordsteinabsenkung-zwischen-berliner-straße-und-döhrener-straße-notwendig)
     - [OLC 8PFW+JW](#olc-8pfwjw)
 - [Döhrener Straße Seniebachbrücke - unangenehme Höhenunterschiede](#döhrener-straße-seniebachbrücke---unangenehme-höhenunterschiede)
     - [OLC 8PFX+Q2](#olc-8pfxq2)
@@ -146,7 +146,7 @@ Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-l
     - [OLC 8Q63+HP](#olc-8q63hp)
 - [Ortsdurchfahrt Wilkenburg - Radweg-Nichtradweg-Radweg](#ortsdurchfahrt-wilkenburg---radweg-nichtradweg-radweg)
     - [OLC 8Q64+XF](#olc-8q64xf)
-- [Steinweg auf Wülfener Str. kaputt und verdeckt](#steinweg-auf-wülfener-str-kaputt-und-verdeckt)
+- [Steinweg auf Wülfener Straße kaputt und verdeckt](#steinweg-auf-wülfener-straße-kaputt-und-verdeckt)
     - [OLC 8Q74+2P](#olc-8q742p)
 - [L 389 gefährliche Schlaglöcher im Radweg - Sturzgefahr](#l-389-gefährliche-schlaglöcher-im-radweg---sturzgefahr)
     - [OLC 8Q84+6P](#olc-8q846p)
@@ -630,10 +630,10 @@ Extra Radfahrer-Ampel. Am besten als Dunkel-Dunkel Ampel geschaltet, damit in ru
 ![](8PCW+5H_PlanKreuzungBortHenke.png)
 
 
-# Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot
+# Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 ## OLC 8PCX+H4
 
-| Kurzbeschreibung | Dorfstraße - Enge Fahrbahn - Tempo 30 u. Überholverbot                                       |
+| Kurzbeschreibung | Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot                                       |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_84202#15/52.3219/9.7505) |
 | Einstelldatum    | 2019-09-23                                                                                   |
@@ -791,7 +791,7 @@ Hinweisschilder "Achtung Gegenverkehr" und Radfahrerfurt.
 - 2019-09-09 Jens Spille - Im Stadtgespräch mit Bündnes 90 / Die Grünen erörtert.
 
 
-# Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig
+# Bordsteinabsenkung zwischen Berliner Straße und Döhrener Straße notwendig
 ## OLC 8PFW+JW
 
 | Kurzbeschreibung | Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig                       |
@@ -1228,10 +1228,10 @@ Maximalforderung: Einen der ERA "Empfehlungen für Radverkehrsanlagen" entsprech
 ### Status
 - 2017 - Jens Spille - L389 soll saniert werden.
 
-# Steinweg auf Wülfener Str. kaputt und verdeckt
+# Steinweg auf Wülfener Straße kaputt und verdeckt
 ## OLC 8Q74+2P
 
-| Kurzbeschreibung | Steinweg auf Wülfener Str. kaputt und verdeckt                                                  |
+| Kurzbeschreibung | Steinweg auf Wülfener Straße kaputt und verdeckt                                                  |
 | ---------------: | -----------------------                                                                         |
 | Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#19/52.31258/9.75692) |
 | Einstelldatum    | 2019-01-23                                                                                      |
