@@ -4,9 +4,6 @@
 :: 2019-12-18-Mi._21h10
 ::
 @echo off
-set "fn=index"
-set /p "fn=Enter file name or just ENTER for default [%fn%.md] : "
-
 cd .
 set PROMPT=$G
 SET PATH=%PATH%;C:\DataProg\PortProg\gVimPortable
@@ -19,16 +16,16 @@ set PROMPT=$G
 SET DT=%date%
 SET TM=%time:~0,5%
 for /F "delims=" %%L in ('git rev-parse --short HEAD') do (set "GID=%%L")
-echo File to convert is %fn%.md. Today is %DT% %TM% with Git-ID: %GID%
+echo Today is %DT% %TM% with Git-ID: %GID%
 
 :: For help - lock at https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/
 
-doskey ed=gVimPortable %fn%.md
-doskey sed=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
-doskey html=pandoc -o %fn%.html %fn%Temp.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
-doskey docx=pandoc -o %fn%.docx %fn%Temp.md
-doskey pdf=pandoc -o %fn%.pdf %fn%Temp.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
-doskey show=%fn%.html
+doskey ed=gVimPortable index.md
+doskey sed=sed s/LetzteAenderung/%DT%_%TM%/g index.md $g indexTemp.md
+doskey html=pandoc -o index.html indexTemp.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=Maengelliste
+doskey pdf=pandoc -o index.pdf indexTemp.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey docx=pandoc -o index.docx indexTemp.md
+doskey show=index.html
 doskey ga=git add .
 doskey gc=git commit -am $*
 doskey gp=git push

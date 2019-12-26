@@ -67,6 +67,7 @@ Als Bezeichner wird der [Open Location Code](https://de.wikipedia.org/wiki/Open_
 Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-location-code) 
 
 <!-- generate TOC ",i" -->
+<!-- delete ### lines with space :g/^    */d -->
 
 ## Übersicht aller Mängel
 
