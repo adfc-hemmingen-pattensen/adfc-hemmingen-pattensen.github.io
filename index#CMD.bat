@@ -17,7 +17,7 @@
 @echo Use
 @echo " gVimPortable index.md
 @echo " sed s/tschuess/%DT%_%TM%/g index.md >indexTemp.md
-@echo HTML" pandoc -o index.html indexTemp.md -t html5 -s -c github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=Maengelliste -F mermaid-filter.cmd
+@echo HTML" pandoc -o index.html indexTemp.md -t html5 -s -c github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=ADFC_Hemmingen_Pattensen -F mermaid-filter.cmd
 @echo PDF_" pandoc -o index.pdf indexTemp.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
 @echo DOCX" pandoc -o index.docx indexTemp.md
 @echo " git commit -am "
