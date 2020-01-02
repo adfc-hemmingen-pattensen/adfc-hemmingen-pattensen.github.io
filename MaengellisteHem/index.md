@@ -21,7 +21,6 @@ Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in d
 
 ## Schwerpunktthema Verbindungen zu Nachbarorten
 - [An der K227 fehlt ein Radweg](#an-der-k227-fehlt-ein-radweg)
-- [Pattenser Feldweg - asphaltieren](#pattenser-feldweg---asphaltieren)
 - [Pfad von Loydbrunnenweg bis zur Ihme ist sanierungsbedürftig](#pfad-von-loydbrunnenweg-bis-zur-ihme-ist-sanierungsbedürftig)
 - [Pflaster abgesackt - Sturzgefahr - Am Siek](#pflaster-abgesackt---sturzgefahr---am-siek)
 - [Am Siek - Drängelgitter abbauen](#am-siek---drängelgitter-abbauen)
@@ -77,8 +76,6 @@ Mehr Info dazu finden Sie am Ende dieses Dokuments. [Open Location Code](#open-l
     - [OLC 7M8V+Q4](#olc-7m8vq4)
 - [Lücke von Pattenser Feldweg nach Hiddestorf](#lücke-von-pattenser-feldweg-nach-hiddestorf)
     - [OLC 7PMQ+G5](#olc-7pmqg5)
-- [Pattenser Feldweg - asphaltieren](#pattenser-feldweg---asphaltieren)
-    - [OLC 7PQW+X2](#olc-7pqwx2)
 - [Weg an Arnumer Landwehr nass und rutschig](#weg-an-arnumer-landwehr-nass-und-rutschig)
     - [OLC 7PXX+MM](#olc-7pxxmm)
 - [Radweg zwischen Harkenbleck und Reden - Bankett ist abgesackt](#radweg-zwischen-harkenbleck-und-reden---bankett-ist-abgesackt)
@@ -224,28 +221,6 @@ Verbindung herstellen
 ### Status
 Aus Radverkehrskonzept 2015 bekannt.
 
-# Pattenser Feldweg - asphaltieren
-## OLC 7PQW+X2
-
-| Kurzbeschreibung | Pattenser Feldweg - asphaltieren                                                                |
-| ---------------: | -----------------------                                                                         |
-| Mängelkarte      | [Link](https://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#18/52.28985/9.74491) |
-| Einstelldatum    | 2019-12-10                                                                                      |
-| Status           | offen                                                                                           |
-| Autor            | Jens Spille                                                                                     |
-| Ort              | Pattenser Feldweg                                                                               |
-| Fahrtrichtung    | In beiden Fahrtrichtungen                                                                       |
-| Verantwortlich   | Stadt Hemmingen                                                                                 |
-
-### Ist Zustand/Mangel/Gefahr
-Der Pattenser Feldweg befindet sich im Umbau, dort entsteht eine Brücke über die B3 neu. Vor dem Umbau bestand der Hemminger Teil auf Schotter.
-
-### Mögliche Maßnahmen
-Der Pattenser Feldweg sollte als Verbindungsweg nach Pattensen durchgehend asphaltiert werden. Falls es durch den Brückenbau nicht automatisch geschieht. 
-
-### Status
-
- 
 # Weg an Arnumer Landwehr nass und rutschig
 ## OLC 7PXX+MM
 
