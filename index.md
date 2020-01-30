@@ -778,9 +778,9 @@ Das Sprecherteam wurde auf der Jahreshauptversammlung 2018 am 24\. Januar 2018 f
 Aufgabe                                   | Vertreter
 ----------------------------------------- | ----------------
 Sprecher                                  | Jens Spille
-Vertreter (Fahrrad Selbsthilfe Werkstatt) | Dirk Härtel
-Vertreter (Touren)                        | Günther Kleinod
-Vertreter (Pattensen)                     | Ralf Schmalkuche
+Vertreter  | Günther Kleinod
+Vertreter                         | Michael Maier 
+Vertreter                      | Joachim Amtsfeld 
 
 ### Mitgliedsschaft
 
