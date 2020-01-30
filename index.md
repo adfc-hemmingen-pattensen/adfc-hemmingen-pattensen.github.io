@@ -773,9 +773,9 @@ Die ADFC **Geschäftsstelle**:
 > Tel.: (0511) 16403-12
 
 ### Sprecherteam
-Das Sprecherteam wurde auf der Jahreshauptversammlung 2018 am 24\. Januar 2018 für zwei Jahre gewählt.
+Das Sprecherteam wurde auf der Mitgliederversammlung 2020 am 29\. Januar 2020 für zwei Jahre gewählt.
 
-Aufgabe                                   | Vertreter
+Aufgabe                                   | Name
 ----------------------------------------- | ----------------
 Sprecher                                  | Jens Spille
 Vertreter  | Günther Kleinod
