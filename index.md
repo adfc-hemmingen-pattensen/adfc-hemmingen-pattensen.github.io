@@ -62,7 +62,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <iframe width="100%" height="100%" src="https://teamup.com/ksju1rrabvbvttzec9" frameborder="1"></iframe>
 </div>
 
-FSW und Touren Termine ändern? *Nur für Eingeweihte.* Bitte Passwort eingeben: <input id='password' type='text'  />
+<!-- FSW und Touren Termine ändern? *Nur für Eingeweihte.* Bitte Passwort eingeben: <input id='password' type='text'  />
 <a href="https://teamup.com/ks81di9kaob57td5hd" onclick="javascript:return validatePass()">und Click hier</a>
 <script>
 function validatePass(){
@@ -73,7 +73,7 @@ function validatePass(){
         return false;
     }
 }
-</script>
+</script>-->
 
 1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
 2. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).

@@ -27,7 +27,7 @@ Die Mängelkarte gibt nur einen groben Überblick. Details und mögliche Maßnah
 
 <iframe width="100%" height="1000px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77"></iframe>
 
-Karte ändern? *Nur für Eingeweihte* Bitte Passwort eingeben: <input id='password' type='text'  />
+<!--Karte ändern? *Nur für Eingeweihte* Bitte Passwort eingeben: <input id='password' type='text'  />
 <a href="http://umap.openstreetmap.fr/en/map/anonymous-edit/84202%3Aph6FODg7dYzrRQ52fIZQAQ8cMEU" onclick="javascript:return validatePass()">und Click hier</a>
 <script>
 function validatePass(){
@@ -38,7 +38,7 @@ function validatePass(){
         return false;
     }
 }
-</script>
+</script>-->
 
 <!-- [*Karte ändern (Nur für Experten)*](http://umap.openstreetmap.fr/en/map/anonymous-edit/84202%3Aph6FODg7dYzrRQ52fIZQAQ8cMEU)
 -->
