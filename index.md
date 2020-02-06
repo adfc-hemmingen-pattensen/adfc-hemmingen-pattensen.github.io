@@ -30,6 +30,22 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > ![](Fahrradhelm.jpg)
 **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
 
+# Einladung
+## Radwege für Frauen, Männer, Familien, Jugendliche, Anhänger, Lastenräder, Pedelecs – aber wo gehen sie lang?
+Der Weg ist das Ziel und führt idealerweise dorthin. Mal direkt, mal malerisch oder schnell und effizient oder auch mit Umwegen. Immer mit dem Rad, mal mit Anhänger dran oder mit den Kindern, ein anders Mal mit dem Grünschnitt oder dem Einkauf auf dem Lastenrad. Und auch mit dem Pedelec, weil es einfach geht oder schneller ist. 
+
+
+Was sind die Ziele der Hemminger Radelnden und über welchen (Rad)Weg wollen sie gerne dorthin gelangen?  Das möchten der ADFC Hemmingen/Pattensen und die Stadt Hemmingen von den Hemminger Radelnden wissen. Darum sind Alle eingeladen zu einem 
+
+>(Rad)Wege-Workshop am **Mittwoch, 12. Februar, 18.30 Uhr**
+>in den Bürgersaal des Rathauses Hemmingen
+
+Karten vom Stadtgebiet und Stifte für die Wege werden bereitgestellt. Jede und Jeder kann und soll ihre und seine wichtigsten Ziele und natürlich den Weg dahin eintragen. Den Weg zur Arbeit, zum Einkaufen, zur Schule oder nach weiter weg gilt es herausfinden. In anschließenden Gesprächen und Diskussionen können Abkürzungen, Problemstellen, Verbesserungshinweise besprochen und aufgeschrieben werden. 
+
+
+In einer weiteren Runde sollen auch die Wunschwege gefunden werden – „…wenn es eine Brücke gäbe…“ oder „…wenn man zwischen den Äckern oder Häusern durchfahren könnte…“. Das alles soll dazu beitragen, Vorschläge für notwendige und bessere Fahrradwege zusammenzustellen Der ADFC und die Stadt Hemmingen werden die Ergebnisse in einem zweiten Termin am 11. März zur gleichen Zeit am gleichen Ort verfeinern und versuchen Prioritäten für Hemmingen herauszuarbeiten. Daraus soll ein abgestimmter Aktionsplan für die planmäßige und schnelle Umsetzung werden. ADFC und Stadtverwaltung arbeiten zusammen in der AG Radverkehr, die vom Stadtrat einberufen wurde, um Hemmingen zu einer wirklich fahrradfreundlichen Stadt zu machen.
+
+
 ## Inhalt
     
 > - [Aktuelles](#aktuelles)
