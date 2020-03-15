@@ -16,7 +16,8 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
 > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
-> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet<br>
+> ~~hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet~~<br>
+> **wegen des Corana Virus bleibt die Werkstatt vorerst bis 21. April geschlossen** 
 
 >> **Wir benötigen Spenden: (Kinder)räder, Schlösser, Helme und Regenbekleidung**
 
@@ -91,11 +92,11 @@ function validatePass(){
 }
 </script>-->
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
-2. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-3. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
-4. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
-5. Weiter Termine unter <https://www.adfc-hannover.de/termine/>
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) ~~hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.~~ **wegen des Corana Virus bleibt die Werkstatt vorerst bis 21. April geschlossen**  
+3. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+4. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
+5. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
+6. Weiter Termine unter <https://www.adfc-hannover.de/termine/>
 
 
 ## Wer sind wir?
