@@ -9,11 +9,11 @@
 
 Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich größtenteils auf unsere [Mängelkarte](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) (Übersicht). Somit steht einmal zur Übersicht die Mängelkarte zur Verfügung, andererseits steht diese Liste mit detaillierteren Angaben zur Verfügung. 
 
-<p>**<a href="http://umap.openstreetmap.fr/de/map/untitled-map_84202">Vollbildanzeige</a>** - Ein Service von [umap](https://umap.openstreetmap.fr/de/), ein OpenStreetMap Projekt</p>
+<p>Zur **Vollbildanzeige** bitte den Knopf unter dem '+-' Zeichen klicken.</p>
 
-<iframe width="100%" height="1000px" frameBorder="0" src="https://umap.openstreetmap.fr/de/map/untitled-map_84202?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false#12/52.25/9.77"></iframe>
+<iframe width="100%" height="500px" frameBorder="0" allowfullscreen=true src="http://adfc-hemmingen-pattensen.github.io/MaengelkarteHem/ADFC-Map.html"></iframe>
 
-Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in drei Kategorien hervorgehoben. Einige Mängel werden hier mehrfach genannt. Alle anderen Mängel sind in der **Übersicht** bzw. der [**Mängelkarte**](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html) gelistet.
+Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in drei Kategorien hervorgehoben. Einige Mängel werden hier mehrfach genannt. Alle anderen Mängel sind in der **Übersicht** gelistet.
 
 1. Schwerpunktthema Verbindungen zu Nachbarorten
 2. Mängel mit hohem Gefahrenpotential
