@@ -13,6 +13,20 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 
 <iframe width="100%" height="500px" frameBorder="0" allowfullscreen=true src="http://adfc-hemmingen-pattensen.github.io/MaengelkarteHem/ADFC-Map.html"></iframe>
 
+# Akute Schadenmeldungen
+
+- Hemmingen: [Schadenmeldungen](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
+  - Radwegeführung Stadtbahnbaustelle
+
+> Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße > 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
+> 
+> ![](https://i.imgur.com/uFiSpSh.png)
+> 
+> - Info: https://www.infra-hannover.de/hemmingenwesterfeld/
+> - Email: https://www.infra-hannover.de/kontakt/
+
+# Mängel
+
 Für eine grobe Einordnung der aufgeführten Mängel haben wir einige davon in drei Kategorien hervorgehoben. Einige Mängel werden hier mehrfach genannt. Alle anderen Mängel sind in der **Übersicht** gelistet.
 
 1. Schwerpunktthema Verbindungen zu Nachbarorten
