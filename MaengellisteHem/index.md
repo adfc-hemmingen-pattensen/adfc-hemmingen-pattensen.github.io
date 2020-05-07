@@ -1082,10 +1082,10 @@ Verbindung verbessern
 - 2019-09-21 Jens Spille - Erste Meldung gab es schon 2017 von M. Schröder.
 
 
-# Hemminger Kirchweg nahe Osterbrückenweg - Bruchkante
+# Erledigt 2020-05 - Hemminger Kirchweg nahe Osterbrückenweg - Bruchkante
 ## OLC 8PPQ+5H
 
-| Kurzbeschreibung | Hemminger Kirchweg nahe Osterbrückenweg - Bruchkante                                         |
+| Kurzbeschreibung | Erledigt 2020-05 - Hemminger Kirchweg nahe Osterbrückenweg - Bruchkante                                         |
 | ---------------: | -----------------------                                                                      |
 | Mängelkarte      | [Link](http://umap.openstreetmap.fr/en/map/adfc-hemmingen-pattensen_84202#16/52.3361/9.7388) |
 | Einstelldatum    | 2019-05-27-Mo                                                                                |
@@ -1106,7 +1106,7 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 ### Status
 - 2019-07-12 - Stadt Hannover - Wir haben die Angelegenheit geprüft und beabsichtigen, noch in diesem Jahr den gesamten etwa 130 m langen, in Beton befestigten Wegeabschnitt mit einer dünnen bituminösen Decke zu versehen – so wie auch der Abschnitt Richtung Hemmingen befestigt ist. Derzeit holen wir die dafür erforderlichen Genehmigungen der Unteren Naturschutzbehörde und Unteren Wasserbehörde ein.
-
+- 2020-05 Strecke wurde neu asphaltiert. 
 
 # Lücke Wilkenburg - Grassdachhaus
 ## OLC 8Q59+JP
