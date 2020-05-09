@@ -852,6 +852,8 @@ Der Übergang müsste in einem flacheren Winkel und ohne Übergang erfolgen.
 
 Im Köllnbrinkweg zwischen Weidenkamp und Grundschule gibt es ein Konfliktpotential zwischen KFZ und Fahrrädern. Durch die parkenden Autos am Rand wird durch entgegenkommende Fahrzeuge bzw. überholende Fahrzeuge der geforderte Mindest-Seitenabstand von 1.5 Meter oft/meist nicht eingehalten.
 
+![](8PGG+VC_Köllnbrinkweg.jpg)
+
 In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hannorad2019-3.pdf) steht ein Artikel zur Fahrradstraße Kleefelder Straße in Hannover. Diese darf keine Fahrradstraße mehr sein, da durch die parkenden Autos die Straße zu schmal ist. Die verbleibenden, etwas mehr als 3 Meter reichen nicht aus, um als Fahrradstraße mit KFZ frei zu dienen. Einfach nur blaue Schilder aufhängen und baulich nichts zu verändern reicht nicht aus.
 
 ![](8PGG+VC_ArtikelAusHannoRadAusgabe2019-3.jpg)
