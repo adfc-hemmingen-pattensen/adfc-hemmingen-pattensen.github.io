@@ -25,7 +25,7 @@ echo File to convert is %fn%.md. Today is %DT% %TM% with Git-ID: %GID%
 
 doskey ed=gVimPortable %fn%.md
 doskey sed=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
-doskey html=pandoc -o %fn%.html %fn%Temp.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
+doskey html=pandoc -o %fn%.html %fn%Temp.md maengel.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
 doskey docx=pandoc -o %fn%.docx %fn%Temp.md
 doskey pdf=pandoc -o %fn%.pdf %fn%Temp.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
 doskey show=%fn%.html
