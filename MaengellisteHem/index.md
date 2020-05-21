@@ -7,7 +7,7 @@
 > Letzte Änderung: LetzteAenderung  
 > Autor: Jens Spille
 
-Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich auf unsere [Mängelkarte](http://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html). Somit steht einmal zur Übersicht die Mängelkarte und andererseits diese Liste zur Verfügung. 
+Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich auf unsere [Mängelkarte](https://adfc-hemmingen-pattensen.github.io/MaengelkarteHem/ADFC-Map.html). Somit steht einmal zur Übersicht die Mängelkarte und andererseits diese Liste zur Verfügung. 
 
 **Kurzbedienung der Karte**
 
