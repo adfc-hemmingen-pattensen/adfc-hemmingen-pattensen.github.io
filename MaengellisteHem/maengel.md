@@ -2458,6 +2458,35 @@ Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeic
 
 ---
 
+<a name="88"></a>
+
+# Durchfahrt Gartenpl.
+
+- Plus Code: [8P3P+VP ](https://www.google.com/maps/search/?api=1&query=9F4F8P3P%2BP )
+- Mängelliste: [Link](https://adfc-hemmingen-pattensen.github.io/MaengellisteHem/index.html#88)
+- Einstelldatum: 18-05-2020
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Durchfahrt Gartenpl.
+
+### Mangel:
+
+ Umlaufgitter verhindern das Durchkommen von Fahrrädern mit Anhänger und Lastenräder. 
+
+ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr erschwert werden kann. Sie müssen nachts und bei schlechten Sichtverhältnissen ausreichend erkennbar sein."
+
+### Maßnahmenvorschlag:
+
+ Drängelgitter entfernen (Andere Lösung)
+
+### Status:
+
+ - offen
+
+---
+
 <a name="89"></a>
 
 # Saarstraße - Zugang Deveser Straße
@@ -4360,6 +4389,7 @@ Weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwis
 ### Mangel:
 
  **Fahrtrichtung in Richtung Westen**
+
 Der gemeinsame Geh und Radweg wird in Höhe der Querungshilfe zum reinen Gehweg. Für die Einfädelung auf die Fahrbahn ist die engste Stelle bei der Querungshilfe vorgesehen. Hinzu kommt das die Bordstein Absenkung sehr kurz ist. Es ist schwierig den KFZ Verkehr von hinten zu beobachten und gleichzeitig die Absenkung zu treffen. 
 
 *Mögliche Maßnahme*
@@ -4377,11 +4407,11 @@ Empfehlungen für ein Radwegende aus [Musterlösungen für Radverkehrsanlagen in
 ![](8Q92+PM_Querungshilfe.png)
 
 **Fahrtrichtung in Richtung Osten**
-Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht aufgrund der baulichen Anordnung fast nur im rechten Winkel. 
 
-Oder der Radfahrer kommt vom Gehweg - Radfahrer frei - auf der rechten Seiten und muss die viel zu schmalen Bordsteinabsenkung benutzen.
+Hier gibt es zwei Möglichkeiten, entweder der Radfahrer benutzt die Fahrbahn und möchte die Querungshilfe benutzen um auf den linksseitigen Geh und Radweg zu kommen. Das geht aufgrund der baulichen Anordnung fast nur im rechten Winkel. Oder der Radfahrer kommt vom Gehweg - Radfahrer frei - auf der rechten Seiten und muss die viel zu schmalen Bordsteinabsenkung benutzen.
 
-Mögliche Maßnahmen
+*Mögliche Maßnahmen*
+
 Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benutzen und breitere Bordsteinabsenkungen für die Anderen. 
 
 ![](8Q92+PM_HotelZurPost.svg)
@@ -5002,6 +5032,87 @@ Mangel/Gefahr: Der Radweg entlang der K20 wird für eine kleine Brücke stark ve
 ### Status:
 
  -  offen, gehört zum Stadtgebiet Hannover
+
+---
+
+<a name="236"></a>
+
+# Bis zum Bau des Radweges Tempo 50
+
+- Plus Code: [7MVW+C2](https://www.google.com/maps/search/?api=1&query=9F4F7MVW%2BC2)
+- Mängelliste: [Link](https://adfc-hemmingen-pattensen.github.io/MaengellisteHem/index.html#236)
+- Einstelldatum: 2020-05-21
+- Informationsquelle: per Email v. O.G.
+
+### Ortsbeschreibung:
+
+ Ihme-Roloven - Hiddestorf 
+
+### Mangel:
+
+ Schnell fahrende Autos – Abstand wird nicht eingehalten
+
+### Maßnahmenvorschlag:
+
+ Geschwindigkeitsbegrenzung bis zur Fertigstellung des Radweges.
+
+### Status:
+
+ - offen
+
+---
+
+<a name="237"></a>
+
+# Ausbau des Wirtschaftswege
+
+- Plus Code: [7MMM+X7](https://www.google.com/maps/search/?api=1&query=9F4F7MMM%2BX7)
+- Mängelliste: [Link](https://adfc-hemmingen-pattensen.github.io/MaengellisteHem/index.html#237)
+- Einstelldatum: 2020-05-21
+- Informationsquelle: ADFC Ronnenberg
+
+### Ortsbeschreibung:
+
+ Linderte - Hiddestorf via Wirtschaftswege
+
+### Mangel:
+
+ Ein Teil der Wirtschaftswege ist nicht befestigt
+
+### Maßnahmenvorschlag:
+
+ Ausbau des Wirtschaftsweges ODER eines Radwegs entlang der L389
+
+### Status:
+
+ - offen
+
+---
+
+<a name="238"></a>
+
+# Geschwindigkeitsbegrenzung wurde aufgehoben
+
+- Plus Code: [8P57+6C](https://www.google.com/maps/search/?api=1&query=9F4F8P57%2B6C)
+- Mängelliste: [Link](https://adfc-hemmingen-pattensen.github.io/MaengellisteHem/index.html#238)
+- Einstelldatum: 2020-05-21
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Devese - Hiddestorf 
+
+### Mangel:
+
+ Die Strecke wurde auf Tempo 50 reduziert, da die Verbindung Bockstr. bis Cafe Webstuhl gesperrt ist und Radfahrer vermehrt die Strecke benutzen (müssen). Jetzt wurde Tempo 50 wieder aufgehoben, warum?
+
+### Maßnahmenvorschlag:
+
+ Geschwindigkeitsbegrenzung bis zur Rückstufung der Kreisstraße.
+
+### Status:
+
+ -  offen
 
 ---
 
