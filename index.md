@@ -1,30 +1,23 @@
-
-<iframe src="bannerAnimated.sozi.html" width="100%" height="90" frameBorder="0">
+<iframe src="bannerSozi\bannerAnimated.sozi.html" width="100%" height="90" frameBorder="0">
     ADFC Banner
 </iframe>
 
 # [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
 
-<!--[![](banner.jpg)](https://www.adfc-hannover.de/)-->
+<img src="img\smiley2.png" alt="" style="float:right;">
 
-<!-- <img src="smiley2.png" alt="" style="float:right;">-->
-<img src="smiley2.png" alt="" style="float:right;">
-
-Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf)
+Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](img\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf)
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
 > **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
 > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
-> ~~hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet~~<br>
-> **Die Fahrrad-Selbsthilfewerkstatt-Hemmingen ist bis auf Weiteres geschlossen. Über einen Notbetrieb für notwendig, dringende Reparaturen zur Unterstützung von Geflüchteten und Bedürftigen wird derzeit mit der Stadt Hemmingen beraten. Anfragen per Email [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)** 
-
->> **Wir benötigen Spenden: (Kinder)räder, Schlösser, Helme und Regenbekleidung**
-
+<!-- > ~~hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet~~<br>-->
+> **Die Fahrrad-Selbsthilfewerkstatt-Hemmingen ist bis auf Weiteres geschlossen. Über einen Notbetrieb für notwendig, dringende Reparaturen zur Unterstützung von Geflüchteten und Bedürftigen wird derzeit mit der Stadt Hemmingen beraten. Anfragen per Email**  
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
-> **Sind Sie schonMitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
+> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
 
@@ -42,16 +35,16 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 >   - [**Direkter Link**](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)  
 > - [Was war](#was-war)
 > * [Impressum](#impressum)
-> - [Datenschutz](Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
->   -  <span style="color: #888888; font-size: 0.8em;"> *Übertragung von schützenswerten Daten nur Verschlüsselt. [So funktioniert es](https://www.gpg4win.de/documentation-de.html) mit meinem öffentliche OpenPGP [ 0x9AF24CC8B850EFB77F629711906211B8AC607CB1](https://adfc-hemmingen-pattensen.github.io/OpenPGP/9AF24CC8B850EFB77F629711906211B8AC607CB1.asc) Schlüssel. [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)*</span>
+> - [Datenschutz](pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 > - [Impressum](#impressum)
+>   - *Stand: LetzteAenderung*
 
 ## Aktuelles
 
 ### Kurzfristige Meldung
 <div class="holder" style="width: 100%; height:500px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
-<div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="bannerOhneLogo.png" height=100% alt=""></div>
+<div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
 ### Termine
@@ -91,14 +84,14 @@ Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fa
 3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren)
 4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
 
-Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
+Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
 
 ## Was wird
 
 
 ### Mittwochstour
-![](MittwochLogo200.png)
+![](img\MittwochLogo200.png)
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
@@ -165,13 +158,13 @@ Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der 
 
 ![(c) Strassenbau Niedersachsen](https://www.strassenbau.niedersachsen.de/assets/image/zoom/169999)
 
-- [ ] Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses haben wir auf der Ausschusssitzung am 27.09.18 angeregt. Sowie je Richtung ein Hinweisschild "Achtung Radfahren". Für Alternative und weitere Anregungen sind wir sehr dankbar. Oberstes Gebot ist die Sicherheit für alle Verkehrsteilnehmer.
+- Da Radfahrende Ausweichstrecken über den "Stadtweg" K225 nehmen müssen, fordern wir eine vorübergehende Geschwindigkeitsbegrenzung für den KFZ-Verkehr auf 50km/h auf diesen Strecken. Dieses wurde zuerst eingerichtet, ist jetzt aber wieder auf Tempo 100 ausgeschildert. 
 
 ### Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-
 
 Die Pläne (eher gesagt Ideen) zur Umgestaltung der Weetzener Landstraße liegt auf der Homepage der Stadt Hemmingen. [Umgestaltung der Weetzener Landstraße](https://www.stadthemmingen.de/hemmingen-erleben/verkehr/umgestaltung-der-weetzener-landstrasse-planung-der-region-hannover-/).
 
-![](WeetzenerLnksabbgrNetto.png)
+![](img\WeetzenerLnksabbgrNetto.png)
 
 
 ### Erste Dauerzählstelle in Hemmingen
@@ -188,7 +181,7 @@ Am 14.06.18 wurde die Analyse der verkehrlichen Auswirkungen vorgestellt.
 
 [Hier](https://www.stadthemmingen.de/downloads/datei/OTA3MDAyMjE5Oy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE4MDYxNF9wcmFlc2VudGF0aW9uX3NocC5wZGY%3D/20180614_praesentation_shp.pdf) können Sie die verkehrliche Untersuchung einsehen. Die Erschließung wird von „hinten“ über die Carl-Zeiss-Straße erfolgen.
 
-![](ErschliessungDudlerBau.png)
+![](img/ErschliessungDudlerBau.png)
 
 ### Planfeststellungsverfahren für den Neubau eines Radweges im Zuge der K 226/K221 von Ronnenberg nach Devese
 
@@ -202,7 +195,7 @@ Der Entwurf des Verkehrsentwicklungsplanes 2030 der Stadt Hemmingen lag in der Z
 
 Die Stadt Hemmingen wurde am Mittwoch den 2019-09-25 von der Arbeitsgemeinschaft Fahrradfreundlicher Kommunen Niedersachsen / Bremen e. V. (AGFK) als „Fahrradfreundliche Kommune Niedersachsen“ zertifiziert. Die Jury lobte besonders die ADFC—Fahrradwerkstatt in Hemmingen. Hier möchte der ADFC den Initiator und Begründer der Fahrrad-Selbsthilfewerkstatt, Dirk Härtel, ihren besonderen Dank aussprechen. Dank gilt auch Michael Maier der die Fahrrad-Selbsthilfewerkstatt vor der Jury hervorragend präsentiert hat sowie der Stadt Hemmingen, die die Räumlichkeiten kostenlos zur Verfügung stellt.
 
-Bei der "straßenbegleitenden Infrastruktur" sieht die Jury aber noch Nachholbedarf. In diesem Zusammenhang verweisen wir hier auf unsere [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelHemPat.html).
+Bei der "straßenbegleitenden Infrastruktur" sieht die Jury aber noch Nachholbedarf. In diesem Zusammenhang verweisen wir hier auf unsere [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/).
 
 Die AGFK bietet den Kommunen ein Netzwerk, um sich gegenseitig auszutauschen und zu unterstützen. 
 
@@ -238,7 +231,7 @@ Einrichtung von Fahrradzonen
 1. Verkehrszeichen Radschnellwege: Das Verkehrszeichen „Radschnellweg“ soll in die StVO aufgenommen werden, um die Kennzeichnung von Radschnellwegen auch unabhängig von der Fahrbahnbeschaffenheit wie z. B. auf sandigem Untergrund möglich zu machen.
 
 1. Überholverbot von Radfahrenden: Mit der Einführung eines neuen Verkehrszeichens sollen die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.  
-![Überholverbot von Radfahrenden](stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
+![Überholverbot von Radfahrenden](img\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
 
 1. Erweiterung der Erprobungsklausel: Die bestehende Klausel für zeitlich und örtlich begrenzte Anordnungen zur Erprobung verkehrsregelnder oder sichernder Maßnahmen soll künftig unabhängig von einer Gefahrenlage Modellversuche ermöglichen, um den Handlungsspielraum der zuständigen Straßenverkehrsbehörden zu erweitern. Solche Modellversuche sollen im Einvernehmen mit den Kommunen angeordnet werden. Damit wird auch die Mitbestimmung der Kommunen gestärkt. Eine weitergehende Öffnung des Straßenverkehrsrechts für Verkehrsversuche bedarf einer Änderung auf Gesetzesebene, die in einem weiteren Schritt im nächsten Jahr angegangen werden soll.
 
@@ -254,7 +247,7 @@ Die Stadt Hemmingen hat einen 80-seitgen Entwurf zum "Teilräumliches ISEK - Vor
 
 Hier eine von vielen Umbaumaßnahmen die angedacht sind.
 
-![Straßenprofil bei Pizza Pinocchio](2019-02-03_ISEK_Arnum_Profil.png)
+![Straßenprofil bei Pizza Pinocchio](img\2019-02-03_ISEK_Arnum_Profil.png)
 
 Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Eine öffentliche Informationsveranstaltung ist am Mo. 18.02 ab 19:00 in der Wäldchenschule replant.
 
@@ -299,5 +292,5 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-> Letzte Aenderung: 22.05.2020_15:37  
+  
 

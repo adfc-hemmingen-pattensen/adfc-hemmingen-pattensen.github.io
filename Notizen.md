@@ -1,3 +1,0 @@
-# Einige Notizen
-
-Falls vorhanden

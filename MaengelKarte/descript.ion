@@ -1,0 +1,6 @@
+index-CMD.bat **r
+index.md **g\nÂ
+Maengelliste.xlsx **g\nÂ
+indexTemp.md **y
+jupyter.bat **r
+maengel.md **y

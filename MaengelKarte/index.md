@@ -1,10 +1,10 @@
-[![](../banner.png)](http://www.adfc-hannover.de/)
+[![](../img/banner.png)](http://www.adfc-hannover.de/)
 
 ## [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
 ## [Mängelliste](http://adfc-hemmingen-pattensen.github.io/MaengelKarte)
 
-> Letzte Aenderung: 22.05.2020_15:37  
+> Stand: LetzteAenderung  
 > Autor: Jens Spille
 
 Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich auf unsere [Mängelkarte](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/ADFC-Map.html). Somit steht einmal zur Übersicht die Mängelkarte und andererseits diese Liste zur Verfügung. 

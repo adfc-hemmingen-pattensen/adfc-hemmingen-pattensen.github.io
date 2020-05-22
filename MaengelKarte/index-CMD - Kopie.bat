@@ -1,7 +1,7 @@
 :: Start CMD with some local settings
 :: Jens Spille
 :: 2019-09-28
-:: 2020-05-22
+:: 2019-12-18-Mi._21h10
 ::
 @echo off
 set "fn=index"
@@ -23,17 +23,20 @@ echo File to convert is %fn%.md. Today is %DT% %TM% with Git-ID: %GID%
 
 :: For help - lock at https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/
 
-sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md > %fn%Temp.md
+doskey ed=gVimPortable %fn%.md
+doskey sed=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
+doskey html=pandoc -o %fn%.html %fn%Temp.md maengel.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
+doskey docx=pandoc -o %fn%.docx %fn%Temp.md maengel.md
+doskey pdf=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey pdf2=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey show=%fn%.html
+doskey ga=git add .
+doskey gc=git commit -am $*
+doskey gp=git push
+doskey ex=exit
 
 @echo on
-doskey s=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
-doskey h=pandoc -o %fn%.html %fn%Temp.md maengel.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
-doskey d=pandoc -o %fn%.docx %fn%Temp.md maengel.md
-doskey p=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
-doskey q=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex -H PanDocChapter_break.tex
-doskey f=%fn%.html
-doskey x=exit
-
+doskey /MACROS
 @cmd.exe /K
 
 
