@@ -5,7 +5,7 @@
 ::
 @echo off
 set "fn=index"
-set /p "fn=Enter file name or just ENTER for default [%fn%.md] : "
+set /p "fn=Enter file name or just ENTER for default [%fn%] : "
 
 cd .
 set PROMPT=$G
