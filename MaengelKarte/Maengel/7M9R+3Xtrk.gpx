@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<gpx xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxedw="http://www.gpxeditor.co.uk/xmlschemas/WaypointExtension/v1" xmlns:gpxedts="http://www.gpxeditor.co.uk/xmlschemas/TrackSegExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" creator="GPXEditor" version="1.1" xmlns="http://www.topografix.com/GPX/1/1">
+  <trk>
+    <name>Untitled</name>
+    <trkseg>
+      <trkpt lat="52.27295" lon="9.69049" />
+      <trkpt lat="52.27247" lon="9.69041" />
+      <trkpt lat="52.2668" lon="9.69277" />
+      <trkpt lat="52.26312" lon="9.69075" />
+      <trkpt lat="52.25937" lon="9.68672" />
+      <trkpt lat="52.25874" lon="9.68569" />
+      <trkpt lat="52.25811" lon="9.68294" />
+      <trkpt lat="52.25771" lon="9.68195" />
+      <trkpt lat="52.25593" lon="9.67925" />
+    </trkseg>
+  </trk>
+</gpx>
