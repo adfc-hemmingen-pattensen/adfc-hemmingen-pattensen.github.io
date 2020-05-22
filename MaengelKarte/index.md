@@ -14,7 +14,7 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 > ![](img\IconVollbild.png)  Vollbildanzeige  
 > ![](img\IconLayers.png)  Auswahl der angezeigten Elemente
 
-<iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/MaengelkarteHem/ADFC-Map.html"></iframe>
+<iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/MaengelKarte/ADFC-Map.html"></iframe>
 
 # Akute Schadenmeldungen
 
