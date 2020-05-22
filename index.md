@@ -811,4 +811,5 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-<button onclick="alert('tschuess')">tschuess</button>
+> Letzte Aenderung: 22.05.2020_15:37  
+

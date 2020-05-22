@@ -26,10 +26,10 @@ echo File to convert is %fn%.md. Today is %DT% %TM% with Git-ID: %GID%
 sed "s/Letzte Aenderung: [0-3][0-9].[0-1][0-9].[1-2][0-9][0-9][0-9]_[0-9][0-9]:[0-9][0-9]/Letzte Aenderung: %DT%_%TM%/g" %fn%.md > %fn%Temp.md
 
 @echo on
-doskey h=pandoc -o %fn%.html %fn%Temp.md maengel.md -t html5 -s -c ..\github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
-doskey d=pandoc -o %fn%.docx %fn%Temp.md maengel.md
-: doskey pdf=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
-doskey p=pandoc -o %fn%.pdf %fn%Temp.md  maengel.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey h=pandoc -o %fn%.html %fn%Temp.md -t html5 -s -c github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
+doskey d=pandoc -o %fn%.docx %fn%Temp.md 
+: doskey pdf=pandoc -o %fn%.pdf %fn%Temp.md   -f gfm -H PanDocChapter_break.tex -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
+doskey p=pandoc -o %fn%.pdf %fn%Temp.md   -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
 doskey s=%fn%.html
 doskey x=exit
 
