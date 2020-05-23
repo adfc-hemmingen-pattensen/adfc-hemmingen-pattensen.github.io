@@ -5338,7 +5338,10 @@ Jens Spille, Dirk Härtel, Udo Scherer, Ralf Schmalkuche
 
 ### Status:
 
- -  offen
+ -  2020-05-23 Per Post haben wir eine 19 seitige Broschüre von Herrn A. Siekmann, Dipl.-Ing, Hannover mit dem Titel "Darstellung und Beurteilung der Radverkehrsführung in Pattensen" bekommen. Hauptadressat ist das Sachgebiet Tiefbau der Stadt Pattensen.
+
+![](img\7Q87+6PBroschuereSiekmann.jpg)
+
 
 ---
 
