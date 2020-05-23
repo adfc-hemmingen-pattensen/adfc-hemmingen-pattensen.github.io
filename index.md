@@ -47,6 +47,36 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Stadtradeln 2020 findet statt
+<!-- 2020-05-23 11:41 -->
+Das *Stadtradeln 2020* findet trotzt der Corona-Pandemie in der Zeit vom **07.06. bis zum 27.06.2020** in der Region Hannover statt.
+
+Dieses Jahr wird es keine gemeinsamen Veranstaltungen wie Sternfahrten, Biker-Frühstücke und geführte Radtouren geben. Kilometer sammeln geschieht dieses Mal auf dem Weg zur Arbeit (Statt mit dem Auto oder ÖPNV) und bei individuellen Touren mit der Familie. 
+
+**Mitmachen ist einfach – und so geht´s**
+
+Registrieren Sie sich einfach mit wenigen Klicks unter [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen) bzw. unter [https://www.stadtradeln.de/hemmingen](https://www.stadtradeln.de/hemmingen), treten Sie einem bestehenden Team bei oder gründen ein eigenes Team und tragen Sie Ihre geradelten Kilometer ein.
+
+### ADFC fordert Radweg entlang des Südschnellweges
+<!-- 2020-05-23 11:41 -->
+Der ADFC fordert in einer Stellungnahme einen Radweg entlang des Südschnellweges. Ziel ist es bei Hochwasser von Ricklingen/Westerfeld nach Döhren zu kommen. 
+
+### ADFC Workshop am 12.2. und 4.3.2020 im Bürgersaal
+<!-- 2020-03-04 -->
+Der ADFC hatte zusammen mit der Stadt Hemmingen zu einem Workshop aufgerufen. Zum ersten Termin kamen 40 interessierte Bürger und zum zweiten Termin kamen auf Grund der nahenden Corona Krise die Hälfte. Die Bürger hatten auf vier großen Karten mit Stiften Ihre Wunschstecken eingetragen und 175 Moderatorenkarten beschrieben. Mit den schon vorhandenen Verbesserungsvorschlägen gibt es jetzt eine Liste mit über 239 Verbesserungsvorschlägen zu den Themen:
+
+- Allgemeinen Verbesserungsvorschlägen
+- Radwege Zustand
+- Beleuchtung
+- Service Station
+- Neue Wege
+- Ampelschaltungen
+- Neue Verkehrsformen
+- Verhalten von Verkehrsteilnehmern (inkl. Radfahrer)
+- Fahrrad-Cafe
+
+Alle Verbesserungsvorschläge haben wir auf folgender Mängelkarte zusammen gefasst. Siehe [MaengelKarte](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/).
+
 ### Termine
 
 <p>**<a href="https://teamup.com/ksju1rrabvbvttzec9">Vollbildanzeige</a>** - Ein Service von [Teamup Solutions AG in Zurich](https://www.teamup.com/)</p>
@@ -99,8 +129,6 @@ Zur Zeit finden keine geführten Radtouren statt.
 
 ## Tipps und Nachrichten
 
-
-
 ### Einige nützliche Links
 
 [Stadt Pattensen](https://www.pattensen.de/) und das [Wanderbare Calenberger Land](https://www.pattensen.de/Default.aspx?tabid=3110)<br>
@@ -136,6 +164,7 @@ Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstu
 ## Was war 2019
 
 ### Radwege für Frauen, Männer, Familien, Jugendliche, Anhänger, Lastenräder, Pedelecs – aber wo gehen sie lang?
+<!-- 2020-02-12 -->
 Der Weg ist das Ziel und führt idealerweise dorthin. Mal direkt, mal malerisch oder schnell und effizient oder auch mit Umwegen. Immer mit dem Rad, mal mit Anhänger dran oder mit den Kindern, ein anders Mal mit dem Grünschnitt oder dem Einkauf auf dem Lastenrad. Und auch mit dem Pedelec, weil es einfach geht oder schneller ist. 
 
 

@@ -696,6 +696,8 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
  Die Strecke wurde auf Tempo 50 reduziert, da die Verbindung Bockstr. bis Cafe Webstuhl gesperrt ist und Radfahrer vermehrt die Strecke benutzen (müssen). Jetzt wurde Tempo 50 wieder aufgehoben, warum?
 
+Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der K225 zwischen Devese und Ohlendorf 50 km/h beträgt. Der Grund dafür ist der Wegfall von Radwegverbindungen durch den Bau der Ortsumgehung. Die Gefahr für Radfahrende, die gezwungen sind diese Ausweichstrecke zu benutzen, war bei bis zu Tempo 100 einfach zu groß.
+
 ### Maßnahmenvorschlag:
 
  Geschwindigkeitsbegrenzung bis zur Rückstufung der Kreisstraße.
@@ -2265,25 +2267,37 @@ Meldungsgrund: Loch
 - Plus Code: [8PCW+6H](https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6H)
 - Mängelliste: [Link](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#81)
 - Einstelldatum: 2017-09-10
-- Informationsquelle: nan
+- Informationsquelle: ADFC
 
 ### Ortsbeschreibung:
 
- Hemmingen (Altes Dorf) -  Weetzener Landstraße (K221) - Kreuzung - Im Dorfeld
+ Querung Brot Henke
 
 ### Mangel:
 
- Querung Brot Henke
+ Radfahrer die die K211 überqueren möchten müssen sich häufig zwischen den stauenden Fahrzeugen auf der K221 drängeln.
+
+Die Querung der K 221 (aus und in die Fahrradstraße) ist zu Stoßzeiten schwierig, da sich auf der K221 
+längere Rückstaus bilden. Das führt dazu, dass Radfahrer den Drücker der Fußgängerampel betätigen, und mit dem Grün 
+der Fußgänger-Ampel die K221 überqueren. Dazu müssen sie, wenn sie von Norden kommen, die Gegenfahrtrichtung auf 
+Im Dorffeld überqueren.
+
+![](img\8PCW+5H_BrotHenke.png)
+
+![](img\8PCW+5H_BrotHenkeFoto.png)
+
 
 ### Maßnahmenvorschlag:
 
- Kontaktschleifen einbauen
+ Extra Radfahrer-Ampel. Am besten als Dunkel-Dunkel Ampel geschaltet, damit in ruhigen Zeiten ein zügiges Überqueren möglich wird und keine Rotlicht-Sünder herangezogen werden.
 
 ### Status:
 
- - 2018-08-23 - Jens Spille - Herr Vinken (Region Hannover) informiert über die Planungsabsichten der Region Hannover, als zuständige Straßenbaulastträgerin, die Weetzener Landstraße (K 221) zwischen der Einmündung Dorfstraße und dem Kreisverkehr Marie-Curie-Straße/ Alfred-Bentz-Straße umzugestalten. Der Bereich wird in insgesamt 5 Abschnitte unterteilt. Die Planung wird stufenweise umgesetzt.  
+ - 2019 - Jens Spille - Region hat Plan zum Umbau vorgelegt.
 
-[Umgestaltung Weetzener Landstraße (K221) (4579 KB)](https://www.stadthemmingen.de/allris/to020.asp?TOLFDNR=809)
+[Umgestaltung Weetzener Landstraße (K221) (4579 KB)](https://www.stadthemmingen.de/allris/to020.asp?TOLFDNR=8080)
+
+![](img\8PCW+5H_PlanKreuzungBortHenke.png)
 
 ---
 
@@ -2589,7 +2603,10 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 ### Maßnahmenvorschlag:
 
- Drängelgitter entfernen (Andere Lösung)
+ Umlaufgitter entfernen, evtl. Verengung auf mindestens 2 m, um KFZ Verkehr zu verhindern.
+
+![](img\8PFC+M26_WeserradwegHamelnEinengung.png)
+
 
 ### Status:
 

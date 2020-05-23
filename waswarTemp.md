@@ -485,7 +485,7 @@ Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
 
 Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
 
-![RichtungOst](img/RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](RadfahrerFreiRichtungWest.jpg)
+![RichtungOst](img/RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](img/RadfahrerFreiRichtungWest.jpg)
 
 Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
 Fußgängern anpassen und dürfen diese nicht gefährden. ![](img/RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
@@ -1709,4 +1709,4 @@ zur gemeinsam Erörterung des SHP-Gutachtens „**Radwegebenutzungspflicht im Be
 **Erste Kontaktaufnahme mit dem ADFC Region Hannover** fand am 30.10.2013 bei Mutter Buermann statt. Anwesend waren Vertreter des Regions Vorstandes und der Ortsgruppe Gehrden/Ronnenberg  
 
 ----
-Letzte Aenderung: 22.05.2020_22:24
+Letzte Aenderung: 23.05.2020_10:52
