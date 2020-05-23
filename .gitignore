@@ -4,6 +4,7 @@
 *.db
 *.url
 *.exe
+*.ipynb
 *ADFCWiki.html_backup
 *nppBackup
 index.pdf
@@ -11,3 +12,4 @@ index.docx
 tex2pdf*
 indexTemp*
 /MaengellisteHem/unison/
+*/.ipynb_checkpoints\*
