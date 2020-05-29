@@ -14,7 +14,8 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 **Kurzbedienung der Karte**
 
 > ![](img\IconVollbild.png)  Vollbildanzeige  
-> ![](img\IconLayers.png)  Auswahl der angezeigten Elemente
+> ![](img\IconLayers.png)  Auswahl der angezeigten Elemente  
+> ![](img\KlickAnleitung.png) Popup Fenster öffnen
 
 <iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/MaengelKarte/ADFC-Map.html"></iframe>
 
