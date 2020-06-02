@@ -32,7 +32,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 >    * [Veränderte Verkehrsführung für Fußgänger und Radfahrer](#veränderte-verkehrsführung-für-fußgänger-und-radfahrer)  
 >    * [Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-](#umgestaltung-der-weetzener-landstraße--planung-der-region-hannover-)  
 > - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)  
->   - [**Direkter Link**](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)  
+>   - [![](MaengelKarte\img\KlickAnleitung.png) **Direkter Link**](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
 > - [Was war](#was-war)
 > * [Impressum](#impressum)
 > - [Datenschutz](pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
@@ -48,7 +48,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 </div>
 
 ### Stadtradeln 2020 findet statt
+
 <!-- 2020-05-23 11:41 -->
+**Nichts ist gesünder, als mit dem Rad zur Arbeit zu fahren**
+
 Das *Stadtradeln 2020* findet trotzt der Corona-Pandemie in der Zeit vom **07.06. bis zum 27.06.2020** in der Region Hannover statt.
 
 Dieses Jahr wird es keine gemeinsamen Veranstaltungen wie Sternfahrten, Biker-Frühstücke und geführte Radtouren geben. Kilometer sammeln geschieht dieses Mal auf dem Weg zur Arbeit (Statt mit dem Auto oder ÖPNV) und bei individuellen Touren mit der Familie. 
