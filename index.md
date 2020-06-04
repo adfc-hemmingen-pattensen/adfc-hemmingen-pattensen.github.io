@@ -15,6 +15,8 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <!-- > ~~hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet~~<br>-->
 > **Die Fahrrad-Selbsthilfewerkstatt-Hemmingen ist bis auf Weiteres geschlossen. Über einen Notbetrieb für notwendig, dringende Reparaturen zur Unterstützung von Geflüchteten und Bedürftigen wird derzeit mit der Stadt Hemmingen beraten. Anfragen per Email**  
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
+> ![](img\SchrottRad.jpg "Foto Michael M.")  
+> *Wir geben uns ja schon Mühe – aber nicht jedes Schätzchen ist dafür geeignet*  
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
 > **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
