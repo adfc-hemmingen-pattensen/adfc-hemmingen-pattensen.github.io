@@ -2,7 +2,7 @@
 
 ## [ADFC Ortsgruppe Hemmingen/Pattensen (zur Homepage)](http://adfc-hemmingen-pattensen.github.io/)
 
-## [Mängelliste](http://adfc-hemmingen-pattensen.github.io/MaengelKarte)
+## [Touren Karte](http://adfc-hemmingen-pattensen.github.io/MaengelKarte)
 
 > Stand: LetzteAenderung  
 > Autor: Jens Spille
