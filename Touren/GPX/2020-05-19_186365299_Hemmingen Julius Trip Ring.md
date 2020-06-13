@@ -1,4 +1,4 @@
-<!-- Farbe: 'limegreen' -->
+<!-- Farbe: 'fuchsia' -->
 
 # Hemmingen Julius Trip Ring
 
@@ -9,7 +9,3 @@ Dornröschen Biergarten
 Länge: 31,6 km
 
 [https://www.komoot.de/tour/186365299/](https://www.komoot.de/tour/186365299/)
-
-
-
-
