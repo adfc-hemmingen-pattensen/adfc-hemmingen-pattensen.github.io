@@ -189,7 +189,7 @@
 
 ### Maßnahmenvorschlag:
 
- Querung über Weetzener Landstr. Begradigen
+ Querung über Weetzener Landstr. begradigen
 
 ### Status:
 
@@ -1195,19 +1195,19 @@ Mangel/Gefahr: Der Radweg entlang der K20 wird für eine kleine Brücke stark ve
 
 ---
 
-<a name="dad218f269708d7698826b85b69ec87f"></a>
+<a name="24e242ff56dfdbe0551390f72b3518a0"></a>
 
-# Arnum Aufstellflächen Harkenbleck Weg / Hiddestorfer Str. fehlen
+# Arnum Aufstellflächen Harkenblecker Weg / Hiddestorfer Str. fehlen
 
 - **Betrifft: Route03**
 - Plus Code: [7PXR+R8](https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dad218f269708d7698826b85b69ec87f target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#24e242ff56dfdbe0551390f72b3518a0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
 ### Ortsbeschreibung:
 
- Harkenbleck Weg / Hiddestorfer Str.
+ Harkenblecker Weg / Hiddestorfer Str.
 
 ### Mangel:
 
@@ -1553,7 +1553,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 ### Mangel:
 
- durch die Errichtung des neuen Bügels ist man geneigt, links am neuen Bügel vorbeizufahren. Die Pflasterung ist jedoch tückisch und gefährlich. Die Regenrinne sollte eigentlich der tiefste Punkt der Wegfläche sein, sodass das Regenwasser abfließen kann. Tatsächlich hat sich die Pflasterung des Fuß- und Radweges daneben so weit abgesenkt, dass sich eine erhöhte Kante der Regenrinne über eine längere Strecke herausgebildet hat. Wenn dort Laub liegt (aber auch sonst), kann dies zur Sturzgefahr werden, wenn man unerwartet an diese Kante kommt … wie es einen ADFC Kollegen fast passiert ist.
+ Durch die Errichtung des neuen Bügels ist man geneigt, links am neuen Bügel vorbeizufahren. Die Pflasterung ist jedoch tückisch und gefährlich. Die Regenrinne sollte eigentlich der tiefste Punkt der Wegfläche sein, sodass das Regenwasser abfließen kann. Tatsächlich hat sich die Pflasterung des Fuß- und Radweges daneben so weit abgesenkt, dass sich eine erhöhte Kante der Regenrinne über eine längere Strecke herausgebildet hat. Wenn dort Laub liegt (aber auch sonst), kann dies zur Sturzgefahr werden, wenn man unerwartet an diese Kante kommt … wie es einen ADFC Kollegen fast passiert ist.
 
 ![](img\8PHG+RW_AmSiek_PflasterAbgesackt.jpg)
 
@@ -1750,6 +1750,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
  - 2020-05: Der Weg wurde im Mai 2020 saniert, aber mit zu groben Split. Rutschgefahr.
 - 2020-05-14 Verwaltung will Abhilfe schaffen.
+- 2020-05-25 Stadt hat nachgebessert, es sieht sehr viel besser aus als vorher 
 
 ---
 
@@ -1978,7 +1979,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Maßnahmenvorschlag:
 
- Querung über Weetzener Landstr. Begradigen
+ Querung über Weetzener Landstr. begradigen
 
 ### Status:
 
@@ -2757,6 +2758,34 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 ---
 
+<a name="1da3caa30961ec0f18e3b4db7b323197"></a>
+
+# Einmündung Gänsemasch – Dorfstr. Richtung Arnum
+
+- **Betrifft: Route04**
+- Plus Code: [8P9X+QJ](https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BQJ)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1da3caa30961ec0f18e3b4db7b323197 target="_blank">Link</a>
+- Einstelldatum: 2020-06-05
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Dorfstr.
+
+### Mangel:
+
+ Gefährliche Querung der Dorfstr.
+
+### Maßnahmenvorschlag:
+
+ Querungshilfe notwendig , evtl. Ausschilderung, Bordsteinabsenkung auf gegenüberliegender Seite
+
+### Status:
+
+ - offen
+
+---
+
 <a name="6305d0c8c59ab3cfae9600c8f4cd3849"></a>
 
 # Durchgehende Route – östlich B3
@@ -2926,7 +2955,8 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Maßnahmenvorschlag:
 
- Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). -  Überweg in Höhe Gartenstraße einrichten.
+ - Eine Radfahrerfurt nahe der Fahrbahn einrichten (blaue Linie). 
+- Überweg in Höhe Gartenstraße einrichten. 
 
 ![](img\8P5M+RG_B3AltHoherHolzwegVorschlag.png)
 
@@ -3039,7 +3069,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Mangel:
 
- Schulweg zur und von der KGS! Fahrräder und Autos, die aus dem Sundernweg herausfahren werden, nicht wahrgenommen. Linksabbieger aus dem hohen Holzweg haben vermeintlich bei grüner Ampel freie Fahrt
+ Schulweg zur und von der KGS! Fahrräder und Autos, die aus dem Sundernweg herausfahren werden, nicht wahrgenommen. Linksabbieger aus dem Hohen Holzweg haben vermeintlich bei grüner Ampel freie Fahrt
 
 ### Maßnahmenvorschlag:
 
@@ -3079,19 +3109,19 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ---
 
-<a name="dad218f269708d7698826b85b69ec87f"></a>
+<a name="24e242ff56dfdbe0551390f72b3518a0"></a>
 
-# Arnum Aufstellflächen Harkenbleck Weg / Hiddestorfer Str. fehlen
+# Arnum Aufstellflächen Harkenblecker Weg / Hiddestorfer Str. fehlen
 
 - **Betrifft: Route07**
 - Plus Code: [7PXR+R8](https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dad218f269708d7698826b85b69ec87f target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#24e242ff56dfdbe0551390f72b3518a0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
 ### Ortsbeschreibung:
 
- Harkenbleck Weg / Hiddestorfer Str.
+ Harkenblecker Weg / Hiddestorfer Str.
 
 ### Mangel:
 
@@ -3793,19 +3823,19 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 ---
 
-<a name="dad218f269708d7698826b85b69ec87f"></a>
+<a name="24e242ff56dfdbe0551390f72b3518a0"></a>
 
-# Arnum Aufstellflächen Harkenbleck Weg / Hiddestorfer Str. fehlen
+# Arnum Aufstellflächen Harkenblecker Weg / Hiddestorfer Str. fehlen
 
 - **Betrifft: Route08**
 - Plus Code: [7PXR+R8](https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dad218f269708d7698826b85b69ec87f target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#24e242ff56dfdbe0551390f72b3518a0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
 ### Ortsbeschreibung:
 
- Harkenbleck Weg / Hiddestorfer Str.
+ Harkenblecker Weg / Hiddestorfer Str.
 
 ### Mangel:
 
@@ -3982,19 +4012,19 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 ---
 
-<a name="dad218f269708d7698826b85b69ec87f"></a>
+<a name="24e242ff56dfdbe0551390f72b3518a0"></a>
 
-# Arnum Aufstellflächen Harkenbleck Weg / Hiddestorfer Str. fehlen
+# Arnum Aufstellflächen Harkenblecker Weg / Hiddestorfer Str. fehlen
 
 - **Betrifft: Route09**
 - Plus Code: [7PXR+R8](https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dad218f269708d7698826b85b69ec87f target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#24e242ff56dfdbe0551390f72b3518a0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
 ### Ortsbeschreibung:
 
- Harkenbleck Weg / Hiddestorfer Str.
+ Harkenblecker Weg / Hiddestorfer Str.
 
 ### Mangel:
 
@@ -4157,7 +4187,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 ### Mangel:
 
- Radfahrer die, die Wülfeler Straße (L 389) queren wollen, können entweder den Fußgängerüberweg "schiebend" benutzen, da diese
+ Radfahrer, die die Wülfeler Straße (L 389) queren wollen, können entweder den Fußgängerüberweg "schiebend" benutzen, da diese
  eine Fußgängerstreuscheibe besitzt, oder sie queren direkt die L 389. Soweit OK. Durch den hochstehenden Bordstein werden sie am zügigen Überqueren gehindert.
 
 ![](img\8Q63+HP_KöstereckeKarte.png)
@@ -4941,7 +4971,7 @@ Im Dorffeld überqueren.
 
 ### Mangel:
 
- Radfahrer die, die Wülfeler Straße (L 389) queren wollen, können entweder den Fußgängerüberweg "schiebend" benutzen, da diese
+ Radfahrer, die die Wülfeler Straße (L 389) queren wollen, können entweder den Fußgängerüberweg "schiebend" benutzen, da diese
  eine Fußgängerstreuscheibe besitzt, oder sie queren direkt die L 389. Soweit OK. Durch den hochstehenden Bordstein werden sie am zügigen Überqueren gehindert.
 
 ![](img\8Q63+HP_KöstereckeKarte.png)
@@ -5061,7 +5091,7 @@ Im Dorffeld überqueren.
 
 ### Mangel:
 
- Ein Teil der Wirtschaftswege ist nicht befestigt
+ Ein Teil der Wirtschaftswege ist nicht befestigt.
 
 ### Maßnahmenvorschlag:
 
@@ -5070,6 +5100,7 @@ Im Dorffeld überqueren.
 ### Status:
 
  - offen
+- 2020 - Innerhin stehen im Haushaltsplan für 2020 ca. 10000 €uro für die Unterhaltung der Wirtschafts- und Wanderwege (Für Material und Einsatz des Wegehobels).
 
 ---
 
@@ -6511,7 +6542,7 @@ Beispiel: Korrektur des "Symboles der FAHRRADREGION Hannover" - Furt für Radfah
 
 ### Status:
 
- - offen
+ - 2020-06 Die Region hat Fahrradpiktogramme auf die Fahrbahn aufgebracht und Radweg als Gehweg mit Radfahrer frei ausgeschildert. Ob die "roten Pfeile" korrigiert wurden, muss noch geprüft werden. 
 
 ---
 
