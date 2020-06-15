@@ -4,7 +4,7 @@
     <link href="http://www.garmin.com">
       <text>Garmin International</text>
     </link>
-    <time>2020-06-15T15:02:46Z</time>
+    <time>2020-06-15T15:24:37Z</time>
     <bounds maxlat="52.402046201750636" maxlon="9.79044696316123" minlat="52.338580191135406" minlon="9.70103862695396" />
   </metadata>
 
@@ -181,19 +181,19 @@
       <trkpt lat="52.391113601624966" lon="9.764614859595895">
         <ele>63.0546875</ele>
       </trkpt>
-      <trkpt lat="52.393808551132679" lon="9.764901604503393">
+      <trkpt lat="52.393780723214149" lon="9.765192624181509">
         <ele>63.3671875</ele>
       </trkpt>
-      <trkpt lat="52.395335733890533" lon="9.76404145359993">
+      <trkpt lat="52.39543086849153" lon="9.764042962342501">
         <ele>57.99609375</ele>
       </trkpt>
-      <trkpt lat="52.395111098885536" lon="9.763109721243382">
+      <trkpt lat="52.395201874896884" lon="9.763240227475762">
         <ele>58.3203125</ele>
       </trkpt>
-      <trkpt lat="52.395829763263464" lon="9.762464566156268">
-        <ele>57.078125</ele>
+      <trkpt lat="52.39542642608285" lon="9.763068147003651">
+        <ele>57.23046875</ele>
       </trkpt>
-      <trkpt lat="52.396144168451428" lon="9.763109721243382">
+      <trkpt lat="52.395718367770314" lon="9.763251626864076">
         <ele>56.86328125</ele>
       </trkpt>
       <trkpt lat="52.397087384015322" lon="9.762177905067802">
@@ -426,6 +426,32 @@
       </trkpt>
       <trkpt lat="52.33863852918148" lon="9.741549622267485">
         <ele>54.43359375</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+
+  <trk>
+    <name>Track</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="52.396146934479475" lon="9.763106955215335">
+        <ele>56.859375</ele>
+      </trkpt>
+      <trkpt lat="52.39607778377831" lon="9.763117013499141">
+        <ele>56.90234375</ele>
+      </trkpt>
+      <trkpt lat="52.396014919504523" lon="9.763127071782947">
+        <ele>56.9375</ele>
+      </trkpt>
+      <trkpt lat="52.395945768803358" lon="9.763157162815332">
+        <ele>56.9765625</ele>
+      </trkpt>
+      <trkpt lat="52.39588282071054" lon="9.763167221099138">
+        <ele>56.9921875</ele>
       </trkpt>
     </trkseg>
   </trk>
