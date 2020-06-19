@@ -11,6 +11,8 @@ Diese Tourenkarte wurde erstellt vom AFDC Hemmingen/Pattensen. Durch anklicken d
 
 Weitere Radtourenvorschläge für den Raum Hannover gibt es auf der [https://adfc-hannover.de/radtouren/](https://adfc-hannover.de/radtouren/) Webseite.
 
+Einen ADFC-Naviki-Routenplaner gibt es unter [https://www.naviki.org/de/hannover/route-planen](https://www.naviki.org/de/hannover/route-planen/#p=52.29578759601978,9.749529973233109&z=12) 
+
 Und zum [Stadtradeln](https://www.stadtradeln.de/home), gibt es weitere Vorschläge vom Umweltzentrum Hannover nach dem Motto ["Umsteigen:Aufsteigen."](https://umsteigenaufsteigen.de/). Zum Beispiel:
 
 - die [STADTRADELN-Rätsel-Rallye-Radtour](https://umsteigenaufsteigen.de/wp-content/uploads/2020/06/STADTRADELN-R%C3%A4tsel-Rallye.pdf)
