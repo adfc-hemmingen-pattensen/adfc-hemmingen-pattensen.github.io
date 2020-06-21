@@ -5,7 +5,6 @@
 *.db
 *.url
 *.exe
-*.ipynb
 *ADFCWiki.html_backup
 *nppBackup
 index.pdf

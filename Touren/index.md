@@ -17,7 +17,11 @@ Und zum [Stadtradeln](https://www.stadtradeln.de/home), gibt es weitere Vorschl�
 - oder die [STADTRADELN-Foto-Entdecker-Rallye](https://umsteigenaufsteigen.de/wp-content/uploads/2020/06/STADTRADELN-Foto-Entdecker-Rallye-neu.pdf)
 - und vieles Mehr.
 
-<iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/Touren/Touren.html"></iframe>
+Tourenvorschläge für Pattensen befinden sich weiter unten auf dieser Seite.
+
+<iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/Touren/TourenHem.html"></iframe>
+
+<iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/Touren/TourenPat.html"></iframe>
 
 **Kurzbedienung der Karte**
 
