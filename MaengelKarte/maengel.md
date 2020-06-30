@@ -747,6 +747,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 - 2018-11  Vorschlag wurde im Rahmen einer Ortsbegehung wiederholt.
 - 2018-11 Alles ist offen. Hier könnte evtl. auch ein Kreisverkehr entstehen.
 - 2019-09-26-Do  Es wurde wieder ein Kreisverkehr vorgeschlagen. Radverkehrsführung auf Fahrbahn "Konzept für Arnum Mitte".
+- 2020-06 Eine Teillösung wurde umgesetzt ![](img\8P5M+RH_ErsteTeilumsetzung.png)
 
 ---
 
@@ -773,7 +774,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Status:
 
- - siehe unserer Stellungsnahme vom VEP2030
+ -  offen
 
 ---
 
