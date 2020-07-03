@@ -1197,11 +1197,11 @@ h1 {
   margin: 0.67em 0;
 }
 
-h1[title] {
+/* h1[title] {
   font-size: 2em;
   text-align: center;
   margin: 0.67em 0;
-}
+}*/
 
 
 /**
