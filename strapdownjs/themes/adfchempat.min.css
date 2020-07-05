@@ -2225,3 +2225,8 @@ sub {
 .type-csharp .highlight .sc {
   color: #a31515
 }
+
+p{
+ max-width: 800px;
+ word-wrap:break-word;
+}
