@@ -28,6 +28,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ## Inhalt
     
 > - [Aktuelles](#aktuelles)
+>   - **NEU** [Verkehrsrecht für Radfahrende](Aktuelles/index.html) ![](img/adfc_cycle_10_pin.png)
 > - [Wer sind wir?](#wer-sind-wir)
 > - [Was wird](#was-wird)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)  
