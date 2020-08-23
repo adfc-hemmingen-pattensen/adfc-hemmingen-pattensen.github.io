@@ -50,18 +50,6 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-### Stadtradeln 2020 findet statt
-
-<!-- 2020-05-23 11:41 -->
-**Nichts ist gesünder, als mit dem Rad zur Arbeit zu fahren.** Mit dem Rad zur Arbeit: Das Risiko, an Herz-Kreislauf-Erkrankungen zu sterben, ist bei Radfahrenden um 24 Prozent geringer als bei Autofahrenden [Quelle](https://t3n.de/news/pendlerstudie-zeigt-nichts-rad-1283894/?fbclid=IwAR1J1qFv5utQd0Uy3sP1fEP0g3HtLS9KymL5STXRebyU5jalpWGxJubyzoM).
-
-Das *Stadtradeln 2020* findet trotzt der Corona-Pandemie in der Zeit vom **07.06. bis zum 27.06.2020** in der Region Hannover statt.
-
-Dieses Jahr wird es keine gemeinsamen Veranstaltungen wie Sternfahrten, Biker-Frühstücke und geführte Radtouren geben. Kilometer sammeln geschieht dieses Mal auf dem Weg zur Arbeit (Statt mit dem Auto oder ÖPNV) und bei individuellen Touren mit der Familie. **NEU: Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt**
-
-**Mitmachen ist einfach – und so geht´s**
-
-Registrieren Sie sich einfach mit wenigen Klicks unter [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen) bzw. unter [https://www.stadtradeln.de/hemmingen](https://www.stadtradeln.de/hemmingen), treten Sie einem bestehenden Team bei oder gründen ein eigenes Team und tragen Sie Ihre geradelten Kilometer ein.
 
 ### ADFC fordert Radweg entlang des Südschnellweges
 <!-- 2020-05-23 11:41 -->
@@ -131,7 +119,9 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
-Zur Zeit finden keine geführten Radtouren statt.
+### Tourenkarten
+
+**NEU: Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt**
 
 ## Tipps und Nachrichten
 
@@ -166,8 +156,34 @@ Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstu
 - Email: https://www.infra-hannover.de/kontakt/
 
 
+## Was war
 
-## Was war 2019
+### Abendtour 1/20 2020-08-19-Mi.
+ 
+Tourenziel       | Benthe, Velber und Ahlem
+---------------: | ----------------------- 
+Datum            | 2020-08-19-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+    
+Die 1. Feierabend-Radtour startete am Mittwoch den 19.August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
+
+### Stadtradeln 2020
+
+<!-- 2020-05-23 11:41 -->
+**Nichts ist gesünder, als mit dem Rad zur Arbeit zu fahren.** Mit dem Rad zur Arbeit: Das Risiko, an Herz-Kreislauf-Erkrankungen zu sterben, ist bei Radfahrenden um 24 Prozent geringer als bei Autofahrenden [Quelle](https://t3n.de/news/pendlerstudie-zeigt-nichts-rad-1283894/?fbclid=IwAR1J1qFv5utQd0Uy3sP1fEP0g3HtLS9KymL5STXRebyU5jalpWGxJubyzoM).
+
+Das *Stadtradeln 2020* fand trotzt der Corona-Pandemie in der Zeit vom **07.06. bis zum 27.06.2020** in der Region Hannover statt.
+
+Die Gewinnenliste finden Sie unter [https://www.stadtradeln.de/ergebnisse/?&cityfilter=Region%20Hannover&tab=winning#sr-ergebnisse-kommunen](https://www.stadtradeln.de/ergebnisse/?&cityfilter=Region%20Hannover&tab=winning#sr-ergebnisse-kommunen).
+
+
+### Was war 2019
 
 ### Radwege für Frauen, Männer, Familien, Jugendliche, Anhänger, Lastenräder, Pedelecs – aber wo gehen sie lang?
 <!-- 2020-02-12 -->
