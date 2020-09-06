@@ -28,7 +28,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 ## Inhalt
     
 > - [Aktuelles](#aktuelles)
->   - **NEU** [Verkehrsrecht für Radfahrende](Aktuelles/index.html) ![](img/adfc_cycle_10_pin.png)
+>   - **NEU** [Verkehrsrecht für Radfahrende](#verkehrsrecht-für-radfahrende) ![](img/adfc_cycle_10_pin.png)
 > - [Wer sind wir?](#wer-sind-wir)
 > - [Was wird](#was-wird)
 > - [Tipps und Nachrichten](#tipps-und-nachrichten)  
@@ -50,6 +50,25 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 <div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+### Verkehrsrecht für Radfahrende
+
+#### Sei kein Geisterradler
+
+![](img/geisterradler.png)
+
+Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu 20 % der Rad fahrenden auf Radwegen entgegen der vorgesehenen Fahrtrichtung. Dieses sogenannte „Geisterradeln“, also das regelwidrige Linksfahren, gehört zu den Hauptursachen der Unfälle, die durch den Radverkehr selbst verursacht werden.
+
+[https://www.geisterradeln.de/](https://www.geisterradeln.de/)
+
+#### Verkehrsrecht für Radfahrende
+
+Das Fahrrad ist ein Fahrzeug – und Radfahrende sind Fahrzeugführende mit allen Rechten und Pflichten. Deshalb gelten zunächst die allgemeinen Regeln für den Fahrzeugverkehr. Auf diese Regeln geht der folgende Beitrag nur ein, wenn sie besondere Bedeutung für Radfahrende haben. Außerdem enthält die Straßenverkehrs-Ordnung (StVO) Vorschriften speziell für den Radverkehr. Um diese Vorschriften, ihre Beachtung und mögliche Konflikte soll es hier vor allem gehen.
+
+[Verkehrsrecht_fuer_Radfahrende als PDF](pdf/Verkehrsrecht_fuer_Radfahrende_6.20-1.pdf)
+
+#### Video zum neuen Verkehrsrecht
+
+ARD hr-Fernsehen [Sicherheit auf Radwegen - was bringen die neuen Regeln](https://www.ardmediathek.de/ard/video/alles-wissen/sicherheit-auf-radwegen-was-bringen-die-neuen-regeln/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMDg2MDY/)
 
 ### ADFC fordert Radweg entlang des Südschnellweges
 <!-- 2020-05-23 11:41 -->
