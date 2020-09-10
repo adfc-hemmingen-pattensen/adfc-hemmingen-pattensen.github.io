@@ -7,6 +7,9 @@
 > Stand: LetzteAenderung  
 > Autor: Jens Spille
 
+
+Das **ADFC Routenkonzept** "[Präsentation](pdf/AG-Radverkehr-2020-09-10_ADFC.pdf)" wurde am 10. Sept. 2020 auf der 32. Sitzung des Ausschusses für Stadtentwicklung und Umwelt vorgestellt. 
+
 Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelistet sind, beziehen sich auf unsere [Mängelkarte](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/ADFC-Map.html). Somit steht einmal zur Übersicht die Mängelkarte und andererseits diese Liste zur Verfügung. 
 
 > &#x1F6B2; Neu: Jetzt auch mit GPX File fürs NAVI zum [Download](http://adfc-hemmingen-pattensen.github.io/MaengelKarte/GPSOutput/maengel.gpx).
