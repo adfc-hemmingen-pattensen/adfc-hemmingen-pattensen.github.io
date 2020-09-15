@@ -11,9 +11,9 @@ Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
 > **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
-> in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen
-<!-- > ~~hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet~~<br>-->
-> **Die Fahrrad-Selbsthilfewerkstatt-Hemmingen ist bis auf Weiteres geschlossen. Über einen Notbetrieb für notwendig, dringende Reparaturen zur Unterstützung von Geflüchteten und Bedürftigen wird derzeit mit der Stadt Hemmingen beraten. Anfragen per Email**  
+> in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen  
+> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet.
+> 
 > Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
 > ![](img\SchrottRad.jpg "Foto Michael M.")  
 > *Wir geben uns ja schon Mühe – aber nicht jedes Schätzchen ist dafür geeignet*  
@@ -111,7 +111,7 @@ function validatePass(){
 }
 </script>-->
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) ~~hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.~~ **wegen des Corana Virus bleibt die Werkstatt vorerst geschlossen**  
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
 3. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 4. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
 5. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
