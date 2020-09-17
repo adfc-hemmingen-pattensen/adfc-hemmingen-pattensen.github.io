@@ -9,19 +9,22 @@ cd .
 set PROMPT=$G
 SET PATH=%PATH%;c:\Program Files\Git
 
-:: For help - lock at https://learnbyexample.github.io/tutorial/ebook-generation/customizing-pandoc/
-
 @echo on
-doskey keys=doskey /macros
-
 rem Status
 doskey gs=git status
 doskey gl=git log
+
 rem add & commit use <gc "comment">
 doskey ga=git add -A
-doskey gc=git commit -am $*
+doskey gc=git commit -am " $* "
+
 rem push
 doskey gp=git push
+
+rem Git repository browser
+doskey gk=gitk
+
+doskey k=doskey /macros
 doskey x=exit
 
 @cmd.exe /K
