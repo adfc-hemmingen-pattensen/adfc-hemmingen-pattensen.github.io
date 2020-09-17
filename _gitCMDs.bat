@@ -16,7 +16,7 @@ doskey gl=git log
 
 rem add & commit use <gc "comment">
 doskey ga=git add -A
-doskey gc=git commit -am " $* "
+doskey gc=git commit -am "$*"
 
 rem push
 doskey gp=git push
