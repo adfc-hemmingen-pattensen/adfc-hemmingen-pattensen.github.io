@@ -4,6 +4,7 @@
 *.lnk
 *.db
 *.url
+*.swp
 *.exe
 *ADFCWiki.html_backup
 *nppBackup
