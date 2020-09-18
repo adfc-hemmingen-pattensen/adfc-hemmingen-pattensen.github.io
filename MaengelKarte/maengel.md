@@ -4189,7 +4189,8 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 ### Status:
 
- - 2020-05 Barrierefreie Haltestelle geplant – Absenkung wird es nicht geben.
+ - 2020-05 Barrierefreie Haltestelle geplant – Absenkung wird es nicht geben.  
+- 2020-09 Haltestelle wird gebaut, mit einen Absenkung daneben. Nicht direkt vor der Einfahrt Kösterecke. Es ist ein Kompromis.
 
 ---
 
