@@ -21,7 +21,10 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 > **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
 
-> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de)
+> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de). Zur Zeit stehen im Raum Pattensen/Hemmingen zwei Hannahs zur Verfügung.
+> 
+> - Hemmingen, Rathausplatz 1 
+> - Pattensen, REWE Markt im Calenberger Center. Johann-Koch-Straße 2 - Bis Ende März 2021.
 
 > **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
 
@@ -178,6 +181,20 @@ Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstu
 
 ## Was war
 
+### Abendtour 3/20 2020-09-09-Mi.
+ 
+Tourenziel       | Ruthe, Sarstedt
+---------------: | ----------------------- 
+Datum            | 2020-09-09-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 35
+Wetter           | zeitweise regnerisch
+
+Die 3. Feierabend-Radtour startete am Mittwoch den 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
 
 ### Abendtour 2/20 2020-09-02-Mi.
  
