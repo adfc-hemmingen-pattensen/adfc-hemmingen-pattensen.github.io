@@ -5,6 +5,11 @@
 ::
 @echo off
 
+:: utf-8
+chcp 65001
+
+set LC_ALL=C.UTF-8
+
 cd .
 set PROMPT=$G
 SET PATH=%PATH%;c:\Program Files\Git
