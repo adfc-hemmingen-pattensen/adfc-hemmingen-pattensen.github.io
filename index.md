@@ -10,7 +10,19 @@ Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
-> **ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen**<br>
+## ADFC-Fahrradklima-Test
+
+![](https://i.imgur.com/doWA14x.png)
+
+Und wie ist Radfahren in Deiner Stadt? Bis zum 30.11. kannst Du die Situation für Radfahrende in Deiner Stadt oder Gemeinde im ADFC-Fahrradklima-Test 2020 bewerten. Pattensen (PLZ 30982) und Hemmingen (PLZ 30966). Jede einzelne Teilnahme zählt!
+
+Fülle jetzt den Fragebogen aus: [www.fahrradklima-test.adfc.de](https://fahrradklima-test.adfc.de/)
+
+Die Mindestteinehmerzahl von 50 ist noch nicht erreicht. 
+
+
+## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
+
 > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen  
 > hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet.
 > 

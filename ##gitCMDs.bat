@@ -30,6 +30,6 @@ doskey k=doskey /macros $B sort
 doskey x=exit
 
 @echo on
-doskey /macros | sort
+doskey /macros | sort &:: Sortierte Ausgabe
 
 @cmd.exe /K
