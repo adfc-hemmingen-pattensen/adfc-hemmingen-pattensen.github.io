@@ -10,27 +10,19 @@ Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
-## ADFC-Fahrradklima-Test
-
-![](https://i.imgur.com/doWA14x.png)
-
-Und wie ist Radfahren in Deiner Stadt? Bis zum 30.11. kannst Du die Situation für Radfahrende in Deiner Stadt oder Gemeinde im ADFC-Fahrradklima-Test 2020 bewerten. Pattensen (PLZ 30982) und Hemmingen (PLZ 30966). Jede einzelne Teilnahme zählt!
-
-Fülle jetzt den Fragebogen aus: [www.fahrradklima-test.adfc.de](https://fahrradklima-test.adfc.de/)
-
-Die Mindestteinehmerzahl von 50 ist noch nicht erreicht. 
-
-
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
 
-> in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen  
-> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet.
+> Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt ab Anfang November 2020 geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de).
+
+<!-- > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen"+x
+> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet. 
 > 
-> Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br>
+> Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br> -->
 > ![](img\SchrottRad.jpg "Foto Michael M.")  
 > *Wir geben uns ja schon Mühe – aber nicht jedes Schätzchen ist dafür geeignet*  
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
+> 
 > **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
 
 > **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de). Zur Zeit stehen im Raum Pattensen/Hemmingen zwei Hannahs zur Verfügung.
@@ -39,6 +31,16 @@ Die Mindestteinehmerzahl von 50 ist noch nicht erreicht.
 > - Pattensen, REWE Markt im Calenberger Center. Johann-Koch-Straße 2 - Bis Ende März 2021.
 
 > **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
+
+## ADFC-Fahrradklima-Test
+
+![](https://i.imgur.com/doWA14x.png)
+
+Und wie ist Radfahren in Deiner Stadt? Bis zum 30.11. kannst Du die Situation für Radfahrende in Deiner Stadt oder Gemeinde im ADFC-Fahrradklima-Test 2020 bewerten. Pattensen (PLZ 30982) und Hemmingen (PLZ 30966). Jede einzelne Teilnahme zählt!
+
+Fülle jetzt den Fragebogen aus: [www.fahrradklima-test.adfc.de](https://fahrradklima-test.adfc.de/)
+
+In Pattensen ist die Mindestteinehmerzahl von 50 ist noch nicht erreicht. 
 
 ## Inhalt
     
@@ -126,7 +128,7 @@ function validatePass(){
 }
 </script>-->
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.
+1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) bleibt ab Anfang November 2020 geschlossen, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen.. <!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 3. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 4. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
 5. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
