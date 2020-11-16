@@ -38,6 +38,10 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 > - Info: https://www.infra-hannover.de/hemmingenwesterfeld/
 > - Email: https://www.infra-hannover.de/kontakt/
 
+# Notiere neue Schadensmeldungen hier
+
+<iframe name="embed_readwrite" src="https://board.net/p/ADFCHemmingenPattensenMaengel?showControls=true&showChat=true&showLineNumbers=true&useMonospaceFont=false" width="100%" height=400></iframe>
+
 # PlusCode (Open Location Code)
 
 Zur lokalen Identifizierung der Position verwenden wir den Plus Code [https://plus.codes/](https://plus.codes/). Statt in Längen- und Breitengraden wird die Erde dabei in Bereiche aufgeteilt, die wieder in Unterbereiche aufgeteilt werden usw.
