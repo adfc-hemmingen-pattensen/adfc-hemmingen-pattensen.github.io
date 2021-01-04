@@ -4934,7 +4934,9 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 ### Status:
 
- -  offen, gehört zum Stadtgebiet Hannover
+ - 04.01.2021 - Gemeldet an die Stadtverwaltung Laatzen über "Sag's uns einfach" vom ADFC Laatzen.
+- 04.01.2021, 11:45 - Antwort des Stadtverwaltung Laatzen:
+"Hier werden wir zusammen mit der Region Hannover prüfen, inwieweit eine Verbesserung für Fußgänger und Radfahrer erreicht werden kann.".   Meldungs-ID: 416442106 .
 
 ---
 
