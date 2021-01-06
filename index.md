@@ -12,7 +12,7 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
 
-> Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt 2020 geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de).
+> Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt bis mindestens Ende Januar 2021 geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de).
 
 <!-- > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen"+x
 > hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet. 
@@ -134,7 +134,7 @@ function validatePass(){
 }
 </script>-->
 
-1. Die Fahrrad-Selbsthilfe-Werkstatt (FSW) bleibt 2020 geschlossen, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen.. <!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
+1. **Die Fahrrad-Selbsthilfe-Werkstatt (FSW) bleibt bis mindestens Ende Januar 2021 geschlossen, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen.** <!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 3. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 4. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
 5. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
