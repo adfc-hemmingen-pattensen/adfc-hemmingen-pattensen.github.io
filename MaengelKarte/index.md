@@ -25,7 +25,7 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 # Akute Schadenmeldungen
 
 - Stadt Hemmingen: [https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/](https://www.stadthemmingen.de/hemminger-sein/maengel-schaden-melden/)
-- Pattensen: [Ideen-Anregungen-Beschwerden](https://www.pattensen.de/B%C3%BCrger-Familie/Ideen-Anregungen-Beschwerden)
+- Pattensen: [Ideen-Anregungen-Beschwerden](https://www.pattensen.de/B%C3%BCrger-Familie/Ideen-Anregungen-Beschwerden) oder mit der [Meldoo App](https://www.leanact.de/meldoo/).
 - Hannover: [Ideen und Beschwerden](https://e-government.hannover-stadt.de/impulsweb.nsf/)
 - Laatzen:[Sags uns einfach](https://www.laatzen.de/de/sags-uns-einfach.html)
 - ADFC Hemmingen / Pattensen: Kontakt Jens Spille, E-Mail: ![](img\captchaEmail.png)
