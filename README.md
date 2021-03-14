@@ -1,6 +1,6 @@
 # adfc-hemmingen-pattensen.github.io
 
-Web Page of the ADFC Allgemeiner Deutscher Fahrrad-Club e. V. local group in Hemmingen and Pattensen, Germany.
+Web Page of the ADFC Region Hannover e.V. local group in Hemmingen and Pattensen, Germany.
 
 Web-Seite der ADFC Ortsgruppe Hemmingen/Pattensen.
 
