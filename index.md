@@ -3,12 +3,28 @@
 </iframe>
 
 # [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
+- [ADFC Region Hannover e.V](https://hannover-region.adfc.de/)
 
 <img src="img\smiley2.png" alt="" style="float:right;">
 
 Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf)
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
+
+# **Einladung** 
+## Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
+
+**Gesucht waren 2020 - Radwege für Frauen, Männer, Familien, Jugendliche**  
+*Für all die Fahrräder, Fixies, Anhänger, Lastenräder, Pedelecs…*  
+Gefunden wurden die Hemminger Alltagsrouten!!!
+
+Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt. Dazu gibt es unterschiedliche Budget-Vorschläge von Verwaltung und ADFC für den nächsten städtischen Haushalt, der jetzt zum Beschluss ansteht. In einer Online-Veranstaltung wollen wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Denn jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
+
+> Online-Vorstellung der erarbeiteten Hemminger Alltags-Radrouten am
+>
+> **Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00 Uhr über ZOOM**  
+> Anmeldung per Mail bitte an: **[adfc.hemmingen.pattensen@gmail.com](mailto:adfc.hemmingen.pattensen@gmail.com)**  
+> Der Online-Zugangslink wird dann zugemailt
 
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
 
@@ -23,14 +39,21 @@ Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-h
 > ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
 
 > 
-> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)
-
-> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de). Zur Zeit stehen im Raum Pattensen/Hemmingen zwei Hannahs zur Verfügung.
-> 
-> - Hemmingen, Rathausplatz 1 
-> - Pattensen, REWE Markt im Calenberger Center. Johann-Koch-Straße 2 - Bis Ende März 2021.
-
+> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)  
+> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de).  
 > **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
+
+# K 225 wird nach 115 Jahren wieder Feldweg
+
+Zum HAZ Artikel vom 2.3.2021.
+
+Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um eine Folgemaßnahme des Baus der B3neu durch die Straßenbauverwaltung des Landes Niedersachsen. Im Abschnitt zwischen dem Gertrud-Kochanowski-Weg in Devese und der Zufahrt zum Cafe Webstuhl wird die K 225 entsprechend des Planfeststellungsbeschlusses für den Bau der B3neu auf eine Breite von 3 m zurückgebaut. Die verbleibende Fläche wird nicht entsiegelt, sondern bleibt wie sie ist. Im Abschnitt von Ohlendorf bis zum Cafe Webstuhl wir die K 225 auf eine Breite von 4,75 m zurückgebaut, da hier nicht nur landwirtschaftlicher Verkehr und Radfahrer und Fußgänger zugelassen sind, sondern auch Anliegerverkehr zum Cafe Webstuhl, dem dort befindlichen Freizeitparkplatz und dem Waldkindergarten.
+
+# L 389 - Quelle: HAZ Leine 9.3.2021
+
+Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße in Hiddestorf soll in den nächsten Jahren saniert werden. Die Stadt Hemmingen plant eine Vereinbarung mit dem Land. Zur Verkehrsberuhigung soll es in den Arnumer Ortsausfahren Querungshifen geben. In Wilkenburg könnte der höhengleiche Gehweg zu einem Hochbord ausgebaut werden. Weiterhin ist ein Umbau der gefährlichen Wilkenburger Spinne im Gespräch. Der Radweg zwischen der Spinne und Wilkenburg könnte noch dieses Jahr beginnen. Die Straßensanierung in Hiddestorf ist erst für 2023 angedacht. 
+
+Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteiligt wird.
 
 # Mach mit bei der Aktion “Überhol-Abstände messen”
 
@@ -200,6 +223,37 @@ Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstu
 
 
 ## Was war
+
+### Abendtour 5/20 2020-10-07-Mi.
+ 
+Tourenziel       | Ruthe, Sarstedt, Ahrbergen
+---------------: | ----------------------- 
+Datum            | 2020-10-07-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Helmut, Günther
+Start            | Hemmingen Rathaus 15:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 36
+Wetter           | zeitweise regnerisch
+
+Die 5. Feierabend-Radtour startete am Mittwoch den 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
+Nach ca. 36 km und 3 Std. erreichten wir Hemmingen.
+
+### Abendtour 04/20 2020-09-29-Mi.
+ 
+Tourenziel       | Gehrdener Berg
+---------------: | ----------------------- 
+Datum            | 2020-09-29-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 14
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+    
+Die 4. Feierabend-Radtour startete am Mittwoch den 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurze Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
 
 ### Abendtour 3/20 2020-09-09-Mi.
  
