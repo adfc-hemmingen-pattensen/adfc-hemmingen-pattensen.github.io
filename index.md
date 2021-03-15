@@ -7,7 +7,12 @@
 
 <img src="img\smiley2.png" alt="" style="float:right;">
 
-Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf)
+Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. 
+
+> Unsere [**PDF-Broschüre**](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf)  
+> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)  
+> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de).  
+> **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
@@ -26,22 +31,12 @@ Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal 
 > Anmeldung per Mail bitte an: **[adfc.hemmingen.pattensen@gmail.com](mailto:adfc.hemmingen.pattensen@gmail.com)**  
 > Der Online-Zugangslink wird dann zugemailt
 
+Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
+[![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
 
-> Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt bleiben vorerst geschlossen geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de).
-
-<!-- > in der Heinrich-Hertz-Straße 23 (Hinterhof), Hemmingen"+x
-> hat immer Dienstags von 17:30 bis 19:00 Uhr geöffnet. 
-> 
-> Hilfe bei Reparatur, Fahrradausgabe, [Spendenannahme](#konto)<br> -->
-> ![](img\SchrottRad.jpg "Foto Michael M.")  
-> *Wir geben uns ja schon Mühe – aber nicht jedes Schätzchen ist dafür geeignet*  
-> ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de)
-
-> 
-> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)  
-> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de).  
-> **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
+Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt bleiben vorerst geschlossen geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
 # K 225 wird nach 115 Jahren wieder Feldweg
 
@@ -55,21 +50,14 @@ Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße
 
 Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteiligt wird.
 
-# Mach mit bei der Aktion “Überhol-Abstände messen”
+# ADFC kritisiert nicht geräumte Radwege
 
-Ein Überhol-Abstand innerorts von mindestens 1,5 Meter zwischen Radfahrenden und Kraftfahrzeuge ist in der StVO vorgeschrieben. Wie nah kommen Kraftfahrzeuge Radfahrenden im Verkehr wirklich? 
+Zum HAZ Artikel vom 16.2.2021
 
-Mit einem Abstandssensor am Rahmen lässt sich dies überprüfen: Die [Region Hannover](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Region-Hannover/Aktion-%22Abstandsmessung%22-Teilnehmerinnen-und-Teilnehmer-gesucht), das [Mobilnetzwerk Hannover](https://mobilnetzwerk.de/projects/v/open-bike-sensor) und der ADFC Region Hannover suchen für eine vierwöchige Erhebungsaktion im März 2021 noch Teilnehmer, die auf den Straßen der Stadt und der Region Hannover unterwegs sind und bereit sind, ihr Rad mit einem Messgerät ausstatten zu lassen.
+"Das zunächst verständnisvolle Warten auf den Winterräumdienst schlägt um in Fassungslosigkeit. Alle Sonntagsreden von Verkehrswende mit Radverkehr als relevantem Baustein oder als Bestandteil kommunaler Absichtserklärungen sind offenbar passé". 
 
-> Bewerber können sich noch **bis zum 8. Januar 2021** über die Internetseite https://mobilnetzwerk.de/projects/v/open-bike-sensor anmelden. 
-
-Alle teilnehmenden Personen werden vor Beginn der Testfahrwochen in die OpenBikeSensor-Technik und ihre Funktionen eingewiesen. Auf einem Display hat man fortlaufend die aktuellen Ergebnisse der Messungen vor Augen. Das Ziel ist es herauszufinden, wie oft und besonders wo in der Region Hannover der vorgeschriebene Sicherheitsabstand von Kfz und Rad beim Überholen eingehalten bzw. nicht eingehalten wird. Nach Abschluss der Erhebungsphase werden die gesammelten Daten ausgewertet - natürlich anonym. Sie sollen für die Optimierung der Infrastruktur im Radverkehr und auch für weitere Forschungszwecke genutzt werden.
-
-Bei Fragen wenden Sie sich bitte an: OpenBikeSensor@region-hannover.de
-
-![](https://d2thcna738hjvb.cloudfront.net/cfill-w567-h318/d66fdbe40e8d7212b7de241fae764fed.jpg)
-
-![](https://d2thcna738hjvb.cloudfront.net/cfill-w567-h318/0a298352d429b166d53d41dc2139de23.jpg)
+Der ADFC kritisiert, dass sich der Räumdienst nur auf den Straßenverkehr konzentriert habe. Der ADFC weist darauf hin, dass es auch für Fahrräder Reifen mit Spikes gebe, die das Fahren im Winter auch auf vereisten Flächen möglich machen. Doch geräumt sein müssen die Radwege. "Es braucht auch zupackende Fahrten des Winterdienstes auf Radwegen und nicht nur lobende Worte für den Radverkehr beim sommerlichen Stadtradeln" 
+Fachbereichsleiter Sven Bertram weist zunächst auf die unterschiedlichen Zuständigkeiten für die Radwege hin. Für die Radwege entlang von Landesstraßen ist zum Beispiel das Land zuständig. Den Radweg zwischen Arnum und Pattensen hat die Stadt Hemmingen jedoch in Absprache mit der Straßenmeisterei Wennigsen jetzt selbst geräumt.
 
 ## Inhalt
     
@@ -96,9 +84,25 @@ Bei Fragen wenden Sie sich bitte an: OpenBikeSensor@region-hannover.de
 <div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
-### Verkehrsrecht für Radfahrende
+# Mach mit bei der Aktion “Überhol-Abstände messen”
 
-#### Sei kein Geisterradler
+Ein Überhol-Abstand innerorts von mindestens 1,5 Meter zwischen Radfahrenden und Kraftfahrzeuge ist in der StVO vorgeschrieben. Wie nah kommen Kraftfahrzeuge Radfahrenden im Verkehr wirklich? 
+
+Mit einem Abstandssensor am Rahmen lässt sich dies überprüfen: Die [Region Hannover](https://www.hannover.de/Leben-in-der-Region-Hannover/Verwaltungen-Kommunen/Die-Verwaltung-der-Region-Hannover/Region-Hannover/Aktion-%22Abstandsmessung%22-Teilnehmerinnen-und-Teilnehmer-gesucht), das [Mobilnetzwerk Hannover](https://mobilnetzwerk.de/projects/v/open-bike-sensor) und der ADFC Region Hannover suchen für eine vierwöchige Erhebungsaktion im März 2021 noch Teilnehmer, die auf den Straßen der Stadt und der Region Hannover unterwegs sind und bereit sind, ihr Rad mit einem Messgerät ausstatten zu lassen.
+
+> Bewerber können sich noch **bis zum 8. Januar 2021** über die Internetseite https://mobilnetzwerk.de/projects/v/open-bike-sensor anmelden. 
+
+Alle teilnehmenden Personen werden vor Beginn der Testfahrwochen in die OpenBikeSensor-Technik und ihre Funktionen eingewiesen. Auf einem Display hat man fortlaufend die aktuellen Ergebnisse der Messungen vor Augen. Das Ziel ist es herauszufinden, wie oft und besonders wo in der Region Hannover der vorgeschriebene Sicherheitsabstand von Kfz und Rad beim Überholen eingehalten bzw. nicht eingehalten wird. Nach Abschluss der Erhebungsphase werden die gesammelten Daten ausgewertet - natürlich anonym. Sie sollen für die Optimierung der Infrastruktur im Radverkehr und auch für weitere Forschungszwecke genutzt werden.
+
+Bei Fragen wenden Sie sich bitte an: OpenBikeSensor@region-hannover.de
+
+![](https://d2thcna738hjvb.cloudfront.net/cfill-w567-h318/d66fdbe40e8d7212b7de241fae764fed.jpg)
+
+![](https://d2thcna738hjvb.cloudfront.net/cfill-w567-h318/0a298352d429b166d53d41dc2139de23.jpg)
+
+# Verkehrsrecht für Radfahrende
+
+## Sei kein Geisterradler
 
 ![](img/geisterradler.png)
 
@@ -106,21 +110,21 @@ Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu
 
 [https://www.geisterradeln.de/](https://www.geisterradeln.de/)
 
-#### Verkehrsrecht für Radfahrende
+# Verkehrsrecht für Radfahrende
 
 Das Fahrrad ist ein Fahrzeug – und Radfahrende sind Fahrzeugführende mit allen Rechten und Pflichten. Deshalb gelten zunächst die allgemeinen Regeln für den Fahrzeugverkehr. Auf diese Regeln geht der folgende Beitrag nur ein, wenn sie besondere Bedeutung für Radfahrende haben. Außerdem enthält die Straßenverkehrs-Ordnung (StVO) Vorschriften speziell für den Radverkehr. Um diese Vorschriften, ihre Beachtung und mögliche Konflikte soll es hier vor allem gehen.
 
 [Verkehrsrecht_fuer_Radfahrende als PDF](pdf/Verkehrsrecht_fuer_Radfahrende_6.20-1.pdf)
 
-#### Video zum neuen Verkehrsrecht
+## Video zum neuen Verkehrsrecht
 
 ARD hr-Fernsehen [Sicherheit auf Radwegen - was bringen die neuen Regeln](https://www.ardmediathek.de/ard/video/alles-wissen/sicherheit-auf-radwegen-was-bringen-die-neuen-regeln/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMDg2MDY/)
 
-### ADFC fordert Radweg entlang des Südschnellweges
+## ADFC fordert Radweg entlang des Südschnellweges
 <!-- 2020-05-23 11:41 -->
 Der ADFC fordert in einer Stellungnahme einen Radweg entlang des Südschnellweges. Ziel ist es bei Hochwasser von Ricklingen/Westerfeld nach Döhren zu kommen. 
 
-### ADFC Workshop am 12.2. und 4.3.2020 im Bürgersaal
+## ADFC Workshop am 12.2. und 4.3.2020 im Bürgersaal
 <!-- 2020-03-04 -->
 Der ADFC hatte zusammen mit der Stadt Hemmingen zu einem Workshop aufgerufen. Zum ersten Termin kamen 40 interessierte Bürger und zum zweiten Termin kamen auf Grund der nahenden Corona Krise die Hälfte. Die Bürger hatten auf vier großen Karten mit Stiften Ihre Wunschstecken eingetragen und 175 Moderatorenkarten beschrieben. Mit den schon vorhandenen Verbesserungsvorschlägen gibt es jetzt eine Liste mit über 239 Verbesserungsvorschlägen zu den Themen:
 
