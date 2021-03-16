@@ -38,6 +38,33 @@ Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 
 Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt bleiben vorerst geschlossen geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
+# ＡＤＦＣ🚲 Fahrradklima-Test 2020 Ergebnisse
+
+> 16.3.2021
+> [https://fahrradklima-test.adfc.de/](https://fahrradklima-test.adfc.de/)
+
+Die Fahrradklima-Test 2020 Ergebnisse liegen vor. Zu finden unter [https://fahrradklima-test.adfc.de/ergebnisse](https://fahrradklima-test.adfc.de/ergebnisse).
+
+- Hannover hat die Note 3.7 und damit Range 2 von 14 mit unter einer Ortsgröße > 500.000 Einwohnern.
+- Hemmingen hat auch die Note 3.7 und damit Range 134 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
+- Pattensen hat die Note 4.1 und damit Range 315 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
+
+# Entlastungsstraße B3 alt
+
+> 12.3.2021 [https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487)  
+> 16.3.2021 HAZ Artikel im Hemminger Teil "Stadt will Alfred-Bentz-Straße verlängern."
+
+Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.
+
+# Gedanken/Ideen zum Radweg entlang des Südschnellwegs
+
+> 16.3.2021
+
+Der ADFC Laatzen macht Vorschläge [https://www.adfc-laatzen.de/archive/4350#more-4350](https://www.adfc-laatzen.de/archive/4350#more-4350).
+
+Radfahrende und Zufußgehende wünschen sich eine hochwassersichere Verbindung zwischen Ricklingen-Süd und der Schützenallee parallel zum Südschnellweg. Ein Gedanke ist es den Weg unterhalb/ seitlich unterhalb (der Brücken, an deren Ständer) des Südschnellweg zu hängen, so wie es in Oldenburg an der A29 Brücke über der Hunte realisiert wurde. Bilder dazu unter [Komoot.de](https://www.komoot.de/highlight/787847).
+
+
 # K 225 wird nach 115 Jahren wieder Feldweg
 
 Zum HAZ Artikel vom 2.3.2021.
