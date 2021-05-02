@@ -5431,13 +5431,13 @@ Status 2018-12-05 Stadt Pattensen: ..Für den Fuß-und Radweg von Koldingen in R
 
 ### Mangel:
 
- Die Situation als Radfahrerin ist dort aktuell ziemlich unglücklich. Offiziell gehören Radfahrer:innen auf die Straße. Das ist natürlich auch nicht anders möglich, denn die Seitenanlagen sind beidseits so schmal, dass man, besonders mit Lastenrad oder Kinderanhänger, kaum an entgegenkommenden Fußgänger:innen vorbei kommt.
+ Eine Alltagsradlerin berichtet: „Die Situation als Radfahrerin ist dort aktuell ziemlich unglücklich. Offiziell gehören Radfahrer:innen auf die Straße. Das ist natürlich auch nicht anders möglich, denn die Seitenanlagen sind beidseits so schmal, dass man, besonders mit Lastenrad oder Kinderanhänger, kaum an entgegenkommenden Fußgänger:innen vorbei kommt.
 Trotzdem fahren die meisten Radfahrer:innen auf dem reinen Fußweg, denn auf der Straße fühlt man sich, besonders mit Kind im Anhänger, in einer Tempo 50 Zone wirklich nicht wohl.
-Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortseingang (da parkt oft ein LKW, weshalb die Autofahrer das Schild nicht einmal sehen), weist nichts darauf hin, dass Radfahrer hier rechtmäßig auf die Straße gehören. 
+Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortseingang (da parkt oft ein LKW, weshalb die Autofahrer das Schild nicht einmal sehen), weist nichts darauf hin, dass Radfahrer hier rechtmäßig auf die Straße gehören. "
 
 ### Maßnahmenvorschlag:
 
- Eventuell Fahrrad-Symbole auf der Fahrbahn (wie in der Ortsdurchfahrt Jeinsen oder Devese) oder eine kombinierte Lösung mit Schutzstreifen auf einer Seite (wie in Pattensen, Jeinser Straße). Zusätzliche Möglichkeit der Tempo-Reduzierung.
+ "Eventuell Fahrrad-Symbole auf der Fahrbahn (wie in der Ortsdurchfahrt Jeinsen oder Devese) oder eine kombinierte Lösung mit Schutzstreifen auf einer Seite (wie in Pattensen, Jeinser Straße). Zusätzliche Möglichkeit der Tempo-Reduzierung."
 
 ### Status:
 
