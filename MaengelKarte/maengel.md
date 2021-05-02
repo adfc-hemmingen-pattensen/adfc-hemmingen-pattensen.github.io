@@ -107,6 +107,7 @@
 
  - offen
 - 2020 - Innerhin stehen im Haushaltsplan für 2020 ca. 10000 €uro für die Unterhaltung der Wirtschafts- und Wanderwege (Für Material und Einsatz des Wegehobels).
+- 2021-01 Kontakt mit Ralf Mannstedt aud Linderte - Dort nennt man diese Maßnahme "M1"
 
 ---
 
@@ -5408,6 +5409,64 @@ Status 2018-11-28 J. Spille: Schäden sowohl an Laatzen als auch Pattensen gemel
 
 Status 2018-12-05 Stadt Pattensen: ..Für den Fuß-und Radweg von Koldingen in Richtung Rethen (hinter der Leinebrücke) ist die Straßenmeisterei Sarstedt zuständig. Ihre Beschwerde haben wir an die zuständige Stelle weitergeleitet. ..
 
+
+### Status:
+
+ -  offen
+
+---
+
+<a name="4db65d18d77c95ee3e6a377e4bd5a71c"></a>
+
+# Auf der Straße fühlt man sich nicht wohl
+
+- Plus Code: [7PXW+85](https://www.google.com/maps/search/?api=1&query=9F4F7PXW%2B85)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4db65d18d77c95ee3e6a377e4bd5a71c target="_blank">Link</a>
+- Einstelldatum: 2021-05-02
+- Informationsquelle: per Email
+
+### Ortsbeschreibung:
+
+ Harkenblecker Weg in Arnum
+
+### Mangel:
+
+ Die Situation als Radfahrerin ist dort aktuell ziemlich unglücklich. Offiziell gehören Radfahrer*innen auf die Straße. Das ist natürlich auch nicht anders möglich, denn die Seitenanlagen sind beidseits so schmal, dass man, besonders mit Lastenrad oder Kinderanhänger, kaum an entgegenkommenden Fußgänger*innen vorbei kommt.
+Trotzdem fahren die meisten Radfahrer*innen auf dem reinen Fußweg, denn auf der Straße fühlt man sich, besonders mit Kind im Anhänger, in einer Tempo 50 Zone wirklich nicht wohl.
+Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortseingang (da parkt oft ein LKW, weshalb die Autofahrer das Schild nicht einmal sehen), weist nichts darauf hin, dass Radfahrer hier rechtmäßig auf die Straße gehören. 
+
+### Maßnahmenvorschlag:
+
+ Eventuell Fahrrad-Symbole auf der Fahrbahn (wie in der Ortsdurchfahrt Jeinsen oder Devese) oder eine kombinierte Lösung mit Schutzstreifen auf einer Seite (wie in Pattensen, Jeinser Straße). Zusätzliche Möglichkeit der Tempo-Reduzierung.
+
+### Status:
+
+ -  offen
+
+---
+
+<a name="5f4688c1c58b9f866a82212c95630405"></a>
+
+# Kfz dürfen nicht Überholen
+
+- Plus Code: [8PCG+CM](https://www.google.com/maps/search/?api=1&query=9F4F8PCG%2BCM)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5f4688c1c58b9f866a82212c95630405 target="_blank">Link</a>
+- Einstelldatum: 2021-05-02
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Göttinger Landstraße - zwischen Kirchdamm und Weetzener Landstr.
+
+### Mangel:
+
+ Die Umbaupläne sehen zwischen den nicht befahrbaren Gleisbett und dem Hochboard eine 3 m breite Fahrbahn und einen 1,5 m breiten Schutzstreifen, in beiden Richtungen, vor. Für den Radfahrenden bleiben ca. 1,2 m wegen der Regenrinne zum fahren. Wenn hier ein Radfahrer:innen unterwegs ist, bleibt noch die Fahrbahnbreite von 3m übrig zum Überholen. Das reicht nicht, um den Sicherheitsabstand einzuhalten, und das über eine Länge von 800 m. Es sei denn das Kfz ist schmaler als 1,5 m.
+
+### Maßnahmenvorschlag:
+
+ 1. Radfahrende auf einen seperaten Radweg führen.
+2. Überholverbot verdeutlichen mit 
+![](img\8PCG+CM_Stadtbahnverlängerung2.svg)
 
 ### Status:
 
