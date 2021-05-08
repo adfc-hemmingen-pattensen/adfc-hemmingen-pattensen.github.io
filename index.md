@@ -16,20 +16,28 @@ Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich
 
 Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
-# **Einladung** 
-## Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
+# Wir drehen am Rad 
+
+EDEKA Minden-Hannover bietet im Aktionszeitraum vom 10.05. bis 22.05.2021 ab einem Einkauf von 25€ erhalten eine vergünstigte ADFC Mitgliedschaft. 
+
+## Ein Jahr zum Einstiegspreis 
+
+Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr! Sie erhalten das komplette Vorteilspaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
+
+Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
+
+Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
+
+
+## Erfolgreiche Online-Vorstellung der erarbeiteten Hemminger Alltags-Radrouten
+
+Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
 
 **Gesucht waren 2020 - Radwege für Frauen, Männer, Familien, Jugendliche**  
 *Für all die Fahrräder, Fixies, Anhänger, Lastenräder, Pedelecs…*  
 Gefunden wurden die Hemminger Alltagsrouten!!!
 
 Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt. Dazu gibt es unterschiedliche Budget-Vorschläge von Verwaltung und ADFC für den nächsten städtischen Haushalt, der jetzt zum Beschluss ansteht. In einer Online-Veranstaltung wollen wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Denn jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
-
-> Online-Vorstellung der erarbeiteten Hemminger Alltags-Radrouten am
->
-> **Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00 Uhr über ZOOM**  
-> Anmeldung per Mail bitte an: **[adfc.hemmingen.pattensen@gmail.com](mailto:adfc.hemmingen.pattensen@gmail.com)**  
-> Der Online-Zugangslink wird dann zugemailt
 
 Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 [![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
