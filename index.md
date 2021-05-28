@@ -13,7 +13,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
     <td> <a href="#wer-sind-wir%3F">Über uns</a>
         <br> <a href="#adfc-fahrrad-selbsthilfewerkstatt-hemmingen">Fahrrad-Selbsthilfewerkstatt</a>
         <br> <a href="#mittwochstour"> Radtouren </a>
-        <br> Verkehrpolitik 
+        <br> Verkehrspolitik 
         <br> <a href="#unsere-mängelkarte">Mängelkarte</a></td>
     <td rowspan="4" align="center"><img src="img\smiley2.png" alt="" ></td>
   </tr>
@@ -52,7 +52,7 @@ Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.a
 
 ## Wer sind wir?
 
-Der ADFC Hemmingen/Pattensen engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitgliedern (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
+Der ADFC Hemmingen Pattensen engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitglieder (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -79,7 +79,7 @@ Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen Pattensen in der Heinrich-H
 In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 
 - [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen
-- Fahrrad-Selbsthilfewertstatt - Heinrich-Hertz-Straße 23, Hemmingen
+- Fahrrad-Selbsthilfewerkstatt - Heinrich-Hertz-Straße 23, Hemmingen
 - Servicestation - Rathausplatz, Hemmingen
 
 ### Spendenkonto
@@ -93,8 +93,7 @@ In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 ## Mittwochstour
 <img src="img\MittwochLogo200.png" alt="" style="float:left;">
 
-Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-
+Spontane, kostenlose Feierabendradtouren werden bei entsprechendem Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns, wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
 ### Tourenkarten
 
@@ -108,11 +107,13 @@ Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Somme
 
 ## Unsere Mängelkarte
 
+[<img src="img/MaengelKarte.png" alt="" style="float:right;" width=20%>](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+
 Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer Mängelkarte.
 
 siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
 
-[![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+<div style="clear: both;"> </div>
 
 <!-- =====================================================================
      Aktuelles
@@ -131,7 +132,7 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 
 ## Stadtradeln 2021
 
-Beim Wettbewerb STADTRADELN trittst du 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in deiner Kommune.
+Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
 
 > vom 06. Juni bis 26. Juni 2021
 
@@ -148,34 +149,34 @@ Hier registrieren:
 - Für Pattensen: [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen)
   - In Pattensen in der Region Hannover haben sich 36 Radelnde registriert. Stand 22.5.2021
 
-oder lade dir die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
+oder lade die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
 
 ---
 
-Aufgrund der besonderen Situation mit vielfältigen Einschränkungen des öffentlichen Lebens wegen der Corona-Pandemie steht auch in diesem Jahr im Vordergrund, den Radverkehr in Hemmingen voranzubringen und viele Bürgerinnen und Bürger für die Vorteile des Radfahrens im Alltag zu gewinnen. Die Stadt Hemmingen führt die Aktion gemeinsam mit dem ADFC Hemmingen/Pattensen durch.
+Aufgrund der besonderen Situation mit vielfältigen Einschränkungen des öffentlichen Lebens wegen der Corona-Pandemie steht auch in diesem Jahr im Vordergrund, den Radverkehr in Hemmingen voranzubringen und viele Bürgerinnen und Bürger für die Vorteile des Radfahrens im Alltag zu gewinnen. Die Stadt Hemmingen führt die Aktion gemeinsam mit dem ADFC Hemmingen Pattensen durch.
 
-Dennoch wollen wir natürlich auch dem Wettbewerbsgedanken folgen und in diesem Jahr wieder einen der vorderen Plätze im Regionsranking erringen. Das Stadtradeln beginnt am Sonntag, den 06. Juni 2021 und endet am 26.Juni 2021. Beim Stadtradeln sollen sich auch diesmal Teams bilden und möglichst viele Kilometer beruflich sowie privat mit dem Fahrrad zurücklegen, natürlich unter Beachtung der dann aktuell geltenden Corona-Hygieneregeln und Kontaktbeschränkungen. Bitte beachten Sie diese bei gemeinsamen Fahrten, denn wir möchten vermeiden, dass es ausgerechnet bei gemeinsamen Radtouren zu Ansteckungen kommt.
+Dennoch wollen wir natürlich auch dem Wettbewerbsgedanken folgen und in diesem Jahr wieder einen der vorderen Plätze im Regionsranking erringen. Das Stadtradeln beginnt am Sonntag, dem 06. Juni 2021 und endet am 26. Juni 2021. Beim Stadtradeln sollen sich auch diesmal Teams bilden und möglichst viele Kilometer beruflich sowie privat mit dem Fahrrad zurücklegen, natürlich unter Beachtung der dann aktuell geltenden Corona-Hygieneregeln und Kontaktbeschränkungen. Bitte beachten Sie diese bei gemeinsamen Fahrten, denn wir möchten vermeiden, dass es ausgerechnet bei gemeinsamen Radtouren zu Ansteckungen kommt.
 
 Im Online-Radelkalender auf [www.stadtradeln.de](www.stadtradeln.de) können sich die Teams und Radelnde registrieren und die gefahrenen Kilometer dann eintragen. Gesucht wird Deutschlands fahrradaktivste Kommune mit den meisten Radkilometern (absolut) sowie mit den meisten Radkilometern pro EinwohnerIn (Durchschnittswert).
 
 Und so machen sie mit:
 
 - Registrieren sie sich für das STADTRADELN auf der Seite www.stadtradeln.de und radeln gemeinsam mit uns für ein gutes Klima.
-- Gründen Sie mit Ihrer Familie, Ihren Nachbarn, IhrenFreunden oder ArbeitskollegInnen ein Teams oder schließen Sie sich einem bestehenden Team an.
+- Gründen Sie mit Ihrer Familie, Ihren Nachbarn, Ihren Freunden oder ArbeitskollegInnen ein Team oder schließen Sie sich einem bestehenden Team an.
 - Sammeln Sie alle Rad-Kilometer entweder auf der Stadtradel-Webseite oder in der Stadtradel-App.
 - Ob Sie langsam oder schnell fahren, zum Einkaufen oder zur Arbeit oder in der Freizeit unterwegs sind. Die Herausforderung ist, 3 Wochen lang möglichst viel mit dem Fahrrad zu fahren und die Kilometer online einzutragen oder die Stadtradeln-App benutzen und die Kilometer automatisch erfassen.
 - Natürlich dürfen und sollen Sie gerne auch nach dem Stadtradeln weiter das Rad benutzen, wo immer es geht.
 
 Jeder einzelne Kilometer von Ihnen bringt Sie, Ihr Team, die Stadt Hemmingen und den Klimaschutz voran!
 
-Anregungen für interessante Touren und Fahrradaktivitäten findet man über die kostenlose Fahrrad App „Bike Citizens“ der Region Hannover. Dort stehen bereits jetzt die Routen der fast 1.000 Kilometer langen FAHRRADREGION Hannover zum Nachradeln zur Verfügung. Darüber hinaus hilft die App der Region Hannover bei der Radwegeplanung, da Schwachstellen durch das Sammeln der anonymisierten Daten identifiziert werden können und bessere Daten für die Radwegeplanung zur Verfügung stehen.
+Anregungen für interessante Touren und Fahrradaktivitäten findet man über die kostenlose Fahrrad-App „Bike Citizens“ der Region Hannover. Dort stehen bereits jetzt die Routen der fast 1.000 Kilometer langen FAHRRADREGION Hannover zum Nachradeln zur Verfügung. Darüber hinaus hilft die App der Region Hannover bei der Radwegplanung, da Schwachstellen durch das Sammeln der anonymisierten Daten identifiziert werden können und bessere Daten für die Radwegplanung zur Verfügung stehen.
 
 Hier finden Sie die App:  
 
 - Apple AppStore: [https://itunes.apple.com/de/app/bike-citizens-fahrrad-navi/id517332958?mt=8](https://itunes.apple.com/de/app/bike-citizens-fahrrad-navi/id517332958?mt=8)
 - Google PlayStore:   [https://play.google.com/store/apps/details?id=org.bikecityguide](https://play.google.com/store/apps/details?id=org.bikecityguide)
 
-Weitere Infos finden Sie auf der Homepage der Region Hannover unter
+Weitere Informationen finden Sie auf der Homepage der Region Hannover unter
 
 [https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App).
 
@@ -183,13 +184,13 @@ Weitere Infos finden Sie auf der Homepage der Region Hannover unter
 
 ## Ein Jahr zum Einstiegspreis 
 
-Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr! 
+Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr!  
 Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Sie erhalten das komplette Vorteilspaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
+Sie erhalten das komplette Vorteilpaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
 
 Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
 
@@ -250,6 +251,46 @@ Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu
 
 [https://www.geisterradeln.de/](https://www.geisterradeln.de/)
 
+## Stärkung des Radverkehrs
+
+<!-- 2019-08-15-Do.-->
+StVO Novelle. Das Bundesministerium für Verkehr und digitale Infrastruktur plant eine [Stärkung des Radverkehrs](https://www.bmvi.de/SharedDocs/DE/Artikel/StV/stvo-novelle.html).
+
+Unter anderem: Mindestüberholabstand, Einschränkungen für rechtsabbiegende Kraftfahrzeuge, Haltverbot auf Schutzstreifen, Klarstellung zum Nebeneinanderfahren, ...
+
+<details>
+  <summary>**Klick hier für 12 Änderungen für Radfahrende!**</summary>
+
+1. Mindestüberholabstand für Kfz: Es wird ein **Mindestüberholabstand von 1,5 m innerorts und von 2 m außerorts** für das Überholen von zu Fuß Gehenden, Radfahrenden und Elektrokleinstfahrzeugführenden durch Kraftfahrzeuge **festgeschrieben**. Bisher schreibt die StVO lediglich einen „ausreichenden Seitenabstand“ vor.
+Schrittgeschwindigkeit für rechtsabbiegende Kraftfahrzeuge über 3,5 t
+
+1. Für rechtsabbiegende Kraftfahrzeuge über 3,5 t soll aus Gründen der Verkehrssicherheit innerorts Schrittgeschwindigkeit (7 bis 11 km/h) vorgeschrieben werden. Verstöße können künftig mit einem Bußgeld in Höhe von 70 Euro sanktioniert werden. Zudem wird ein Punkt im Fahreignungsregister eingetragen.
+Grünpfeil ausschließlich für Radfahrer
+
+1. Mit der StVO-Novelle wird die bestehende Grünpfeilregelung auch auf Radfahrer ausgedehnt, die aus einem Radfahrstreifen oder baulich angelegten Radweg heraus rechts abbiegen wollen. Außerdem wird ein gesonderter Grünpfeil, der allein für Radfahrer gilt, eingeführt.
+
+1. **Generelles Haltverbot auf Schutzstreifen**: Schutzstreifen für den Radverkehr trennen den Rad- und den Autoverkehr mit einer gestrichelten weißen Linie (Zeichen 295 der StVO). Autos dürfen dort zwar nicht parken, aber bislang noch bis zu drei Minuten halten. Dies führt vielfach dazu, dass die Radfahrenden Schutzstreifen nicht durchgängig nutzen können, weil ihnen haltende Autos den Weg versperren. Deshalb wollen wir dort ein generelles Haltverbot einführen.
+Einrichtung von Fahrradzonen
+
+1. Analog zu den Tempo 30-Zonen sollen in Zukunft auch Fahrradzonen angeordnet werden können. Die Regelung soll sich an den Regeln für Fahrradstraßen orientieren: Für den Fahrverkehr gilt eine Höchstgeschwindigkeit von 30 km/h. Der Radverkehr darf weder gefährdet noch behindert werden. Auch Elektrokleinstfahrzeuge sollen hier künftig fahren dürfen.
+
+1. Klarstellung zum Nebeneinanderfahren von Radfahrenden: **Das Nebeneinanderfahren von Radfahrenden ist ausdrücklich erlaubt, wenn der Verkehr dadurch nicht behindert wird**. Die bisherige Formulierung in der StVO stellt das Hintereinanderfahren in den Vordergrund und kann daher missverstanden werden.
+
+1. Ausweitung des Parkverbots vor Kreuzungen und Einmündungsbereichen: Das Parken vor Kreuzungen und Einmündungen soll in einem Abstand von bis zu je 8 m von den Schnittpunkten der Fahrbahnkanten oder bis zu je 5 m vom Beginn der Eckausrundung verboten werden, wenn ein straßenbegleitenderbaulicher Radweg vorhanden ist, der als benutzungspflichtig oder mit Radsinnbildgekennzeichnet ist. Hierdurch soll die Sicht zwischen Straße und Radweg verbessert und dadurch die Sicherheit von Radfahrenden erhöht werden.
+
+1. Vereinfachung für Lastenfahrräder: Um speziell für Lastenfahrräder Parkflächen und Ladezonen vorhalten zu können, führen wir ein spezielles Sinnbild „Lastenfahrrad“ ein, das die zuständigen Straßenverkehrsbehörden nutzen können.
+
+1. Verkehrszeichen Radschnellwege: Das Verkehrszeichen „Radschnellweg“ soll in die StVO aufgenommen werden, um die Kennzeichnung von Radschnellwegen auch unabhängig von der Fahrbahnbeschaffenheit wie z. B. auf sandigem Untergrund möglich zu machen.
+
+1. Überholverbot von Radfahrenden: Mit der Einführung eines neuen Verkehrszeichens sollen die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.  
+![Überholverbot von Radfahrenden](img\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
+
+1. Erweiterung der Erprobungsklausel: Die bestehende Klausel für zeitlich und örtlich begrenzte Anordnungen zur Erprobung verkehrsregelnder oder sichernder Maßnahmen soll künftig unabhängig von einer Gefahrenlage Modellversuche ermöglichen, um den Handlungsspielraum der zuständigen Straßenverkehrsbehörden zu erweitern. Solche Modellversuche sollen im Einvernehmen mit den Kommunen angeordnet werden. Damit wird auch die Mitbestimmung der Kommunen gestärkt. Eine weitergehende Öffnung des Straßenverkehrsrechts für Verkehrsversuche bedarf einer Änderung auf Gesetzesebene, die in einem weiteren Schritt im nächsten Jahr angegangen werden soll.
+
+1. Vermehrte Öffnung von Einbahnstraßen für Radfahrende in Gegenrichtung: Durch die Änderung der Allgemeinen Verwaltungsvorschrift zur StVO sollen die zuständigen Straßenverkehrsbehörden verstärkt zur Prüfung der Öffnungsmöglichkeit von Einbahnstraßen in Gegenrichtung für Radfahrende veranlasst und die Zahl der in Gegenrichtung freigegebenen Einbahnstraßen dadurch vergrößert werden.
+
+</details>
+
 ## Unfallorte mit Fahrradbeteiligung in Hemmingen 2019
 
 ![](img\UnfallorteHem2019_c_unfallatlas.statistikportal.de.jpg)
@@ -280,7 +321,7 @@ Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Dazu gibt gab unterschiedliche Budget-Vorschläge von der Verwaltung und vom ADFC für den städtischen Haushalt 2021. In einer Online-Veranstaltung haben wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
+Dazu gab es unterschiedliche Budget-Vorschläge von der Verwaltung und vom ADFC für den städtischen Haushalt 2021. In einer Online-Veranstaltung haben wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
 
 Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 [![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
@@ -302,7 +343,7 @@ Die Fahrradklima-Test 2020 Ergebnisse liegen vor. Zu finden unter [https://fahrr
 
 Zum HAZ Artikel vom 2.3.2021.
 
-Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um eine Folgemaßnahme des Baus der B3neu durch die Straßenbauverwaltung des Landes Niedersachsen. Im Abschnitt zwischen dem Gertrud-Kochanowski-Weg in Devese und der Zufahrt zum Cafe Webstuhl wird die K 225 entsprechend des Planfeststellungsbeschlusses für den Bau der B3neu auf eine Breite von 3 m zurückgebaut. Die verbleibende Fläche wird nicht entsiegelt, sondern bleibt wie sie ist. Im Abschnitt von Ohlendorf bis zum Cafe Webstuhl wir die K 225 auf eine Breite von 4,75 m zurückgebaut, da hier nicht nur landwirtschaftlicher Verkehr und Radfahrer und Fußgänger zugelassen sind, sondern auch Anliegerverkehr zum Cafe Webstuhl, dem dort befindlichen Freizeitparkplatz und dem Waldkindergarten.
+Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um eine Folgemaßnahme des Baus der B3neu durch die Straßenbauverwaltung des Landes Niedersachsen. Im Abschnitt zwischen dem Gertrud-Kochanowski-Weg in Devese und der Zufahrt zum Cafe Webstuhl wird die K 225 entsprechend des Planfeststellungsbeschlusses für den Bau der B3neu auf eine Breite von 3 m zurückgebaut. Die verbleibende Fläche wird nicht entsiegelt, sondern bleibt, wie sie ist. Im Abschnitt von Ohlendorf bis zum Cafe Webstuhl wir die K 225 auf eine Breite von 4,75 m zurückgebaut, da hier nicht nur landwirtschaftlicher Verkehr und Radfahrer und Fußgänger zugelassen sind, sondern auch Anliegerverkehr zum Cafe Webstuhl, dem dort befindlichen Freizeitparkplatz und dem Waldkindergarten.
 
 ## L 389 - Quelle: HAZ Leine 9.3.2021
 
@@ -317,9 +358,17 @@ Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteilig
 
 Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.
 
+
+## Touren 2020
+
+Trotz Corona konnten wir einige Touren anbieten.
+
+<details>
+  <summary>Unsere Touren 2020! Klick hier</summary>
+
 ## Abendtour 5/20 2020-10-07-Mi.
 
-Die 5. Feierabend-Radtour startete am Mittwoch den 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
+Die 5. Feierabend-Radtour startete am Mittwoch, dem 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen. Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
  
 Nach ca. 36 km und 3 Std. erreichten wir Hemmingen.
 
@@ -341,7 +390,7 @@ Wetter           | zeitweise regnerisch
 
 ## Abendtour 04/20 2020-09-29-Mi.
  
-Die 4. Feierabend-Radtour startete am Mittwoch den 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurze Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
+Die 4. Feierabend-Radtour startete am Mittwoch, dem 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurzen Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -361,7 +410,7 @@ Wetter           | heiter bis wolkig
 
 ## Abendtour 3/20 2020-09-09-Mi.
 
-Die 3. Feierabend-Radtour startete am Mittwoch den 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
+Die 3. Feierabend-Radtour startete am Mittwoch, dem 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
  
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -381,7 +430,7 @@ Wetter           | zeitweise regnerisch
 
 ## Abendtour 2/20 2020-09-02-Mi.
  
-Die 2. Feierabend-Radtour startete am Mittwoch den 02. September mit 11 Radlern bei schönem Wetter.  Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede.  Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Über den Kronsberg ging es zurück nach Laatzen und wieder in die Leinemasch. Nach einem kurzweiligen Stop im Laatzener Grasdachhaus fuhren wir weiter und erreichten nach ca. 3 Stunden flotter und schöner Fahrt und ca. 32 km Hemmingen.
+Die 2. Feierabend-Radtour startete am Mittwoch, dem 02. September mit 11 Radlern bei schönem Wetter. Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede. Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Über den Kronsberg ging es zurück nach Laatzen und wieder in die Leinemasch. Nach einem kurzweiligen Stop im Laatzener Grasdachhaus fuhren wir weiter und erreichten nach ca. 3 Stunden flotter und schöner Fahrt und ca. 32 km Hemmingen.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -402,7 +451,7 @@ Wetter           | heiter bis wolkig
 
 ## Abendtour 1/20 2020-08-19-Mi.
  
-Die 1. Feierabend-Radtour startete am Mittwoch den 19.August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
+Die 1. Feierabend-Radtour startete am Mittwoch, dem 19. August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -424,9 +473,7 @@ Wetter           | heiter bis wolkig
 
 Die Tour durchs grüne Hannover zum Wietzesee startete bei herrlichem Wetter am Rathausplatz in Hemmingen und führte uns durchs Ricklinger Holz zu den Ricklinger Seen. An der Ihme fuhren wir entlang bis zur Einmündung der Leine.
 
-Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vorbei fuhren wir weiter auf dem Julius-Trip-Ring, den wir in der List Richtung Norden verliessen. Den Mittellandkanal überquerten wir beim Lister Bad und erreichten den Silbersee. An der Pferderennbahn Neue Bult vorbei kamen wir an die Wietze und wenig später zum Hufeisensee. Der Biergarten und der Sandstrand luden zum Picknick ein. Nach einer kurzweiligen Pause fuhren wir weiter zum Wietzesee, nach Hainhaus und durch einen Golfplatz.  Kurz vor dem Waldkater verliessen wir die Wietze und bogen nach Osten Richtung Isernhagen ab. Durch die Felder der Isernhagener Bauernschaften mit einer kurzen Steigung ging es weiter bis nach Altwarmbüchen. Am Altwarmbüchener See hatten wir uns die 2. Pause verdient. Anschließend ging es durchs Misburger Holz zum Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang bogen wir ab und fuhren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den
-
-Hermann-Löns-Park mit der Alten Mühle. Zurück ging es wieder vorbei am Maschsee und den Ricklinger Teichen. Nach einer sehr schönen Fahrt, auf guten, schattigen Wegen kamen wir gut gelaunt in Hemmingen an, nach ca. 6 1/2 Stunden und 65 km.
+Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vorbei fuhren wir weiter auf dem Julius-Trip-Ring, den wir in der List Richtung Norden verliessen. Den Mittellandkanal überquerten wir beim Lister Bad und erreichten den Silbersee. An der Pferderennbahn Neue Bult vorbei kamen wir an die Wietze und wenig später zum Hufeisensee. Der Biergarten und der Sandstrand luden zum Picknick ein. Nach einer kurzweiligen Pause fuhren wir weiter zum Wietzesee, nach Hainhaus und durch einen Golfplatz.  Kurz vor dem Waldkater verliessen wir die Wietze und bogen nach Osten Richtung Isernhagen ab. Durch die Felder der Isernhagener Bauernschaften mit einer kurzen Steigung ging es weiter bis nach Altwarmbüchen. Am Altwarmbüchener See hatten wir uns die 2. Pause verdient. Anschließend ging es durchs Misburger Holz zum Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang bogen wir ab und fuhren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den Hermann-Löns-Park mit der Alten Mühle. Zurück ging es wieder vorbei am Maschsee und den Ricklinger Teichen. Nach einer sehr schönen Fahrt, auf guten, schattigen Wegen kamen wir gut gelaunt in Hemmingen an, nach ca. 6 1/2 Stunden und 65 km.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -443,13 +490,14 @@ Tourenlänge [km] | 65
 Wetter           | 25° Sonne + Wolken
 
 </details>
+</details> <!-- Touren 2020 -->
 
 ## Radwegeführung Stadtbahnbaustelle
 
-Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
+Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
 
-- Info: https://www.infra-hannover.de/hemmingenwesterfeld/
-- Email: https://www.infra-hannover.de/kontakt/
+- Info: [https://www.infra-hannover.de/hemmingenwesterfeld/](https://www.infra-hannover.de/hemmingenwesterfeld/)
+- Email: [https://www.infra-hannover.de/kontakt/](https://www.infra-hannover.de/kontakt/)
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -477,7 +525,7 @@ Für die Ortsgruppe **Jens Spille**
 
 > E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
 
-Für die ADFC **Geschäftsstelle**:
+Für die ADFC Region Hannover **Geschäftsstelle**:
 
 > ADFC Allgemeiner Deutscher Fahrrad-Club / Region Hannover e.V.
 
@@ -493,13 +541,13 @@ Das Sprecherteam wurde auf der Mitgliederversammlung 2020 am 29\. Januar 2020 f�
 Aufgabe                                   | Name
 ----------------------------------------- | ----------------
 Sprecher                                  | Jens Spille
-Vertreter  | Günther Kleinod
-Vertreter                         | Michael Maier 
-Vertreter                      | Joachim Amtsfeld 
+Vertreter                                 | Günther Kleinod
+Vertreter                                 | Michael Maier
+Vertreter                                 | Joachim Amtsfeld
 
 ### Mitgliedsschaft
 
-Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werden/beitrittserklaerung/beitrittserklaerung)
+Mitglied werden kann man [hier](https://www.adfc.de/sei-dabei/mitglied-werden)
 
 ### Konto
 
@@ -513,4 +561,6 @@ Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
 [Datenschutzerklärung](pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
 
+### Letzte Aktualisierung
 
+- LetzteAenderung
