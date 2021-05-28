@@ -80,7 +80,8 @@ In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 
 - [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen
 - Fahrrad-Selbsthilfewerkstatt - Heinrich-Hertz-Straße 23, Hemmingen
-- Servicestation - Rathausplatz, Hemmingen
+- Servicestation - Rathausplatz 1, Hemmingen
+- Servicestation - EDEKA Ladage, Göttinger Str. 43, Arnum
 
 ### Spendenkonto
 
