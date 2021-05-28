@@ -3,89 +3,199 @@
 </iframe>
 
 # [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
-- [ADFC Region Hannover e.V](https://hannover-region.adfc.de/)
+Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
-<img src="img\smiley2.png" alt="" style="float:right;">
+<div id="firstTable">
+<table style="width:100%" >
+<tbody>
+  <tr>
+    <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#rubriken'" type="button">Rubriken</button> </td>
+    <td> <a href="#wer-sind-wir%3F">Über uns</a>
+        <br> <a href="#adfc-fahrrad-selbsthilfewerkstatt-hemmingen">Fahrrad-Selbsthilfewerkstatt</a>
+        <br> <a href="#mittwochstour"> Radtouren </a>
+        <br> Verkehrpolitik 
+        <br> <a href="#unsere-mängelkarte">Mängelkarte</a></td>
+    <td rowspan="4" align="center"><img src="img\smiley2.png" alt="" ></td>
+  </tr>
+  <tr>
+    <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#aktuelles'" type="button">Aktuelles</button> </td>
+    <td> <a href="#eilmeldung">Eilmeldungen</a>
+    <br> Ankündigungen
+    <br> <a href="#termine">Terminkalender</a>
+  </tr>
+  <tr>
+    <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#artikel'" type="button">Artikel</button> </td>
+    <td> Über Touren <br> Über Verkehrspolitik <br> Über Ereignisse <br> Über "Dies & Das" </td>
+  </tr>
+  <tr>
+    <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
+    <td> <a href="#kontakt">Impressum</a>
+    <br> <a href="#mitgliedsschaft">Mitgliedschaft</a>
+    <br> <a href="#konto">Spendenkonto</a>
+    <br> Datenschutz</td>
+  </tr>
+</tbody>
+</table>
+</div>
 
-# Wir ziehen um
+Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.adfc.de/)) engagiert sich für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. 
 
-> Schon mal merken!
-> 
-> Unser Website zieht demnächst um. Die neue Web-Adresse wird lauten:
-> 
-> **[https://hemmingen-pattensen.adfc.de/](https://hemmingen-pattensen.adfc.de/)**
-> 
-> *Noch ist die Neue nicht freigegeben, aber wir arbeiten dran*
-
-
-
-Der ADFC (Allgemeiner Deutscher Fahrrad Club) Hemmingen/Pattensen engagiert sich für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. 
-
-> Unsere [**PDF-Broschüre**](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf)  
-> **Sind Sie schon Mitglied?** - hier können Sie sich [anmelden](https://www.adfc.de/7678_1)  
-> **Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de).  
-> **Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
-
-Sprecher Jens Spille, E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
-
-# Wir drehen am Rad 
-
-EDEKA Minden-Hannover bietet im Aktionszeitraum vom 10.05. bis 22.05.2021 ab einem Einkauf von 25€ erhalten eine vergünstigte ADFC Mitgliedschaft. 
-
-## Ein Jahr zum Einstiegspreis 
-
-Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr! Sie erhalten das komplette Vorteilspaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
-
-Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
-
-Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
+<!-- =====================================================================
+     Rubriken
+     ===================================================================== -->
+<table id="rubriken" style="width:100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background-color:#EE7F00; color:#FFFFFF">Rubriken</td>
+  </tr>
+</table> 
 
 
-## Erfolgreiche Online-Vorstellung der erarbeiteten Hemminger Alltags-Radrouten
+## Wer sind wir?
 
-Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
+Der ADFC Hemmingen/Pattensen engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitgliedern (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
 
-**Gesucht waren 2020 - Radwege für Frauen, Männer, Familien, Jugendliche**  
-*Für all die Fahrräder, Fixies, Anhänger, Lastenräder, Pedelecs…*  
-Gefunden wurden die Hemminger Alltagsrouten!!!
+<details>
+  <summary>Klick hier für mehr Details!</summary>
 
-Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt. Dazu gibt es unterschiedliche Budget-Vorschläge von Verwaltung und ADFC für den nächsten städtischen Haushalt, der jetzt zum Beschluss ansteht. In einer Online-Veranstaltung wollen wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Denn jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
+1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik)
+2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit)
+3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren)
+4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). 
 
-Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
-[![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
+</details>
 
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
 
-Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt bleiben vorerst geschlossen geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen/Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+<img src="img\FSW-OSM_c_OSMBeteiligte.png" alt="" style="float:right;">
+
+<!-- **Die Fahrrad-Selbsthilfe-Werkstatt (FSW)** des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
+
+Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt vorerst geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+
+<details>
+  <summary>Weitere Services</summary>
+
+In Hemmingen gibt es folgende Reparaturmöglichkeiten:
+
+- [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen
+- Fahrrad-Selbsthilfewertstatt - Heinrich-Hertz-Straße 23, Hemmingen
+- Servicestation - Rathausplatz, Hemmingen
+
+### Spendenkonto
+
+> IBAN: DE97 2509 0500 0000 9205 50,<br>
+> BIC: GENODEF1S09 (Sparda Bank Hannover e.G.)<br>
+> **Verwendungszweck: "ADFC Selbsthilfewerkstatt Hemmingen" und Anschrift (für eine Spendenbescheinigung)**
+
+</details>
+
+## Mittwochstour
+<img src="img\MittwochLogo200.png" alt="" style="float:left;">
+
+Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
 
-## Inhalt
-    
-> - [Aktuelles](#aktuelles)
->   - **NEU** [Verkehrsrecht für Radfahrende](#verkehrsrecht-für-radfahrende) ![](img/adfc_cycle_10_pin.png)
-> - [Wer sind wir?](#wer-sind-wir)
-> - [Was wird](#was-wird)
-> - [Tipps und Nachrichten](#tipps-und-nachrichten)  
->    * [Veränderte Verkehrsführung für Fußgänger und Radfahrer](#veränderte-verkehrsführung-für-fußgänger-und-radfahrer)  
->    * [Umgestaltung der Weetzener Landstraße -Planung der Region Hannover-](#umgestaltung-der-weetzener-landstraße--planung-der-region-hannover-)  
-> - [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)  
->   - [![](MaengelKarte\img\KlickAnleitung.png) **Direkter Link**](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
-> - [Was war](#was-war)
-> * [Impressum](#impressum)
-> - [Datenschutz](pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
-> - [Impressum](#impressum)
->   - *Stand: LetzteAenderung*
+### Tourenkarten
 
-## Aktuelles
+**NEU: Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt**
 
-### Kurzfristige Meldung
-<div class="holder" style="width: 100%; height:500px; position:relative;">
+**Tipp Radtouren:** Weitere ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](https://www.adfc-hannover.de/termine/) zu finden.
+
+### Hannah das ausleihbare Lastenrad
+
+**Lasten zu groß? Keine Ausrede** Leihen Sie sich kostenlos ein Hannah Lastenrad unter <https://www.hannah-lastenrad.de/>. Hilfe, Fragen und Wünsche zur Hannah gibt unter [hallo@hannah-lastenrad.de](mailto:hallo@hannah-lastenrad.de).  
+
+## Unsere Mängelkarte
+
+Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer Mängelkarte.
+
+siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+
+[![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+
+<!-- =====================================================================
+     Aktuelles
+     ===================================================================== -->
+<table id="aktuelles" style="width:100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background-color:#EE7F00; color:#FFFFFF">Aktuelles</td>
+  </tr>
+</table>
+
+## Eilmeldung
+<div class="holder" style="width: 100%; height:400px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
-<div style="position:absolute; top:3px; left:5px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
+<div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
 </div>
 
+## Stadtradeln 2021
 
-### Termine
+Beim Wettbewerb STADTRADELN trittst du 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in deiner Kommune.
+
+> vom 06. Juni bis 26. Juni 2021
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnen, arbeiten, einem Verein angehören oder eine (Hoch-)Schule besuchen, können beim STADTRADELN mitmachen.
+
+Hier registrieren:
+
+- Für Hemmingen: [https://www.stadtradeln.de/hemmingen](https://www.stadtradeln.de/hemmingen)
+  - In Hemmingen in der Region Hannover haben sich 60 Radelnde registriert. Stand 22.5.2021
+  - Das Team "ADFC Hemmingen" ist eingerichtet.
+- Für Pattensen: [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen)
+  - In Pattensen in der Region Hannover haben sich 36 Radelnde registriert. Stand 22.5.2021
+
+oder lade dir die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
+
+---
+
+Aufgrund der besonderen Situation mit vielfältigen Einschränkungen des öffentlichen Lebens wegen der Corona-Pandemie steht auch in diesem Jahr im Vordergrund, den Radverkehr in Hemmingen voranzubringen und viele Bürgerinnen und Bürger für die Vorteile des Radfahrens im Alltag zu gewinnen. Die Stadt Hemmingen führt die Aktion gemeinsam mit dem ADFC Hemmingen/Pattensen durch.
+
+Dennoch wollen wir natürlich auch dem Wettbewerbsgedanken folgen und in diesem Jahr wieder einen der vorderen Plätze im Regionsranking erringen. Das Stadtradeln beginnt am Sonntag, den 06. Juni 2021 und endet am 26.Juni 2021. Beim Stadtradeln sollen sich auch diesmal Teams bilden und möglichst viele Kilometer beruflich sowie privat mit dem Fahrrad zurücklegen, natürlich unter Beachtung der dann aktuell geltenden Corona-Hygieneregeln und Kontaktbeschränkungen. Bitte beachten Sie diese bei gemeinsamen Fahrten, denn wir möchten vermeiden, dass es ausgerechnet bei gemeinsamen Radtouren zu Ansteckungen kommt.
+
+Im Online-Radelkalender auf [www.stadtradeln.de](www.stadtradeln.de) können sich die Teams und Radelnde registrieren und die gefahrenen Kilometer dann eintragen. Gesucht wird Deutschlands fahrradaktivste Kommune mit den meisten Radkilometern (absolut) sowie mit den meisten Radkilometern pro EinwohnerIn (Durchschnittswert).
+
+Und so machen sie mit:
+
+- Registrieren sie sich für das STADTRADELN auf der Seite www.stadtradeln.de und radeln gemeinsam mit uns für ein gutes Klima.
+- Gründen Sie mit Ihrer Familie, Ihren Nachbarn, IhrenFreunden oder ArbeitskollegInnen ein Teams oder schließen Sie sich einem bestehenden Team an.
+- Sammeln Sie alle Rad-Kilometer entweder auf der Stadtradel-Webseite oder in der Stadtradel-App.
+- Ob Sie langsam oder schnell fahren, zum Einkaufen oder zur Arbeit oder in der Freizeit unterwegs sind. Die Herausforderung ist, 3 Wochen lang möglichst viel mit dem Fahrrad zu fahren und die Kilometer online einzutragen oder die Stadtradeln-App benutzen und die Kilometer automatisch erfassen.
+- Natürlich dürfen und sollen Sie gerne auch nach dem Stadtradeln weiter das Rad benutzen, wo immer es geht.
+
+Jeder einzelne Kilometer von Ihnen bringt Sie, Ihr Team, die Stadt Hemmingen und den Klimaschutz voran!
+
+Anregungen für interessante Touren und Fahrradaktivitäten findet man über die kostenlose Fahrrad App „Bike Citizens“ der Region Hannover. Dort stehen bereits jetzt die Routen der fast 1.000 Kilometer langen FAHRRADREGION Hannover zum Nachradeln zur Verfügung. Darüber hinaus hilft die App der Region Hannover bei der Radwegeplanung, da Schwachstellen durch das Sammeln der anonymisierten Daten identifiziert werden können und bessere Daten für die Radwegeplanung zur Verfügung stehen.
+
+Hier finden Sie die App:  
+
+- Apple AppStore: [https://itunes.apple.com/de/app/bike-citizens-fahrrad-navi/id517332958?mt=8](https://itunes.apple.com/de/app/bike-citizens-fahrrad-navi/id517332958?mt=8)
+- Google PlayStore:   [https://play.google.com/store/apps/details?id=org.bikecityguide](https://play.google.com/store/apps/details?id=org.bikecityguide)
+
+Weitere Infos finden Sie auf der Homepage der Region Hannover unter
+
+[https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App).
+
+</details>
+
+## Ein Jahr zum Einstiegspreis 
+
+Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr! 
+Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Sie erhalten das komplette Vorteilspaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
+
+Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
+
+</details>
+
+## Termine
 
 <p>**<a href="https://teamup.com/ksju1rrabvbvttzec9">Vollbildanzeige</a>** - Ein Service von [Teamup Solutions AG in Zurich](https://www.teamup.com/)</p>
 
@@ -106,77 +216,268 @@ function validatePass(){
 }
 </script>-->
 
-1. **Die Fahrrad-Selbsthilfe-Werkstatt (FSW) bleibt bleiben vorerst geschlossen, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen.** <!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
-3. Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
-4. Den Hemminger Sitzungskalender gibt es unter [https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/](https://www.stadthemmingen.de/politik-gremien/buergerinformationssystem/)
-5. Den Pattenser Sitzungskalender gibt es unter [https://pattensen.more-rubin1.de/sitzungskalender.php](https://pattensen.more-rubin1.de/sitzungskalender.php)
-6. Weiter Termine unter <https://www.adfc-hannover.de/termine/>
+<!-- =====================================================================
+     Artikel
+     ===================================================================== -->
+<table id="artikel" style="width:100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
+  </tr>
+</table> 
+
+## Fahrradhelm
+
+**Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? 
+
+Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
 
 
-## Wer sind wir?
+## Verkehrsrecht für Radfahrende ![](img/adfc_cycle_10_pin.png)
 
-Der ADFC Hemmingen/Pattensen engagiert für gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 107 Mitgliedern (Stand Jan. 2019) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen/Pattensen offiziell in den beiden Städten für
+Das Fahrrad ist ein Fahrzeug – und Radfahrende sind Fahrzeugführende mit allen Rechten und Pflichten. Deshalb gelten zunächst die allgemeinen Regeln für den Fahrzeugverkehr. Auf diese Regeln geht der folgende Beitrag nur ein, wenn sie besondere Bedeutung für Radfahrende haben. Außerdem enthält die Straßenverkehrs-Ordnung (StVO) Vorschriften speziell für den Radverkehr. Um diese Vorschriften, ihre Beachtung und mögliche Konflikte soll es hier vor allem gehen.
 
-1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik)
-2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit)
-3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren)
-4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). Siehe [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf)
+[Verkehrsrecht_fuer_Radfahrende als PDF](pdf/Verkehrsrecht_fuer_Radfahrende_6.20-1.pdf)
+
+### Video zum neuen Verkehrsrecht
+
+ARD hr-Fernsehen [Sicherheit auf Radwegen - was bringen die neuen Regeln](https://www.ardmediathek.de/ard/video/alles-wissen/sicherheit-auf-radwegen-was-bringen-die-neuen-regeln/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMDg2MDY/)
+
+## Sei kein Geisterradler
+
+![](img/geisterradler.png)
+
+Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu 20 % der Rad fahrenden auf Radwegen entgegen der vorgesehenen Fahrtrichtung. Dieses sogenannte „Geisterradeln“, also das regelwidrige Linksfahren, gehört zu den Hauptursachen der Unfälle, die durch den Radverkehr selbst verursacht werden.
+
+[https://www.geisterradeln.de/](https://www.geisterradeln.de/)
+
+## Unfallorte mit Fahrradbeteiligung in Hemmingen 2019
+
+![](img\UnfallorteHem2019_c_unfallatlas.statistikportal.de.jpg)
+
+Die Grafik zeigt Unfallorte mit Fahrradbeteiligung in Hemmingen 2019 aus dem Unfallatlas [https://unfallatlas.statistikportal.de/](https://unfallatlas.statistikportal.de/). Letzter Stand vom 19.05.2021.
+
+**Aktuell**: Die HAZ hat am 17.05.2021 berichtet, dass im Bereich des Kommissariats Ronnenberg sich die Zahl der Unfälle mit Radfahrern 2020 verdoppelt hat.
+
+Zitat: "Auffällig in der jetzt vorgelegten Unfallstatistik ist, dass die Zahl der beteiligten Radfahrer sich mehr als verdoppelt hat: von 68 im Jahr 2019 auf 139. Nur 21 Radler blieben unbeschadet. 93 verletzten sich leicht, 25 Radfahrer sogar schwer."
+
+Das PK Ronnenberg umfasst die Gemeinden: Wennigsen, Gehrden, Empelde, Ronnenberg und Hemmingen Arnum.
 
 
-Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
+## Wir drehten am Rad 
 
+EDEKA Minden-Hannover bot im Aktionszeitraum vom 10.05. bis 22.05.2021 ab einem Einkauf von 25€ eine vergünstigte ADFC Mitgliedschaft.
 
-## Was wird
+## Online-Vorstellung der erarbeiteten Hemminger Alltags-Radrouten
 
-### Mittwochstour
-![](img\MittwochLogo200.png)
+Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
 
-Spontane, kostenlose Feierabendradtouren werden bei entsprechenden Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
+**Gesucht waren 2020 - Radwege für Frauen, Männer, Familien, Jugendliche**  
+*Für all die Fahrräder, Fixies, Anhänger, Lastenräder, Pedelecs…*  
+Gefunden wurden die Hemminger Alltagsrouten!!!
 
-### Tourenkarten
+Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt. 
 
-**NEU: Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt**
+<details>
+  <summary>Klick hier für mehr Details!</summary>
 
-## Tipps und Nachrichten
+Dazu gibt gab unterschiedliche Budget-Vorschläge von der Verwaltung und vom ADFC für den städtischen Haushalt 2021. In einer Online-Veranstaltung haben wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
 
-### Einige nützliche Links
-
-[Stadt Pattensen](https://www.pattensen.de/) und das [Wanderbare Calenberger Land](https://www.pattensen.de/Default.aspx?tabid=3110)<br>
-[Stadt Hemmingen](https://www.stadthemmingen.de/) und das [Radvehrkehrskonzept](https://www.stadthemmingen.de/portal/seiten/radverkehrskonzept-der-stadt-hemmingen-907000093-22500.html)
-
-[**GPSies**](https://www.gpsies.com/) bietet die Möglichkeit Touren zu planen und mit anderen auszutauschen. Auch als Apps erhältlich.
-
-**Tipp Radtouren:** Ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](https://www.adfc-hannover.de/termine/) zu finden.
-
-**Tipp Radfahrkarte:** Eine Quellen offene Radfahrkarte mit Routingfunktion git es under [OpenRouteService.org](https://bit.ly/1cEUTze). Mit der rechten Maustaste kann man Start- und Zielpunkt setzen.
-
-_Ältere Tipps und Nachrichten gibt es unter [Ältere Nachrichten](alteNews.html)_
-
-## Unsere Mängelkarte
-
-Gefährliche Querungen, Unfallschwerpunkte und Mängel auf Rad- und Fußwegen sammeln wir auf unserer Mängelkarte.
-
-siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
-
+Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
 [![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
 
-### Radwegeführung Stadtbahnbaustelle
+</details>
+
+## ＡＤＦＣ🚲 Fahrradklima-Test 2020 Ergebnisse
+
+> 16.3.2021
+> [https://fahrradklima-test.adfc.de/](https://fahrradklima-test.adfc.de/)
+
+Die Fahrradklima-Test 2020 Ergebnisse liegen vor. Zu finden unter [https://fahrradklima-test.adfc.de/ergebnisse](https://fahrradklima-test.adfc.de/ergebnisse).
+
+- Hannover hat die Note 3.7 und damit Range 2 von 14 mit unter einer Ortsgröße > 500.000 Einwohnern.
+- Hemmingen hat auch die Note 3.7 und damit Range 134 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
+- Pattensen hat die Note 4.1 und damit Range 315 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
+
+## K 225 wird nach 115 Jahren wieder Feldweg
+
+Zum HAZ Artikel vom 2.3.2021.
+
+Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um eine Folgemaßnahme des Baus der B3neu durch die Straßenbauverwaltung des Landes Niedersachsen. Im Abschnitt zwischen dem Gertrud-Kochanowski-Weg in Devese und der Zufahrt zum Cafe Webstuhl wird die K 225 entsprechend des Planfeststellungsbeschlusses für den Bau der B3neu auf eine Breite von 3 m zurückgebaut. Die verbleibende Fläche wird nicht entsiegelt, sondern bleibt wie sie ist. Im Abschnitt von Ohlendorf bis zum Cafe Webstuhl wir die K 225 auf eine Breite von 4,75 m zurückgebaut, da hier nicht nur landwirtschaftlicher Verkehr und Radfahrer und Fußgänger zugelassen sind, sondern auch Anliegerverkehr zum Cafe Webstuhl, dem dort befindlichen Freizeitparkplatz und dem Waldkindergarten.
+
+## L 389 - Quelle: HAZ Leine 9.3.2021
+
+Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße in Hiddestorf soll in den nächsten Jahren saniert werden. Die Stadt Hemmingen plant eine Vereinbarung mit dem Land. Zur Verkehrsberuhigung soll es in den Arnumer Ortsausfahren Querungshifen geben. In Wilkenburg könnte der höhengleiche Gehweg zu einem Hochbord ausgebaut werden. Weiterhin ist ein Umbau der gefährlichen Wilkenburger Spinne im Gespräch. Der Radweg zwischen der Spinne und Wilkenburg könnte noch dieses Jahr beginnen. Die Straßensanierung in Hiddestorf ist erst für 2023 angedacht. 
+
+Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteiligt wird.
+
+## Entlastungsstraße B3 alt
+
+> 12.3.2021 [https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487)  
+> 16.3.2021 HAZ Artikel im Hemminger Teil "Stadt will Alfred-Bentz-Straße verlängern."
+
+Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.
+
+## Abendtour 5/20 2020-10-07-Mi.
+
+Die 5. Feierabend-Radtour startete am Mittwoch den 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
+ 
+Nach ca. 36 km und 3 Std. erreichten wir Hemmingen.
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Ruthe, Sarstedt, Ahrbergen
+---------------: | ----------------------- 
+Datum            | 2020-10-07-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Helmut, Günther
+Start            | Hemmingen Rathaus 15:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 36
+Wetter           | zeitweise regnerisch
+
+</details>
+
+## Abendtour 04/20 2020-09-29-Mi.
+ 
+Die 4. Feierabend-Radtour startete am Mittwoch den 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurze Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Gehrdener Berg
+---------------: | ----------------------- 
+Datum            | 2020-09-29-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 14
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+
+</details>
+
+## Abendtour 3/20 2020-09-09-Mi.
+
+Die 3. Feierabend-Radtour startete am Mittwoch den 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
+ 
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Ruthe, Sarstedt
+---------------: | ----------------------- 
+Datum            | 2020-09-09-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 35
+Wetter           | zeitweise regnerisch
+
+</details>
+
+## Abendtour 2/20 2020-09-02-Mi.
+ 
+Die 2. Feierabend-Radtour startete am Mittwoch den 02. September mit 11 Radlern bei schönem Wetter.  Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede.  Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Über den Kronsberg ging es zurück nach Laatzen und wieder in die Leinemasch. Nach einem kurzweiligen Stop im Laatzener Grasdachhaus fuhren wir weiter und erreichten nach ca. 3 Stunden flotter und schöner Fahrt und ca. 32 km Hemmingen.
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Rethen, Bockemer Holz
+---------------: | ----------------------- 
+Datum            | 2020-09-02-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+
+</details>
+
+
+## Abendtour 1/20 2020-08-19-Mi.
+ 
+Die 1. Feierabend-Radtour startete am Mittwoch den 19.August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Benthe, Velber und Ahlem
+---------------: | ----------------------- 
+Datum            | 2020-08-19-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 18:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+
+</details>
+
+## Tagestour 2020
+
+Die Tour durchs grüne Hannover zum Wietzesee startete bei herrlichem Wetter am Rathausplatz in Hemmingen und führte uns durchs Ricklinger Holz zu den Ricklinger Seen. An der Ihme fuhren wir entlang bis zur Einmündung der Leine.
+
+Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vorbei fuhren wir weiter auf dem Julius-Trip-Ring, den wir in der List Richtung Norden verliessen. Den Mittellandkanal überquerten wir beim Lister Bad und erreichten den Silbersee. An der Pferderennbahn Neue Bult vorbei kamen wir an die Wietze und wenig später zum Hufeisensee. Der Biergarten und der Sandstrand luden zum Picknick ein. Nach einer kurzweiligen Pause fuhren wir weiter zum Wietzesee, nach Hainhaus und durch einen Golfplatz.  Kurz vor dem Waldkater verliessen wir die Wietze und bogen nach Osten Richtung Isernhagen ab. Durch die Felder der Isernhagener Bauernschaften mit einer kurzen Steigung ging es weiter bis nach Altwarmbüchen. Am Altwarmbüchener See hatten wir uns die 2. Pause verdient. Anschließend ging es durchs Misburger Holz zum Mittellandkanal. Nach einer kurzen Fahrt am Kanal entlang bogen wir ab und fuhren durch eine Kleingartenkolonie, vorbei am Annateich und erreichen den
+
+Hermann-Löns-Park mit der Alten Mühle. Zurück ging es wieder vorbei am Maschsee und den Ricklinger Teichen. Nach einer sehr schönen Fahrt, auf guten, schattigen Wegen kamen wir gut gelaunt in Hemmingen an, nach ca. 6 1/2 Stunden und 65 km.
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Tourenziel       | Durchs grüne Hannover zum Wietzesee
+---------------: | ----------------------- 
+Datum            | 16.09.2020
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathausplatz 11:00
+Dauer [Stunden]  | ca. 6 - 7 Std
+Teilnehmerzahl   | 9
+Tourenlänge [km] | 65
+Wetter           | 25° Sonne + Wolken
+
+</details>
+
+## Radwegeführung Stadtbahnbaustelle
 
 Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
-
-![](https://i.imgur.com/uFiSpSh.png)
 
 - Info: https://www.infra-hannover.de/hemmingenwesterfeld/
 - Email: https://www.infra-hannover.de/kontakt/
 
+<details>
+  <summary>Klick hier für mehr Details!</summary>
 
-## Was war
+![](https://i.imgur.com/uFiSpSh.png)
 
-Mehr aus der [Vergangenheit](waswar.html)
+</details>
 
-## Impressum
+## Was war sonst noch?
 
-Die ADFC **Geschäftsstelle**:
+Mehr aus der [Vergangenheit](waswar.html).
+
+<!-- =====================================================================
+     Fußnote
+     ===================================================================== -->
+<table id="footer" style="width:100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background-color:#EE7F00; color:#FFFFFF">Fußnote</td>
+  </tr>
+</table> 
+
+### Kontakt 
+
+Für die Ortsgruppe **Jens Spille**
+
+> E-Mail: [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de)
+
+Für die ADFC **Geschäftsstelle**:
 
 > ADFC Allgemeiner Deutscher Fahrrad-Club / Region Hannover e.V.
 
@@ -186,6 +487,7 @@ Die ADFC **Geschäftsstelle**:
 > Tel.: (0511) 16403-12
 
 ### Sprecherteam
+
 Das Sprecherteam wurde auf der Mitgliederversammlung 2020 am 29\. Januar 2020 für zwei Jahre gewählt.
 
 Aufgabe                                   | Name
@@ -207,5 +509,8 @@ Mitglied werden kann man [hier](https://www.adfc.de/mitgliedschaft/mitglied-werd
 
 Mit fahrradfreundlichen Grüßen, die ADFC Ortsgruppe Hemmingen/Pattensen.
 
-  
+### Datenschutz
+
+[Datenschutzerklärung](pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf)
+
 

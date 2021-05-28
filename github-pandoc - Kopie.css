@@ -402,9 +402,6 @@ textarea {
 /* ==========================================================================
    Tables
    ========================================================================== */
-#firstTable table {
-border: 10px solid white;
-}
 
 /**
  * Remove most spacing between table cells.
@@ -425,19 +422,6 @@ font-size: 12px;
 padding: 1em;
 display: inline;
 }
-
-/* =========================
-   Details
-   ========================= */
-details > summary {
-  padding: 4px;
-  width: 200px;
-  background-color: #eeeeee;
-  border: none;
-  box-shadow: 1px 1px 2px #bbbbbb;
-  cursor: pointer;
-}
-
 
 /* Github css */
 

@@ -5,24 +5,6 @@
 
 ## Was war
 
-# ＡＤＦＣ🚲 Fahrradklima-Test 2020 Ergebnisse
-
-> 16.3.2021
-> [https://fahrradklima-test.adfc.de/](https://fahrradklima-test.adfc.de/)
-
-Die Fahrradklima-Test 2020 Ergebnisse liegen vor. Zu finden unter [https://fahrradklima-test.adfc.de/ergebnisse](https://fahrradklima-test.adfc.de/ergebnisse).
-
-- Hannover hat die Note 3.7 und damit Range 2 von 14 mit unter einer Ortsgröße > 500.000 Einwohnern.
-- Hemmingen hat auch die Note 3.7 und damit Range 134 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
-- Pattensen hat die Note 4.1 und damit Range 315 von 418 mit unter einer Ortsgröße < 20.000 Einwohnern.
-
-# Entlastungsstraße B3 alt
-
-> 12.3.2021 [https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487](https://www.stadthemmingen.de/allris/vo020.asp?VOLFDNR=1487)  
-> 16.3.2021 HAZ Artikel im Hemminger Teil "Stadt will Alfred-Bentz-Straße verlängern."
-
-Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.
-
 # Gedanken/Ideen zum Radweg entlang des Südschnellwegs
 
 > 16.3.2021
@@ -30,18 +12,6 @@ Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alf
 Der ADFC Laatzen macht Vorschläge [https://www.adfc-laatzen.de/archive/4350#more-4350](https://www.adfc-laatzen.de/archive/4350#more-4350).
 
 Radfahrende und Zufußgehende wünschen sich eine hochwassersichere Verbindung zwischen Ricklingen-Süd und der Schützenallee parallel zum Südschnellweg. Ein Gedanke ist es den Weg unterhalb/ seitlich unterhalb (der Brücken, an deren Ständer) des Südschnellweg zu hängen, so wie es in Oldenburg an der A29 Brücke über der Hunte realisiert wurde. Bilder dazu unter [Komoot.de](https://www.komoot.de/highlight/787847).
-
-# K 225 wird nach 115 Jahren wieder Feldweg
-
-Zum HAZ Artikel vom 2.3.2021.
-
-Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um eine Folgemaßnahme des Baus der B3neu durch die Straßenbauverwaltung des Landes Niedersachsen. Im Abschnitt zwischen dem Gertrud-Kochanowski-Weg in Devese und der Zufahrt zum Cafe Webstuhl wird die K 225 entsprechend des Planfeststellungsbeschlusses für den Bau der B3neu auf eine Breite von 3 m zurückgebaut. Die verbleibende Fläche wird nicht entsiegelt, sondern bleibt wie sie ist. Im Abschnitt von Ohlendorf bis zum Cafe Webstuhl wir die K 225 auf eine Breite von 4,75 m zurückgebaut, da hier nicht nur landwirtschaftlicher Verkehr und Radfahrer und Fußgänger zugelassen sind, sondern auch Anliegerverkehr zum Cafe Webstuhl, dem dort befindlichen Freizeitparkplatz und dem Waldkindergarten.
-
-# L 389 - Quelle: HAZ Leine 9.3.2021
-
-Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße in Hiddestorf soll in den nächsten Jahren saniert werden. Die Stadt Hemmingen plant eine Vereinbarung mit dem Land. Zur Verkehrsberuhigung soll es in den Arnumer Ortsausfahren Querungshifen geben. In Wilkenburg könnte der höhengleiche Gehweg zu einem Hochbord ausgebaut werden. Weiterhin ist ein Umbau der gefährlichen Wilkenburger Spinne im Gespräch. Der Radweg zwischen der Spinne und Wilkenburg könnte noch dieses Jahr beginnen. Die Straßensanierung in Hiddestorf ist erst für 2023 angedacht. 
-
-Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteiligt wird.
 
 # ADFC kritisiert nicht geräumte Radwege
 
@@ -68,24 +38,6 @@ Bei Fragen wenden Sie sich bitte an: OpenBikeSensor@region-hannover.de
 
 ![](https://d2thcna738hjvb.cloudfront.net/cfill-w567-h318/0a298352d429b166d53d41dc2139de23.jpg)
 
-## Sei kein Geisterradler
-
-![](img/geisterradler.png)
-
-Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu 20 % der Rad fahrenden auf Radwegen entgegen der vorgesehenen Fahrtrichtung. Dieses sogenannte „Geisterradeln“, also das regelwidrige Linksfahren, gehört zu den Hauptursachen der Unfälle, die durch den Radverkehr selbst verursacht werden.
-
-[https://www.geisterradeln.de/](https://www.geisterradeln.de/)
-
-# Verkehrsrecht für Radfahrende
-
-Das Fahrrad ist ein Fahrzeug – und Radfahrende sind Fahrzeugführende mit allen Rechten und Pflichten. Deshalb gelten zunächst die allgemeinen Regeln für den Fahrzeugverkehr. Auf diese Regeln geht der folgende Beitrag nur ein, wenn sie besondere Bedeutung für Radfahrende haben. Außerdem enthält die Straßenverkehrs-Ordnung (StVO) Vorschriften speziell für den Radverkehr. Um diese Vorschriften, ihre Beachtung und mögliche Konflikte soll es hier vor allem gehen.
-
-[Verkehrsrecht_fuer_Radfahrende als PDF](pdf/Verkehrsrecht_fuer_Radfahrende_6.20-1.pdf)
-
-## Video zum neuen Verkehrsrecht
-
-ARD hr-Fernsehen [Sicherheit auf Radwegen - was bringen die neuen Regeln](https://www.ardmediathek.de/ard/video/alles-wissen/sicherheit-auf-radwegen-was-bringen-die-neuen-regeln/hr-fernsehen/Y3JpZDovL2hyLW9ubGluZS8xMDg2MDY/)
-
 ## ADFC fordert Radweg entlang des Südschnellweges
 <!-- 2020-05-23 11:41 -->
 Der ADFC fordert in einer Stellungnahme einen Radweg entlang des Südschnellweges. Ziel ist es bei Hochwasser von Ricklingen/Westerfeld nach Döhren zu kommen. 
@@ -106,84 +58,6 @@ Der ADFC hatte zusammen mit der Stadt Hemmingen zu einem Workshop aufgerufen. Zu
 
 Alle Verbesserungsvorschläge haben wir auf folgender Mängelkarte zusammen gefasst. Siehe [MaengelKarte](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/).
 
-
-### Abendtour 5/20 2020-10-07-Mi.
- 
-Tourenziel       | Ruthe, Sarstedt, Ahrbergen
----------------: | ----------------------- 
-Datum            | 2020-10-07-Mi
-Tourenrart       | Feierabend
-Tourenleiter     | Helmut, Günther
-Start            | Hemmingen Rathaus 15:00
-Dauer [Stunden]  | ca. 3
-Teilnehmerzahl   | 11
-Tourenlänge [km] | 36
-Wetter           | zeitweise regnerisch
-
-Die 5. Feierabend-Radtour startete am Mittwoch den 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
-Nach ca. 36 km und 3 Std. erreichten wir Hemmingen.
-
-### Abendtour 04/20 2020-09-29-Mi.
- 
-Tourenziel       | Gehrdener Berg
----------------: | ----------------------- 
-Datum            | 2020-09-29-Mi
-Tourenrart       | Feierabend
-Tourenleiter     | Günther
-Start            | Hemmingen Rathaus 16:00
-Dauer [Stunden]  | ca. 3
-Teilnehmerzahl   | 14
-Tourenlänge [km] | 34
-Wetter           | heiter bis wolkig
-    
-Die 4. Feierabend-Radtour startete am Mittwoch den 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurze Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
-
-### Abendtour 3/20 2020-09-09-Mi.
- 
-Tourenziel       | Ruthe, Sarstedt
----------------: | ----------------------- 
-Datum            | 2020-09-09-Mi
-Tourenrart       | Feierabend
-Tourenleiter     | Günther
-Start            | Hemmingen Rathaus 17:00
-Dauer [Stunden]  | ca. 3
-Teilnehmerzahl   | 9
-Tourenlänge [km] | 35
-Wetter           | zeitweise regnerisch
-
-Die 3. Feierabend-Radtour startete am Mittwoch den 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
-
-### Abendtour 2/20 2020-09-02-Mi.
- 
-Tourenziel       | Rethen, Bockemer Holz
----------------: | ----------------------- 
-Datum            | 2020-09-02-Mi
-Tourenrart       | Feierabend
-Tourenleiter     | Günther
-Start            | Hemmingen Rathaus 17:00
-Dauer [Stunden]  | ca. 3
-Teilnehmerzahl   | 11
-Tourenlänge [km] | 32
-Wetter           | heiter bis wolkig
-
-Die 2. Feierabend-Radtour startete am Mittwoch den 02. September mit 11 Radlern bei schönem Wetter. 
-Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede. 
-Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Über den Kronsberg ging es zurück nach Laatzen und wieder in die Leinemasch. Nach einem kurzweiligen Stop im Laatzener Grasdachhaus fuhren wir weiter und erreichten nach ca. 3 Stunden flotter und schöner Fahrt und ca. 32 km Hemmingen.
-
-### Abendtour 1/20 2020-08-19-Mi.
- 
-Tourenziel       | Benthe, Velber und Ahlem
----------------: | ----------------------- 
-Datum            | 2020-08-19-Mi
-Tourenrart       | Feierabend
-Tourenleiter     | Günther
-Start            | Hemmingen Rathaus 18:00
-Dauer [Stunden]  | ca. 2 1/2
-Teilnehmerzahl   | 9
-Tourenlänge [km] | 32
-Wetter           | heiter bis wolkig
-    
-Die 1. Feierabend-Radtour startete am Mittwoch den 19.August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
 
 ### Stadtradeln 2020
 
