@@ -30,8 +30,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
     <td> <a href="#kontakt">Impressum</a>
     <br> <a href="#mitgliedsschaft">Mitgliedschaft</a>
-    <br> <a href="#konto">Spendenkonto</a>
-    <br> Datenschutz</td>
+    <br> <a href="#konto">Spendenkonto</a> </td>
   </tr>
 </tbody>
 </table>
@@ -204,19 +203,6 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 <iframe width="100%" height="100%" src="https://teamup.com/ksju1rrabvbvttzec9" frameborder="1"></iframe>
 </div>
 
-<!-- FSW und Touren Termine ändern? *Nur für Eingeweihte.* Bitte Passwort eingeben: <input id='password' type='text'  />
-<a href="https://teamup.com/ks81di9kaob57td5hd" onclick="javascript:return validatePass()">und Click hier</a>
-<script>
-function validatePass(){
-    if(document.getElementById('password').value == 'adfchempat'){
-        return true;
-    }else{
-        alert('wrong password!!');
-        return false;
-    }
-}
-</script>-->
-
 <!-- =====================================================================
      Artikel
      ===================================================================== -->
@@ -225,6 +211,59 @@ function validatePass(){
     <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
   </tr>
 </table> 
+
+## Technische Sachbearbeitung für Planung von Radverkehrsanlagen (m/w/d)
+
+<!-- 29. Mai 2021 bis Bewerbungsfrist: 20.06.2021 -->
+
+Die Entwicklung der Radverkehrsanlagen liegt Ihnen am Herzen und Sie möchten einen großen Beitrag für die Allgemeinheit der Stadt Langenhagen leisten? Dann bewerben Sie sich gerne in Langenhagen!
+
+Infos unter [www.arbeiten-in-langenhagen.de](https://www.arbeiten-in-langenhagen.de/bewerbung/beschreibung-900000235-30890.html). Bewerbungsfrist: 20.06.2021.
+
+## Tour de Verkehrswende – wir bringen Paris nach Berlin
+
+<!-- 29. Mai 2021  -->
+
+> In 11 Etappen mit dem Rad durch Deutschland
+
+Vom 22. August bis zum 2. September zeigen Aktivist\*innen von Changing Cities mit einer Fahrraddemo von Essen nach Berlin, dass die Verkehrswende möglich und machbar ist. Als Teil der bundesweiten Protestaktion Ohne Kerosin nach Berlin werden Hunderte von Radfahrer\*innen in Deutschland unterwegs sein. 
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Pünktlich zum Bundestagswahlkampf 2021 fahren wir in 11 Etappen mit dem Rad nach Berlin und setzen die Themen Mobilität und Klimaschutz auf die bundespolitische Agenda. Die „Tour de Verkehrswende“ fährt unter dem Motto „Wir bringen Paris nach Berlin“, denn die Politik der pariser Bürgermeisterin Anne Hidalgo zeigt: Die klima- und menschenfreundliche Verkehrswende ist politisch möglich und praktisch umsetzbar. Seit 2014 wird die französische Hauptstadt in großen Teilen nachhaltig umgestaltet. Um die Feinstaub- und Lärmbelastung zu reduzieren und die Lebensqualität der Menschen zu verbessern, wird der Ausbau von Fuß- und Radwegen deutlich vorangetrieben und große Bereiche des Zentrums für Menschen geöffnet und für den Autoverkehr gesperrt. 
+
+„Auch für deutsche Städte und Gemeinden fordern wir einen solchen Strukturwandel in der Mobilitätspolitik. Weil die Zukunft dem Fuß- und Radverkehr sowie dem ÖPNV gehört. Denn auch in Deutschland gilt: Mit dem Fahrrad lassen sich Wahlen gewinnen,” sagt Ragnhild Sørensen von Changing Cities.
+
+Die Forderungen der #TourDeVerkehrswende an die nächste Bundesregierung
+
+1) Vorrang des Umweltverbundes: Grundlegende Flächenumverteilung mit Ausbau des ÖPNV und des bundesweiten Fuß- und Radverkehrsnetzes
+2) Klare, konsequente und sofortige Maßnahmen zur deutlichen Reduktion des motorisierten Individualverkehrs (MIV). Ziel: Halbierung der Kfz bis 2030. 
+3) Sofortiger und konsequenter Abbau der finanziellen und gesetzlichen Privilegien für den MIV
+4) Moratorium für den Bundesverkehrswegeplan
+
+Die 600 km lange Tour trägt die Pariser Botschaft auch durch Städte, die Fuß- und Radentscheide auf die Beine gestellt haben. Entlang der Strecke gibt es Treffen mit Initiativen, Organisationen, und Politiker\*innen, denen eine klimaverträgliche Verkehrswende ein Anliegen ist. Im Fokus steht der Austausch mit Menschen, die von den Fehlern und Versäumnissen der Verkehrspolitik am stärksten betroffen sind. An den Etappenzielen werden gemeinsam mit Unterstützer\*innen Aktionen zur Klima- und Verkehrswende stattfinden.
+
+Aufgrund der Pandemie-Lage wird es ein umfassendes Hygienekonzept geben. Alle Veranstaltungen, sowie Übernachtungen finden draußen und mit Abstand und Maske statt.
+
+```
+ROUTE
+
+Die Etappen der #TourDeVerkehrswende im August 2021:
+22.8. Essen – Marl – Haltern am See (40 km)
+23.8. Haltern am See – Dülmen – Münster (45 km)
+24.8. Münster – Bielefeld (75 km)
+25.8. Bielefeld – Rinteln (50 km)
+26.8. Rinteln – Hannover (60 km)
+28.8. Hannover – Braunschweig (70 km)
+29.8. Braunschweig – Helmstedt (40 km)
+30.8. Helmstedt – Magdeburg (50 km)
+31.8. Magdeburg – Brandenburg an der Havel (85 km)
+1.9. Brandenburg an der Havel – Werder – Potsdam (65 km)
+2.9. Potsdam – Berlin (35 km)
+```
+
+</details>
 
 ## Fahrradhelm
 
