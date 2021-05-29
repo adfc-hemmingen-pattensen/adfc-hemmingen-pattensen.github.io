@@ -13,8 +13,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
     <td> <a href="#wer-sind-wir%3F">Über uns</a>
         <br> <a href="#adfc-fahrrad-selbsthilfewerkstatt-hemmingen">Fahrrad-Selbsthilfewerkstatt</a>
         <br> <a href="#mittwochstour"> Radtouren </a>
-        <br> Verkehrspolitik 
-        <br> <a href="#unsere-mängelkarte">Mängelkarte</a></td>
+        <br> Verkehrspolitik <a href="#unsere-mängelkarte">Mängelkarte</a></td>
     <td rowspan="4" align="center"><img src="img\smiley2.png" alt="" ></td>
   </tr>
   <tr>
@@ -25,7 +24,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#artikel'" type="button">Artikel</button> </td>
-    <td> Über Touren <br> Über Verkehrspolitik <br> Über Ereignisse <br> Über "Dies & Das" </td>
+    <td> Über Touren <br> Über Verkehrspolitik <br> Über "Dies & Das" </td>
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
