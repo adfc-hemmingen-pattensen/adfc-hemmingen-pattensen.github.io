@@ -36,7 +36,8 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 </table>
 </div>
 
-Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.adfc.de/)) engagiert sich für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima in Hemmingen und Pattensen. 
+### Achtung neue Baustelle: <br>Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
+<!-- 2021-05-30-Sun -->
 
 <!-- =====================================================================
      Rubriken
@@ -50,7 +51,7 @@ Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.a
 
 ## Wer sind wir?
 
-Der ADFC Hemmingen Pattensen engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitglieder (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
+Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.adfc.de/)) engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitglieder (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -134,6 +135,20 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
 
 > vom 06. Juni bis 26. Juni 2021
+
+![](img\Radeln2021-Gantt.png)
+<!--``` mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Gemeinsames Radeln 2021
+axisFormat  %d.%m
+
+section 2020
+2020: done, 2020-01-01, 2020-12-31
+section Stadtradeln
+Stadtradeln 2021: 2020-06-02, 2020-06-26
+
+``` -->
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -401,6 +416,28 @@ Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alf
 ## Touren 2020
 
 Trotz Corona konnten wir einige Touren anbieten.
+
+![](img/Radeln2020-Gantt.png)
+
+<!-- ``` mermaid
+gantt
+%% Ein spezialformt zum Zeichnen von Zeitachsen
+
+dateFormat  YYYY-MM-DD
+title Gemeinsames Radeln 2020
+axisFormat  %d.%m
+
+section Stadtradeln
+Stadradeln 2020:                             done, 2020-07-07, 2020-07-27
+
+section Touren
+Abend - Benthe, Velber und Ahlem:            2020-08-19, 1d
+Abend - Rethen, Bockemer Holz:               2020-09-02, 1d
+Abend - Ruthe, Sarstedt:                     2020-09-09, 1d
+Tages - Durchs grüne Hannover zum Wietzesee: crit, 2020-09-16, 1d
+Abend - Gehrdener Berg:                      2020-09-29, 1d
+Abend - Ruthe, Sarstedt, Ahrbergen:          2020-10-07, 1d
+``` -->
 
 <details>
   <summary>Unsere Touren 2020! Klick hier</summary>
