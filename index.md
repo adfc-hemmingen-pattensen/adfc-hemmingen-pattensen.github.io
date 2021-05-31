@@ -54,7 +54,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 
 ## Wer sind wir?
 
-Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.adfc.de/)) engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 130 Mitglieder (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
+Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.adfc.de/)) engagiert für eine gute Fahrradinfrastruktur und ein fahrradfreundliches Klima. Erste Aktivitäten starteten 2013, seit Mai 2015 und mit mittlerweile rund 141 Mitglieder (Stand April 2021) und weiteren Ehrenamtlichen, engagiert sich der ADFC Hemmingen Pattensen offiziell in den beiden Städten für ...
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -65,6 +65,26 @@ Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.a
 4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). 
 
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
+
+**Gliederungen**
+
+    -  [ADFC e.V.](https://www.adfc.de/)
+      - [ADFC Niedersachsen](https://www.adfc-niedersachsen.de/)
+        - [ADFC Hannover Region](https://hannover-region.adfc.de/)
+          - ADFC Hemmingen
+          - ADFC Pattensen
+
+**ADFC Hemmingen Pattensen Neuzugänge**
+
+| Jahr              | Neuzugänge |
+|-------------------|------------|
+| 2017              | 9          |
+| 2018              | 10         |
+| 2019              | 18         |
+| 2020              | 23         |
+| 2021 (Jan. - Mai) | 9          |
+
+
 </details>
 
 ## ADFC Fahrrad-Selbsthilfewerkstatt-Hemmingen
