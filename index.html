@@ -17,6 +17,8 @@
   <![endif]-->
 </head>
 <body>
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
 <iframe src="bannerSozi\bannerAnimated.sozi.html" width="100%" height="90" frameBorder="0">
 ADFC Banner
 </iframe>
@@ -150,8 +152,8 @@ Aktuelles
 <blockquote>
 <p>vom 06. Juni bis 26. Juni 2021</p>
 </blockquote>
-<p><img src="img\Radeln2021-Gantt.png" /> <!--``` mermaid
-gantt
+<!--![](img\Radeln2021-Gantt.png)-->
+<pre class="mermaid">gantt
 dateFormat  YYYY-MM-DD
 title Gemeinsames Radeln 2021
 axisFormat  %d.%m
@@ -160,8 +162,7 @@ section 2020
 2020: done, 2020-01-01, 2020-12-31
 section Stadtradeln
 Stadtradeln 2021: 2020-06-02, 2020-06-26
-
-``` --></p>
+</pre>
 <details>
 <p><summary>Klick hier für mehr Details!</summary></p>
 <p>Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnen, arbeiten, einem Verein angehören oder eine (Hoch-)Schule besuchen, können beim STADTRADELN mitmachen.</p>
@@ -249,7 +250,7 @@ Artikel
 </ol>
 <p>Die 600 km lange Tour trägt die Pariser Botschaft auch durch Städte, die Fuß- und Radentscheide auf die Beine gestellt haben. Entlang der Strecke gibt es Treffen mit Initiativen, Organisationen, und Politiker*innen, denen eine klimaverträgliche Verkehrswende ein Anliegen ist. Im Fokus steht der Austausch mit Menschen, die von den Fehlern und Versäumnissen der Verkehrspolitik am stärksten betroffen sind. An den Etappenzielen werden gemeinsam mit Unterstützer*innen Aktionen zur Klima- und Verkehrswende stattfinden.</p>
 <p>Aufgrund der Pandemie-Lage wird es ein umfassendes Hygienekonzept geben. Alle Veranstaltungen, sowie Übernachtungen finden draußen und mit Abstand und Maske statt.</p>
-<pre><code>ROUTE
+<pre>ROUTE
 
 Die Etappen der #TourDeVerkehrswende im August 2021:
 22.8. Essen – Marl – Haltern am See (40 km)
@@ -262,7 +263,7 @@ Die Etappen der #TourDeVerkehrswende im August 2021:
 30.8. Helmstedt – Magdeburg (50 km)
 31.8. Magdeburg – Brandenburg an der Havel (85 km)
 1.9. Brandenburg an der Havel – Werder – Potsdam (65 km)
-2.9. Potsdam – Berlin (35 km)</code></pre>
+2.9. Potsdam – Berlin (35 km)</pre>
 </details>
 <h2 id="fahrradhelm">Fahrradhelm</h2>
 <p><strong>Tragen Sie grundsätzlich einen Helm</strong>, wenn sie im Straßenverkehr fahren?</p>
@@ -341,9 +342,7 @@ Gefunden wurden die Hemminger Alltagsrouten!!!</p>
 <p>Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.</p>
 <h2 id="touren-2020">Touren 2020</h2>
 <p>Trotz Corona konnten wir einige Touren anbieten.</p>
-<p><img src="img/Radeln2020-Gantt.png" /></p>
-<!-- ``` mermaid
-gantt
+<pre class="mermaid">gantt
 %% Ein spezialformt zum Zeichnen von Zeitachsen
 
 dateFormat  YYYY-MM-DD
@@ -359,8 +358,7 @@ Abend - Rethen, Bockemer Holz:               2020-09-02, 1d
 Abend - Ruthe, Sarstedt:                     2020-09-09, 1d
 Tages - Durchs grüne Hannover zum Wietzesee: crit, 2020-09-16, 1d
 Abend - Gehrdener Berg:                      2020-09-29, 1d
-Abend - Ruthe, Sarstedt, Ahrbergen:          2020-10-07, 1d
-``` -->
+Abend - Ruthe, Sarstedt, Ahrbergen:          2020-10-07, 1d</pre>
 <details>
 <p><summary>Unsere Touren 2020! Klick hier</summary></p>
 <h2 id="abendtour-520-2020-10-07-mi.">Abendtour 5/20 2020-10-07-Mi.</h2>
@@ -722,7 +720,7 @@ Fußnote
 <p><a href="pdf\Datenschutzerklaerung_ADFC_2018-1-KV.pdf">Datenschutzerklärung</a></p>
 <h3 id="letzte-aktualisierung">Letzte Aktualisierung</h3>
 <ul>
-<li>30.05.2021_11:39</li>
+<li>31.05.2021_18:18</li>
 </ul>
 </body>
 </html>

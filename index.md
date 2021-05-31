@@ -1,3 +1,6 @@
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+<script>mermaid.initialize({startOnLoad:true});</script>
+
 <iframe src="bannerSozi\bannerAnimated.sozi.html" width="100%" height="90" frameBorder="0">
     ADFC Banner
 </iframe>
@@ -136,8 +139,9 @@ Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförder
 
 > vom 06. Juni bis 26. Juni 2021
 
-![](img\Radeln2021-Gantt.png)
-<!--``` mermaid
+<!--![](img\Radeln2021-Gantt.png)-->
+
+``` mermaid
 gantt
 dateFormat  YYYY-MM-DD
 title Gemeinsames Radeln 2021
@@ -148,7 +152,7 @@ section 2020
 section Stadtradeln
 Stadtradeln 2021: 2020-06-02, 2020-06-26
 
-``` -->
+```
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -417,9 +421,7 @@ Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alf
 
 Trotz Corona konnten wir einige Touren anbieten.
 
-![](img/Radeln2020-Gantt.png)
-
-<!-- ``` mermaid
+``` mermaid
 gantt
 %% Ein spezialformt zum Zeichnen von Zeitachsen
 
@@ -437,7 +439,7 @@ Abend - Ruthe, Sarstedt:                     2020-09-09, 1d
 Tages - Durchs grüne Hannover zum Wietzesee: crit, 2020-09-16, 1d
 Abend - Gehrdener Berg:                      2020-09-29, 1d
 Abend - Ruthe, Sarstedt, Ahrbergen:          2020-10-07, 1d
-``` -->
+```
 
 <details>
   <summary>Unsere Touren 2020! Klick hier</summary>
