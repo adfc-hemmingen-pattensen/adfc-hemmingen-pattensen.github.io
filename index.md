@@ -150,7 +150,7 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 ## Eilmeldung
 <div class="holder" style="width: 100%; height:400px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
-<div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\bannerOhneLogo.png" height=100% alt=""></div>
+<div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\BannerEilmeldung.png" height=100% alt=""></div>
 </div>
 
 ## Stadtradeln 2021
