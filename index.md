@@ -39,7 +39,13 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 </table>
 </div>
 
-### Achtung neue Baustelle: <br>Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
+STADTRADELN
+: Vom 06.06.21 - 26.06.21 findet in der Region Hannover wieder das Stadtradeln statt. [Details](#stadtradeln-2021)
+
+Achtung neue Baustelle
+: Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
+
+
 <!-- 2021-05-30-Sun -->
 
 <!-- =====================================================================
@@ -59,20 +65,27 @@ Der ADFC Hemmingen Pattensen ([Allgemeiner Deutscher Fahrrad Club](https://www.a
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-1. Eine sichere und bessere Fahrradinfrastruktur (Radverkehrspolitik)
-2. Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist (Öffentlichkeitsarbeit)
-3. Touristisches Erleben der Region Hannover und darüber hinaus (Radtouren)
-4. Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). 
+Radverkehrspolitik
+: Eine sichere und bessere Fahrradinfrastruktur
+
+Öffentlichkeitsarbeit
+: Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist 
+
+Radtouren
+: Touristisches Erleben der Region Hannover und darüber hinaus 
+
+Fahrrad-Selbsthilfewerkstatt
+: Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). 
 
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
 **Gliederungen**
 
-    -  [ADFC e.V.](https://www.adfc.de/)
-      - [ADFC Niedersachsen](https://www.adfc-niedersachsen.de/)
-        - [ADFC Hannover Region](https://hannover-region.adfc.de/)
-          - ADFC Hemmingen
-          - ADFC Pattensen
+- [ADFC e.V.](https://www.adfc.de/)
+  - [ADFC Niedersachsen](https://www.adfc-niedersachsen.de/)
+    - [ADFC Hannover Region](https://hannover-region.adfc.de/)
+      - ADFC Hemmingen
+      - ADFC Pattensen
 
 **ADFC Hemmingen Pattensen Neuzugänge**
 
@@ -153,13 +166,16 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 <div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\BannerEilmeldung.png" height=100% alt=""></div>
 </div>
 
+
 ## Stadtradeln 2021
 
 Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
 
 > vom 06. Juni bis 26. Juni 2021
 
-<!--![](img\Radeln2021-Gantt.png)-->
+### STADTRADEL-Auftakt am Sonntag
+Zum Auftakt des Stadtradeln findet am Sonntag, 06.06.21 eine [Fahrraddemo](https://hannover-region.adfc.de/neuigkeit/fahrraddemonstration-ueber-den-suedschnellweg) statt, bei der wir über den Südschnellweg radeln werden und so die ersten Kilometer fürs Stadtradeln einfahren. 
+Treffpunkt ist der Trammplatz in Hannover um 11 Uhr. Seien Sie dabei! Wir freuen uns.
 
 ``` mermaid
 gantt
@@ -170,7 +186,8 @@ axisFormat  %d.%m
 section 2020
 2020: done, 2020-01-01, 2020-12-31
 section Stadtradeln
-Stadtradeln 2021: 2020-06-02, 2020-06-26
+Stadtradeln 2021: 2020-06-06, 2020-06-26
+Fahrraddemo 6.6.: crit,2020-06-06, 1d 
 
 ```
 
@@ -182,10 +199,10 @@ Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni b
 Hier registrieren:
 
 - Für Hemmingen: [https://www.stadtradeln.de/hemmingen](https://www.stadtradeln.de/hemmingen)
-  - In Hemmingen in der Region Hannover haben sich 60 Radelnde registriert. Stand 22.5.2021
+  - In Hemmingen in der Region Hannover haben sich 143 Radelnde registriert. Stand 2.6.2021
   - Das Team "ADFC Hemmingen" ist eingerichtet.
 - Für Pattensen: [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen)
-  - In Pattensen in der Region Hannover haben sich 36 Radelnde registriert. Stand 22.5.2021
+  - In Pattensen in der Region Hannover haben sich 81 Radelnde registriert. Stand 2.6.2021
 
 oder lade die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
 
@@ -219,6 +236,12 @@ Weitere Informationen finden Sie auf der Homepage der Region Hannover unter
 [https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App).
 
 </details>
+
+## MIT-DEM-RAD-ZUR-ARBEIT
+
+Bereits seit 01. Mai und noch bis 31. August läuft auch die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier können alle mitmachen, es zählen aber nur die Kilometer zur und von der Arbeit.
+
+Alle Informationen und die Anmeldung auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
 
 ## Ein Jahr zum Einstiegspreis 
 
@@ -631,6 +654,9 @@ Für die ADFC Region Hannover **Geschäftsstelle**:
 > Hausmannstr. 9-10<br>
 > 30159 Hannover<br>
 > Tel.: (0511) 16403-12
+
+> Donnerstags 11:00 - 14:00 Uhr und 15:00 - 18:00 Uhr
+> Samstags 11:00 - 14:00 Uhr (erstmal bis Ende August 2021) - Stand 2.6.2021
 
 ### Sprecherteam
 
