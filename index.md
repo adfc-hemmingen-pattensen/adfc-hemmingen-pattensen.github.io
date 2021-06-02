@@ -42,6 +42,9 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 STADTRADELN
 : Vom 06.06.21 - 26.06.21 findet in der Region Hannover wieder das Stadtradeln statt. [Details](#stadtradeln-2021)
 
+Sperrung auf der Weetzener Landstraße
+: Ab Donnerstag, dem 03. Juni 2021 wird die Weetzener Landstraße ab der Göttinger Landstraße und von der Heinrich-Hertz-Straße für ca. 6 Wochen vollständig gesperrt. Ob das auch für Radfahrende gilt, entzieht sich unserer Kenntnis. [Mehr](https://www.stadthemmingen.de/portal/meldungen/sperrung-auf-der-weetzener-landstrasse-907000947-22500.html?rubrik=907000001) - 2021-06-02.
+
 Achtung neue Baustelle
 : Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
 
@@ -133,9 +136,8 @@ Spontane, kostenlose Feierabendradtouren werden bei entsprechendem Wetter (Somme
 
 ### Tourenkarten
 
-**NEU: Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt**
-
-**Tipp Radtouren:** Weitere ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](https://www.adfc-hannover.de/termine/) zu finden.
+- Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt.
+- Weitere ausgewählte Radtouren der Nachbar Ortsgruppen sind unter [ADFC Region Hannover Termine](https://www.adfc-hannover.de/termine/) zu finden.
 
 ### Hannah das ausleihbare Lastenrad
 
@@ -164,6 +166,7 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 <div class="holder" style="width: 100%; height:400px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
 <div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\BannerEilmeldung.png" height=100% alt=""></div>
+<div style="position:absolute; top:344px; left:2px; width:100%; height:58px;"><img src="img\BannerEilmeldungUnten.png" height=100% alt=""></div>
 </div>
 
 
@@ -194,7 +197,7 @@ Fahrraddemo 6.6.: crit,2020-06-06, 1d
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnen, arbeiten, einem Verein angehören oder eine (Hoch-)Schule besuchen, können beim STADTRADELN mitmachen.
+Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnen, arbeiten, einem Verein angehören oder eine (Hoch-)Schule besuchen, können beim STADTRADELN mitmachen. Natürlich ist die Ernst-Reuter-Schule auch wieder dabei.
 
 Hier registrieren:
 
@@ -205,6 +208,7 @@ Hier registrieren:
   - In Pattensen in der Region Hannover haben sich 81 Radelnde registriert. Stand 2.6.2021
 
 oder lade die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
+
 
 ---
 
@@ -273,6 +277,8 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
     <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
   </tr>
 </table> 
+
+> Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
 ## Technische Sachbearbeitung für Planung von Radverkehrsanlagen (m/w/d)
 
@@ -396,11 +402,11 @@ Einrichtung von Fahrradzonen
 
 ![](img\UnfallorteHem2019_c_unfallatlas.statistikportal.de.jpg)
 
-Die Grafik zeigt Unfallorte mit Fahrradbeteiligung in Hemmingen 2019 aus dem Unfallatlas [https://unfallatlas.statistikportal.de/](https://unfallatlas.statistikportal.de/). Letzter Stand vom 19.05.2021.
+Die Grafik zeigt Unfallorte mit Fahrradbeteiligung in Hemmingen 2019 aus dem Unfallatlas <https://www.statistikportal.de/de/karten/unfallatlas>. Nächste Aktualisierung: Juli 2021.
 
 **Aktuell**: Die HAZ hat am 17.05.2021 berichtet, dass im Bereich des Kommissariats Ronnenberg sich die Zahl der Unfälle mit Radfahrern 2020 verdoppelt hat.
 
-Zitat: "Auffällig in der jetzt vorgelegten Unfallstatistik ist, dass die Zahl der beteiligten Radfahrer sich mehr als verdoppelt hat: von 68 im Jahr 2019 auf 139. Nur 21 Radler blieben unbeschadet. 93 verletzten sich leicht, 25 Radfahrer sogar schwer."
+> Zitat: "Auffällig in der jetzt vorgelegten Unfallstatistik ist, dass die Zahl der beteiligten Radfahrer sich mehr als verdoppelt hat: von 68 im Jahr 2019 auf 139. Nur 21 Radler blieben unbeschadet. 93 verletzten sich leicht, 25 Radfahrer sogar schwer."
 
 Das PK Ronnenberg umfasst die Gemeinden: Wennigsen, Gehrden, Empelde, Ronnenberg und Hemmingen Arnum.
 
