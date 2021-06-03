@@ -31,8 +31,8 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
-    <td> <a href="#kontakt">Impressum</a>
-    <br> <a href="#mitgliedsschaft">Mitgliedschaft</a>
+    <td> <a href="#impressum">Impressum</a>
+    <br> <a href="#mitgliedsschaft">Werde Mitglied</a>
     <br> <a href="#konto">Spendenkonto</a> </td>
   </tr>
 </tbody>
@@ -109,7 +109,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 <!-- **Die Fahrrad-Selbsthilfe-Werkstatt (FSW)** des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 
-Die Fahrrad-Selbsthilfe-Werkstatt des ADFC Hemmingen Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen, **bleibt vorerst geschlossen**, bis die Corona bedingten Auflagen einen Betrieb wieder ermöglichen. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+Aufgrund der gesunkenen Corona Inzidenzwerte wird die Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen zunächst in einem Notbetrieb für Geflüchtete und Bedürftige öffnen. Wenn sich diese Entwicklung stabilisiert hat und eine reguläre Öffnung möglich wird, geben wir dies auf dieser Homepage und über die Tagespresse bekannt. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
 <details>
   <summary>Weitere Services</summary>
@@ -646,6 +646,8 @@ Mehr aus der [Vergangenheit](waswar.html).
   </tr>
 </table> 
 
+## Impressum
+
 ### Kontakt 
 
 Für die Ortsgruppe **Jens Spille**
@@ -661,7 +663,7 @@ Für die ADFC Region Hannover **Geschäftsstelle**:
 > 30159 Hannover<br>
 > Tel.: (0511) 16403-12
 
-> Donnerstags 11:00 - 14:00 Uhr und 15:00 - 18:00 Uhr
+> Donnerstags 11:00 - 14:00 Uhr und 15:00 - 18:00 Uhr  
 > Samstags 11:00 - 14:00 Uhr (erstmal bis Ende August 2021) - Stand 2.6.2021
 
 ### Sprecherteam
