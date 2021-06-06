@@ -172,13 +172,11 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 
 ## Stadtradeln 2021
 
+![](https://i.imgur.com/yj8BefA.jpg)
+
 Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
 
 > vom 06. Juni bis 26. Juni 2021
-
-### STADTRADEL-Auftakt am Sonntag
-Zum Auftakt des Stadtradeln findet am Sonntag, 06.06.21 eine [Fahrraddemo](https://hannover-region.adfc.de/neuigkeit/fahrraddemonstration-ueber-den-suedschnellweg) statt, bei der wir über den Südschnellweg radeln werden und so die ersten Kilometer fürs Stadtradeln einfahren. 
-Treffpunkt ist der Trammplatz in Hannover um 11 Uhr. Seien Sie dabei! Wir freuen uns.
 
 ``` mermaid
 gantt
@@ -202,10 +200,9 @@ Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni b
 Hier registrieren:
 
 - Für Hemmingen: [https://www.stadtradeln.de/hemmingen](https://www.stadtradeln.de/hemmingen)
-  - In Hemmingen in der Region Hannover haben sich 143 Radelnde registriert. Stand 2.6.2021
   - Das Team "ADFC Hemmingen" ist eingerichtet.
 - Für Pattensen: [https://www.stadtradeln.de/pattensen](https://www.stadtradeln.de/pattensen)
-  - In Pattensen in der Region Hannover haben sich 81 Radelnde registriert. Stand 2.6.2021
+  - Das Team "ADFC Pattensen" ist eingerichtet.
 
 oder lade die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
 
