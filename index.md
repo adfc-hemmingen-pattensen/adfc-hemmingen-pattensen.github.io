@@ -42,8 +42,9 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 STADTRADELN
 : Vom 06.06.21 - 26.06.21 findet in der Region Hannover wieder das Stadtradeln statt. [Details](#stadtradeln-2021)
 
-Sperrung auf der Weetzener Landstraße
-: Ab Donnerstag, dem 03. Juni 2021 wird die Weetzener Landstraße ab der Göttinger Landstraße und von der Heinrich-Hertz-Straße für ca. 6 Wochen vollständig gesperrt. Ob das auch für Radfahrende gilt, entzieht sich unserer Kenntnis. [Mehr](https://www.stadthemmingen.de/portal/meldungen/sperrung-auf-der-weetzener-landstrasse-907000947-22500.html?rubrik=907000001) - 2021-06-02.
+<div style="width: auto !important; min-width: 375px; max-width: 415px; height: 415px;">
+<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=32443"></iframe>
+</div>
 
 Achtung neue Baustelle
 : Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
