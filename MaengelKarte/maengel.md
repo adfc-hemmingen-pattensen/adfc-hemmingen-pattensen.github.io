@@ -24,7 +24,8 @@
 
 ### Status:
 
- offen
+ 28.04.2021 HAZ Artikel "Politiker fordern neuen Radweg" - Von Hiddestorf nach Lüdersen: Hemminger Stadtverwaltung freut sich über die Unterstützung der Ortsräte aus Springe - Hiddestorf. Die Stadt Hemmingen bekommt für ihr Radverkehrskonzept Unterstützung aus Springe: Die Ortsräte Lüdersen und Bennigsen fordern den Bau eines befestigten Radwegs von Hiddestorf nach Lüdersen. Dieser Abschnitt wird auch im Hemminger Verkehrskonzept als „Route 1. Ordnung“ bezeichnet. Die Stadt sieht
+diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 ---
 

@@ -30,6 +30,7 @@ doskey s=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
 doskey h=pandoc -o %fn%Temp.html %fn%Temp.md  -t html5 -s -c github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
 doskey m=sed "s/<\/\?code>//g" %fn%Temp.html $g %fn%.html
 doskey d=pandoc -o %fn%.docx %fn%Temp.md 
+doskey r=pandoc -o %fn%.rst %fn%Temp.md 
 doskey p=pandoc -o %fn%.pdf %fn%Temp.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex
 doskey q=pandoc -o %fn%.pdf %fn%Temp.md -f gfm -V geometry:a4paper -V geometry:margin=2.5cm --pdf-engine=xelatex -H PanDocChapter_break.tex 
 doskey f=%fn%.html
