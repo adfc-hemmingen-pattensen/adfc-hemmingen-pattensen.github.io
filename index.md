@@ -278,6 +278,12 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 
 > Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
+## Ortsdurchfahrt Hiddestorf: Land hebt 27 Jahre alte Tempo-Bremse auf
+
+Auslöser für die Prüfung durch das Verkehrsministerium war eine von der Niedersächsischen Landesbehörde für Straßenbau und Verkehr (NLStBV) abgelehnte Förderung für den Neubau der Brücke über die Arnumer Landwehr im Zuge der K 226. Wegen der geltenden Geschwindigkeitsbegrenzung in Hiddestorf seien die Voraussetzungen dafür nicht mehr gegeben. Der ADFC ist gegen die Erhöhung der Geschwindigkeit. Eine Erhöhung der Geschwindigkeit erhöht sowohl die Unfallgefahr als auch das Sicherheitsgefühl. 
+
+> 10.06.2021
+
 ## Technische Sachbearbeitung für Planung von Radverkehrsanlagen (m/w/d)
 
 <!-- 29. Mai 2021 bis Bewerbungsfrist: 20.06.2021 -->
