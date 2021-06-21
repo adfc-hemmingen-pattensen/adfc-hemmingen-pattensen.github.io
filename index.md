@@ -135,6 +135,25 @@ In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechendem Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns, wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
+### Am 23. Juni gehts zur Anderter Schleuse
+
+Wir starten in Hemmingen am Rathausplatz 1, um 17:00 Uhr, damit wir rechtzeitig zum Fußball um 21:00  wieder zurück sind.
+
+
+``` mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Gemeinsames Radeln 2021
+axisFormat  %d.%m
+
+section 2020
+2020: done, 2020-01-01, 2020-12-31
+section Stadtradeln
+Stadtradeln 2021: 2020-06-06, 2020-06-26
+Fahrraddemo 6.6.: done, 2020-06-06, 1d 
+Anderter Schleuse: crit, 2020-06-23, 1d
+
+```
 ### Tourenkarten
 
 - Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt.
@@ -179,19 +198,6 @@ Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförder
 
 > vom 06. Juni bis 26. Juni 2021
 
-``` mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Gemeinsames Radeln 2021
-axisFormat  %d.%m
-
-section 2020
-2020: done, 2020-01-01, 2020-12-31
-section Stadtradeln
-Stadtradeln 2021: 2020-06-06, 2020-06-26
-Fahrraddemo 6.6.: crit,2020-06-06, 1d 
-
-```
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
