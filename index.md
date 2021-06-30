@@ -135,25 +135,6 @@ In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechendem Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns, wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
 
-### Am 23. Juni gehts zur Anderter Schleuse
-
-Wir starten in Hemmingen am Rathausplatz 1, um 17:00 Uhr, damit wir rechtzeitig zum Fußball um 21:00  wieder zurück sind.
-
-
-``` mermaid
-gantt
-dateFormat  YYYY-MM-DD
-title Gemeinsames Radeln 2021
-axisFormat  %d.%m
-
-section 2020
-2020: done, 2020-01-01, 2020-12-31
-section Stadtradeln
-Stadtradeln 2021: 2020-06-06, 2020-06-26
-Fahrraddemo 6.6.: done, 2020-06-06, 1d 
-Anderter Schleuse: crit, 2020-06-23, 1d
-
-```
 ### Tourenkarten
 
 - Tipps für Touren haben wir auf unsere [Tourenkarte](http://adfc-hemmingen-pattensen.github.io/Touren/) für Euch zusammen gestellt.
@@ -190,11 +171,118 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 </div>
 
 
+## MIT-DEM-RAD-ZUR-ARBEIT
+
+Bereits seit 01. Mai und noch bis 31. August läuft auch die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier können alle mitmachen, es zählen aber nur die Kilometer zur und von der Arbeit.
+
+Alle Informationen und die Anmeldung auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
+
+## Ein Jahr zum Einstiegspreis 
+
+Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr!  
+Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
+
+<details>
+  <summary>Klick hier für mehr Details!</summary>
+
+Sie erhalten das komplette Vorteilpaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
+
+Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
+
+</details>
+
+## Termine
+
+<p>**<a href="https://teamup.com/ksju1rrabvbvttzec9">Vollbildanzeige</a>** - Ein Service von [Teamup Solutions AG in Zurich](https://www.teamup.com/)</p>
+
+<div class="holder" style="width: 100%; height:500px; position:relative;">
+<iframe width="100%" height="100%" src="https://teamup.com/ksju1rrabvbvttzec9" frameborder="1"></iframe>
+</div>
+
+<!-- =====================================================================
+     Artikel
+     ===================================================================== -->
+<table id="artikel" style="width:100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
+  </tr>
+</table> 
+
+> Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
+
+
+## Fahrradtouren 2021
+
+``` mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Gemeinsames Radeln 2021
+axisFormat  %d.%m
+
+section 2021
+2020: done, 2021-01-01, 2021-12-31
+section Stadtradeln
+Stadtradeln 2021:  2021-06-06, 2021-06-26
+Fahrraddemo 6.6.:  done, 2021-06-06, 1d
+Anderter Schleuse: done, 2021-06-23, 1d
+Gehrden:           done, 2021-06-30, 1d
+
+```
+
+## Abendtour #2/21   2021-06-30-Mi.
+
+Die 2. Feierabend-Radtour startete am Mittwoch den 30. Juni mit 7 Radlern. Bei dunklen Wolken und angekündigtem Regen fuhren wir gen Westen über Wettbergen nach Ronnenberg und weiter Richtung Gehrden. Anschliessend fuhren wir nach Lemmie und danach ging es am Bahndamm entlang nach Weetzen. Über Vörie ging es dann weiter nach Ihme-Roloven. An den Wasserbüffeln vorbei umfuhren wir Ihme-Roloven und dann ging es weiter durch das Bürgerholz nach Hemmingen, das wir nach ca. 2,5 Std. und 33 km, immer noch trocken, erreichten.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+ 
+Tourenziel       | Gehrden
+---------------: | ----------------------- 
+Datum            | 2019-06-30-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 7
+Tourenlänge [km] | 33
+Wetter           | Dunkle Wolken mit Regenankündigung
+
+
+</details>
+
+
+## Abendtour #1/21   2021-06-23-Mi.
+
+Die 1. Feierabend-Radtour ging am Mittwoch den 23. Juni mit 13 Radlern (11 Herren und 2 Damen) bei gutem Wetter, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es durch den Herrmann-Löns-Park mit der "Alten Mühle", einer Bockwindmühle, zur Anderter Schleuse. Nach einer kurzen Rast ging es auf den höchsten Punkt des Kronsbergs (118 m ü. NN). Die schöne Aussicht über Hannover, den Deister und die Hildesheimer Berge entschädigte für den letzten steilen Anstieg. Am Wiesendachhaus konnten wir noch einen schönen Zwischenstop einlegen. Nach ca. 3 Std. und 34 km erreichten wir wieder Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+ 
+Tourenziel       | Anderter Schleuse u. Kronsberg
+---------------: | ----------------------- 
+Datum            | 2021-06-23-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 13
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+
+
+</details>
+
 ## Stadtradeln 2021
 
 ![](https://i.imgur.com/yj8BefA.jpg)
 
-Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
+Beim Wettbewerb STADTRADELN traten die Hemminger und Pattenser 21 Tage in die Pedale für mehr Radförderung, Klimaschutz und Lebensqualität in unserer Kommune.
 
 > vom 06. Juni bis 26. Juni 2021
 
@@ -202,7 +290,7 @@ Beim Wettbewerb STADTRADELN tritt man 21 Tage in die Pedale für mehr Radförder
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Die Städte Hemmingen und Pattensen in der Region Hannover nehmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnen, arbeiten, einem Verein angehören oder eine (Hoch-)Schule besuchen, können beim STADTRADELN mitmachen. Natürlich ist die Ernst-Reuter-Schule auch wieder dabei.
+Die Städte Hemmingen und Pattensen in der Region Hannover nahmen vom 06. Juni bis 26. Juni 2021 am STADTRADELN teil. Alle, die in den Städten in der Region Hannover wohnten, arbeiteten, einem Verein angehören oder eine (Hoch-)Schule besuchen, konnten beim STADTRADELN mitmachen.
 
 Hier registrieren:
 
@@ -244,45 +332,6 @@ Weitere Informationen finden Sie auf der Homepage der Region Hannover unter
 [https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App](https://www.hannover.de/Leben-in-der-Region-Hannover/Umwelt-Nachhaltigkeit/Klimaschutz-Energie/Klimaschutzregion-Hannover/Aktivitäten-der-Region-Hannover/Mobilität/Kostenlose-Fahrrad-App).
 
 </details>
-
-## MIT-DEM-RAD-ZUR-ARBEIT
-
-Bereits seit 01. Mai und noch bis 31. August läuft auch die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier können alle mitmachen, es zählen aber nur die Kilometer zur und von der Arbeit.
-
-Alle Informationen und die Anmeldung auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
-
-## Ein Jahr zum Einstiegspreis 
-
-Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr!  
-Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
-
-<details>
-  <summary>Klick hier für mehr Details!</summary>
-
-Sie erhalten das komplette Vorteilpaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
-
-Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
-
-</details>
-
-## Termine
-
-<p>**<a href="https://teamup.com/ksju1rrabvbvttzec9">Vollbildanzeige</a>** - Ein Service von [Teamup Solutions AG in Zurich](https://www.teamup.com/)</p>
-
-<div class="holder" style="width: 100%; height:500px; position:relative;">
-<iframe width="100%" height="100%" src="https://teamup.com/ksju1rrabvbvttzec9" frameborder="1"></iframe>
-</div>
-
-<!-- =====================================================================
-     Artikel
-     ===================================================================== -->
-<table id="artikel" style="width:100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
-  </tr>
-</table> 
-
-> Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
 ## Ortsdurchfahrt Hiddestorf: Land hebt 27 Jahre alte Tempo-Bremse auf
 
