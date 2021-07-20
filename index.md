@@ -39,18 +39,6 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 </table>
 </div>
 
-STADTRADELN
-: Vom 06.06.21 - 26.06.21 findet in der Region Hannover wieder das Stadtradeln statt. [Details](#stadtradeln-2021)
-
-<div style="width: auto !important; min-width: 375px; max-width: 415px; height: 415px;">
-<iframe style="width: 100%; height: 100%;" frameborder="0" scrolling="no" src="https://www.stadtradeln.de/fileadmin/radelkalender/embed/radelmeter-team.php?sr_team_id=32443"></iframe>
-</div>
-
-Achtung neue Baustelle
-: Umbau der K 225, zwischen Devese und Ohlendorf, beginnt ab 31. Mai. Mehr zur K 225 gibt es [hier](#k-225-wird-nach-115-jahren-wieder-feldweg).
-
-
-<!-- 2021-05-30-Sun -->
 
 <!-- =====================================================================
      Rubriken
@@ -210,7 +198,6 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 
 > Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
-
 ## Fahrradtouren 2021
 
 ``` mermaid
@@ -229,6 +216,11 @@ Gehrden:           done, 2021-06-30, 1d
 Ruthe:             done, 2021-07-07, 1d
 
 ```
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
 
 ## Abendtour #3/21   2021-07-07-Mi.
 
@@ -302,6 +294,18 @@ Wetter           | heiter bis wolkig
 
 
 </details>
+</details>
+
+
+## Polizei kontrolliert den Seitenabstand beim Überholen von Radfahrenden
+
+Aus dem [Presseportal](https://www.presseportal.de/blaulicht/pm/66841/4972371) der Polizei:
+
+> Die Fahrradstaffel der Polizei Hannover hat am Montagmorgen, 19.07.2021, im Berufsverkehr eine Kontrollstelle in der Wedekindstraße eingerichtet. Die Beamten hatten Autofahrende im Blick, die Radfahrende überholt haben. Dabei stellten sie auf einer kurzen Kontrollstrecke bei 33 Überholmanöver 17 Verstöße fest.
+> ...
+> Zur Stärkung des Radverkehrs wurden mit Wirkung vom 28.04.2020 verschiedene Neuerungen im Radverkehr eingeführt. ... Demnach müssen Kraftfahrzeugfahrende beim Überholen von zu Fuß Gehenden, Radfahrenden und Elektrokleinstfahrzeugführenden (z.B. E-Scooter) einen Mindestüberholabstand von 1,5 Meter innerorts und zwei Metern außerorts einhalten. Dieser Mindestabstand gilt auch bei separat geführten vorhandenen Radverkehrsanlagen.
+
+> ![Seitenabstandsmessung-Abstand-OK (c) Presseportal - 2021](img\Seitenabstandsmessung-Abstandok.jpg)
 
 ## Stadtradeln 2021
 
