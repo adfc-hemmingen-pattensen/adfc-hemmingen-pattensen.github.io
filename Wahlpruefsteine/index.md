@@ -3,9 +3,10 @@
     ADFC Banner
 </iframe>
 
-# [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
+## [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
 > Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
+# Wer soll Bürgermeisterin oder Bürgermeister von Hemmingen werden?
 
 Wir vom ADFC Hemmingen / Pattensen möchten unseren Mitgliedern und der Öffentlichkeit eine weitere Entscheidungshilfe zur Wahl der/des Bürgermeister:in geben. Dazu haben wir folgende ACHT Fragen an unsere Bürgermeisterkandidaten:innen geschickt. Die gesammelten Antworten haben wir "ungefiltert" hier auf unserer Webseite [https://adfc-hemmingen-pattensen.github.io/Wahlpruefsteine/index.html](https://adfc-hemmingen-pattensen.github.io/Wahlpruefsteine/index.html) veröffentlicht. Die Presse hat einen Hinweis zur Web-Seite bekommen.
 
