@@ -203,7 +203,7 @@ Ich finde diese Initiative sehr wertvoll für alle großen und kleinen, jungen u
 : Ja, das werde ich. 
 
 > Herr Grambeck (Bündnes 90/ Die Grünen)
-: Antwort wird nachgeliefert. 
+: Es ist für mich selbstverständlich, dass die Fahrrad-Selbsthilfewerkstatt in Hemmingen erhalten werden muss. Entweder soll sie erhalten werden am derzeitigen Standort oder es müssen Ersatzräume geschaffen werden. Nach meinem Kenntnisstand stünden noch Kellerräume im Freibad Arnum zur Verfügung. In diesen Räumen befand sich bis 2008 bereits eine Fahrrad-Werkstatt der Leine VHS und dort ist bereits auch die Kleiderkammer untergebracht.
  
 > Herr Harder (Einzelwahl)
 : *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
