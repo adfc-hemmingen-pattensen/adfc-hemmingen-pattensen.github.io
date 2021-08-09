@@ -40,7 +40,20 @@ Radwege müssen in Zukunft breiter und gefährliche Stellen beseitigt werden.
 : Selbstverständlich ist auch „subjektiver Komfort“ ein wichtiger Bestandteil zur Motivation, um Verkehrsnachfrage auf das Fahrrad zu lenken. Er dürfte mindestens so wichtig sein wie der objektive Komfort. Das gilt vor allem AUCH für die Sicherheit. Denn ein sich unsicher fühlender Mensch ist (bei ansonsten gleichen Bedingungen) objektiv unsicherer als ein sich sicher fühlender Mensch.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir hier wiedergeben:*
+: 
+Ich selber bin täglich kombinierter Rad- und Autofahrer. Um meinen Arbeitsplatz in der City von Hannover zu erreichen, fahre ich die Hälfte des Weges mit dem Auto und den Rest dann mit dem Fahrrad, welches immer in meinem Auto mitfährt. In der Innenstadt von Hannover ist es derzeit schon sehr unpraktisch mit dem Auto zu fahren. Es lässt sich aber nicht vermeiden, da ich täglich Ware aus meinem Lager nach Hannover transportiere. 
+: 
+Das Radnetz ist aus meiner Sicht zwischen den Ortsteilen zu optimieren. Im Idealfall so, wie es bereits zwischen Devese und Ronnenberg getätigt wurde. Trotz eigener Zweifel an der Effektivität des neuen Radweges entlang der Landstraße ist die Belegung sehr hoch und ich bin eines Besseren belehrt worden. Selbst Rennradfahrer nutzen den neuen Weg, und erhöhen damit auch ihre eigene Sicherheit, da sie zwischen Devese und Ronnenberg jetzt nicht mehr von Kraftfahrzeugen gefährdet werden.
+: 
+Einen ähnlichen Ausbau fordere ich auch zwischen Hiddestorf und Ihme-Roloven und natürlich auch zwischen den Ortsteilen. Gespräche hierzu sollten schon direkt nach der Wahl mit der Region Hannover aufgenommen und eine Machbarkeitsstudie in Auftrag gegeben werden.
+Ein Radschnellweg könnte ich mir in Hemmingen entlang der alten Bundesstraße und im Anschluss dann an einen potentiellen neuen Radschnellweg im Bereich des Neubaus des Südschnellweges und in Richtung Ricklingen bzw. Döhren gut vorstellen. 
+: 
+Förderwürdig halte ich die private oder dienstlichen Anschaffung von Lastenrädern. Andre Kommunen haben hier bereits fest Zusagen gegenüber Interessenten gemacht. Ich könnte mir eine Bezuschussung der Stadt Hemmingen zwischen 25% bis 50% des Anschaffungspreises vorstellen. 
+: 
+Fahrradabstellanlagen sind flächendeckend in Hemmingen besonders an Haltestellen aufzubieten. Hier sollte aber eine „Höchstparkdauer“ von 2 Wochen angesetzt werden, da ich mich selber über „Fahrradwracks“ an genau diesen Anlagen ärgere, die von ihren Besitzern achtlos angeschlossen worden sind und dann über eine lange Zeit ein trostloses Dasein fristen und nebenbei die Möglichkeit für andere aktive Fahrradfahrer schmälern, einen vermeintlich geeigneten Ort für ihr Fahrrad zu finden. Hier sei auch auf Möglichkeiten für das Abschließen von Lastenrädern hingewiesen, die bekanntlich mehr Platz benötigen als herkömmliche Fahrräder. 
+: 
+Zusammenfassend sei gesagt, daß die Verkehrswende in Hemmingen eingeleitet worden ist und diese auch weiter vorangetrieben wird. Es ist aber keine schwarz/weiss Malerei, sondern fordert eine intelligente Vermischung des ÖPNV und des individualen Verkehrs mit dem Auto, dem Motorrad, dem Fahrrad und natürlich auch dem Fußgänger. 
 
 2. Welche drei Dinge wollen Sie im ersten Jahr einer möglichen Amtszeit umsetzen, um den Radverkehr zu stärken?
 
@@ -77,10 +90,9 @@ Radwege müssen in Zukunft breiter und gefährliche Stellen beseitigt werden.
 3. Im nächsten Jahr werden die Planungen zum Rückbau der B3 Alt in Arnum  konkretisiert. Ziel ist aus meiner Sicht eine weitgehende Verkehrsberuhigung auch um den Durchgangsverkehr herauszuhalten. Der Abschnitt bis zur Wilkenburger Straße erscheint für shared space geeignet und sollte dahingehend geprüft bzw. geplant werden. Diese Planungsoption sollte im Rahmen von Informationsveranstaltungen den Anwohner*innen veranschaulicht werden.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
-
-3. Hemmingen ist bis 2024 als fahrradfreundliche Kommune ausgezeichnet (AGFK Zertifizierung). Bei der “straßenbegleitenden Infrastruktur“ sah die Jury noch Nachholbedarf. Seit dem ist nichts Sichtbares geschehen. Welche konkreten Schritte werden Sie gehen, damit Hemmingen fahrradfreundlicher und weiterhin AGFK zertifiziert wird?
+ 3. Hemmingen ist bis 2024 als fahrradfreundliche Kommune ausgezeichnet (AGFK Zertifizierung). Bei der “straßenbegleitenden Infrastruktur“ sah die Jury noch Nachholbedarf. Seit dem ist nichts Sichtbares geschehen. Welche konkreten Schritte werden Sie gehen, damit Hemmingen fahrradfreundlicher und weiterhin AGFK zertifiziert wird?
 
 > Frau Dr. Schröder (SPD)
 : 
@@ -117,7 +129,7 @@ Radwege müssen in Zukunft breiter und gefährliche Stellen beseitigt werden.
    - Bei allen Baumaßnahmen muss begleitend geprüft werden, welche Verbesserungen für den Radverkehr mit umgesetzt werden können. (Aufgabenbereich Radverkehrsbeauftragter)
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 4. Auf der Bürgerversammlung im Februar 2020 haben 44 Bürger:innen  175 Verbesserungsvorschläge auf Moderationskarten geschrieben. 120 davon waren mit konkreten Ortsangaben versehen. Link: https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html. - Der ADFC hat auf Grundlage dieser Bürgerbeteiligung ein Routenkonzept erarbeitet und darüber hinaus alle Mängelhinweise aufbereitet. Mit welcher Priorität und welchem jährlichen Budget werden Sie diese Vorschläge umsetzen und welchen Zeitraum sehen Sie dafür als erforderlich an?
 
@@ -139,7 +151,7 @@ Ich möchte mich dafür einsetzen, dass ein Mindestbetrag von 200.000 € pro Ja
 : Zur finanziellen Absicherung habe ich schon unter Punkt 1 erwähnt, dass mindestens 310.000 Euro jährlich zur Verfügung gestellt werden müssen.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 
 5. Die Weetzener Landstraße von Real bis zur B3 alt ist zu eng. Viele Flächen neben dem jetzigen viel zu schmalen Radweg sind Parkplätze oder Ausstellungsflächen (z.B. Mietboxx, Netto, Baustoffe, Mietlift). Werden Sie Flächen ankaufen, um damit den Radweg zu verbreitern?
@@ -155,7 +167,7 @@ Die Weetzener Landstraße (K221) ist eine Kreisstraße und liegt damit im Zustä
 : Zur Anlage von Abbiegespuren ist bereits der Ankauf von privaten Flächen vorgesehen. Der Erwerb eines durchgehenden Streifens wäre sehr begrüßenswert, denn er würde die Möglichkeit eines breiteren Straßenquerschnitts - und damit die sichere Fuß-und Radwegeführung - eröffnen. Die Stadt sollte mit der Region als Straßenbaulastträger entsprechend verhandeln.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 6. Wir fordern Tempo 30 innerorts und die Aufstellung des neuen Verkehrszeichens "Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) durch mehrspurige Kraftfahrzeuge (Zeichen Nr. 277.1) " in engen Ortsdurchfahrten (Wilkenburg, Hemmingen Dorf, Hiddestorf, Harkenbleck) und wenn der Mindestüberholabstand von 1,50 m nicht eingehalten werden kann (Neue Stadtbahnplanung). Stimmen Sie dieser Forderung zu?
 
@@ -170,7 +182,7 @@ Sowohl der Forderung nach Tempo 30 innerorts sowie der Aufstellung des neuen Ver
 : Ja ich stimme dieser Forderung zu. Wie auch die Partei der Grünen setze ich mich für Tempo 30 als Regelgeschwindigkeit innerorts ein. Wenn der Mindestabstand von 1,50 nicht eingehalten werden kann, dann kann nur überholt werden, wenn niemand entgegenkommt. Eine besondere Problematik stellt die B3 alt (Hemmingen-Westerfeld) im Bereich der Stadtbahn da. Dort ist ein Ausweichen wegen der Mittellage der Stadtbahn nicht möglich. 
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 7. Wir fordern eine fußgänger- und fahrradfreundliche Umgestaltung der B3 alt und L 389 in der Arnumer Ortsmitte (Shared Space). Wie stehen Sie zum zukunftsorientierten Umbau von Arnum?
 
@@ -190,7 +202,7 @@ s. auch Antwort zur Frage 2
 : Allgemein möchte ich noch anmerken, dass wir eine bessere Zusammenarbeit der verschiedenen Baulastträger brauchen. Aufgrund von unterschiedlichen Zuständigkeiten bei den Radwegen sollten, Bund, Land, Region und Kommune konstruktiver den Radverkehr fördern und Lösungen erarbeiten, die Vorort als erforderlich gesehen werden.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 8.  Die AGFK Jury lobte besonders die Fahrrad-Selbsthilfewerkstatt in Hemmingen.  Werden Sie sich dafür einsetzen, dass die vorhandenen oder vergleichbare Räumlichkeiten weiterhin dauerhaft zur Verfügung stehen?
 
@@ -206,7 +218,7 @@ Ich finde diese Initiative sehr wertvoll für alle großen und kleinen, jungen u
 : Es ist für mich selbstverständlich, dass die Fahrrad-Selbsthilfewerkstatt in Hemmingen erhalten werden muss. Entweder soll sie erhalten werden am derzeitigen Standort oder es müssen Ersatzräume geschaffen werden. Nach meinem Kenntnisstand stünden noch Kellerräume im Freibad Arnum zur Verfügung. In diesen Räumen befand sich bis 2008 bereits eine Fahrrad-Werkstatt der Leine VHS und dort ist bereits auch die Kleiderkammer untergebracht.
  
 > Herr Harder (Einzelwahl)
-: *ADFC: Wir haben Herrn Harder erst nach bekannt werden seiner Kandidatur angeschrieben. Sobald wir seine Antwort bekommen, werden wir sie veröffentlichen.*
+: *ADFC: Herr Harder hat eine kombinierte Antwort auf alle Fragen gegeben, die wir unter dem Wahlprüfstein 1. wiedergegeben haben.*
 
 
 

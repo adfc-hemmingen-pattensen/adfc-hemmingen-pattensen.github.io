@@ -48,7 +48,7 @@ Wählen verändern die Welt, wenn die Wählenden es so wollen...
 
 Wahlprüfsteine sind ein bewährtes Mittel von den Kandidierenden zu erfahren, wie sie sich grundsätzlich und im Besonderen positionieren, was sie wollen und wie sie es umsetzen würden, wenn...ja wenn sie gewählt werden.
 
-Der ADFC Hemmingen/ Pattensen hat darum 8 Schlüsselfragen an die Kandidierenden für das Amt der Bürgermeisterin des Bürgermeisters in Hemmingen verschickt. Mit Themen wie Tempo 30, Abstandsregeln beim Überholen, Komfort für Radfahrende, Sicherheit, Radwegeausbau, Unterstützung der Fahrrad-Selbsthilfewerkstatt, Stadtverkehrsentwicklung und Budget für Verbesserungen ist viel abgedeckt. Fast alle, Frau Dr. Schröder, Herr Dingeldey, Herr Grambeck haben geantwortet, Herr Harder, dessen Kandidatur kürzlich erst bekannt wurde, hat noch nicht reagiert. Die Antworten sind auf unserer Webseite des ADFC veröffentlicht:
+Der ADFC Hemmingen/ Pattensen hat darum 8 Schlüsselfragen an die Kandidierenden für das Amt der Bürgermeisterin des Bürgermeisters in Hemmingen verschickt. Mit Themen wie Tempo 30, Abstandsregeln beim Überholen, Komfort für Radfahrende, Sicherheit, Radwegeausbau, Unterstützung der Fahrrad-Selbsthilfewerkstatt, Stadtverkehrsentwicklung und Budget für Verbesserungen ist viel abgedeckt. Alle, Frau Dr. Schröder, Herr Dingeldey, Herr Grambeck und Herr Harder haben geantwortet. Die Antworten sind auf unserer Webseite des ADFC veröffentlicht:
 
 - **Link zu den [Wahlprüfsteinen](https://adfc-hemmingen-pattensen.github.io/Wahlpruefsteine/index.html)**.
 
