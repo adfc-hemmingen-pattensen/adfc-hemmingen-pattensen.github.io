@@ -39,6 +39,13 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 </table>
 </div>
 
+# L389: Straßensperrung zwischen Hannover und Wilkenburg
+
+Aufgrund einer Fahrbahn- und Radwegsanierung wird vom 26. August bis zum 30. November 2021 die Wülfeler Straße vom Parkplatz an der Wülfeler Straße bis zur "Pferdeampel" am Ortseingang Wilkenburg voll gesperrt.
+Eine Durchfahrt durch die Wülfeler Straße in diesem Bereich ist für Radefahrende der L389 in der gesamten Bauzeit nicht möglich. Eine Umleitung über "Dorrieweg" und "Im Hammfeld" ist ausgeschildert.
+
+> 2021-08-26-Do.
+
 # Wer soll Bürgermeisterin oder Bürgermeister von Hemmingen werden?
 
 Wählen verändern die Welt, wenn die Wählenden es so wollen...

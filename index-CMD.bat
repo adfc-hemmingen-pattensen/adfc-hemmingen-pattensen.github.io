@@ -26,7 +26,7 @@ echo File to convert is %fn%.md. Today is %DT% %TM% with Git-ID: %GID%
 :: sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md > %fn%Temp.md
 
 @echo on
-:: doskey s=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
+doskey s=sed s/LetzteAenderung/%DT%_%TM%/g %fn%.md $g %fn%Temp.md
 doskey h=pandoc -o %fn%Temp.html %fn%Temp.md  -t html5 -s -c github-pandoc.css -M date="%DT%_%TM%" --metadata pagetitle=%fn%
 doskey m=sed "s/<\/\?code>//g" %fn%Temp.html $g %fn%.html
 doskey d=pandoc -o %fn%.docx %fn%Temp.md 
