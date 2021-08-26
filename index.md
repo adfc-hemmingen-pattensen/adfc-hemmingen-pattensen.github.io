@@ -236,6 +236,10 @@ Fahrraddemo 6.6.:  done, 2021-06-06, 1d
 Anderter Schleuse: done, 2021-06-23, 1d
 Gehrden:           done, 2021-06-30, 1d
 Ruthe:             done, 2021-07-07, 1d
+Benther Berg:      done, 2021-07-14, 1d
+Holtensen:         done, 2021-07-25, 1d
+Julius-Trip-Ring:  done, 2021-08-11, 1d
+Gestorf:           done, 2021-08-25, 1d
 
 ```
 
@@ -243,6 +247,106 @@ Ruthe:             done, 2021-07-07, 1d
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
+## Abendtour 07/21 2021-08-25-Mi.
+
+Die 7. Feierabend-Radtour startete am Mittwoch den 25. August mit 12 Radlern ins Calenberger Land. Wir fuhren durch Pattensen und durch die Feldmark nach Oerie bis zum Oerier Wald. Dort machten wir die erste Rast. Weiter ging es durch Feld, Wiese und Wald nach Gestorf. Der Rückweg, auf dem wir ordentlichen Gegenwind hatten, ging auf einem schönen Feldweg nach Lüdersen und weiter, an den Feldern und Äckern vorbei, nach Hiddestorf. Über Ohlendorf und Devese erreichten wir nach ca. 3 Std
+und 36 km Hemmingen
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Calenberger Land nach Gestorf
+---------------: | ----------------------- 
+Datum            | 2021-08-25-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 12
+Tourenlänge [km] | 36
+Wetter           | heiter bis wolkig und windig
+
+</details>
+
+<!-- Eingestellt am 25.08.2021 -->
+
+## Abendtour 06/21 2021-08-11-Mi.
+
+Die 6. Feierabend-Radtour startete am Mittwoch den 11. August mit 14 Radlern zum Julius-Trip-Ring. Die Fahrt ging durch die Leinemasch zum Maschsee. Dort stiegen wir in den Julius-Trip-Ring ein. Weiter ging es durch die Eilenriede, am Pferdeturm vorbei zum Zoo. An Vier Grenzen überquerten wir die Podbi und fuhren auf den Pastor-Jäckel-Weg, Niedersachsenring und dem Hans-Meinecke-Weg nach Hainholz. 
+Vorbei am Berggarten kamen wir zu den Herrenhäuser Gärten. Am Leibnitz Tempel machten wir eine kurze Rast. Auf der Dornröschenbrücke überquerten wir die Leineund fuhren dann an Leine und Ihme entlang zurück. Nach ca. 3 Stunden flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 33 km Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Julius-Trip-Ring
+---------------: | ----------------------- 
+Datum            | 2021-08-11-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 14
+Tourenlänge [km] | 33
+Wetter           | heiter bis wolkig
+
+</details>
+
+<!-- Eingestellt am 25.08.2021 -->
+
+## Abendtour 05/21 2021-07-25-Mi.
+
+Die 5. Feierabend-Radtour startete am Mittwoch den 28. Juli mit 12 Radlern. Bei ca. 20° fuhren wir gen Westen nach Ihme-Roloven und Vörie. Auf dem Weg nach Holtensen bremste uns ein gesperrter Bahnübergang aus. Die ungeplante Verlängerung ging über Weetzen, an der Bahn entlang nach Lemmie. 
+Über Sorsum ging es durch unbekannte Wege bis kurz vor Bredenbeck und dann kamen wir nach Holtensen. Es war ein schöner Umweg. An der Holtenser Kirche machten wir eine kurze Rast, bevor es über einen schönen Weg am Pastorenteich vorbeiging. Anschliessend fuhren wir auf den Vörier Berg, zum letzten verbliebenen Holtenser Windrad. Nach der Anstrengung hatten wir einen sehr schönen Rundumblick. Weiter fuhren wir dann durch Lüdersen nach Pattensen. 
+Zurück ging es dann durch das Fuchsbachtal über Reden, Harkenbleck nach Hemmingen, das wir nach ca. 3 Std. und 32 km erreichten.
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Holtensen, Vörier Berg
+---------------: | ----------------------- 
+Datum            | 2019-07-28-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 12
+Tourenlänge [km] | 32
+Wetter           | heiter bis wolkig
+
+</details>
+
+<!-- Eingestellt am 25.08.2021 -->
+
+## Abendtour 04/21 2021-07-14-Mi.
+
+Die 4. Feierabend-Radtour startete am Mittwoch den 14. Juli mit 11 Radlern bei gutem Wetter, und führte durch die Leinemasch, am Maschsee vorbei, an die Ihme bis zur Wasserstadt nach Limmer. Von da aus ging es weiter nach Ahlem, vorbei an der Gedenkstätte. Über Verlber, jetzt wieder auf dem Grünen Ring, kamen wir zum Benther Berg. Der Rückweg ging über Empelde, Wettbergen und Devese. 
+Nach ca. 3 Stunden und 34 km kamen wir gut gelaunt in Hemmingen an.
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Ihme, Ahlem, Benther Berg
+---------------: | ----------------------- 
+Datum            | 2021-07-14-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 2 1/2
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+
+</details>
 
 ## Abendtour #3/21   2021-07-07-Mi.
 
