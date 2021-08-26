@@ -612,11 +612,11 @@ Einrichtung von Fahrradzonen
 
 </details>
 
-## Unfallorte mit Fahrradbeteiligung in Hemmingen 2019
+## Unfallorte mit Fahrradbeteiligung in Hemmingen 2020
 
-![](img\UnfallorteHem2019_c_unfallatlas.statistikportal.de.jpg)
+![](img\UnfallorteHem2020_c_unfallatlas.statistikportal.de.jpg)
 
-Die Grafik zeigt Unfallorte mit Fahrradbeteiligung in Hemmingen 2019 aus dem Unfallatlas <https://www.statistikportal.de/de/karten/unfallatlas>. Nächste Aktualisierung: Juli 2021.
+Die Grafik zeigt **Unfallorte mit Fahrradbeteiligung** in Hemmingen 2020 aus dem Unfallatlas <https://www.statistikportal.de/de/karten/unfallatlas>. Nächste Aktualisierung: Juli 2022.
 
 **Aktuell**: Die HAZ hat am 17.05.2021 berichtet, dass im Bereich des Kommissariats Ronnenberg sich die Zahl der Unfälle mit Radfahrern 2020 verdoppelt hat.
 
