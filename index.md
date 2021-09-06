@@ -240,12 +240,37 @@ Benther Berg:      done, 2021-07-14, 1d
 Holtensen:         done, 2021-07-25, 1d
 Julius-Trip-Ring:  done, 2021-08-11, 1d
 Gestorf:           done, 2021-08-25, 1d
+Giftener Seen:     done, 2021-09-01, 1d
 
 ```
 
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
+
+
+## Abendtour 08/21 2021-09-01-Mi.
+
+Die Fahrt ging mit 10 Radlern durch Harkenbleck, Koldingen und Ruthe. Nach einem kurzen Abstieg gelangt man an die Leine und kommt nach Schliekum. Wir fahren über die Leinebrücke und kommen zu den Giftener Seen. Der Rückweg führt uns über Sarstedt, mit Rast an der Eisdiele. Anschließend fahren wir an der Innerste entlang nach Ruthe und weiter nach Koldingen. Durch die Leinemasch fahren wir dann weiter und erreichten Hemmingen nach ca. 3 Std und 
+34 km. 
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Giftener Seen und Sarstedt
+---------------: | ----------------------- 
+Datum            | 2021-09-01-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 17:00
+Dauer [Stunden]  | ca. 3 
+Teilnehmerzahl   | 10
+Tourenlänge [km] | 34
+Wetter           | heiter bis wolkig
+</details>
 
 ## Abendtour 07/21 2021-08-25-Mi.
 
