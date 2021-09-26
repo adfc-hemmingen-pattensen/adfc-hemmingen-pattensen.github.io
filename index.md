@@ -27,7 +27,7 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#artikel'" type="button">Artikel</button> </td>
-    <td> Über Touren <br> Über Verkehrspolitik <br> Über "Dies & Das" </td>
+    <td> <a href="#fahrradtouren-2021">Touren 2021</a> <br> Über Verkehrspolitik <br> Über "Dies & Das" </td>
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
@@ -229,7 +229,7 @@ title Gemeinsames Radeln 2021
 axisFormat  %d.%m
 
 section 2021
-2020: done, 2021-01-01, 2021-12-31
+2021: done, 2021-01-01, 2021-12-31
 section Stadtradeln
 Stadtradeln 2021:  2021-06-06, 2021-06-26
 Fahrraddemo 6.6.:  done, 2021-06-06, 1d
@@ -241,6 +241,8 @@ Holtensen:         done, 2021-07-25, 1d
 Julius-Trip-Ring:  done, 2021-08-11, 1d
 Gestorf:           done, 2021-08-25, 1d
 Giftener Seen:     done, 2021-09-01, 1d
+Ditterker Wald: done, 2021-09-08, 1d
+Eilenriede: done, 2021-09-15, 1d
 
 ```
 
@@ -248,6 +250,52 @@ Giftener Seen:     done, 2021-09-01, 1d
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
+
+## Abendtour #10/21 2021-09-15-Mi.
+
+Die 7. Feierabend-Radtour startete am Mittwoch den 15. September mit 6 Radlern. Bei zeitweise leichtem Nieselregen war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei am Zoo, Seuerndieb. Nach einer kurzen Pause ging es wieder zum Machsee und in die Leinemasch. Nach ca. 2,5 Std. und 26 km erreichten wir, fast trocken, Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Maschsee, Eilenriede
+---------------: | ----------------------- 
+Datum            | 2021-09-26-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 6
+Tourenlänge [km] | 26
+Wetter           | regnerisch
+</details>
+
+<!-- Eingestellt am 16.09.2021 -->
+
+## Abendtour #09/21 2021-09-08-Mi
+
+Die 9. Feierabend-Radtour ging am Mittwoch den 15. Sept. bei gutem Wetter über Wettbergen und Empelde zum Benther Berg. Wir sind gemütlich um die Nordseite geradelt, und dann ging es an Northen vorbei, an vielen Feldern entlang zum Ditterker Wald. Auf guten Wegen fuhren wir im dichten schattigen Wald. Nach einer kurzen Pause ging es nach Everloh. An Ronnenberg vorbei erreichten wir die Kückenmühle, mit anschliessender Einkehr. Nach ca. 3 Stunden, 35 km und einer schönen Fahrt waren wir wieder zurück in Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Benther Berg und Ditterker Wald
+---------------: | -----------------------
+Datum            | 2021-09-26-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 3
+Teilnehmerzahl   | 11
+Tourenlänge [km] | 35
+Wetter           | heiter bis wolkig
+</details>
 
 ## Abendtour 08/21 2021-09-01-Mi.
 
