@@ -5475,3 +5475,121 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ---
 
+<a name="b1cdec5158159d2287e7887da4a3de95"></a>
+
+# Drängelgitter Arnum Gartenplatz
+
+- Plus Code: [8P3P+VP](https://www.google.com/maps/search/?api=1&query=9F4F8P3P%2BVP)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#b1cdec5158159d2287e7887da4a3de95 target="_blank">Link</a>
+- Einstelldatum: 2021-07-25
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Arnum. Gartenplatz – zwischen Gartenstr. Und Göttinger Str.
+
+### Mangel:
+
+ Die Straße Gartenplatz ist zwischen Gartenstr. Und Göttinger Str. durch ein sehr eng gesetztes Drängelgitter gegen Durchgangsverkehr gesichert. Räder mit Kinderanhänger oder Lastenräder haben da kaum eine Chance. Besonders ärgerlich: Für viele Arnumer ist das der verkehrsarme Weg zu Edeka. 
+
+![](img\8P3P+VP_Draengelgitter_Gartenplatz.jpg)
+
+### Maßnahmenvorschlag:
+
+ Drängelgitter entfernen und andere,  Radanhänger/Lastenrad-freundliche,  Lösung installieren.
+
+### Status:
+
+ -  offen
+
+---
+
+<a name="4ab2dbf15aceeaca939a9b6baa5ada0f"></a>
+
+# fehlende Bordsteinabsenkung
+
+- Plus Code: [8P3Q+X2](https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2BX2)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4ab2dbf15aceeaca939a9b6baa5ada0f target="_blank">Link</a>
+- Einstelldatum: 2021-07-25
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Arnum: Göttinger Straße gegenüber der Einmündung Gartenplatz / neben Edeka
+
+### Mangel:
+
+ Kommt man mit dem Rad vom Gartenplatz und will zu Edeka, fehlt gegenüber der Einmündung der Straße Gartenplatz ein abgesenkter Bordstein auf der Göttinger Str. (auf der Seite von Edeka). Radfahrer müssen entweder verkehrswidrig auf dem Fußweg bis gegenüber der Edeka-Parkplatzeinfahrt fahren, wo die Überquerung der Göttinger Str. durch die Parkplatz Ein- und Ausfahrt unübersichtlich und gefährlich ist. Oder man muss südlich bis zur „Schulampel“ (Klapperweg) fahren, was wiederum nur verkehrswidrig auf dem Fußweg möglich ist. 
+
+![](img\8P3Q+X2_Edeka_Arnum.jpg)
+
+### Maßnahmenvorschlag:
+
+ Bordsteinabsenkung herstellen
+
+### Status:
+
+ - offen
+
+---
+
+<a name="53c0683e345f1623a04dd4fba3a8fb7f"></a>
+
+# Straßenbelag und Übergang zur Entwässerungsrinne gefährlich für Radfahrer
+
+- Plus Code: [7PJ6+MR](https://www.google.com/maps/search/?api=1&query=9F4F7PJ6%2BMR)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#53c0683e345f1623a04dd4fba3a8fb7f target="_blank">Link</a>
+- Einstelldatum: 2021-07-25
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Hiddestorf. Hauptstraße zwischen Schulstraße und Kampfelder Hof (Fahrtrichtung Ohlendorf)
+
+### Mangel:
+
+ In der Hauptstraße ist in Fahrtrichtung Ohlendorf der Fahrbahnbelag und der Übergang zur Entwässerungsrinne so stark zerfahren/zerbrochen/abgesackt, dass selbst für geübte Radfahrer sehr hohe Sturzgefahr besteht 
+
+![](img\7PJ6+MR_Hiddestorf-1.jpg) 
+
+![](img\7PJ6+MR_Hiddestorf-2.jpg).
+
+### Maßnahmenvorschlag:
+
+ Belag reparieren
+
+### Status:
+
+ - offen
+
+---
+
+<a name="dc399becb28e9c3628e3f89cbdd53acf"></a>
+
+# fehlende Überquerungsmöglichkeit für Fußgänger, Kinderwagen, Rollstuhlfahrer und Radler fehlt
+
+- Plus Code: [8P8C+7M](https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2B7M)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dc399becb28e9c3628e3f89cbdd53acf target="_blank">Link</a>
+- Einstelldatum: 2021-07-25
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Alfred-Benz-Str / real-Markt / Stanze Gartencenter
+
+### Mangel:
+
+ Wer als Nicht-Autofahrer vom real-Markt zum Stanze-Gartencenter möchte, muss entweder durch die Grünanlagen oder auf der Straße laufen. Siehe beigefügtes Foto von Google Maps/Satellitenansicht. Der Fußweg incl. abgesenktem Bordstein auf der Straßenseite von Stanze führt auf der gegenüberliegenden Straßenseite direkt in die Grünrabatte. Der inzwischen entstandene Trampelpfad ist nur für Fußgänger, die nicht auf eine glatte Wegoberfläche angewiesen sind, nutzbar. Damit müssen Kinderwagen, Rollstuhlfahrer, Radler auf die Straße bzw. Parkplatzzufahrt ausweichen. Das ist nicht zumutbar. 
+
+![](img\8P8C+7M_real-Stanze.jpg)
+
+### Maßnahmenvorschlag:
+
+ Weg auf der Seite von real anlegen, Grünanlage anpassen, Bordstein absenken.
+
+### Status:
+
+ - offen
+
+---
+
