@@ -243,6 +243,8 @@ Gestorf:           done, 2021-08-25, 1d
 Giftener Seen:     done, 2021-09-01, 1d
 Ditterker Wald: done, 2021-09-08, 1d
 Eilenriede: done, 2021-09-15, 1d
+Tierpark Kronsberg: done, 2021-10-13, 1d
+Sarstedt Ahrbergen: done, 2021-10-20, 1d
 
 ```
 
@@ -250,6 +252,53 @@ Eilenriede: done, 2021-09-15, 1d
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
+
+## Abendtour #12/21 2021-10-20-Mi.
+
+Die 12. Radtour startete am Mittwoch den 20. Oktober mit 8 Radlern. Bei stürmischen Winden fuhren wir in die Leinemasch Richtung Rethen. Weiter ging es durch die Koldinger Seenplatte nach Ruthe. An der Innerste entlang ging es nach Saarstedt. Am Bruchgraben, einer sehr schönen Flusslandschaft fuhren wir weiter nach Ahrbergen. Zurück ging es wieder nach Sarstedt zu einem schönen Cafe. Nach einer kurzen Rast ging es dann zurück. Nach ca. 4 Std. und 43 km erreichten wir gut gelaunt Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Sarstedt Ahrbergen
+---------------: | ----------------------- 
+Datum            | 2021-10-20-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 13:00
+Dauer [Stunden]  | ca. 4
+Teilnehmerzahl   | 8
+Tourenlänge [km] | 43
+Wetter           | Wolkig und stürmisch
+</details>
+
+## Abendtour #11/21 2021-10-13-Mi.
+
+Die 11. Radtour startete am Mittwoch den 13. Oktober mit 7 Radlern. Bei zeitweise leichtem Nieselregen war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort weiter durch den Hermann Löns Park zum Tierpark. Nach einer kurzen Pause ging es wieder zum Kronsberg und durch die Leinemasch zurück. Nach ca. 2,5 Std. und 28 km erreichten wir, fast trocken, Hemmingen.
+
+<details>
+  <summary style="background-color: #eeeeee; width: 300px;
+cursor: pointer;">Klick hier für mehr Details!</summary>
+
+<br>
+
+Tourenziel       | Tierpark Kronsberg
+---------------: | ----------------------- 
+Datum            | 2021-10-13-Mi
+Tourenrart       | Feierabend
+Tourenleiter     | Günther Kleinod
+Start            | Hemmingen Rathaus 16:00
+Dauer [Stunden]  | ca. 2,5
+Teilnehmerzahl   | 7
+Tourenlänge [km] | 28
+Wetter           | regnerisch
+</details>
+
+
+<!-- Eingestellt am 16.09.2021 -->
 
 ## Abendtour #10/21 2021-09-15-Mi.
 
