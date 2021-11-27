@@ -31,12 +31,10 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 - ADFC Hemmingen / Pattensen: Kontakt Jens Spille, E-Mail: ![](img\captchaEmail.png)
 - Radwegeführung Stadtbahnbaustelle
 
-> Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Mittwochs, 15 bis 17 Uhr* im Büro Göttinger Landstraße > 44 (neben Volksbank) in Hemmingen-Westerfeld melden.
+> Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstunden: Dientags, 15 bis 17 Uhr* im Büro Göttinger Landstraße 44 (neben Volksbank) in Hemmingen-Westerfeld melden. Telefonnummer (05 11) 3 57 79 80;  E-Mail-Adresse info@infra-hannover.de; Internetadresse [https://www.infra-hannover.de/hemmingenwesterfeld/](https://www.infra-hannover.de/hemmingenwesterfeld/).
 > 
 > ![](https://i.imgur.com/uFiSpSh.png)
 > 
-> - Info: https://www.infra-hannover.de/hemmingenwesterfeld/
-> - Email: https://www.infra-hannover.de/kontakt/
 
 # Notiere neue Schadensmeldungen hier
 
