@@ -39,29 +39,6 @@ Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de
 </table>
 </div>
 
-# L389: Straßensperrung zwischen Hannover und Wilkenburg
-
-Aufgrund einer Fahrbahn- und Radwegsanierung wird vom 26. August bis zum 30. November 2021 die Wülfeler Straße vom Parkplatz an der Wülfeler Straße bis zur "Pferdeampel" am Ortseingang Wilkenburg voll gesperrt.
-Eine Durchfahrt durch die Wülfeler Straße in diesem Bereich ist für Radefahrende der L389 in der gesamten Bauzeit nicht möglich. Eine Umleitung über "Dorrieweg" und "Im Hammfeld" ist ausgeschildert.
-
-> 2021-08-26-Do.
-
-# Wer soll Bürgermeisterin oder Bürgermeister von Hemmingen werden?
-
-Wählen verändern die Welt, wenn die Wählenden es so wollen...
-
-- Wie können wir mit den richtigen Wahlentscheidungen in Hemmingen erfolgreich den Radverkehr voranbringen?
-- Wird sich mit einer:m neuen Bürgermeister:in etwas bewegen lassen?
-
-Wahlprüfsteine sind ein bewährtes Mittel von den Kandidierenden zu erfahren, wie sie sich grundsätzlich und im Besonderen positionieren, was sie wollen und wie sie es umsetzen würden, wenn...ja wenn sie gewählt werden.
-
-Der ADFC Hemmingen/ Pattensen hat darum 8 Schlüsselfragen an die Kandidierenden für das Amt der Bürgermeisterin des Bürgermeisters in Hemmingen verschickt. Mit Themen wie Tempo 30, Abstandsregeln beim Überholen, Komfort für Radfahrende, Sicherheit, Radwegeausbau, Unterstützung der Fahrrad-Selbsthilfewerkstatt, Stadtverkehrsentwicklung und Budget für Verbesserungen ist viel abgedeckt. Alle, Frau Dr. Schröder, Herr Dingeldey, Herr Grambeck und Herr Harder haben geantwortet. Die Antworten sind auf unserer Webseite des ADFC veröffentlicht:
-
-- **Link zu den [Wahlprüfsteinen](https://adfc-hemmingen-pattensen.github.io/Wahlpruefsteine/index.html)**.
-
-Dort können die Antworten von allen nachgelesen werden. Denn Wahl bedeutet ja Entscheidung treffen und Vertrauen auf die Inhalte und Personen setzen. Dazu hat der ADFC einen kleinen Baustein geliefert und es liegt an den Wählenden, sich daraufhin ihre Meinung zu bilden. Wir bleiben gespannt.
-
-
 <!-- =====================================================================
      Rubriken
      ===================================================================== -->
@@ -120,7 +97,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 <!-- **Die Fahrrad-Selbsthilfe-Werkstatt (FSW)** des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 
-Aufgrund der gesunkenen Corona Inzidenzwerte wird die Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen zunächst in einem Notbetrieb für Geflüchtete und Bedürftige öffnen. Wenn sich diese Entwicklung stabilisiert hat und eine reguläre Öffnung möglich wird, geben wir dies auf dieser Homepage und über die Tagespresse bekannt. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+Corona-bedingte Schließung der Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen im Januar, Bekanntgabe des Zeitpunktes der Wiedereröffnung erfolgt dann zeitnah. Wenn sich diese Entwicklung stabilisiert hat und eine reguläre Öffnung möglich wird, geben wir dies auf dieser Homepage und über die Tagespresse bekannt. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
 <details>
   <summary>Weitere Services</summary>
@@ -181,12 +158,6 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 </div>
 
 
-## MIT-DEM-RAD-ZUR-ARBEIT
-
-Bereits seit 01. Mai und noch bis 31. August läuft auch die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier können alle mitmachen, es zählen aber nur die Kilometer zur und von der Arbeit.
-
-Alle Informationen und die Anmeldung auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
-
 ## Ein Jahr zum Einstiegspreis 
 
 Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr!  
@@ -219,6 +190,39 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 </table> 
 
 > Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
+
+# In Paris gilt Tempo 30
+
+Tempo 30 ist jetzt die Regelgeschwindigkeit in Paris. Nach Madrid, Brüssel, Grenoble, Helsinky, Lille, Zürich und Barzelona folge nun auch Paris. Auf den Straßen von Paris gilt seit Ende August 2021 fast flächendeckend Tempo 30. Siehe auch [https://www.adfc.de/artikel/gute-gruende-fuer-tempo-30](https://www.adfc.de/artikel/gute-gruende-fuer-tempo-30).
+
+# L389: Straßensperrung zwischen Hannover und Wilkenburg
+
+Aufgrund einer Fahrbahn- und Radwegsanierung wurde vom 26. August bis zum 17. Dezenber 2021 die Wülfeler Straße vom Parkplatz an der Wülfeler Straße bis zur "Pferdeampel" am Ortseingang Wilkenburg voll gesperrt.
+Eine Durchfahrt durch die Wülfeler Straße in diesem Bereich war für Radefahrende der L389 in der gesamten Bauzeit nicht möglich. Eine Umleitung über "Dorrieweg" und "Im Hammfeld" wurde ausgeschildert.
+
+> 2021-08-26-Do.
+
+# Wer soll Bürgermeisterin oder Bürgermeister von Hemmingen werden?
+
+Wählen verändern die Welt, wenn die Wählenden es so wollen...
+
+- Wie können wir mit den richtigen Wahlentscheidungen in Hemmingen erfolgreich den Radverkehr voranbringen?
+- Wird sich mit einer:m neuen Bürgermeister:in etwas bewegen lassen?
+
+Wahlprüfsteine sind ein bewährtes Mittel von den Kandidierenden zu erfahren, wie sie sich grundsätzlich und im Besonderen positionieren, was sie wollen und wie sie es umsetzen würden, wenn...ja wenn sie gewählt werden.
+
+Der ADFC Hemmingen/ Pattensen hat darum 8 Schlüsselfragen an die Kandidierenden für das Amt der Bürgermeisterin des Bürgermeisters in Hemmingen verschickt. Mit Themen wie Tempo 30, Abstandsregeln beim Überholen, Komfort für Radfahrende, Sicherheit, Radwegeausbau, Unterstützung der Fahrrad-Selbsthilfewerkstatt, Stadtverkehrsentwicklung und Budget für Verbesserungen ist viel abgedeckt. Alle, Frau Dr. Schröder, Herr Dingeldey, Herr Grambeck und Herr Harder haben geantwortet. Die Antworten sind auf unserer Webseite des ADFC veröffentlicht:
+
+- **Link zu den [Wahlprüfsteinen](https://adfc-hemmingen-pattensen.github.io/Wahlpruefsteine/index.html)**.
+
+Dort können die Antworten von allen nachgelesen werden. Denn Wahl bedeutet ja Entscheidung treffen und Vertrauen auf die Inhalte und Personen setzen. Dazu hat der ADFC einen kleinen Baustein geliefert und es liegt an den Wählenden, sich daraufhin ihre Meinung zu bilden. Wir bleiben gespannt.
+
+
+## MIT-DEM-RAD-ZUR-ARBEIT
+
+Vom 01. Mai und bis 31. August lief die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier konnten alle mitmachen, es zählten aber nur die Kilometer zur und von der Arbeit.
+
+Alle Informationen gab es auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
 
 ## Fahrradtouren 2021
 
