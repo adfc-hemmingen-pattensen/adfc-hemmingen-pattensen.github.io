@@ -1598,7 +1598,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Status:
 
- - offen
+ - erledigt Oct/Nov 2021
 
 ---
 
@@ -1625,7 +1625,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Status:
 
- - offen
+ - erledigt Oct/Nov 2022
 
 ---
 
@@ -2614,7 +2614,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 ### Status:
 
- - offen
+ - Umgitter versetzt
 
 ---
 
