@@ -86,7 +86,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 | 2018              | 10         |
 | 2019              | 18         |
 | 2020              | 23         |
-| 2021 (Jan. - Mai) | 9          |
+| 2021              | 30         |
 
 
 </details>
@@ -160,13 +160,13 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 
 ## Ein Jahr zum Einstiegspreis 
 
-Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 56 €) im ersten Jahr!  
+Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 66 €) im ersten Jahr!  
 Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Sie erhalten das komplette Vorteilpaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 68 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
+Sie erhalten das komplette Vorteilpaket inklusive Pannenhilfe, Haftpflicht/Rechtsschutz und Radwelt-Magazin für 12 Monate. Das Angebot gilt auch für Familien- und Haushaltsmitgliedschaften (regulär 78 €). Voraussetzung für Familien- und Haushaltsmitgliedschaften ist ein gemeinsamer Wohnsitz. Die Mitgliedschaft wird unbefristet abgeschlossen, ist aber jederzeit ohne Frist zum Ende des laufenden Beitragsjahres kündbar.
 
 Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für lebenswerte Städte und eine echte Verkehrswende mit dem Fahrrad im Mittelpunkt.
 
