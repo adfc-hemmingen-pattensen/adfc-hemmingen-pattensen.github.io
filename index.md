@@ -8,6 +8,9 @@
 # [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
 Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
+
+![Solidaritätsbekundung mit Ukraine](img/Ukraine_Rad_Hashtag.jpg)
+
 <div id="firstTable">
 <table style="width:100%" >
 <tbody>
@@ -251,11 +254,17 @@ Tierpark Kronsberg: done, 2021-10-13, 1d
 Sarstedt Ahrbergen: done, 2021-10-20, 1d
 
 ```
+und das waren die gefahrenen Routen:
 
+<iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.de/de/map/radtouren-2021-adfc-hemmingen-pattensen_21512?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#11/52.3302/9.7092"></iframe>
+
+
+Zu den Tourenbeschreibungen 
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
+<br>
 
 ## Abendtour #12/21 2021-10-20-Mi.
 
