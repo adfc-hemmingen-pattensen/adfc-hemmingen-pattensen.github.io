@@ -9,7 +9,16 @@
 Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
 
-![Solidaritätsbekundung mit Ukraine](img/Ukraine_Rad_Hashtag.jpg)
+![](img/Ukraine_Rad_Hashtag.jpg)
+
+Der ADFC Hemmingen/Pattensen ist betroffen und schockiert über den Angriff auf die
+Ukraine, über einen Krieg in Europa. Wir drücken allen Menschen in der Ukraine unsere
+volle Solidarität aus und hoffen auf ein baldiges friedliches Ende. In Erwartung von
+Geflüchteten in Hemmingen und Pattensen sammelt der ADFC Fahrradspenden, besonders
+Kinder- und Damenräder zur Aufbereitung und Weitergabe. Spender:innen melden sich bitte
+unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de), es werden dann
+Übergabetermine vereinbart, da die Werkstatt pandemiebedingt noch geschlossen ist, vielen
+Dank!
 
 <div id="firstTable">
 <table style="width:100%" >
@@ -98,16 +107,20 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 <img src="img\FSW-OSM_c_OSMBeteiligte.png" alt="" style="float:right;">
 
-<!-- **Die Fahrrad-Selbsthilfe-Werkstatt (FSW)** des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
+<!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 
-Die FSW bleibt wegen der Corona-Pandemie bis auf weiteres geschlossen. Wiedereröffnung wird dann kurzfristig mitgeteilt. Wenn sich die Entwicklung stabilisiert hat und eine reguläre Öffnung möglich wird, geben wir dies auf dieser Homepage und über die Tagespresse bekannt. Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden so lange ein gesundes, pannenfreies Radfahren. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+**Die Fahrrad-Selbsthilfe-Werkstatt** (FSW) des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen wird, nach der Delta- und Omikron-Pause, ab dem 22. März 2022 den Notbetrieb wieder aufnehmen. Wenn die aktuelle Baustellensituation es zulässt, wird Dienstags von 17:30 bis 19:00 jemand vor Ort sein und Sie im Außenbereich beraten. Beachten Sie bitte die Absperrbänder, halten Sie Abstand und tragen Sie eine Schutzmaske.
+
+Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden eine gesunde und pannenfreie Fahrt mit dem Rad. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden, besonders Kinder- und Damenräder zur Aufbereitung und Weitergabe, bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
+
+![](img/Fahrradausgabe.jpg)
 
 <details>
   <summary>Weitere Services</summary>
 
 In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 
-- [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen
+- [Zweirad Fachwerk](https://www.zweirad-fachwerk.de/) - Kapellenweg 6, Hemmingen - Nach vorheriger Absprache.
 - Fahrrad-Selbsthilfewerkstatt - Heinrich-Hertz-Straße 23, Hemmingen
 - Servicestation - Rathausplatz 1, Hemmingen
 - Servicestation - EDEKA Ladage, Göttinger Str. 43, Arnum
