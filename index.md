@@ -109,7 +109,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 <!-- hat jeden **Dienstag von 17:30 bis 19:00** geöffnet.-->
 
-**Die Fahrrad-Selbsthilfe-Werkstatt** (FSW) des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen wird, nach der Delta- und Omikron-Pause, ab dem 22. März 2022 den Notbetrieb wieder aufnehmen. Wenn die aktuelle Baustellensituation es zulässt, wird Dienstags von 17:30 bis 19:00 jemand vor Ort sein und Sie im Außenbereich beraten. Beachten Sie bitte die Absperrbänder, halten Sie Abstand und tragen Sie eine Schutzmaske.
+**Die Fahrrad-Selbsthilfe-Werkstatt** (FSW) des ADFC Hemmingen/Pattensen in der Heinrich-Hertz-Straße 23 in Hemmingen wird, nach der Delta- und Omikron-Pause, ab dem 22. März 2022 den Notbetrieb wieder aufnehmen. Wenn die aktuelle Baustellensituation es zulässt, wird Dienstags von 17:30 bis 19:00 jemand vor Ort sein und Sie im Außenbereich beraten und je nach Andrang versuchen zu unterstützen. Beachten Sie bitte die Absperrbänder, halten Sie Abstand und tragen Sie eine Schutzmaske.
 
 Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden eine gesunde und pannenfreie Fahrt mit dem Rad. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden, besonders Kinder- und Damenräder zur Aufbereitung und Weitergabe, bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
