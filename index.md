@@ -207,6 +207,13 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 
 > Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
+# Verwarnung nach Engagement gegen Falschparker
+
+Deutsche Umwelthilfe unterstützt Musterverfahren zum Schutz von Fußgängern und Fahrradfahrern. Aus [Presseportal](https://www.presseportal.de/pm/22521/5176740).
+
+Die Deutsche Umwelthilfe (DUH) unterstützt in einem Musterverfahren die Klage eines Münchner Bürgers, der sich für sichere Geh- und Radwege engagiert, Verstöße fotografisch dokumentiert und nun wegen eines angeblichen Verstoßes gegen den Datenschutz verwarnt wurde. Der betroffene Bürger fotografierte auf seinem täglichen Weg zur Arbeit mit dem Fahrrad in unregelmäßigen Abständen Fahrzeuge, die illegal abgestellt wurden. Die Bilder der Autos schickte er ausschließlich an die zuständige Polizeidienststelle und forderte diese auf, gegen das Falschparken vorzugehen. Das Bayerische Landesamt für Datenschutzaufsicht (LDA) verwarnte den Bürger daraufhin mit Verweis auf die Datenschutz-Grundverordnung und forderte eine Gebühr von 100 Euro.
+
+
 # In Paris gilt Tempo 30
 
 Tempo 30 ist jetzt die Regelgeschwindigkeit in Paris. Nach Madrid, Brüssel, Grenoble, Helsinky, Lille, Zürich und Barzelona folge nun auch Paris. Auf den Straßen von Paris gilt seit Ende August 2021 fast flächendeckend Tempo 30. Siehe auch [https://www.adfc.de/artikel/gute-gruende-fuer-tempo-30](https://www.adfc.de/artikel/gute-gruende-fuer-tempo-30).
