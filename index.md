@@ -6,8 +6,20 @@
 </iframe>
 
 # [ADFC Hemmingen / Pattensen](https://adfc-hemmingen-pattensen.github.io/)
+
 Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
+## Die ADFC Fahrrad-Selbsthilfe-Werkstatt bedankt sich herzlich für die hohe Spendenbereitschaft
+
+![](img/Spendenraeder.jpg)
+
+Nach einem Aufruf in der Presse erfuhr das Team der Fahrrad-Selbsthilfe-Werkstatt eine unglaublich hohe Resonanz aus der Bevölkerung. Innerhalb von zwei Wochen wurden bereits jetzt über 40 Spendenräder abgeholt oder in der Heinrich-Hertz-Straße 23 während der Werkstatt-Öffnung abgegeben. Dabei kamen die Spendenden nicht nur aus Hemmingen, sondern auch aus Pattensen, Laatzen bis hin nach Springe-Eldagsen. *Hierfür ein herzliches Dankeschön!*
+
+Nach der Corona-bedingten Schließung ist die Nachfrage nach Reparaturhilfe und nach aufbereiteten Rädern für die Bedürftigen und Geflüchteten ungebrochen hoch. Wir wollen mit diesen Fahrradspenden nun auch zusätzlich den Geflüchteten aus der Ukraine eine attraktive Mobilitäts-Unterstützung anbieten.
+
+Um dies bewerkstelligen zu können, sucht das Team nach weiterer **personeller Unterstützung** für das ganze Spektrum von der Abholung von Rädern, über die Mithilfe bei der Fahrradausgabe bis zur Unterstützung bei der Aufbereitung und den Reparaturen der Fahrräder.
+
+## Solidarität
 
 ![](img/Ukraine_Rad_Hashtag.jpg)
 
@@ -39,7 +51,7 @@ Dank!
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#artikel'" type="button">Artikel</button> </td>
-    <td> <a href="#fahrradtouren-2021">Touren 2021</a> <br> Über Verkehrspolitik <br> Über "Dies & Das" </td>
+    <td> <a href="#fahrradtouren-2022">Touren 2022</a> <br> Über Verkehrspolitik <br> Über "Dies & Das" </td>
   </tr>
   <tr>
     <td> <button style="background-color:#EE7F00; color:#FFFFFF" onclick="location.href='#footer'" type="button">Fußnote</button> </td>
@@ -58,8 +70,7 @@ Dank!
   <tr>
     <td style="background-color:#EE7F00; color:#FFFFFF">Rubriken</td>
   </tr>
-</table> 
-
+</table>
 
 ## Wer sind wir?
 
@@ -72,13 +83,13 @@ Radverkehrspolitik
 : Eine sichere und bessere Fahrradinfrastruktur
 
 Öffentlichkeitsarbeit
-: Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist 
+: Mehr Bewusstsein, dass Fahrradfahren eine zentrale Säule der Verkehrswende ist
 
 Radtouren
-: Touristisches Erleben der Region Hannover und darüber hinaus 
+: Touristisches Erleben der Region Hannover und darüber hinaus
 
 Fahrrad-Selbsthilfewerkstatt
-: Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016). 
+: Eine kostengünstige Versorgung Bedürftiger und Geflüchteter mit Fahrrädern und Reparatur-Unterstützung in der Fahrrad-Selbsthilfewerkstatt (seit Nov. 2016).
 
 Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 ADFC Hemmingen-Pattensen Profil.pdf) kurz vorgestellt.
 
@@ -99,7 +110,6 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 | 2019              | 18         |
 | 2020              | 23         |
 | 2021              | 30         |
-
 
 </details>
 
@@ -134,6 +144,7 @@ In Hemmingen gibt es folgende Reparaturmöglichkeiten:
 </details>
 
 ## Mittwochstour
+
 <img src="img\MittwochLogo200.png" alt="" style="float:left;">
 
 Spontane, kostenlose Feierabendradtouren werden bei entsprechendem Wetter (Sommer) in der Regel Mittwochs angeboten. Die ADFC Ortsgruppe hat dafür eine E-Mail Liste angelegt. Wir melden uns, wenn es passt. Wer auf dieser Liste möchte, schreibe bitte an [j.spille@adfc-hannover.de](mailto:j.spille@adfc-hannover.de).
@@ -167,14 +178,14 @@ siehe [Mängelkarte für Hemmingen und Pattensen](https://adfc-hemmingen-pattens
 </table>
 
 ## Eilmeldung
+
 <div class="holder" style="width: 100%; height:400px; position:relative;">
 <iframe width="100%" height="100%" src=https://hackmd.io/U-6kWHTpRAyp9glY_QNyKg?view" frameborder="1"></iframe>
 <div style="position:absolute; top:2px; left:2px; width:100%; height:120px;"><img src="img\BannerEilmeldung.png" height=100% alt=""></div>
 <div style="position:absolute; top:344px; left:2px; width:100%; height:58px;"><img src="img\BannerEilmeldungUnten.png" height=100% alt=""></div>
 </div>
 
-
-## Ein Jahr zum Einstiegspreis 
+## Ein Jahr zum Einstiegspreis
 
 Aktuell erhalten Sie für begrenzte Zeit unsere Jahresmitgliedschaft für nur 19,50 € (regulär 66 €) im ersten Jahr!  
 Hier geht es zur [Anmeldung](https://www.adfc.de/sei-dabei/einstiegsmitgliedschaft).
@@ -203,7 +214,7 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
   <tr>
     <td style="background-color:#EE7F00; color:#FFFFFF">Artikel</td>
   </tr>
-</table> 
+</table>
 
 > Hier kommt eine kurze Übersicht der Themen, die uns in letzter Zeit beschäftigt haben. Solltet Ihr Euch zusätzliche Inhalte wünschen, oder wollt Ihr Lob oder Verbesserungspotential loswerden, dann freuen wir uns über einen kurzen Kommentar an <j.spille@adfc-hannover.de>.
 
@@ -212,7 +223,6 @@ Mit Ihrer Mitgliedschaft unterstützen Sie den ADFC in ganz Deutschland - für l
 Deutsche Umwelthilfe unterstützt Musterverfahren zum Schutz von Fußgängern und Fahrradfahrern. Aus [Presseportal](https://www.presseportal.de/pm/22521/5176740).
 
 Die Deutsche Umwelthilfe (DUH) unterstützt in einem Musterverfahren die Klage eines Münchner Bürgers, der sich für sichere Geh- und Radwege engagiert, Verstöße fotografisch dokumentiert und nun wegen eines angeblichen Verstoßes gegen den Datenschutz verwarnt wurde. Der betroffene Bürger fotografierte auf seinem täglichen Weg zur Arbeit mit dem Fahrrad in unregelmäßigen Abständen Fahrzeuge, die illegal abgestellt wurden. Die Bilder der Autos schickte er ausschließlich an die zuständige Polizeidienststelle und forderte diese auf, gegen das Falschparken vorzugehen. Das Bayerische Landesamt für Datenschutzaufsicht (LDA) verwarnte den Bürger daraufhin mit Verweis auf die Datenschutz-Grundverordnung und forderte eine Gebühr von 100 Euro.
-
 
 # In Paris gilt Tempo 30
 
@@ -240,12 +250,27 @@ Der ADFC Hemmingen/ Pattensen hat darum 8 Schlüsselfragen an die Kandidierenden
 
 Dort können die Antworten von allen nachgelesen werden. Denn Wahl bedeutet ja Entscheidung treffen und Vertrauen auf die Inhalte und Personen setzen. Dazu hat der ADFC einen kleinen Baustein geliefert und es liegt an den Wählenden, sich daraufhin ihre Meinung zu bilden. Wir bleiben gespannt.
 
-
 ## MIT-DEM-RAD-ZUR-ARBEIT
 
 Vom 01. Mai und bis 31. August lief die ADFC/AOK-Aktion Mit-dem-Rad-zur-Arbeit. Auch hier konnten alle mitmachen, es zählten aber nur die Kilometer zur und von der Arbeit.
 
 Alle Informationen gab es auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachsen/index.php>
+
+## Fahrradtouren 2022
+
+``` mermaid
+gantt
+dateFormat  YYYY-MM-DD
+title Gemeinsames Radeln 2022
+axisFormat  %b
+todayMarker stroke-width:0px
+
+section 2022
+2022: done, 2022-01-01, 2022-12-31
+section Stadtradeln   
+Stadtradeln 2022:       action, 2022-05-29, 2022-06-18
+section Abendtouren
+```
 
 ## Fahrradtouren 2021
 
@@ -253,40 +278,41 @@ Alle Informationen gab es auf <https://www.mit-dem-rad-zur-arbeit.de/niedersachs
 gantt
 dateFormat  YYYY-MM-DD
 title Gemeinsames Radeln 2021
-axisFormat  %d.%m
+axisFormat  %b
 
 section 2021
 2021: done, 2021-01-01, 2021-12-31
 section Stadtradeln
 Stadtradeln 2021:  2021-06-06, 2021-06-26
-Fahrraddemo 6.6.:  done, 2021-06-06, 1d
-Anderter Schleuse: done, 2021-06-23, 1d
-Gehrden:           done, 2021-06-30, 1d
-Ruthe:             done, 2021-07-07, 1d
-Benther Berg:      done, 2021-07-14, 1d
-Holtensen:         done, 2021-07-25, 1d
-Julius-Trip-Ring:  done, 2021-08-11, 1d
-Gestorf:           done, 2021-08-25, 1d
-Giftener Seen:     done, 2021-09-01, 1d
-Ditterker Wald: done, 2021-09-08, 1d
-Eilenriede: done, 2021-09-15, 1d
-Tierpark Kronsberg: done, 2021-10-13, 1d
-Sarstedt Ahrbergen: done, 2021-10-20, 1d
+section Abendtouren
+Fahrraddemo 6.6.:   milestone, done, 2021-06-06, 1d
+Anderter Schleuse:  milestone, done, 2021-06-23, 1d
+Gehrden:            milestone, done, 2021-06-30, 1d
+Ruthe:              milestone, done, 2021-07-07, 1d
+Benther Berg:       milestone, done, 2021-07-14, 1d
+Holtensen:          milestone, done, 2021-07-25, 1d
+Julius-Trip-Ring:   milestone, done, 2021-08-11, 1d
+Gestorf:            milestone, done, 2021-08-25, 1d
+Giftener Seen:      milestone, done, 2021-09-01, 1d
+Ditterker Wald:     milestone, done, 2021-09-08, 1d
+Eilenriede:         milestone, done, 2021-09-15, 1d
+Tierpark Kronsberg: milestone, done, 2021-10-13, 1d
+Sarstedt Ahrbergen: milestone, done, 2021-10-20, 1d
 
 ```
+
 und das waren die gefahrenen Routen:
 
 <iframe width="100%" height="500px" frameborder="0" allowfullscreen src="https://umap.openstreetmap.de/de/map/radtouren-2021-adfc-hemmingen-pattensen_21512?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=true&onLoadPanel=undefined&captionBar=false#11/52.3302/9.7092"></iframe>
 
-
-Zu den Tourenbeschreibungen 
+Zu den Tourenbeschreibungen
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
 <br>
 
-## Abendtour #12/21 2021-10-20-Mi.
+## Abendtour #12/21 2021-10-20-Mi
 
 Die 12. Radtour startete am Mittwoch den 20. Oktober mit 8 Radlern. Bei stürmischen Winden fuhren wir in die Leinemasch Richtung Rethen. Weiter ging es durch die Koldinger Seenplatte nach Ruthe. An der Innerste entlang ging es nach Saarstedt. Am Bruchgraben, einer sehr schönen Flusslandschaft fuhren wir weiter nach Ahrbergen. Zurück ging es wieder nach Sarstedt zu einem schönen Cafe. Nach einer kurzen Rast ging es dann zurück. Nach ca. 4 Std. und 43 km erreichten wir gut gelaunt Hemmingen.
 
@@ -297,7 +323,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Sarstedt Ahrbergen
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-10-20-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -308,7 +334,7 @@ Tourenlänge [km] | 43
 Wetter           | Wolkig und stürmisch
 </details>
 
-## Abendtour #11/21 2021-10-13-Mi.
+## Abendtour #11/21 2021-10-13-Mi
 
 Die 11. Radtour startete am Mittwoch den 13. Oktober mit 7 Radlern. Bei zeitweise leichtem Nieselregen war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort weiter durch den Hermann Löns Park zum Tierpark. Nach einer kurzen Pause ging es wieder zum Kronsberg und durch die Leinemasch zurück. Nach ca. 2,5 Std. und 28 km erreichten wir, fast trocken, Hemmingen.
 
@@ -319,7 +345,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Tierpark Kronsberg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-10-13-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -330,10 +356,9 @@ Tourenlänge [km] | 28
 Wetter           | regnerisch
 </details>
 
-
 <!-- Eingestellt am 16.09.2021 -->
 
-## Abendtour #10/21 2021-09-15-Mi.
+## Abendtour #10/21 2021-09-15-Mi
 
 Die 7. Feierabend-Radtour startete am Mittwoch den 15. September mit 6 Radlern. Bei zeitweise leichtem Nieselregen war klar, möglichst viel im Wald zu fahren. Es ging durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei am Zoo, Seuerndieb. Nach einer kurzen Pause ging es wieder zum Machsee und in die Leinemasch. Nach ca. 2,5 Std. und 26 km erreichten wir, fast trocken, Hemmingen.
 
@@ -344,7 +369,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Maschsee, Eilenriede
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-09-26-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -379,10 +404,10 @@ Tourenlänge [km] | 35
 Wetter           | heiter bis wolkig
 </details>
 
-## Abendtour 08/21 2021-09-01-Mi.
+## Abendtour 08/21 2021-09-01-Mi
 
-Die Fahrt ging mit 10 Radlern durch Harkenbleck, Koldingen und Ruthe. Nach einem kurzen Abstieg gelangt man an die Leine und kommt nach Schliekum. Wir fahren über die Leinebrücke und kommen zu den Giftener Seen. Der Rückweg führt uns über Sarstedt, mit Rast an der Eisdiele. Anschließend fahren wir an der Innerste entlang nach Ruthe und weiter nach Koldingen. Durch die Leinemasch fahren wir dann weiter und erreichten Hemmingen nach ca. 3 Std und 
-34 km. 
+Die Fahrt ging mit 10 Radlern durch Harkenbleck, Koldingen und Ruthe. Nach einem kurzen Abstieg gelangt man an die Leine und kommt nach Schliekum. Wir fahren über die Leinebrücke und kommen zu den Giftener Seen. Der Rückweg führt uns über Sarstedt, mit Rast an der Eisdiele. Anschließend fahren wir an der Innerste entlang nach Ruthe und weiter nach Koldingen. Durch die Leinemasch fahren wir dann weiter und erreichten Hemmingen nach ca. 3 Std und
+34 km.
 
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
@@ -391,18 +416,18 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Giftener Seen und Sarstedt
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-09-01-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
 Start            | Hemmingen Rathaus 17:00
-Dauer [Stunden]  | ca. 3 
+Dauer [Stunden]  | ca. 3
 Teilnehmerzahl   | 10
 Tourenlänge [km] | 34
 Wetter           | heiter bis wolkig
 </details>
 
-## Abendtour 07/21 2021-08-25-Mi.
+## Abendtour 07/21 2021-08-25-Mi
 
 Die 7. Feierabend-Radtour startete am Mittwoch den 25. August mit 12 Radlern ins Calenberger Land. Wir fuhren durch Pattensen und durch die Feldmark nach Oerie bis zum Oerier Wald. Dort machten wir die erste Rast. Weiter ging es durch Feld, Wiese und Wald nach Gestorf. Der Rückweg, auf dem wir ordentlichen Gegenwind hatten, ging auf einem schönen Feldweg nach Lüdersen und weiter, an den Feldern und Äckern vorbei, nach Hiddestorf. Über Ohlendorf und Devese erreichten wir nach ca. 3 Std
 und 36 km Hemmingen
@@ -414,7 +439,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Calenberger Land nach Gestorf
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-08-25-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -428,9 +453,9 @@ Wetter           | heiter bis wolkig und windig
 
 <!-- Eingestellt am 25.08.2021 -->
 
-## Abendtour 06/21 2021-08-11-Mi.
+## Abendtour 06/21 2021-08-11-Mi
 
-Die 6. Feierabend-Radtour startete am Mittwoch den 11. August mit 14 Radlern zum Julius-Trip-Ring. Die Fahrt ging durch die Leinemasch zum Maschsee. Dort stiegen wir in den Julius-Trip-Ring ein. Weiter ging es durch die Eilenriede, am Pferdeturm vorbei zum Zoo. An Vier Grenzen überquerten wir die Podbi und fuhren auf den Pastor-Jäckel-Weg, Niedersachsenring und dem Hans-Meinecke-Weg nach Hainholz. 
+Die 6. Feierabend-Radtour startete am Mittwoch den 11. August mit 14 Radlern zum Julius-Trip-Ring. Die Fahrt ging durch die Leinemasch zum Maschsee. Dort stiegen wir in den Julius-Trip-Ring ein. Weiter ging es durch die Eilenriede, am Pferdeturm vorbei zum Zoo. An Vier Grenzen überquerten wir die Podbi und fuhren auf den Pastor-Jäckel-Weg, Niedersachsenring und dem Hans-Meinecke-Weg nach Hainholz.
 Vorbei am Berggarten kamen wir zu den Herrenhäuser Gärten. Am Leibnitz Tempel machten wir eine kurze Rast. Auf der Dornröschenbrücke überquerten wir die Leineund fuhren dann an Leine und Ihme entlang zurück. Nach ca. 3 Stunden flotter und schöner Fahrt, fast immer im Grünen, erreichten wir nach 33 km Hemmingen.
 
 <details>
@@ -440,7 +465,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Julius-Trip-Ring
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-08-11-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -454,10 +479,10 @@ Wetter           | heiter bis wolkig
 
 <!-- Eingestellt am 25.08.2021 -->
 
-## Abendtour 05/21 2021-07-25-Mi.
+## Abendtour 05/21 2021-07-25-Mi
 
-Die 5. Feierabend-Radtour startete am Mittwoch den 28. Juli mit 12 Radlern. Bei ca. 20° fuhren wir gen Westen nach Ihme-Roloven und Vörie. Auf dem Weg nach Holtensen bremste uns ein gesperrter Bahnübergang aus. Die ungeplante Verlängerung ging über Weetzen, an der Bahn entlang nach Lemmie. 
-Über Sorsum ging es durch unbekannte Wege bis kurz vor Bredenbeck und dann kamen wir nach Holtensen. Es war ein schöner Umweg. An der Holtenser Kirche machten wir eine kurze Rast, bevor es über einen schönen Weg am Pastorenteich vorbeiging. Anschliessend fuhren wir auf den Vörier Berg, zum letzten verbliebenen Holtenser Windrad. Nach der Anstrengung hatten wir einen sehr schönen Rundumblick. Weiter fuhren wir dann durch Lüdersen nach Pattensen. 
+Die 5. Feierabend-Radtour startete am Mittwoch den 28. Juli mit 12 Radlern. Bei ca. 20° fuhren wir gen Westen nach Ihme-Roloven und Vörie. Auf dem Weg nach Holtensen bremste uns ein gesperrter Bahnübergang aus. Die ungeplante Verlängerung ging über Weetzen, an der Bahn entlang nach Lemmie.
+Über Sorsum ging es durch unbekannte Wege bis kurz vor Bredenbeck und dann kamen wir nach Holtensen. Es war ein schöner Umweg. An der Holtenser Kirche machten wir eine kurze Rast, bevor es über einen schönen Weg am Pastorenteich vorbeiging. Anschliessend fuhren wir auf den Vörier Berg, zum letzten verbliebenen Holtenser Windrad. Nach der Anstrengung hatten wir einen sehr schönen Rundumblick. Weiter fuhren wir dann durch Lüdersen nach Pattensen.
 Zurück ging es dann durch das Fuchsbachtal über Reden, Harkenbleck nach Hemmingen, das wir nach ca. 3 Std. und 32 km erreichten.
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
@@ -466,7 +491,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Holtensen, Vörier Berg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-07-28-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -480,9 +505,9 @@ Wetter           | heiter bis wolkig
 
 <!-- Eingestellt am 25.08.2021 -->
 
-## Abendtour 04/21 2021-07-14-Mi.
+## Abendtour 04/21 2021-07-14-Mi
 
-Die 4. Feierabend-Radtour startete am Mittwoch den 14. Juli mit 11 Radlern bei gutem Wetter, und führte durch die Leinemasch, am Maschsee vorbei, an die Ihme bis zur Wasserstadt nach Limmer. Von da aus ging es weiter nach Ahlem, vorbei an der Gedenkstätte. Über Verlber, jetzt wieder auf dem Grünen Ring, kamen wir zum Benther Berg. Der Rückweg ging über Empelde, Wettbergen und Devese. 
+Die 4. Feierabend-Radtour startete am Mittwoch den 14. Juli mit 11 Radlern bei gutem Wetter, und führte durch die Leinemasch, am Maschsee vorbei, an die Ihme bis zur Wasserstadt nach Limmer. Von da aus ging es weiter nach Ahlem, vorbei an der Gedenkstätte. Über Verlber, jetzt wieder auf dem Grünen Ring, kamen wir zum Benther Berg. Der Rückweg ging über Empelde, Wettbergen und Devese.
 Nach ca. 3 Stunden und 34 km kamen wir gut gelaunt in Hemmingen an.
 <details>
   <summary style="background-color: #eeeeee; width: 300px;
@@ -491,7 +516,7 @@ cursor: pointer;">Klick hier für mehr Details!</summary>
 <br>
 
 Tourenziel       | Ihme, Ahlem, Benther Berg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-07-14-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -503,7 +528,7 @@ Wetter           | heiter bis wolkig
 
 </details>
 
-## Abendtour #3/21   2021-07-07-Mi.
+## Abendtour #3/21   2021-07-07-Mi
 
 Die Fahrt ging mit 12 Radlern durch die Leinemasch, vorbei an Laatzen nach Rethen. Durch die Koldiger Seen zu einer Aussichtsplattform. Weiter ging es nach Ruthe mit einem kurzen Abstecher zum Zusammenfluss von Innerste und Leine mit einer kurzen, aber sonnigen Rast. Danach ging es in Ruthe einen steilen Abhang hinab und an der Leine nach Schliekum. Der Rückweg ging durch das Calenberger Land nach Pattensen direkt zu einer Eisdiele. Nach einer kurzen Pause fuhren wir durch das romantische Fuchsbachtal nach Reden, Harkenbleck und Wilkenburg. Nach einer schönen Fahrt holte uns am Ende doch noch der Regen ein. Wir erreichten Hemmingen nach ca. 34 km.
 
@@ -512,9 +537,9 @@ Die Fahrt ging mit 12 Radlern durch die Leinemasch, vorbei an Laatzen nach Rethe
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
 <br>
- 
+
 Tourenziel       | Ruthe
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-07-07-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -524,10 +549,9 @@ Teilnehmerzahl   | 7
 Tourenlänge [km] | 34
 Wetter           | Heiter bis wolkig mit etwas Regen
 
-
 </details>
 
-## Abendtour #2/21   2021-06-30-Mi.
+## Abendtour #2/21   2021-06-30-Mi
 
 Die 2. Feierabend-Radtour startete am Mittwoch den 30. Juni mit 7 Radlern. Bei dunklen Wolken und angekündigtem Regen fuhren wir gen Westen über Wettbergen nach Ronnenberg und weiter Richtung Gehrden. Anschliessend fuhren wir nach Lemmie und danach ging es am Bahndamm entlang nach Weetzen. Über Vörie ging es dann weiter nach Ihme-Roloven. An den Wasserbüffeln vorbei umfuhren wir Ihme-Roloven und dann ging es weiter durch das Bürgerholz nach Hemmingen, das wir nach ca. 2,5 Std. und 33 km, immer noch trocken, erreichten.
 
@@ -536,9 +560,9 @@ Die 2. Feierabend-Radtour startete am Mittwoch den 30. Juni mit 7 Radlern. Bei d
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
 <br>
- 
+
 Tourenziel       | Gehrden
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2019-06-30-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -548,11 +572,9 @@ Teilnehmerzahl   | 7
 Tourenlänge [km] | 33
 Wetter           | Dunkle Wolken mit Regenankündigung
 
-
 </details>
 
-
-## Abendtour #1/21   2021-06-23-Mi.
+## Abendtour #1/21   2021-06-23-Mi
 
 Die 1. Feierabend-Radtour ging am Mittwoch den 23. Juni mit 13 Radlern (11 Herren und 2 Damen) bei gutem Wetter, durch das Ricklinger Holz, am Maschsee vorbei in die Eilenriede. Weiter ging es durch den Herrmann-Löns-Park mit der "Alten Mühle", einer Bockwindmühle, zur Anderter Schleuse. Nach einer kurzen Rast ging es auf den höchsten Punkt des Kronsbergs (118 m ü. NN). Die schöne Aussicht über Hannover, den Deister und die Hildesheimer Berge entschädigte für den letzten steilen Anstieg. Am Wiesendachhaus konnten wir noch einen schönen Zwischenstop einlegen. Nach ca. 3 Std. und 34 km erreichten wir wieder Hemmingen.
 
@@ -561,9 +583,9 @@ Die 1. Feierabend-Radtour ging am Mittwoch den 23. Juni mit 13 Radlern (11 Herre
 cursor: pointer;">Klick hier für mehr Details!</summary>
 
 <br>
- 
+
 Tourenziel       | Anderter Schleuse u. Kronsberg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2021-06-23-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther Kleinod
@@ -573,17 +595,14 @@ Teilnehmerzahl   | 13
 Tourenlänge [km] | 34
 Wetter           | heiter bis wolkig
 
-
 </details>
 </details>
-
 
 ## Verwarnung nach Engagement gegen Falschparker
 
 Deutsche Umwelthilfe unterstützt Musterverfahren zum Schutz von Fußgängern und Fahrradfahrern. Aus [Presseportal](https://www.presseportal.de/pm/22521/5176740).
 
 Die Deutsche Umwelthilfe (DUH) unterstützt in einem Musterverfahren die Klage eines Münchner Bürgers, der sich für sichere Geh- und Radwege engagiert, Verstöße fotografisch dokumentiert und nun wegen eines angeblichen Verstoßes gegen den Datenschutz verwarnt wurde. Der betroffene Bürger fotografierte auf seinem täglichen Weg zur Arbeit mit dem Fahrrad in unregelmäßigen Abständen Fahrzeuge, die illegal abgestellt wurden. Die Bilder der Autos schickte er ausschließlich an die zuständige Polizeidienststelle und forderte diese auf, gegen das Falschparken vorzugehen. Das Bayerische Landesamt für Datenschutzaufsicht (LDA) verwarnte den Bürger daraufhin mit Verweis auf die Datenschutz-Grundverordnung und forderte eine Gebühr von 100 Euro.
-
 
 ## Polizei kontrolliert den Seitenabstand beim Überholen von Radfahrenden
 
@@ -603,7 +622,6 @@ Beim Wettbewerb STADTRADELN traten die Hemminger und Pattenser 21 Tage in die Pe
 
 > vom 06. Juni bis 26. Juni 2021
 
-
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
@@ -617,7 +635,6 @@ Hier registrieren:
   - Das Team "ADFC Pattensen" ist eingerichtet.
 
 oder lade die [STADTRADELN-App](https://www.stadtradeln.de/app) herunter, um deine Strecken zu tracken.
-
 
 ---
 
@@ -652,7 +669,7 @@ Weitere Informationen finden Sie auf der Homepage der Region Hannover unter
 
 ## Ortsdurchfahrt Hiddestorf: Land hebt 27 Jahre alte Tempo-Bremse auf
 
-Auslöser für die Prüfung durch das Verkehrsministerium war eine von der Niedersächsischen Landesbehörde für Straßenbau und Verkehr (NLStBV) abgelehnte Förderung für den Neubau der Brücke über die Arnumer Landwehr im Zuge der K 226. Wegen der geltenden Geschwindigkeitsbegrenzung in Hiddestorf seien die Voraussetzungen dafür nicht mehr gegeben. Der ADFC ist gegen die Erhöhung der Geschwindigkeit. Eine Erhöhung der Geschwindigkeit erhöht sowohl die Unfallgefahr als auch das Sicherheitsgefühl. 
+Auslöser für die Prüfung durch das Verkehrsministerium war eine von der Niedersächsischen Landesbehörde für Straßenbau und Verkehr (NLStBV) abgelehnte Förderung für den Neubau der Brücke über die Arnumer Landwehr im Zuge der K 226. Wegen der geltenden Geschwindigkeitsbegrenzung in Hiddestorf seien die Voraussetzungen dafür nicht mehr gegeben. Der ADFC ist gegen die Erhöhung der Geschwindigkeit. Eine Erhöhung der Geschwindigkeit erhöht sowohl die Unfallgefahr als auch das Sicherheitsgefühl.
 
 > 10.06.2021
 
@@ -670,19 +687,19 @@ Infos unter [www.arbeiten-in-langenhagen.de](https://www.arbeiten-in-langenhagen
 
 > In 11 Etappen mit dem Rad durch Deutschland
 
-Vom 22. August bis zum 2. September zeigen Aktivist\*innen von Changing Cities mit einer Fahrraddemo von Essen nach Berlin, dass die Verkehrswende möglich und machbar ist. Als Teil der bundesweiten Protestaktion Ohne Kerosin nach Berlin werden Hunderte von Radfahrer\*innen in Deutschland unterwegs sein. 
+Vom 22. August bis zum 2. September zeigen Aktivist\*innen von Changing Cities mit einer Fahrraddemo von Essen nach Berlin, dass die Verkehrswende möglich und machbar ist. Als Teil der bundesweiten Protestaktion Ohne Kerosin nach Berlin werden Hunderte von Radfahrer\*innen in Deutschland unterwegs sein.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
-Pünktlich zum Bundestagswahlkampf 2021 fahren wir in 11 Etappen mit dem Rad nach Berlin und setzen die Themen Mobilität und Klimaschutz auf die bundespolitische Agenda. Die „Tour de Verkehrswende“ fährt unter dem Motto „Wir bringen Paris nach Berlin“, denn die Politik der pariser Bürgermeisterin Anne Hidalgo zeigt: Die klima- und menschenfreundliche Verkehrswende ist politisch möglich und praktisch umsetzbar. Seit 2014 wird die französische Hauptstadt in großen Teilen nachhaltig umgestaltet. Um die Feinstaub- und Lärmbelastung zu reduzieren und die Lebensqualität der Menschen zu verbessern, wird der Ausbau von Fuß- und Radwegen deutlich vorangetrieben und große Bereiche des Zentrums für Menschen geöffnet und für den Autoverkehr gesperrt. 
+Pünktlich zum Bundestagswahlkampf 2021 fahren wir in 11 Etappen mit dem Rad nach Berlin und setzen die Themen Mobilität und Klimaschutz auf die bundespolitische Agenda. Die „Tour de Verkehrswende“ fährt unter dem Motto „Wir bringen Paris nach Berlin“, denn die Politik der pariser Bürgermeisterin Anne Hidalgo zeigt: Die klima- und menschenfreundliche Verkehrswende ist politisch möglich und praktisch umsetzbar. Seit 2014 wird die französische Hauptstadt in großen Teilen nachhaltig umgestaltet. Um die Feinstaub- und Lärmbelastung zu reduzieren und die Lebensqualität der Menschen zu verbessern, wird der Ausbau von Fuß- und Radwegen deutlich vorangetrieben und große Bereiche des Zentrums für Menschen geöffnet und für den Autoverkehr gesperrt.
 
 „Auch für deutsche Städte und Gemeinden fordern wir einen solchen Strukturwandel in der Mobilitätspolitik. Weil die Zukunft dem Fuß- und Radverkehr sowie dem ÖPNV gehört. Denn auch in Deutschland gilt: Mit dem Fahrrad lassen sich Wahlen gewinnen,” sagt Ragnhild Sørensen von Changing Cities.
 
 Die Forderungen der #TourDeVerkehrswende an die nächste Bundesregierung
 
 1) Vorrang des Umweltverbundes: Grundlegende Flächenumverteilung mit Ausbau des ÖPNV und des bundesweiten Fuß- und Radverkehrsnetzes
-2) Klare, konsequente und sofortige Maßnahmen zur deutlichen Reduktion des motorisierten Individualverkehrs (MIV). Ziel: Halbierung der Kfz bis 2030. 
+2) Klare, konsequente und sofortige Maßnahmen zur deutlichen Reduktion des motorisierten Individualverkehrs (MIV). Ziel: Halbierung der Kfz bis 2030.
 3) Sofortiger und konsequenter Abbau der finanziellen und gesetzlichen Privilegien für den MIV
 4) Moratorium für den Bundesverkehrswegeplan
 
@@ -711,10 +728,9 @@ Die Etappen der #TourDeVerkehrswende im August 2021:
 
 ## Fahrradhelm
 
-**Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren? 
+**Tragen Sie grundsätzlich einen Helm**, wenn sie im Straßenverkehr fahren?
 
-Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt. 
-
+Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt.
 
 ## Verkehrsrecht für Radfahrende ![](img/adfc_cycle_10_pin.png)
 
@@ -786,8 +802,7 @@ Die Grafik zeigt **Unfallorte mit Fahrradbeteiligung** in Hemmingen 2020 aus dem
 
 Das PK Ronnenberg umfasst die Gemeinden: Wennigsen, Gehrden, Empelde, Ronnenberg und Hemmingen Arnum.
 
-
-## Wir drehten am Rad 
+## Wir drehten am Rad
 
 EDEKA Minden-Hannover bot im Aktionszeitraum vom 10.05. bis 22.05.2021 ab einem Einkauf von 25€ eine vergünstigte ADFC Mitgliedschaft.
 
@@ -799,7 +814,7 @@ Dienstag, 23. März, von 18.30 Uhr bis ca. 20.00
 *Für all die Fahrräder, Fixies, Anhänger, Lastenräder, Pedelecs…*  
 Gefunden wurden die Hemminger Alltagsrouten!!!
 
-Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt. 
+Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal zusammengetragen wurden? Der ADFC hat daraus eine Radwegestruktur ausgearbeitet und in der AG Radverkehr des Stadtrates vorgestellt.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
@@ -834,10 +849,9 @@ Der Rückbau wird sichbar. Mit Ausweichbuchten für große Fahrzeuge.
 
 ![Rückbau K225](img/K225Rueckbau_c_MichaelMaier2021.jpg)
 
-
 ## L 389 - Quelle: HAZ Leine 9.3.2021
 
-Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße in Hiddestorf soll in den nächsten Jahren saniert werden. Die Stadt Hemmingen plant eine Vereinbarung mit dem Land. Zur Verkehrsberuhigung soll es in den Arnumer Ortsausfahren Querungshifen geben. In Wilkenburg könnte der höhengleiche Gehweg zu einem Hochbord ausgebaut werden. Weiterhin ist ein Umbau der gefährlichen Wilkenburger Spinne im Gespräch. Der Radweg zwischen der Spinne und Wilkenburg könnte noch dieses Jahr beginnen. Die Straßensanierung in Hiddestorf ist erst für 2023 angedacht. 
+Die Landesstraße L 389 zwischen der Wilkenburger Spinne und der Ihmener Straße in Hiddestorf soll in den nächsten Jahren saniert werden. Die Stadt Hemmingen plant eine Vereinbarung mit dem Land. Zur Verkehrsberuhigung soll es in den Arnumer Ortsausfahren Querungshifen geben. In Wilkenburg könnte der höhengleiche Gehweg zu einem Hochbord ausgebaut werden. Weiterhin ist ein Umbau der gefährlichen Wilkenburger Spinne im Gespräch. Der Radweg zwischen der Spinne und Wilkenburg könnte noch dieses Jahr beginnen. Die Straßensanierung in Hiddestorf ist erst für 2023 angedacht.
 
 Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteiligt wird.
 
@@ -847,7 +861,6 @@ Der ADFC setzt sich dafür ein, dass die AG-Radverkehr an den Planungen beteilig
 > 16.3.2021 HAZ Artikel im Hemminger Teil "Stadt will Alfred-Bentz-Straße verlängern."
 
 Die geplante Entlastungsstraße zwischen der B3alt (südlich Glende) und der Alfred-Bentz-Straße (am Spielplatz) soll, wenn alles gut läuft, auf der nördlichen Straßenseite einen 3 Meter breiten Zweirichtungsrad- und Gehweg erhalten.
-
 
 ## Touren 2020
 
@@ -876,17 +889,17 @@ Abend - Ruthe, Sarstedt, Ahrbergen:          2020-10-07, 1d
 <details>
   <summary>Unsere Touren 2020! Klick hier</summary>
 
-## Abendtour 5/20 2020-10-07-Mi.
+## Abendtour 5/20 2020-10-07-Mi
 
-Die 5. Feierabend-Radtour startete am Mittwoch, dem 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen. Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum. 
- 
+Die 5. Feierabend-Radtour startete am Mittwoch, dem 07. Oktober mit 11 Radlern bei nicht so schönem Wetter. Über Wilkenburg, Harkenbleck fuhren wir nach Koldingen, wo wir die Pattenser Radler trafen. Weiter ging es an den Koldinger Teichen vorbei nach Sarstedt. Am Wehr erreichten wir den idyllischen Willi-Jädtke-Weg und fuhren weiter nach Ahrbergen Richtung Giesen. Zurück ging es zu den Giftener Teichen und weiter nach Schliekum. Von dort fuhren wir bei leichtem Regen durchs Calenberger Land nach Pattensen und Arnum.
+
 Nach ca. 36 km und 3 Std. erreichten wir Hemmingen.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Ruthe, Sarstedt, Ahrbergen
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2020-10-07-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Helmut, Günther
@@ -898,15 +911,15 @@ Wetter           | zeitweise regnerisch
 
 </details>
 
-## Abendtour 04/20 2020-09-29-Mi.
- 
+## Abendtour 04/20 2020-09-29-Mi
+
 Die 4. Feierabend-Radtour startete am Mittwoch, dem 29. September mit 14 Radlern. Bei gutem Wetter fuhren wir gen Westen nach Ihme-Roloven, vorbei an Ronnenberg und weiter nach Gehrden. In Gehrden ging es ein kurzes Stück steil bergauf, da durfte man schon mal schieben. Oben angekommen, umrundeten wir den Gehrdener Berg. Nach einer kurzen Rast, mit sehr guter Fernsicht ging es wieder bergab. Zurück ging es, entlang der Bahn nach Weetzen. Über Vörie, Ihme Roloven und Devese ging es zurück nach Hemmingen, das wir nach ca. 3 Std. und 34 km erreichten.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Gehrdener Berg
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2020-09-29-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -918,15 +931,15 @@ Wetter           | heiter bis wolkig
 
 </details>
 
-## Abendtour 3/20 2020-09-09-Mi.
+## Abendtour 3/20 2020-09-09-Mi
 
 Die 3. Feierabend-Radtour startete am Mittwoch, dem 09. September mit 9 Radlern bei nicht so schönem Wetter.  Über Wilkenburg, Harkenbleck und Reden fuhren wir ins Fuchsbachtal. Dort konnten wir die "Arbeit" des Bibers bestaunen. Weiter ging es nach Koldingen zu den Koldinger Teichen. In Ruthe erreichten wir die Innerste und fuhren an ihr entlang bis Sarstedt. Dort legten wir eine kurze Rast ein, bevor wir den Rückweg antraten. Zurück ging es wieder über Ruthe, vorbei an der geophysikalischen Versuchsanstalt GEO 600, Koldingen, Harkenbleck nach Hemmingen. Trotz teilweise leichtem Nieselregen hatten wir eine schöne, ca. 35 km lange Fahrt.
- 
+
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Ruthe, Sarstedt
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2020-09-09-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -938,15 +951,15 @@ Wetter           | zeitweise regnerisch
 
 </details>
 
-## Abendtour 2/20 2020-09-02-Mi.
- 
+## Abendtour 2/20 2020-09-02-Mi
+
 Die 2. Feierabend-Radtour startete am Mittwoch, dem 02. September mit 11 Radlern bei schönem Wetter. Durch die Leinemasch erreichten wir Rethen und fuhren auf einem idyllischen Radweg entlang der Bruchriede. Vorbei am Erbenholz ging es weiter zum Bockemer Holz mit seinen sehr schönen Waldwegen. Über den Kronsberg ging es zurück nach Laatzen und wieder in die Leinemasch. Nach einem kurzweiligen Stop im Laatzener Grasdachhaus fuhren wir weiter und erreichten nach ca. 3 Stunden flotter und schöner Fahrt und ca. 32 km Hemmingen.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Rethen, Bockemer Holz
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2020-09-02-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -958,16 +971,15 @@ Wetter           | heiter bis wolkig
 
 </details>
 
+## Abendtour 1/20 2020-08-19-Mi
 
-## Abendtour 1/20 2020-08-19-Mi.
- 
 Die 1. Feierabend-Radtour startete am Mittwoch, dem 19. August mit 9 Radlern bei gutem Wetter, und führte streckenweise über den Grünen Ring. Wir überquerten die neue B3 und fuhren durch Wettbergen nach Empelde. Mit einer leichten Steigung ging es zum Benther Berg. Von dort radelten wir weiter, direkt am Wald entlang, bis nach Velber und weiter zu der Gedenkstätte nach Ahlem. Danach erreichten wir den Mittellandkanal und fuhren weiter am Stichkanal entlang. An der Wasserkunst vorbei erreichten wir die Ihme und gelangten zu den Ricklinger Teichen. Nach ca. 2 1/2 Stunden und 32 km kamen wir gut gelaunt in Hemmingen an. Die Tour beendeten wir in einem Biergarten.
 
 <details>
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Benthe, Velber und Ahlem
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 2020-08-19-Mi
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -989,7 +1001,7 @@ Von dort geht es in den Herrenhauser Garten zum Leibnitztempel. Am Berggarten vo
   <summary>Klick hier für mehr Details!</summary>
 
 Tourenziel       | Durchs grüne Hannover zum Wietzesee
----------------: | ----------------------- 
+---------------: | -----------------------
 Datum            | 16.09.2020
 Tourenrart       | Feierabend
 Tourenleiter     | Günther
@@ -1027,11 +1039,11 @@ Mehr aus der [Vergangenheit](waswar.html).
   <tr>
     <td style="background-color:#EE7F00; color:#FFFFFF">Fußnote</td>
   </tr>
-</table> 
+</table>
 
 ## Impressum
 
-### Kontakt 
+### Kontakt
 
 Für die Ortsgruppe **Jens Spille**
 
