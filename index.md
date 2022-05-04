@@ -9,6 +9,14 @@
 
 Eine Ortsgruppe des [ADFC's Region Hannover e.V](https://hannover-region.adfc.de/)
 
+## Spende für die Fahrrad-Selbsthilfe-Werkstatt
+
+Im Rahmen eines audiovisuellen Vortrags im voll besetzten Hemminger Bauhof hat Rainer Dorau der Fahrrad-Selbsthilfe-Werkstatt anteilig die Hälfte der abendlichen Einnahmen gespendet und einen symbolischen Scheck über 250 Euro überreicht. Titel der Präsentation war „Mit dem Fahrrad durch Jordanien vom Roten Meer zum Toten Meer und wieder zurück“. Eine solche Spende haben wir dankenswerterweise von ihm bereits vor drei Jahren anlässlich eines Vortrags erhalten, als Rainer Dorau im Bauhof erlebnisreich über seine Radtour durch Spanien berichtete.
+
+*Herzlichen Dank, lieber Rainer Dorau, für diese Spende!*
+
+![](img/SpendeDorau_c_ADFCHemPat.png)
+
 ## Die ADFC Fahrrad-Selbsthilfe-Werkstatt bedankt sich herzlich für die hohe Spendenbereitschaft
 
 ![](img/Spendenraeder.jpg)
