@@ -132,7 +132,7 @@ Ortskundige werden gebeten, den Bereich weiträumig zu umfahren.
 
 Die Landesbehörde für Straßenbau und Verkehr bittet alle Verkehrsteilnehmer und Anwohnerinnen und Anwohner um Verständnis.
 
-![Beschilderte Umleitung für Radfahrende](img/WilkenburgUmleitung2022Juni.png)
+![Beschilderte Umleitung für Radfahrende](images/WilkenburgUmleitung2022Juni.png)
 
 ## Spende für die Fahrrad-Selbsthilfe-Werkstatt
 
@@ -140,11 +140,11 @@ Im Rahmen eines audiovisuellen Vortrags im voll besetzten Hemminger Bauhof hat R
 
 *Herzlichen Dank, lieber Rainer Dorau, für diese Spende!*
 
-![](img/SpendeDorau_c_ADFCHemPat.png)
+![](images/SpendeDorau_c_ADFCHemPat.png)
 
 ## Die ADFC Fahrrad-Selbsthilfe-Werkstatt bedankt sich herzlich für die hohe Spendenbereitschaft
 
-![](img/Spendenraeder.jpg)
+![](images/Spendenraeder.jpg)
 
 Nach einem Aufruf in der Presse erfuhr das Team der Fahrrad-Selbsthilfe-Werkstatt eine unglaublich hohe Resonanz aus der Bevölkerung. Innerhalb von zwei Wochen wurden bereits jetzt über 40 Spendenräder abgeholt oder in der Heinrich-Hertz-Straße 23 während der Werkstatt-Öffnung abgegeben. Dabei kamen die Spendenden nicht nur aus Hemmingen, sondern auch aus Pattensen, Laatzen bis hin nach Springe-Eldagsen. *Hierfür ein herzliches Dankeschön!*
 
@@ -154,7 +154,7 @@ Um dies bewerkstelligen zu können, sucht das Team nach weiterer **personeller U
 
 ## Solidarität
 
-![](img/Ukraine_Rad_Hashtag.jpg)
+![](images/Ukraine_Rad_Hashtag.jpg)
 
 Der ADFC Hemmingen/Pattensen ist betroffen und schockiert über den Angriff auf die
 Ukraine, über einen Krieg in Europa. Wir drücken allen Menschen in der Ukraine unsere
@@ -255,7 +255,7 @@ Diese vier zentralen Themenfelder werden in unser [PDF-Broschüre](pdf\190117 AD
 
 Das Team und der ADFC Hemmingen Pattensen wünschen allen Radelnden eine gesunde und pannenfreie Fahrt mit dem Rad. Radfahren stärkt das Immunsystem und schützt das Klima! Für Fahrradspenden, besonders Kinder- und Damenräder zur Aufbereitung und Weitergabe, bitten wir um Nachricht unter der Mailadresse ✉ [Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de](mailto:Fahrrad-Selbsthilfewerkstatt-Hemmingen@web.de). Unsere Fahrrad-Selbsthilfe-Werkstatt [PDF-Broschüre](pdf\191017 ADFC Fahrrad-Selbsthilfe-Werkstatt Hemmingen.pdf).
 
-![](img/Fahrradausgabe.jpg)
+![](images/Fahrradausgabe.jpg)
 
 <details>
   <summary>Weitere Services</summary>
@@ -864,7 +864,7 @@ Die Etappen der #TourDeVerkehrswende im August 2021:
 
 Besser ist es. Eine Untersuchung der Deutschen Gesellschaft für Unfallchirurgie ergab 2017, dass es bei rund 25 Prozent aller Fahrradunfälle Kopfverletzungen gibt.
 
-## Verkehrsrecht für Radfahrende ![](img/adfc_cycle_10_pin.png)
+## Verkehrsrecht für Radfahrende ![](images/adfc_cycle_10_pin.png)
 
 Das Fahrrad ist ein Fahrzeug – und Radfahrende sind Fahrzeugführende mit allen Rechten und Pflichten. Deshalb gelten zunächst die allgemeinen Regeln für den Fahrzeugverkehr. Auf diese Regeln geht der folgende Beitrag nur ein, wenn sie besondere Bedeutung für Radfahrende haben. Außerdem enthält die Straßenverkehrs-Ordnung (StVO) Vorschriften speziell für den Radverkehr. Um diese Vorschriften, ihre Beachtung und mögliche Konflikte soll es hier vor allem gehen.
 
@@ -876,7 +876,7 @@ ARD hr-Fernsehen [Sicherheit auf Radwegen - was bringen die neuen Regeln](https:
 
 ## Sei kein Geisterradler
 
-![](img/geisterradler.png)
+![](images/geisterradler.png)
 
 Nach einer Studie der Bundesanstalt für Straßenwesen (BASt 2015) fahren bis zu 20 % der Rad fahrenden auf Radwegen entgegen der vorgesehenen Fahrtrichtung. Dieses sogenannte „Geisterradeln“, also das regelwidrige Linksfahren, gehört zu den Hauptursachen der Unfälle, die durch den Radverkehr selbst verursacht werden.
 
@@ -954,7 +954,7 @@ Was ist aus den vielen Vorschlägen geworden, die vor einem Jahr im Bürgersaal 
 Dazu gab es unterschiedliche Budget-Vorschläge von der Verwaltung und vom ADFC für den städtischen Haushalt 2021. In einer Online-Veranstaltung haben wir diese Alltagsrouten allen Interessierten vorstellen und das weitere Vorgehen diskutieren. Jetzt ist wieder die Unterstützung aller Radbegeisterten zur Umsetzung gefragt: Es geht um die Verkehrswende und in den städtischen Haushaltsberatungen und um das dazu erforderliche Geld.
 
 Zu userer [Mängelkarte für Hemmingen und Pattensen](#unsere-mängelkarte)
-[![](img/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
+[![](images/MaengelKarte.png)](https://adfc-hemmingen-pattensen.github.io/MaengelKarte/)
 
 </details>
 
@@ -979,7 +979,7 @@ Nein, es wird kein Feldweg wie vor 115 Jahren. Beim Rückbau handelt es sich um 
 
 Der Rückbau wird sichbar. Mit Ausweichbuchten für große Fahrzeuge.
 
-![Rückbau K225](img/K225Rueckbau_c_MichaelMaier2021.jpg)
+![Rückbau K225](images/K225Rueckbau_c_MichaelMaier2021.jpg)
 
 ## L 389 - Quelle: HAZ Leine 9.3.2021
 
