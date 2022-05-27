@@ -744,7 +744,7 @@ Aus dem [Presseportal](https://www.presseportal.de/blaulicht/pm/66841/4972371) d
 > ...
 > Zur Stärkung des Radverkehrs wurden mit Wirkung vom 28.04.2020 verschiedene Neuerungen im Radverkehr eingeführt. ... Demnach müssen Kraftfahrzeugfahrende beim Überholen von zu Fuß Gehenden, Radfahrenden und Elektrokleinstfahrzeugführenden (z.B. E-Scooter) einen Mindestüberholabstand von 1,5 Meter innerorts und zwei Metern außerorts einhalten. Dieser Mindestabstand gilt auch bei separat geführten vorhandenen Radverkehrsanlagen.
 
-> ![Seitenabstandsmessung-Abstand-OK (c) Presseportal - 2021](img\Seitenabstandsmessung-Abstandok.jpg)
+> ![Seitenabstandsmessung-Abstand-OK (c) Presseportal - 2021](images\Seitenabstandsmessung-Abstandok.jpg)
 
 ## Stadtradeln 2021
 
@@ -914,7 +914,7 @@ Einrichtung von Fahrradzonen
 1. Verkehrszeichen Radschnellwege: Das Verkehrszeichen „Radschnellweg“ soll in die StVO aufgenommen werden, um die Kennzeichnung von Radschnellwegen auch unabhängig von der Fahrbahnbeschaffenheit wie z. B. auf sandigem Untergrund möglich zu machen.
 
 1. Überholverbot von Radfahrenden: Mit der Einführung eines neuen Verkehrszeichens sollen die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.  
-![Überholverbot von Radfahrenden](img\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
+![Überholverbot von Radfahrenden](images\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
 
 1. Erweiterung der Erprobungsklausel: Die bestehende Klausel für zeitlich und örtlich begrenzte Anordnungen zur Erprobung verkehrsregelnder oder sichernder Maßnahmen soll künftig unabhängig von einer Gefahrenlage Modellversuche ermöglichen, um den Handlungsspielraum der zuständigen Straßenverkehrsbehörden zu erweitern. Solche Modellversuche sollen im Einvernehmen mit den Kommunen angeordnet werden. Damit wird auch die Mitbestimmung der Kommunen gestärkt. Eine weitergehende Öffnung des Straßenverkehrsrechts für Verkehrsversuche bedarf einer Änderung auf Gesetzesebene, die in einem weiteren Schritt im nächsten Jahr angegangen werden soll.
 
@@ -924,7 +924,7 @@ Einrichtung von Fahrradzonen
 
 ## Unfallorte mit Fahrradbeteiligung in Hemmingen 2020
 
-![](img\UnfallorteHem2020_c_unfallatlas.statistikportal.de.jpg)
+![](images\UnfallorteHem2020_c_unfallatlas.statistikportal.de.jpg)
 
 Die Grafik zeigt **Unfallorte mit Fahrradbeteiligung** in Hemmingen 2020 aus dem Unfallatlas <https://www.statistikportal.de/de/karten/unfallatlas>. Nächste Aktualisierung: Juli 2022.
 
@@ -1162,7 +1162,7 @@ Beschwerden bitte direkt am Infrastrukturgesellschaft (Infra), *Bürgersprechstu
 
 ## Was war sonst noch?
 
-Mehr aus der [Vergangenheit](waswar.html).
+Mehr aus der [Vergangenheit](History/waswar.html).
 
 <!-- =====================================================================
      Fußnote

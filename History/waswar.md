@@ -1,4 +1,4 @@
-[![](img\banner.png)](http://www.adfc-hannover.de/)
+[![](..\images\banner.png)](http://www.adfc-hannover.de/)
 
 # [ADFC Ortsgruppe Hemmingen/Pattensen](http://adfc-hemmingen-pattensen.github.io/)
 
@@ -101,7 +101,7 @@ Zitat: "Anregungen der Stadt Hemmingen, möglichst viele Wegebeziehungen in der 
 
 Die Pläne (eher gesagt Ideen) zur Umgestaltung der Weetzener Landstraße liegt auf der Homepage der Stadt Hemmingen. [Umgestaltung der Weetzener Landstraße](https://www.stadthemmingen.de/hemmingen-erleben/verkehr/umgestaltung-der-weetzener-landstrasse-planung-der-region-hannover-/).
 
-![](img\WeetzenerLnksabbgrNetto.png)
+![](..\images\WeetzenerLnksabbgrNetto.png)
 
 
 ### Erste Dauerzählstelle in Hemmingen
@@ -118,7 +118,7 @@ Am 14.06.18 wurde die Analyse der verkehrlichen Auswirkungen vorgestellt.
 
 [Hier](https://www.stadthemmingen.de/downloads/datei/OTA3MDAyMjE5Oy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE4MDYxNF9wcmFlc2VudGF0aW9uX3NocC5wZGY%3D/20180614_praesentation_shp.pdf) können Sie die verkehrliche Untersuchung einsehen. Die Erschließung wird von „hinten“ über die Carl-Zeiss-Straße erfolgen.
 
-![](img/ErschliessungDudlerBau.png)
+![](../imagesErschliessungDudlerBau.png)
 
 ### Planfeststellungsverfahren für den Neubau eines Radweges im Zuge der K 226/K221 von Ronnenberg nach Devese
 
@@ -168,7 +168,7 @@ Einrichtung von Fahrradzonen
 1. Verkehrszeichen Radschnellwege: Das Verkehrszeichen „Radschnellweg“ soll in die StVO aufgenommen werden, um die Kennzeichnung von Radschnellwegen auch unabhängig von der Fahrbahnbeschaffenheit wie z. B. auf sandigem Untergrund möglich zu machen.
 
 1. Überholverbot von Radfahrenden: Mit der Einführung eines neuen Verkehrszeichens sollen die zuständigen Straßenverkehrsbehörden in Zukunft ein Überholverbot von einspurigen Fahrzeugen (u. a. Fahrrädern) für mehrspurige Kraftfahrzeuge z. B. an Engstellen anordnen können.  
-![Überholverbot von Radfahrenden](img\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
+![Überholverbot von Radfahrenden](..\images\stvo-novelle-8-ueberholfverbot-radfahrer.jpg)
 
 1. Erweiterung der Erprobungsklausel: Die bestehende Klausel für zeitlich und örtlich begrenzte Anordnungen zur Erprobung verkehrsregelnder oder sichernder Maßnahmen soll künftig unabhängig von einer Gefahrenlage Modellversuche ermöglichen, um den Handlungsspielraum der zuständigen Straßenverkehrsbehörden zu erweitern. Solche Modellversuche sollen im Einvernehmen mit den Kommunen angeordnet werden. Damit wird auch die Mitbestimmung der Kommunen gestärkt. Eine weitergehende Öffnung des Straßenverkehrsrechts für Verkehrsversuche bedarf einer Änderung auf Gesetzesebene, die in einem weiteren Schritt im nächsten Jahr angegangen werden soll.
 
@@ -184,7 +184,7 @@ Die Stadt Hemmingen hat einen 80-seitgen Entwurf zum "Teilräumliches ISEK - Vor
 
 Hier eine von vielen Umbaumaßnahmen die angedacht sind.
 
-![Straßenprofil bei Pizza Pinocchio](img\2019-02-03_ISEK_Arnum_Profil.png)
+![Straßenprofil bei Pizza Pinocchio](..\images\2019-02-03_ISEK_Arnum_Profil.png)
 
 Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Eine öffentliche Informationsveranstaltung ist am Mo. 18.02 ab 19:00 in der Wäldchenschule replant.
 
@@ -196,11 +196,11 @@ Der Entwurf wird vom Do. 14.02 bis Mo. 18.03 im Rathaus Hemmingen ausliegen. Ein
 
 ### Das waren unsere Abendradtouren 2019:
 
-![](img\Abendradtouren2019.jpg)
+![](..\images\Abendradtouren2019.jpg)
 
 Und das waren unsere Tagestouren 2019:
 
-![](img\Tagestouren2019.jpg)
+![](..\images\Tagestouren2019.jpg)
 
 Wir hoffen es hat allen Spaß gemacht.
 
@@ -511,7 +511,7 @@ in die durchs Ricklinger Holz zum Maschsee. Von dort in die Eilenriede, vorbei a
 
 ## Familien-Radwandertag am 2.6.
 Familien-Radwandertag des ADFC Region Hannover. Einmal rund um Hannover.
-![](img\RWT2019_Karte-1_1.png)
+![](..\images\RWT2019_Karte-1_1.png)
 
 ### Tagestour 2/19 2019-05-26-So
 
@@ -650,7 +650,7 @@ Der ADFC Hemmingen Pattensen hat sich am Montag, den 26. Nov. 2018 erfolgreich a
 
 Nach einem eher verhaltenen Start vor Beginn der eigentlichen Veranstaltung, kamen dann doch noch Interessierte an unseren Stand. Die Stadtverwaltung Hemmingen (sie hatte direkt neben uns ebenfalls einen Stand) lobte unser Engagement. Von hier aus vielen Dank an die Aktivisten.
 
-![ADFC Stand](img/1543314645286.png)
+![ADFC Stand](../images\1543314645286.png)
 
 ### Hemmingen ist AGFK Mitglied
 
@@ -662,7 +662,7 @@ um sich gegenseitig auszutauschen und zu unterstützen. Ziel ist die Zertifizier
 * das die Kommune bereit ist, in der AGFK mitzuarbeiten und sie zu unterstützen.
 
 
-![AGFK Mitglieder](img/1543229997733.png)
+![AGFK Mitglieder](../images\1543229997733.png)
 
 Die Stadt Hemmingen hat ihre Errungenschaften und Ziele auf Seite 15 der [Broschüre 2018 als PDF (Download)](http://www.agfk-niedersachsen.de/fileadmin/user_upload/public/Meldungen/2018_Fahrradland-Niedersachsen-Bremen.pdf) dargelegt.
 
@@ -673,10 +673,10 @@ Hohe Bünte wird Fahrradstraße. Unser Antrag wurde angenommen.
 
 Die Empfehlung aus dem Radverkehrskonzept [(Link)](https://www.stadthemmingen.de/downloads/datei/OTA3MDAwOTYyOy07L3Vzci9sb2NhbC9odHRwZC92aHRkb2NzL2hlbW1pbmdlbi9oZW1taW5nZW4vbWVkaWVuL2Rva3VtZW50ZS8yMDE1MDIxN19yYWR2ZXJrZWhyc2tvbnplcHRfaGVtbWluZ2VuX2VuZGZhc3N1bmcucGRm/20150217_radverkehrskonzept_hemmingen_endfassung.pdf) vom Februar 2015 für Teile der Berliner Straße "die Benutzungspflicht des gemeinsamen Geh- und Radweges aufzuheben" wurde heute, am 7. November 2018, umgesetzt.
 
-![RichtungOst](img/RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](img/RadfahrerFreiRichtungWest.jpg)
+![RichtungOst](../images\RadfahrerFreiRichtungOst.jpg) - ![RichtungWest](../images\RadfahrerFreiRichtungWest.jpg)
 
 Damit ist es jetzt Radfahrende in beiden Richtungen freigestellt, den nördlichen Gehweg oder die jeweils rechte Fahrbahnseite, auf der eine Höchstgeschwindigkeit von 30 km/h erlaubt sind, zu benutzen. Radfahrende die den Gehweg benutzen, müssen sich den
-Fußgängern anpassen und dürfen diese nicht gefährden. ![](img/RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
+Fußgängern anpassen und dürfen diese nicht gefährden. ![](../images\RücksichtKlein.png) Radfahrende müssen jederzeit rechtzeitig bremsen können, auch an unübersichtlichen Grundstücks Ein- und Ausgängen.
 
 
 ### Abendtour #16/18 2018-10-10-Mi.
@@ -822,7 +822,7 @@ Es gab keine körperlichen und technischen Ausfälle. Alle Teilnehmer waren sehr
 
 Zu bemerken ist noch, dass Radler sogar aus Gehrden, Sarstedt und Hannover kamen.
 
-![](img/2018-08DurchsCalenbergerLand.png)
+![](../images\2018-08DurchsCalenbergerLand.png)
 
 ### Abendtour #10/18 2018-07-25-Mi.
 
@@ -992,9 +992,9 @@ Wir querten die Innerste bei Schliekum und fuhren am Fluss entlang bis nach Ruth
 
 Es gab keine körperlichen und technischen Ausfälle, alle waren sehr zufrieden mit der Tour, die durch schöne Landschaften führte und sehr abwechselungsreich war.
 
-![](img/GruppeAmHohnsensee.png)
+![](../images\GruppeAmHohnsensee.png)
 
-![](img/Tour20180527.png)
+![](../images\Tour20180527.png)
 
 ### Abendtour #5/18 2018-05-23-Mi.
 
@@ -1027,7 +1027,7 @@ Wetter           | heiter mit Gegenwind
 
 Die sportlich angekündigte Tour mit 103,50km ging mit 5 Radlern durch die Eilenride zur Bockwindmühle im Herman-Löns-Park. Nach der ersten Pause an der Mühle ging es an Anderten und Misburg vorbei, über den Eisenbahnerlängsweg nach Lehrte. Durch die Lehrter Altstadt südlich der Bahn über Ramhorst weiter Richtung Arpke. Hinter Arpke ging es durch offene aufgeräumte Bördelandschaft, gegen den schon heftigen Gegenwind (direkt von Vorn) bei ruhigem Tempo 18-20 kmh in die Fuhseniederrung bei Abbensen. Nach kurzem Stop weiter an der Landstraße auf dem Radweg durch Edemissen zur Motormühle in Klein Blumenhagen. Dort konnten wir Radler uns bei Kaffee und selbstgebackenem Kuchen oder Bockwurst stärten. (Beschreibung der Rücktour in offener Landschaft mit Rückenwind folgt)
 
-![](img/VerlaufNachEdemissen.png)
+![](../images\VerlaufNachEdemissen.png)
 
 ### Tolle Projekttage der Grundschule Köllnbrinkweg in der Fahrrad-Selbsthilfewerkstatt des ADFC Hemmingen/Pattensen
 
@@ -1057,7 +1057,7 @@ Die 4. Feierabend-Radtour ging am Mittwoch den 16. Mai mit 2 Radlern, bei gutem 
 
 
 ### Abendtour #3/18  2018-05-02-Mi.
-![](img/MittwochLogo200.png)
+![](../images\MittwochLogo200.png)
 
 Tourenziel       | Benthe
 ---------------: | -----------------------
@@ -1115,7 +1115,7 @@ Die Tour führte zum **Lindener Berg**. Es ging durch das Ricklinger Holz, an de
 
 <!-- Hallo Jens: Ein Foto schicke ich per Email -->
 
- ![Tour46](img/Tour46.png)
+ ![Tour46](../images\Tour46.png)
 
 ### 20\. Radeltreff - Jahreshauptversammlung 2018
 
@@ -1150,7 +1150,7 @@ Wir möchten uns hiermit bei allen Geldspendern, Sachspendern, Helfern und Befü
 
 ### Abendtour #45 2017-09-20-Mi.
 
-Karte mit unseren Touren 2017 bis Ende August. ![](img/AbendTouren1.jpg)
+Karte mit unseren Touren 2017 bis Ende August. ![](../images\AbendTouren1.jpg)
 
 ### 17\. Radel-Treff
 
@@ -1233,7 +1233,7 @@ Wir möchten gerne zu einem späteren Zeitpunkt die ursprünglich geplante Tour 
 > Treffpunkt: Pattensen-Rewe Center, Johann-Koch-Str.2<br>
 > Termin noch unklar
 
-![](img/DurchdieHildesheimerBerge.png "GPSies")
+![](../images\DurchdieHildesheimerBerge.png "GPSies")
 
 > Quelle [https://www.gpsies.com](https://www.gpsies.com/map.do?fileId=ixxrppzvyejlbbjk)
 
@@ -1253,7 +1253,7 @@ Die 37\. Feierabend-Radtour startete am Mittwoch den 19\. Juni mit 5 Radlern, 3 
 
 Am 05.07.2017 sind wir zu viert eine schöne fotte Tour zum Wasserstassenkreuz nordlich von Seelze gefahren. Am Ihmegraben und Leine entlang ging es an der Leineschleuse vorbei durch Letter und die Leinemasch zum Kolster Marienwerder. Nach kurzer Pause im Hinüberschen Garten lief es weiter zum Brückenbauwerk des Mittellandkanales über die Leine. Die Trogbrücke wurde erklommen und der Mittellandkanal unterquert um weiter über Seelze zum Eisessen zuradeln. Dann über Landstrassen und Feldwegen vorbei am Bentherberg und Bornum haben wir 40km in gut 3 Stunden zurückgelegt.
 
-![](img/Trogbrücke.png "Trogbrücke")
+![](../images\Trogbrücke.png "Trogbrücke")
 
 ### 35\. Abendradtour
 
@@ -1282,7 +1282,7 @@ Das Lastenfahrrad Hannah kann im Mai für maximal drei Tage über das Online-Por
 
 In dem Markt im Calenberger Center wird das E-Bike Lastenrad über Nacht aufgeladen. Mit dem Lastenfahrrad können zum Beispiel zwei kleine Kinder, der Einkauf, die Grünabfälle oder auch drei Kisten Bier transportiert werden. Das Rad ist ab Dienstag den 2\. Mai im Rewe-Markt stationiert.
 
-![](img/hannahPat.png)
+![](../images\hannahPat.png)
 
 ### 33\. Feierabend-Radtour
 
@@ -1294,7 +1294,7 @@ Am Sonntag den 11.06.2017 gab es die Tour „Im großen Bogen um Pattensen herum
 
 Auch aus Hemmingen wurde vom Treffpunkt Rathausplatz zuerst dorthin gefahren. Nach einer Stärkung und netten Frühstücks-Schnack ging es gemeinsam los. Die Strecke führte zunächst durch das Bürgerholz, nach Ihme-Roloven. In Holtensen durchquerten wir einen Naturerlebnispfad und fuhren aufwärts zu den Windrädern hoch. Hier hatten wir einen herrlichen Ausblick über das Calenberger Land bis nach Hannover. Weiter ging es über Gestorf nach Thiedenwiese und Jeinsen. Dort fuhren wir über die Leinebrücke durch die herrliche Seenlandschaft nach Ruthe. Wir machen einen Abstecher zum Zusammenfluß der Innerste/Leine. Am Versuchsgut vorbei ging es weiter zum gemeinsamen Endpunkt der Tour am Sportlerheim des SV Koldingen am Fußballplatz in Koldingen. Dort gab es die Möglichkeit sich zu stärken und sich bei Imker Könnecke über Bienen und die Imkerei zu informieren. Im Anschluss gab es geführte Rückfahrten durch das Fuchsbachtal zurück nach Pattensen oder über Reden nach Hemmingen zum Rathausplatz. Dauer ca.5-6 Std.
 
-![Große u. Kleine Tour](img/Tour2017-06-11.png) Details siehe <https://www.gpsies.com/> Entdecken/Suche nach "Im großen Bogen um Pattensen".
+![Große u. Kleine Tour](../images\Tour2017-06-11.png) Details siehe <https://www.gpsies.com/> Entdecken/Suche nach "Im großen Bogen um Pattensen".
 
 ### 32\. Feierabend-Radtour
 
@@ -1335,7 +1335,7 @@ Dann überquerten wir die Leinebrücke und fuhren in Richtung Sarstedter Bahnhof
 
 Dann sahen eine kleine Feldsteinkirche in der Landschaft und erreichten bald den Westhang des Kalibergs.
 
-![](img/2017Tour1Giesen.png)
+![](../images\2017Tour1Giesen.png)
 
 Da wir nun ungeschützt in östlicher Richtung den Berg umrunden mussten, boten wir der Gruppe an, auf die Umrundung zu verzichten und am Rastplatz auf die Radler zu warten, die sich die Strapazen der Umrundung zutrauten. Fast alle wollten aber an der Umrundung teilnehmen. Es war für alle sicher eine große Herausforderung wegen des starken Windes, der nun direkt von vorne kam. Als wir dann in südlicher Richtung und etwas später in westlicher Richtung fuhren, war vom Wind nichts mehr zu spüren.
 
@@ -1361,11 +1361,11 @@ Die insgesamt 28te oder auch 1ste Abendradtour 2017 fand am 22\. März statt. Wi
 
 Matthias Peuker vom ADFC Vorstand war bei der Übergabe mit dabei. Er hat auch die Bilder gemacht. Die ADFC Fahrrad-Selbsthilfe-Werkstatt übernimmt die Wartung.
 
-![](img/hannahLogo.jpg) Zu buchen ist die hannah Nr. 14 unter <http://www.hannah-lastenrad.de/cb-items/hannah-14> Station Hemmingen Rathaus. Jetzt gibt es keine Entschuldigung mehr; auch der große Einkauf und das Entsorgen der Gartenabfälle geht mit dem Rad.
+![](../images\hannahLogo.jpg) Zu buchen ist die hannah Nr. 14 unter <http://www.hannah-lastenrad.de/cb-items/hannah-14> Station Hemmingen Rathaus. Jetzt gibt es keine Entschuldigung mehr; auch der große Einkauf und das Entsorgen der Gartenabfälle geht mit dem Rad.
 
 > Die Hoffnung, dass sich Hannah zu einem „kleinen Leuchtturmprojekt" für das Thema E-Mobilität in Hemmingen entwickeln werde, hegt auch Bürgermeister Claus Schacht. Das Lastenfahrrad, ist er sich mit Axel Schedler einig, habe ein positives Image, von dem Hemmingen profitieren könne. „Nun wünsche ich mir, dass Hannah von den Hemmingern auch ordentlich genutzt wird", sagte der Bürgermeister.
 
-![](img/hannahStadtHem.png)
+![](../images\hannahStadtHem.png)
 
 ### 15\. Nov. 2016 Fahrrad-Selbsthilfe-Werkstatt Hemmingen ist eröffnet
 
@@ -1389,7 +1389,7 @@ Kontakt:
 
 - **Presseartikel**: [ADFC Region](http://www.adfc-hannover.de/adfc-fahrrad-selbsthilfe-werkstatt-in-hemmingen/)
 
-![Eröffnung](img/2016-11-15-EroeffnungFSW.jpg)
+![Eröffnung](../images\2016-11-15-EroeffnungFSW.jpg)
 
 ### Fahrrad-Selbsthilfe-Werkstatt Hemmingen auf dem Weg
 
@@ -1417,7 +1417,7 @@ Kontakt:
 
 - **Presseartikel**: [Leine Nachrichten](pdf/161021_LKLN_VP_01-1.pdf)
 
-![FSW-Hemmingen](img/FSW-FotoNov16.jpg)
+![FSW-Hemmingen](../images\FSW-FotoNov16.jpg)
 
 Wer Lust hat beim Herrichten der Räume und Spendenfahrräder mitzuarbeiten oder das Team bei der Fahrradausgabe zu unterstützen, kann sich am Besten bei den Kontaktpersonen melden. Ab sofort werde die Dienstage 17:30 bis 19:00 Uhr (oder länger) dazu. **Dazu brauchen wir Menschen, die uns unterstützen** bei:
 
@@ -1446,7 +1446,7 @@ Dorfplatz und vielen restaurierten Fachwerkhäusern. Sehenswert dieses Dorf,
 besonders das Cafe in einem restaurierten Fachwerkhaus (s.Foto).
 Die Zeit reichte leider nicht um dort einzukehren!
 
-![](img/screen_20161102_194216.png "Cafe in Barnten")
+![](../images\screen_20161102_194216.png "Cafe in Barnten")
 
 In Nordstemmen machten wir unsere erste längere Rast und stärkten uns in einem
 gemütlichen Eiscafe mit großen Eisbechern und Cappucino.
@@ -1473,7 +1473,7 @@ wir wieder am Ausgangspunkt Hallenbad Pattensen ein, **Tourlänge 60 km!**
 Es gab keine körperlichen und technischen Ausfälle, da alle Beteilgten sich gut
 vorbereitet hatten! So macht das Ganze Spass!
 
-![http://www.gpsies.com/map.do?fileId=umgilmzpufjsemgs](img/PattensenKleinerDeisterOsterwald.png)
+![http://www.gpsies.com/map.do?fileId=umgilmzpufjsemgs](../images\PattensenKleinerDeisterOsterwald.png)
 
 ### 02. Oktober 4. Sonntagstour - Radtour „Durch das Calenberger Land“
 
@@ -1491,7 +1491,7 @@ Früchten! Danach durchquerten das Naturshutzgebiet Hallerburger Holz und kamen 
 Obstbaumalleen vorbei, bis nach Adensen. Dort fuhren wir zur uralten Stein-Dorfkirche, die
 besichtigt werden konnte.
 
-![Foto ADFC Hemmingen / Pattensen](img/4teSonntagstour2016.jpg)
+![Foto ADFC Hemmingen / Pattensen](../images\4teSonntagstour2016.jpg)
 
 Mit gemächlichen Tempo ging es dann weiter über Hallerburg, Sonnenborn bis nach Eldagsen.
 Dort fand gerade das Kürbisfest statt, welches wir besuchten.
@@ -1551,7 +1551,7 @@ zurück nach Jeinsen und Pattensen, wo sich der Kreis schloss!
 Es gab, bis auf das technische Problem mit dem E-Bike, keine körperlichen Ausfälle, alle
 Radler waren von der Vielfäftigkeit der Strecke begeistert und rundum zufrieden!
 
-![Foto ADFC Hemmingen / Pattensen](img/3teSonntagstour2016.jpg)
+![Foto ADFC Hemmingen / Pattensen](../images\3teSonntagstour2016.jpg)
 
 ### 10. August: 25. Feierabendtour
 Die 25. Feierabend-Radtour startete am Mittwoch den 10. August mit 7 Radlern (2 Damen und 5 Herren). Die Fahrt ging über Empelde, an Ronnenberg vorbei nach Gehrden. Von dort ging es auf einem sehr schönen Rundweg mit guter Aussicht auf den Deister, um den Gehrdener Berg. Zurück fuhren wir über Weetzen, Vörie und Ihme-Roloven. Nach ca. 3 Std. und 35 km erreichten wir Hemmingen.
@@ -1568,7 +1568,7 @@ Nach ca. 2 Std. und 30 km erreichten wir, immer noch trocken, Hemmingen.
 Ein original „Bakfiets“ aus den Niederlanden ist diese Hannah. Die darf maximal 180kg beladen, inklusive Fahrer/in, beladen werden. Auf der Sitzbank können zwei Kleinkinder sitzen, die mit den Dreipunktgurten sicher angeschnallt werden.
 Diese Hannah ist mit Elektromotor ausgestattet und besonders leicht zu fahren! Der volle Akku bringt dich bis zu 90km durch die Region.
 
-![](img/hannahPat.png)
+![](../images\hannahPat.png)
 
 Vom 1. Juli 2016 - 31. Juli 2016 konnte Hannah während der Öffnungszeiten an der Verleihstation kostenlos ausgeliehen werden. Vorher musste Hannah über [Hannahs Webseite](http://www.hannah-lastenrad.de/cb_items/hannah-4) gebucht werden.
 
@@ -1631,7 +1631,7 @@ Anderter Schleuse. Nach einer kurzen Rast ging es auf den höchsten Punkt des Kr
 Die schöne Aussicht über Hannover und bis zum Brocken entschädigte für den letzten steilen Anstieg.
 Nach ca. 3 Std. und 35 km erreichten wir wieder Hemmingen.
 
-![](img/18teAbendtour.png)
+![](../images\18teAbendtour.png)
 
 ### Der 13. RadlerTreff
 Der 13. RadlerTreff fand am **16. Juni 2016 um 19:00 im Bürgersaal** Hemmingen (Im Rathaus, EG) statt. Themen waren u.a. Stadtradeln und Berichte über diverse Sitzungen.
@@ -1650,7 +1650,7 @@ nach Pattensen zu dem Erlebnistag am Calenberg-Center.
 
 Mehr Eindrücke von unserem Stadtradelstar [hier](https://www.stadtradeln.de/index.php?L=1&id=2520&sr_post_id=231).
 
-![](img/160605BogenUmPattensen.jpg)
+![](../images\160605BogenUmPattensen.jpg)
 
 ### 2. Juni: Die feuchtfröhlichen 15. Feierabend-Radtour
 Die 15. Feierabend-Radtour ging am Donnerstag den 2. Juni mit fünf Radlern (3 Herren und 2 Damen)
@@ -1664,7 +1664,7 @@ Auf schnellstem Weg ging es dann über Empelde und Wettbergen zurück. Nach ca. 
 
 
 ### 29. Mai: Unser Start zur Sternfahrt
-![](img/StartSternfahrt16.JPG)
+![](../images\StartSternfahrt16.JPG)
 Mit Kaffee und Brötchen starteten viele Pattenser und Hemminger um 11:15 zur Sternfahrt.
 
 ### Am 12.06.2012 fand der diesjährige Rad-Wander-Tag statt
@@ -1693,7 +1693,7 @@ Die 13. Feierabend-Radtour ging am Mittwoch den 11. Mai mit vier Radlern (3 Herr
 Am **24. April 2016** ist eine Gruppe von Radlern zum Kaliberg Giesen gefahren. Gegen 14:15 hörte der Schneeregen auf und die Sonne kam durch. Die Radler waren, entsprechend der Witterung, gekleidet, und haben einstimmig beschlossen die Tour zu fahren. Über die Calenberger Ackerwege und Schliekum, fuhren sie durch die schöne frühlingshafte Seenlandschaft bei Giften. Weiter ging es über Feldwege in Richtung des schon sichtbaren Kalibergs. Nach dem Studium der Schautafeln über das ehemalige Kalibergwerk und eine Umrundung des Kalibergs ging es weiter über die Innerste, den romantischen Innerste-Heide-Radweg entlang, an Technikdenkmälern vorbei bis nach Sarstedt hinein! Anschließend ging es am landwirtschaftlichen Lehrgut vorbei nach Koldingen. Zwischendurch gab es viele kleine und große Pausen mit Besichtigungen. Alle waren bester Laune und alle waren sehr zufrieden mit der 38 km langen Tour!
 
 
-![](img/160424Giesen.jpg)
+![](../images\160424Giesen.jpg)
 
 ### Frühlingsauftakt - 12. Abendradtour
 Die erste &#x1f6B2; Frühlingsauftagtradtour am Donnerstag den 14.April hat mit fünf Radlern
@@ -1705,13 +1705,13 @@ Zickzack durch Linden. An der Bettfedernfabrik vorbei, an der Ihme und durch die
 Leinemarsch zurück zum Rathausplatz. Nach gut 24 km und netten Gesprächen im
 herrlichen Sonnenschein eine schöne Feierabend-Radtour.
 
-![](img/160414AdfcDirk11teTour.jpg)
+![](../images\160414AdfcDirk11teTour.jpg)
 
 ### Koordinierungskreis
 Am Montag, den 11. April wurde in Hemmingen der **Koordinierungskreis des '[Hemminger Netzwerk für Flüchtlinge](http://www.fluechtlinge-hemmingen.de/)'** gegründet. Mitglieder sind Vertreter der Arbeitsgruppen wie. z.B. die Deutschgruppen, das interkulturelle Kreativ-Kaffee, Patenschaften und die ADFC Ortsgruppe Hemmingen/Pattensen &#x1F527;.
 
 ### Info-Stand
-Am verkaufsoffenen Sonntag, den 10. April 2016 am Rewe-Center, hatte der **ADFC einen Infostand** aufgebaut. ![Info Stand](img/2016-04-10_ADFC_Infostand_ReweC.jpg). Links und rechts neben dem ADFC-Stand gab es Informationen vom Wegeteam, Netzwerk für Flüchtlinge und zum Thema Stadtradeln &#x1f6B2;.  
+Am verkaufsoffenen Sonntag, den 10. April 2016 am Rewe-Center, hatte der **ADFC einen Infostand** aufgebaut. ![Info Stand](../images\2016-04-10_ADFC_Infostand_ReweC.jpg). Links und rechts neben dem ADFC-Stand gab es Informationen vom Wegeteam, Netzwerk für Flüchtlinge und zum Thema Stadtradeln &#x1f6B2;.  
 Auf dem ADFC-Stand gab es Informationen rund um das Lastenrad "Hannah", die geplanten Radtouren und einen Stadtplan auf dem Besucher mithilfe von Klebepunkten positive und auch kritische Radwegeführungen in Pattensen markieren konnten. 
 
 ### 12. RadlerTreff
@@ -1761,7 +1761,7 @@ Fünfzehn aktive Radler und Radlerinnen trafen sich am 2. Dez. 2015 zum **9. Rad
 
 Ein Team von vier ADFC'lern ist am Samstag den 31. Oktober 2015 bei mildem Herbstwetter und Rückenwind von Hemmingen nach Wennigsen geradelt, um **hannah** dort abzuholen. Dort angekommen wurde eines der mitgebrachten Räder zusammengefaltet und in die Lastenbox verfrachtet. Mit dem Faltrad im Gepäck und voller Batterie-Ladung ging es dann die 15 km zurück zum Verleih-Standort.
 
-![](img/hannah.png)
+![](../images\hannah.png)
 
 In dem Artikel zur Berliner Straße vom 21. Oktober 2015 ist uns ein kleiner Kommunikationsfehler unterlaufen. Wir hatten beschlossen und meinen wir es auch so, dass der nördliche gemeinsame Fuß- und Radweg der Berliner Straße (zum Sender hin) mit dem "Zeichen 239" Gehweg, und dem Zusatzschild „Radfahrer frei“ in beiden Richtungen ausgeschildert wird. Leider wurde "beidseitig" statt "nördlich" kommuniziert.
 
@@ -1796,7 +1796,7 @@ Der nächste Radlertreff ist für Ende November im Mehr Generationen Haus (Mobil
 
 Die **Firma Holcim plant einen Kiesabbau** südwestlich von Wilkenburg. Die Planungsunterlagen des Planfestellungsverfahren lagen bis zum 18.09.2015 im Rathaus Hemmingen aus. Die Zufahrt geschieht über die Wülfeler Straße (L 389) zwischen Arnum und Wilkenburg. Der östliche Verbindungsweg, Arnum-Süd bis Wilkenburg wird tangiert. Der im Plan eingezeichnete Alternativ-Weg existiert nicht mehr. Wir haben Einwendungen erhoben.
 
-![](img/holcim.png)
+![](../images\holcim.png)
 
 <iframe width="100%" height="300px" frameBorder="0" src="http://umap.openstreetmap.fr/de/map/adfc-hemmingen-pattensen_52057?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=true&datalayersControl=true&onLoadPanel=undefined&captionBar=false"></iframe>
 
@@ -1859,7 +1859,7 @@ Die Fahrradwerkstatt wird bis zu den Sommerferien immer donnerstags ab 18 Uhr vo
 -  Thema war die Besprechung unserer Einwendungen zu dem Planfeststellungsverfahren - Planänderung - Oberirdische Stadtbahnverlängerung nach Hemmingen  im Bereich der Stadtbahnstrecke A-Süd  
 - Die schriftlichen Einwendung wurden am 03.06.2015 bei der Niedersächsischen Landesbehörde für Straßenbau und Verkehr eingereicht.
 
-**Die Ortsgruppengründung** fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt. Ankündigung stand in der [rings um uns](img/2015-05-13 LN AnkOrtsgruppengründung.pdf) und in der [HannoRad 1|2015](http://www.adfc-hannover.de/hannorad/) auf Seite 28.
+**Die Ortsgruppengründung** fand am 19.05.2015 im Hemminger Bürgersaal Rathaus statt. Ankündigung stand in der [rings um uns](../images\2015-05-13 LN AnkOrtsgruppengründung.pdf) und in der [HannoRad 1|2015](http://www.adfc-hannover.de/hannorad/) auf Seite 28.
 
 Das **vierte Treffen** fand am 11.03.2015 bei Mutter Buermann statt. Thema war die Vorbereitung zur Ortsgruppengründung und Übersicht über die politschen Ereignisse. U. a.
 
