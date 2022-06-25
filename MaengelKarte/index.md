@@ -20,6 +20,13 @@ Die Radverkehrsmängel und Verbesserungsvorschläge, die auf dieser Seite gelist
 > ![](img\IconLayers.png)  Auswahl der angezeigten Elemente  
 > ![](img\KlickAnleitung.png) Popup Fenster öffnen
 
+**Legende**
+
+> ![](img\pin_red.png){ height=35px }  Mangel 
+> ![](img\pin_yellow.png){ height=35px }  Verbesserung geplant 
+> ![](img\pin_green.png){ height=35px }  Verbesserung umgesetzt 
+
+
 <iframe width="100%" height="830px" frameBorder="0" allowfullscreen=true src="https://adfc-hemmingen-pattensen.github.io/MaengelKarte/ADFC-Map.html"></iframe>
 
 # Akute Schadenmeldungen
