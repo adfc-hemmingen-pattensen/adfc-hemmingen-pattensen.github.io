@@ -219,6 +219,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 ### Status:
 
  Umleitung über L 398 geplant
+Die Verbindung wird es nicht geben
 
 ---
 
@@ -411,7 +412,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 ### Status:
 
- Straße soll für Durchgangsverkehr gesperrt werden.
+ Straße ist für Durchgangsverkehr gesperrt worden.
 
 ---
 
@@ -622,8 +623,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 ### Status:
 
- - offen
-
+ Verbingung durch Wäldchen is OK
 
 ---
 
@@ -650,7 +650,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 ### Status:
 
- - L 398 soll schon seit 2017 saniert werden
+ - wurde saniert
 
 ---
 
@@ -679,7 +679,7 @@ Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der
 
 ### Status:
 
- -  offen
+ Straße ist für Durchgangsverkehr gesperrt worden.
 
 ---
 
@@ -968,6 +968,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 ### Status:
 
  - 2019 - Jens Spille - Radweg soll saniert werden, wegen Beleuchtung.
+'- 2022-06-25 J. Spille - Beleuchtung angekündigt
 
 ---
 
@@ -1048,7 +1049,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Status:
 
- - offen
+ # 2022-06-25 Ausbau angekündigt
 
 ---
 
@@ -1075,7 +1076,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Status:
 
- - offen
+ - 2022-06-25 Ausbau angekündigt
 
 ---
 
@@ -1102,7 +1103,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Status:
 
- - offen
+ - 2022-06-25 Ausbau angekündigt
 
 ---
 
@@ -1165,7 +1166,8 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 ### Status:
 
  - 2018-01-05 J. Spille: Verbesserungsvorschlag wurde in unserer Stellungsnahme vom VEP2030 vorgestellt. 
-- 2018-10 J. Spille: Der Ortsverband BÜNDNIS 90/DIE GRÜNEN haben ein Gesprächsangebot gemacht.
+'- 2018-10 J. Spille: Der Ortsverband BÜNDNIS 90/DIE GRÜNEN haben ein Gesprächsangebot gemacht.
+'-2022-06-25 J.Spille: Region hat Änderung angekündigt
 
 ---
 
@@ -1328,7 +1330,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Status:
 
- - offen
+ # 2022-06-25 Beleuchtung angekündigt
 
 ---
 
@@ -1571,7 +1573,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Status:
 
- - offen
+ Sanierung ist angekündigt
 
 ---
 
@@ -3544,7 +3546,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 ### Status:
 
- -  offen
+ soll im Juni 2022 rot markiert werden
 
 ---
 
@@ -3661,7 +3663,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 ### Status:
 
- - offen
+ in Planung
 
 ---
 
@@ -3688,7 +3690,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 ### Status:
 
- - offen
+ erledigt
 
 ---
 
@@ -5442,7 +5444,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ### Status:
 
- -  offen
+ Ausbau angekündigt 2022-06-25
 
 ---
 
