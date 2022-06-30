@@ -1,4 +1,4 @@
-[![](../img/banner.png)](http://www.adfc-hannover.de/)
+[![](../images/banner.png)](http://www.adfc-hannover.de/)
 
 ## [ADFC Ortsgruppe Hemmingen/Pattensen (zur Homepage)](http://adfc-hemmingen-pattensen.github.io/)
 
