@@ -5595,3 +5595,30 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ---
 
+<a name="9c38a6417341c387d9d9b51a292a8103"></a>
+
+# Vorfahrt ändern, so dass das die Rot-Markierung auch inhaltlich Sinn bekommt mit rechts vor links oder Regelungen und Achtung Schule.
+
+- Plus Code: [8PGV+2F](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B2F)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9c38a6417341c387d9d9b51a292a8103 target="_blank">Link</a>
+- Einstelldatum: 2022-07-03
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Börie/Berliner Straße
+
+### Mangel:
+
+ Zur Zeit hat die Berliner Straße Vorfahrt.
+
+### Maßnahmenvorschlag:
+
+ Rechts vor Links und "Achtung Schule"
+
+### Status:
+
+ nan
+
+---
+
