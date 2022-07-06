@@ -5618,7 +5618,61 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ### Status:
 
- nan
+ offen
+
+---
+
+<a name="ddff6d50b416e8673df72e3ecd857bfd"></a>
+
+# Schlechter Belag
+
+- Plus Code: [8P6G+W4](https://www.google.com/maps/search/?api=1&query=9F4F8P6G%2BW4)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#ddff6d50b416e8673df72e3ecd857bfd target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Weg  südlich der Freda-Wuesthoff-Straße 
+
+### Mangel:
+
+ Der Belag ist in einem schlechten Zustand. Bei Regen weich und matschig.
+
+### Maßnahmenvorschlag:
+
+ Sanieren
+
+### Status:
+
+ offen
+
+---
+
+<a name="5b0e7eb76fa081267dec4bda7216c1e9"></a>
+
+# Defekter Belag / Löcher
+
+- Plus Code: [7PXM+GM](https://www.google.com/maps/search/?api=1&query=9F4F7PXM%2BGM)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5b0e7eb76fa081267dec4bda7216c1e9 target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Tal der Büffel
+
+### Mangel:
+
+ Der Belag ist in einem schlechten Zustand. Hat Löcher. Sturzgefahr.
+
+### Maßnahmenvorschlag:
+
+ Ausbessern
+
+### Status:
+
+ offen
 
 ---
 
