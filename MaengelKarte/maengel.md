@@ -5730,3 +5730,30 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ---
 
+<a name="fc8a691bda37a7688edf5491c2332f1a"></a>
+
+# Pictogramme auf südlicher Seite 
+
+- Plus Code: [8PFJ+PH](https://www.google.com/maps/search/?api=1&query=9F4F8PFJ%2BPH)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#fc8a691bda37a7688edf5491c2332f1a target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Pictogramme auf südlicher Seite 
+
+### Mangel:
+
+ Klare Kennzeichnung fehlt
+
+### Maßnahmenvorschlag:
+
+ Pictogramme
+
+### Status:
+
+ offen
+
+---
+
