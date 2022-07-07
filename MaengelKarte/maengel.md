@@ -5676,3 +5676,57 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ---
 
+<a name="87ab90aeb8b63c0ef28395652d74998d"></a>
+
+# Querrillen im Belag
+
+- Plus Code: [8P8W+CH](https://www.google.com/maps/search/?api=1&query=9F4F8P8W%2BCH)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#87ab90aeb8b63c0ef28395652d74998d target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Im Hammfeld
+
+### Mangel:
+
+ Der Belag ist in einem schlechten Zustand. Hat große Querrillen.
+
+### Maßnahmenvorschlag:
+
+ Ausbessern
+
+### Status:
+
+ offen
+
+---
+
+<a name="1e6d81e35c68ee46a17944a9abe38287"></a>
+
+# Schotter Weg zu schmal 
+
+- Plus Code: [8P6V+4C](https://www.google.com/maps/search/?api=1&query=9F4F8P6V%2B4C)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1e6d81e35c68ee46a17944a9abe38287 target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Vor Hundephulfsweg Brücke
+
+### Mangel:
+
+ Der Weg ist zu schmal und keine glatte Oberfläche
+
+### Maßnahmenvorschlag:
+
+ Asphaltieren
+
+### Status:
+
+ offen
+
+---
+
