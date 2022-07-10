@@ -3925,7 +3925,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 ### Status:
 
- - offen
+ wurde asphaltiert
 
 ---
 
@@ -3961,7 +3961,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 ### Status:
 
- - offen
+ wurde asphaltiert
 
 ---
 
@@ -5750,6 +5750,33 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 ### Maßnahmenvorschlag:
 
  Pictogramme
+
+### Status:
+
+ offen
+
+---
+
+<a name="5444a259b78b8a78baf852a31d627bbe"></a>
+
+# Durchfahrtverbot für alle, auch Fahrräder.
+
+- Plus Code: [8PJR+26](https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B26)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5444a259b78b8a78baf852a31d627bbe target="_blank">Link</a>
+- Einstelldatum: 2022-07-06
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Hohe Bünte - Nähe Freibad
+
+### Mangel:
+
+ Radfahrer frei fehlt
+
+### Maßnahmenvorschlag:
+
+ Radfahrer frei anbringen
 
 ### Status:
 
