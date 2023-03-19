@@ -5780,7 +5780,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ### Status:
 
- offen
+ erledigt
 
 ---
 
