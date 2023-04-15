@@ -1,0 +1,1 @@
+C:\DataProg\Anaconda3\python.exe C:\DataProg\Anaconda3\cwp.py C:\DataProg\Anaconda3 C:\DataProg\Anaconda3\python.exe C:\DataProg\Anaconda3\Scripts\jupyter-notebook-script.py "c:\DataADFC\1_ADFC-github\adfc-hemmingen-pattensen.github.io\MaengelKarte"
