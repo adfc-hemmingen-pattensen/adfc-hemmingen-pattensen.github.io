@@ -246,7 +246,7 @@ Die Verbindung wird es nicht geben
 
 ### Status:
 
- offen
+ erledigt
 
 ---
 
@@ -915,12 +915,12 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ---
 
-<a name="379ed1a26141ed007ee0a4d9826c1b36"></a>
+<a name="4fb7f1ee5a05380ce9be0d4e67d45e5d"></a>
 
-# Beleuchtung zw. Arnum und Real
+# Beleuchtung zw. Arnum und Kaufland
 
 - Plus Code: [8P6H+GP](https://www.google.com/maps/search/?api=1&query=9F4F8P6H%2BGP)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#379ed1a26141ed007ee0a4d9826c1b36 target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4fb7f1ee5a05380ce9be0d4e67d45e5d target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
@@ -2202,7 +2202,7 @@ Meldungsgrund: Loch
 
 ### Maßnahmenvorschlag:
 
- Route einrichten
+ Route einrichten - Radschnellweg ist geplant.
 
 ### Status:
 
