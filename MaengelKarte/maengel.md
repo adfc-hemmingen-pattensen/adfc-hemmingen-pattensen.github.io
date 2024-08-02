@@ -2,7 +2,7 @@
 
 # K227 fehlt ein Radweg
 
-- Plus Code: [7M9R+3X](https://www.google.com/maps/search/?api=1&query=9F4F7M9R%2B3X)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7M9R%2B3X target="_blank">7M9R+3X</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#35fd69ae7c9075b3bb86d635f977c2db target="_blank">Link</a>
 - Einstelldatum: 2017-09-13
 - Informationsquelle: ADFC
@@ -33,7 +33,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # K227 fehlt ein Radweg#2
 
-- Plus Code: [7M9R+3X](https://www.google.com/maps/search/?api=1&query=9F4F7M9R%2B3X)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7M9R%2B3X target="_blank">7M9R+3X</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f4555f30e9113b7c0d59a7fb0cdf5101 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -60,7 +60,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Nach Linderte Radweg fehlt
 
-- Plus Code: [7MGH+C3](https://www.google.com/maps/search/?api=1&query=9F4F7MGH%2BC3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7MGH%2BC3 target="_blank">7MGH+C3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#55ec5552a120338780b98bde88480cff target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -87,7 +87,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Ausbau des Wirtschaftswege
 
-- Plus Code: [7MMM+X7](https://www.google.com/maps/search/?api=1&query=9F4F7MMM%2BX7)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7MMM%2BX7 target="_blank">7MMM+X7</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d797cb58dfd0ee4b6785ce8eda701b83 target="_blank">Link</a>
 - Einstelldatum: 2020-05-21
 - Informationsquelle: ADFC Ronnenberg
@@ -116,7 +116,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Bis zum Bau des Radweges Tempo 50
 
-- Plus Code: [7MVW+C2](https://www.google.com/maps/search/?api=1&query=9F4F7MVW%2BC2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7MVW%2BC2 target="_blank">7MVW+C2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d18e041bf24d748a8026a4632b028b75 target="_blank">Link</a>
 - Einstelldatum: 2020-05-21
 - Informationsquelle: per Email v. O.G.
@@ -143,7 +143,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Ohlendorf – Hiddestorf: Weg in erbärmlichen Zustand
 
-- Plus Code: [7PP7+85](https://www.google.com/maps/search/?api=1&query=9F4F7PP7%2B85)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PP7%2B85 target="_blank">7PP7+85</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#52290c4a99a9e1b4610f8df66679aa37 target="_blank">Link</a>
 - Einstelldatum: 2020-03-08
 - Informationsquelle: Wege-Workshop
@@ -170,7 +170,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Lücke von Pattenser Feldweg - Hiddestorf
 
-- Plus Code: [7PPR+3C](https://www.google.com/maps/search/?api=1&query=9F4F7PPR%2B3C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PPR%2B3C target="_blank">7PPR+3C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#414385cacda1deefd4e55d4598c06062 target="_blank">Link</a>
 - Einstelldatum: 2015-01-01
 - Informationsquelle: Radverkehrskonzept 2015
@@ -199,7 +199,7 @@ diese Routen als „wichtige Verbindungen für den Radverkehr".
 
 # Weg zw. Freibad und Ohlendorfer Holz unterbrochen
 
-- Plus Code: [7PVG+Q8](https://www.google.com/maps/search/?api=1&query=9F4F7PVG%2BQ8)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PVG%2BQ8 target="_blank">7PVG+Q8</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e4c8262a9ff10d34d14f69934f90e648 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -227,7 +227,7 @@ Die Verbindung wird es nicht geben
 
 # Arnum Aufstellflächen Harkenblecker Weg / Hiddestorfer Str. fehlen
 
-- Plus Code: [7PXR+R8](https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PXR%2BR8 target="_blank">7PXR+R8</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#24e242ff56dfdbe0551390f72b3518a0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -254,7 +254,7 @@ Die Verbindung wird es nicht geben
 
 # Weg an Arnumer Landwehr nass und rutschig
 
-- Plus Code: [7PXX+MW](https://www.google.com/maps/search/?api=1&query=9F4F7PXX%2BMW)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PXX%2BMW target="_blank">7PXX+MW</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9d9adf4872cebb3d52f20556f1a19432 target="_blank">Link</a>
 - Einstelldatum: 2020-01-23
 - Informationsquelle: ADFC
@@ -281,7 +281,7 @@ Die Verbindung wird es nicht geben
 
 # Radweg nach Reden – Bankett abgesackt
 
-- Plus Code: [7QPF+GM](https://www.google.com/maps/search/?api=1&query=9F4F7QPF%2BGM)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7QPF%2BGM target="_blank">7QPF+GM</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#270da379f63366971643b593edf15c71 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: Udo. S.
@@ -310,7 +310,7 @@ Die Verbindung wird es nicht geben
 
 # Sanierung Loydbrunnenweg
 
-- Plus Code: [8M7R+QH](https://www.google.com/maps/search/?api=1&query=9F4F8M7R%2BQH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8M7R%2BQH target="_blank">8M7R+QH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#619b88807ccb2dab370ddd1dbb308f6a target="_blank">Link</a>
 - Einstelldatum: 2019-01-23
 - Informationsquelle: ADFC Ronnenberg
@@ -339,7 +339,7 @@ Die Verbindung wird es nicht geben
 
 # Arnum Aufstellflächen Kreuzung Bockstraße / Wilkenburger Str.
 
-- Plus Code: [8P2R+R2](https://www.google.com/maps/search/?api=1&query=9F4F8P2R%2BR2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P2R%2BR2 target="_blank">8P2R+R2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#0aab42d75591a90d719608b4cd2e1610 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -366,7 +366,7 @@ Die Verbindung wird es nicht geben
 
 # Engstelle Ampel Wilkenburger Str.
 
-- Plus Code: [8P2R+R2](https://www.google.com/maps/search/?api=1&query=9F4F8P2R%2BR2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P2R%2BR2 target="_blank">8P2R+R2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#335dffaa0e52153e3634aab310c16a82 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -393,7 +393,7 @@ Die Verbindung wird es nicht geben
 
 # K 225 nach Ohlendorf beruhigen
 
-- Plus Code: [8P37+8H](https://www.google.com/maps/search/?api=1&query=9F4F8P37%2B8H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P37%2B8H target="_blank">8P37+8H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dabe2c4ae9e5537700b93b7705efc479 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -420,7 +420,7 @@ Die Verbindung wird es nicht geben
 
 # Lückenschluss: Bockstraße bis Beethovenstraße#2
 
-- Plus Code: [8P3H+3H](https://www.google.com/maps/search/?api=1&query=9F4F8P3H%2B3H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3H%2B3H target="_blank">8P3H+3H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#3a4497b4e5875d22e23d90690ecb0737 target="_blank">Link</a>
 - Einstelldatum: 2015-01-01
 - Informationsquelle: Radverkehrskonzept 2015
@@ -449,7 +449,7 @@ Die Verbindung wird es nicht geben
 
 # Lückenschluss: Bockstraße bis Beethovenstraße
 
-- Plus Code: [8P3H+3H](https://www.google.com/maps/search/?api=1&query=9F4F8P3H%2B3H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3H%2B3H target="_blank">8P3H+3H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4306b00d70a26ac55384e1177bbbf6ac target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -476,7 +476,7 @@ Die Verbindung wird es nicht geben
 
 # Umbau Arnum Mitte - Shared Space
 
-- Plus Code: [8P3Q+5M](https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2B5M)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2B5M target="_blank">8P3Q+5M</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2c2fbc619ba7f35a52bf31cf15ad25a6 target="_blank">Link</a>
 - Einstelldatum: 2019-03-17
 - Informationsquelle: ADFC
@@ -522,7 +522,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Beschilderung für Bauphase Stadtbahn
 
-- Plus Code: [8P3Q+5P](https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2B5P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2B5P target="_blank">8P3Q+5P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#811f4f8add583a11008960dbf9f61810 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -549,7 +549,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Bushaltestelle Arnum Mitte – Engstelle beseitigen. 
 
-- Plus Code: [8P3Q+R5](https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2BR5)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2BR5 target="_blank">8P3Q+R5</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#28c2c53452740ff19964f5d184cfc628 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -576,7 +576,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Arnum – getrennter Rad- und Gehweg.
 
-- Plus Code: [8P4P+CQ](https://www.google.com/maps/search/?api=1&query=9F4F8P4P%2BCQ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P4P%2BCQ target="_blank">8P4P+CQ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e663388c636b708a5bc26aa7d0f808ef target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -603,7 +603,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Gefahr durch Parkplatz und Sporthallenverkehr
 
-- Plus Code: [8P4Q+9C](https://www.google.com/maps/search/?api=1&query=9F4F8P4Q%2B9C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P4Q%2B9C target="_blank">8P4Q+9C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#b76d0bd8260469abab01a20b0764fb00 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -631,7 +631,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Arnum – Wilkenburg sanieren
 
-- Plus Code: [8P4X+V6](https://www.google.com/maps/search/?api=1&query=9F4F8P4X%2BV6)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P4X%2BV6 target="_blank">8P4X+V6</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#15e0454b356da783a062e5f7282b4e6f target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -658,7 +658,7 @@ Der ADFC Hemmingen/Pattensen fordert einen Gemeinschaftsraum statt einer Verkehr
 
 # Geschwindigkeitsbegrenzung wurde aufgehoben
 
-- Plus Code: [8P57+6C](https://www.google.com/maps/search/?api=1&query=9F4F8P57%2B6C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P57%2B6C target="_blank">8P57+6C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5ff7c6f50b96a4c5edc0169273276a88 target="_blank">Link</a>
 - Einstelldatum: 2020-05-21
 - Informationsquelle: ADFC
@@ -687,7 +687,7 @@ Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der
 
 # Radweg Hoher Holzweg
 
-- Plus Code: [8P5J+MJ](https://www.google.com/maps/search/?api=1&query=9F4F8P5J%2BMJ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5J%2BMJ target="_blank">8P5J+MJ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#20d21b9845e362241ace945d0f63064f target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -714,7 +714,7 @@ Am 27. Nov. 2018 schrieb die Presse, das die neue Höchstgeschwindigkeit auf der
 
 # Unklare Verkehrsführung – Kreuzung Hoher Holzweg
 
-- Plus Code: [8P5M+RH](https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH target="_blank">8P5M+RH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e17bdd942c7c187d3ea3be92a92506fc target="_blank">Link</a>
 - Einstelldatum: 2018-01-05
 - Informationsquelle: Stellungsnahme vom VEP2030  
@@ -757,7 +757,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Unklare Verkehrsführung – Kreuzung Hoher Holzweg#2
 
-- Plus Code: [8P5M+RH](https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH target="_blank">8P5M+RH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f1ba2d5079dd771f0c12e2aaed16eba1 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -784,7 +784,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Unklare Verkehrsführung – Kreuzung Hoher Holzweg#3
 
-- Plus Code: [8P5M+RH](https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BRH target="_blank">8P5M+RH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4e4a50bf9b946f142ab2ce236f3d9c21 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -811,7 +811,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Unklare Verkehrsführung – Kreuzung Hoher Holzweg#4
 
-- Plus Code: [8P5M+VG](https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BVG)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BVG target="_blank">8P5M+VG</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#402da028cdf7459e6d0a7493ebe02217 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -838,7 +838,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Unklare Verkehrsführung – Kreuzung Hoher Holzweg#5
 
-- Plus Code: [8P5M+VJ](https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BVJ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5M%2BVJ target="_blank">8P5M+VJ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#8cdc03f9e3d0664506de547205c953c1 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -865,7 +865,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Lückenschluss zw. Hundepfuhlsweg u. Sundernweg
 
-- Plus Code: [8P5P+FR](https://www.google.com/maps/search/?api=1&query=9F4F8P5P%2BFR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5P%2BFR target="_blank">8P5P+FR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6b36a91e1ada3d4d41f0f55d8163146a target="_blank">Link</a>
 - Einstelldatum: 2020-03-04
 - Informationsquelle: Wege-Workshop
@@ -892,7 +892,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Hundepfuhlsweg – Breite Brücke
 
-- Plus Code: [8P5V+VQ](https://www.google.com/maps/search/?api=1&query=9F4F8P5V%2BVQ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P5V%2BVQ target="_blank">8P5V+VQ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7344a03b123f13e273222733de1e23e0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -919,7 +919,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Beleuchtung zw. Arnum und Kaufland
 
-- Plus Code: [8P6H+GP](https://www.google.com/maps/search/?api=1&query=9F4F8P6H%2BGP)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6H%2BGP target="_blank">8P6H+GP</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4fb7f1ee5a05380ce9be0d4e67d45e5d target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -946,7 +946,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # B3 alt Bankett abgesackt
 
-- Plus Code: [8P6J+HX](https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX target="_blank">8P6J+HX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#18eb50581701665627707e379ca85462 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: nan
@@ -976,7 +976,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Beleuchtung Radweg B3 alt
 
-- Plus Code: [8P6J+HX](https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX target="_blank">8P6J+HX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#44b6ac3e276d0f3136b3ef74b0ba4ad7 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1003,7 +1003,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Beleuchtung Radweg B3 alt#2
 
-- Plus Code: [8P6J+HX](https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BHX target="_blank">8P6J+HX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#06ee48846e763c33616b0d380efff1bb target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1030,7 +1030,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Radweg zu tief
 
-- Plus Code: [8P6J+WP](https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BWP)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6J%2BWP target="_blank">8P6J+WP</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#76199ca337cdd820a1e34b5b0b852b4d target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1057,7 +1057,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Radweg zu tief#2
 
-- Plus Code: [8P6M+95](https://www.google.com/maps/search/?api=1&query=9F4F8P6M%2B95)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6M%2B95 target="_blank">8P6M+95</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#be239e67c855b15bf551a29b186b04b2 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1084,7 +1084,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Radweg zu tief#3
 
-- Plus Code: [8P6M+95](https://www.google.com/maps/search/?api=1&query=9F4F8P6M%2B95)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6M%2B95 target="_blank">8P6M+95</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#defcb13b1b978141b3d7d807d9a81853 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1111,7 +1111,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # (Erledigt) Durchfahrt Devese im Mischverkehr
 
-- Plus Code: [8P76+Q9](https://www.google.com/maps/search/?api=1&query=9F4F8P76%2BQ9)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P76%2BQ9 target="_blank">8P76+Q9</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#de0b2a1c8ac2a84952484cbd494ec95a target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1138,7 +1138,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 # Mutter Buermann" - Querungshilfe fehlt
 
-- Plus Code: [8P77+W8](https://www.google.com/maps/search/?api=1&query=9F4F8P77%2BW8)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P77%2BW8 target="_blank">8P77+W8</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#15ff7d5af759df9e6da4db19cd80ebb7 target="_blank">Link</a>
 - Einstelldatum: 2017-12-05
 - Informationsquelle: ADFC
@@ -1175,7 +1175,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Grüner Ring – Brücke
 
-- Plus Code: [8P78+49](https://www.google.com/maps/search/?api=1&query=9F4F8P78%2B49)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P78%2B49 target="_blank">8P78+49</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#08485348fd7a6942758ff890d0122dc6 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1202,7 +1202,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Freda-Wüsthoff-Straße - Einfahrt unübersichtlich
 
-- Plus Code: [8P7G+46](https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2B46)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2B46 target="_blank">8P7G+46</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#31656524561bf3640d8a5be3a52b5d8c target="_blank">Link</a>
 - Einstelldatum: 2015-01-01
 - Informationsquelle: ADFC
@@ -1230,7 +1230,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beliebter „Rad“-weg führt über Spielplatz
 
-- Plus Code: [8P7G+GJ](https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2BGJ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2BGJ target="_blank">8P7G+GJ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2efe4e3c02455bc8279ebf40d14d1653 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1257,7 +1257,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Querungshilfe vorsehen.
 
-- Plus Code: [8P7G+HH](https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2BHH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7G%2BHH target="_blank">8P7G+HH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1a8bc7e251075ff458973cfa35e035f1 target="_blank">Link</a>
 - Einstelldatum: 2020-05-19
 - Informationsquelle: ADFC
@@ -1284,7 +1284,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Radweg begradigen.
 
-- Plus Code: [8P7H+45](https://www.google.com/maps/search/?api=1&query=9F4F8P7H%2B45)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7H%2B45 target="_blank">8P7H+45</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6c0a83cc59aaa9df294e4e805894ec6e target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1311,7 +1311,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beleuchtung Radweg B3 alt#3
 
-- Plus Code: [8P7J+7C](https://www.google.com/maps/search/?api=1&query=9F4F8P7J%2B7C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7J%2B7C target="_blank">8P7J+7C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#41af147a083862cafa519c6a1e50786b target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1338,7 +1338,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Pfützen im Sundern
 
-- Plus Code: [8P7Q+CC](https://www.google.com/maps/search/?api=1&query=9F4F8P7Q%2BCC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7Q%2BCC target="_blank">8P7Q+CC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#3e8bbb2a0655da37176967459ae8198d target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1365,7 +1365,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beleuchtung Im Sundern
 
-- Plus Code: [8P7Q+CC](https://www.google.com/maps/search/?api=1&query=9F4F8P7Q%2BCC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P7Q%2BCC target="_blank">8P7Q+CC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#017121049ca424fcf9d1238431c76a53 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1392,7 +1392,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beleuchtung B3 Kreisel
 
-- Plus Code: [8P89+96](https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96 target="_blank">8P89+96</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2ef83a75cb6c56ce55c1d9012aeac443 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1419,7 +1419,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beleuchtung B3 Kreisel#2
 
-- Plus Code: [8P89+96](https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96 target="_blank">8P89+96</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#bc9cba77ffee802fc5de68a181c97d74 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1446,7 +1446,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Rot Markierungen - B3 Kreisel
 
-- Plus Code: [8P89+96](https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96 target="_blank">8P89+96</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#71544b6119e1a53b1cc13fac5a1750c2 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1473,7 +1473,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Rot Markierungen - B3 Kreisel#2
 
-- Plus Code: [8P89+96](https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P89%2B96 target="_blank">8P89+96</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d87cfbcf33e34b12b7103777e0d74ad5 target="_blank">Link</a>
 - Einstelldatum: 2019-07-03
 - Informationsquelle: ADFC
@@ -1500,7 +1500,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Beleuchtung B3 Kreisel#3
 
-- Plus Code: [8P8C+R7](https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2BR7)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2BR7 target="_blank">8P8C+R7</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6773532e938e1b9722050ae5580a1144 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1527,7 +1527,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Querung über Weetzener Landstr. Begradigen
 
-- Plus Code: [8P8C+VR](https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2BVR target="_blank">8P8C+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#076a85aef20a391f45859b9f3ea9b40e target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1554,7 +1554,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Radweg nach Kaufland, sanieren
 
-- Plus Code: [8P8F+5V](https://www.google.com/maps/search/?api=1&query=9F4F8P8F%2B5V)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P8F%2B5V target="_blank">8P8F+5V</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1fa4d4fe4369e62f9820d743354ab571 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1581,7 +1581,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Sanierung Weg v. Heisterkamp zu Kaufland
 
-- Plus Code: [8P99+HX](https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BHX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BHX target="_blank">8P99+HX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#774caaff7224366e409ac087fd0c7d63 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1608,7 +1608,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Sanierung Weg v. Heisterkamp zu Kaufland#2
 
-- Plus Code: [8P99+MW](https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BMW)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BMW target="_blank">8P99+MW</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#55fec9c50a09c820ef21af62731ce804 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1635,7 +1635,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Ampel „Fahrrad freundlich“ gestalten.
 
-- Plus Code: [8P9G+62](https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62 target="_blank">8P9G+62</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#27a2a34c8acbae790a3261c28f4dcb1f target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1663,7 +1663,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Ampel „Fahrrad freundlich“ gestalten#2
 
-- Plus Code: [8P9G+62](https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62 target="_blank">8P9G+62</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9659063ea977851e9c8bb73c4fad1acc target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1690,7 +1690,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Ampel „Fahrrad freundlich“ gestalten#3
 
-- Plus Code: [8P9G+62](https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B62 target="_blank">8P9G+62</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#32d0bc98289bde56bf0c8b7b8cd0dae4 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1717,7 +1717,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Radweg verbreitern
 
-- Plus Code: [8P9G+7C](https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B7C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9G%2B7C target="_blank">8P9G+7C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#a3fe16d7f29694ba3bfae69975ba434c target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1744,7 +1744,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Kreuzung Hotel Apex
 
-- Plus Code: [8P9H+F9](https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9 target="_blank">8P9H+F9</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#8588f280845a897e16b2b0aab0031fa5 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1772,7 +1772,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Kreuzung Hotel Apex#2
 
-- Plus Code: [8P9H+F9](https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9 target="_blank">8P9H+F9</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#c3381f178fdfabecf950c540c62c452a target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1799,7 +1799,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Kreuzung Hotel Apex#3
 
-- Plus Code: [8P9H+F9](https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9H%2BF9 target="_blank">8P9H+F9</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f6348852e6e13ccd1973a38a5c2835b1 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1826,7 +1826,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Lidl Trampelpfad befestigen
 
-- Plus Code: [8P9M+W2](https://www.google.com/maps/search/?api=1&query=9F4F8P9M%2BW2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9M%2BW2 target="_blank">8P9M+W2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#342d2fc2a2bb046351f14808305eab3a target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1853,7 +1853,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 # Radweg Weetzener Landstraße - Löcher, Brüche und Unebenheiten
 
-- Plus Code: [8P9P+Q4](https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4 target="_blank">8P9P+Q4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#3510618a49b26109dbc0cdc915b86ae7 target="_blank">Link</a>
 - Einstelldatum: 2019-06-03
 - Informationsquelle: RADar!
@@ -1886,7 +1886,7 @@ Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg ent
 
 # Radweg Weetzener Landstraße - Löcher, Brüche und Unebenheiten#2
 
-- Plus Code: [8P9P+Q4](https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4 target="_blank">8P9P+Q4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#cf5f0bb8582b96ebde829b140acf5e80 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1913,7 +1913,7 @@ Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg ent
 
 # Beleuchtung Weetzener Landstr. 
 
-- Plus Code: [8P9P+Q4](https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9P%2BQ4 target="_blank">8P9P+Q4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#59c3ee420eb7c4b7edb5eb4438a8e977 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -1940,7 +1940,7 @@ Loch, Unebenheit, Bruch oder Riss im Oberbau erhöht Sturzrisiko. Der Radweg ent
 
 # Im Hammfeld – Unebenheiten
 
-- Plus Code: [8P9X+PC](https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BPC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BPC target="_blank">8P9X+PC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5a4d82d02a0c7fefa2a1b260b925fd9a target="_blank">Link</a>
 - Einstelldatum: 2019-05-27
 - Informationsquelle: RADar!
@@ -1971,7 +1971,7 @@ Meldungsgrund: Loch
 
 # Im Hammfeld – Unebenheiten#2
 
-- Plus Code: [8P9X+PC](https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BPC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BPC target="_blank">8P9X+PC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d4ca2dbe966db6e32984443c898c4d17 target="_blank">Link</a>
 - Einstelldatum: 2020-03-07
 - Informationsquelle: Wege-Workshop
@@ -1998,7 +1998,7 @@ Meldungsgrund: Loch
 
 # Einmündung Gänsemasch – Dorfstr. Richtung Arnum
 
-- Plus Code: [8P9X+QJ](https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BQJ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BQJ target="_blank">8P9X+QJ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1da3caa30961ec0f18e3b4db7b323197 target="_blank">Link</a>
 - Einstelldatum: 2020-06-05
 - Informationsquelle: ADFC
@@ -2025,7 +2025,7 @@ Meldungsgrund: Loch
 
 # Schutzstreifen – Dorfstr.
 
-- Plus Code: [8P9X+QQ](https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BQQ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P9X%2BQQ target="_blank">8P9X+QQ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#14a141199c7943ea785fd085e50aa594 target="_blank">Link</a>
 - Einstelldatum: 2020-03-03
 - Informationsquelle: Wege-Workshop
@@ -2052,7 +2052,7 @@ Meldungsgrund: Loch
 
 # Deveser Str. - Beleuchtung
 
-- Plus Code: [8PC7+28](https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28 target="_blank">8PC7+28</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5f5e2da51d0a7510cd2120cc33739be3 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2079,7 +2079,7 @@ Meldungsgrund: Loch
 
 # Deveser Str. - Fahrradfahrstr.
 
-- Plus Code: [8PC7+28](https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28 target="_blank">8PC7+28</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9d7e92bf60790ae535bb5b5ab8f0bcd8 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2106,7 +2106,7 @@ Meldungsgrund: Loch
 
 # Deveser Str. - Fahrradfahrstr.#2
 
-- Plus Code: [8PC7+28](https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28 target="_blank">8PC7+28</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7ff04858bc2bbd678b633ca34fdf8300 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2133,7 +2133,7 @@ Meldungsgrund: Loch
 
 # Deveser Str. - Fahrradfahrstr.#3
 
-- Plus Code: [8PC7+28](https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B28 target="_blank">8PC7+28</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5ca54158fcd9aa1ee3861c0cfdc782b7 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2160,7 +2160,7 @@ Meldungsgrund: Loch
 
 # Deveser Str. - Fahrradfahrstr.#4
 
-- Plus Code: [8PC7+7M](https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B7M)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC7%2B7M target="_blank">8PC7+7M</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#a1cd2c6e841d005b6c2788dd4db37e99 target="_blank">Link</a>
 - Einstelldatum: 2019-07-03
 - Informationsquelle: Wege-Workshop
@@ -2187,7 +2187,7 @@ Meldungsgrund: Loch
 
 # Durchgehende Route – westlich B3
 
-- Plus Code: [8PC9+RH](https://www.google.com/maps/search/?api=1&query=9F4F8PC9%2BRH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PC9%2BRH target="_blank">8PC9+RH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5df2e63660c106c2548c9d7e3d2a0c3f target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2214,7 +2214,7 @@ Meldungsgrund: Loch
 
 # Durchgehende Route – östlich B3
 
-- Plus Code: [8PCH+W5](https://www.google.com/maps/search/?api=1&query=9F4F8PCH%2BW5)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCH%2BW5 target="_blank">8PCH+W5</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6305d0c8c59ab3cfae9600c8f4cd3849 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2241,7 +2241,7 @@ Meldungsgrund: Loch
 
 # Brote Henke – Drückerampel
 
-- Plus Code: [8PCW+6G](https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6G)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6G target="_blank">8PCW+6G</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2f591fa9320d45518a1828f589dc300e target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2270,7 +2270,7 @@ Meldungsgrund: Loch
 
 # Brote Henke – Drückerampel#2
 
-- Plus Code: [8PCW+6H](https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6H target="_blank">8PCW+6H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#bfda242f42576a458f6f7f0e89628b64 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -2311,7 +2311,7 @@ Im Dorffeld überqueren.
 
 # Brote Henke – Drückerampel#3
 
-- Plus Code: [8PCW+6J](https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6J)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCW%2B6J target="_blank">8PCW+6J</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e966e2abd97715d6ed69c2f658c67bbe target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2340,7 +2340,7 @@ Im Dorffeld überqueren.
 
 # Kreuzung Altes Dorf – Fahrradfreundliche Ampel
 
-- Plus Code: [8PCX+74](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74 target="_blank">8PCX+74</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6f79330366bf543e53c7bf8f64d27999 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2369,7 +2369,7 @@ Im Dorffeld überqueren.
 
 # Kreuzung Altes Dorf – Fahrradfreundliche Ampel#2
 
-- Plus Code: [8PCX+74](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74 target="_blank">8PCX+74</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#281d7ff48daffe663bb3bba9092950df target="_blank">Link</a>
 - Einstelldatum: 2020-03-07
 - Informationsquelle: Wege-Workshop
@@ -2396,7 +2396,7 @@ Im Dorffeld überqueren.
 
 # Kreuzung Altes Dorf – Ausstellflächen
 
-- Plus Code: [8PCX+74](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2B74 target="_blank">8PCX+74</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#fa79fa231a589a89a70bccbb8796ac27 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2423,7 +2423,7 @@ Im Dorffeld überqueren.
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 
-- Plus Code: [8PCX+J2](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ2 target="_blank">8PCX+J2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#69790851bb8f91eb9b7022ac498766ca target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2450,7 +2450,7 @@ Im Dorffeld überqueren.
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 
-- Plus Code: [8PCX+J3](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3 target="_blank">8PCX+J3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#69790851bb8f91eb9b7022ac498766ca target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2477,7 +2477,7 @@ Im Dorffeld überqueren.
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 
-- Plus Code: [8PCX+J3](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3 target="_blank">8PCX+J3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#69790851bb8f91eb9b7022ac498766ca target="_blank">Link</a>
 - Einstelldatum: 2019-09-23
 - Informationsquelle: nan
@@ -2511,7 +2511,7 @@ Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeic
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 
-- Plus Code: [8PCX+J3](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3 target="_blank">8PCX+J3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#69790851bb8f91eb9b7022ac498766ca target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2538,7 +2538,7 @@ Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeic
 
 # Dorfstraße - Enge Fahrbahn - Tempo 30 und Überholverbot
 
-- Plus Code: [8PCX+J3](https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCX%2BJ3 target="_blank">8PCX+J3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#69790851bb8f91eb9b7022ac498766ca target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2565,7 +2565,7 @@ Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeic
 
 # Verbindung nach Wettbergen
 
-- Plus Code: [8PF4+M7](https://www.google.com/maps/search/?api=1&query=9F4F8PF4%2BM7)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PF4%2BM7 target="_blank">8PF4+M7</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#a174696bb469eba916c8820b9133a357 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2592,7 +2592,7 @@ Nach der StVO Novelle von 2019 soll mit der Einführung eines neuen Verkehrszeic
 
 # Saarstraße - Zugang Deveser Straße
 
-- Plus Code: [8PF9+MX](https://www.google.com/maps/search/?api=1&query=9F4F8PF9%2BMX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PF9%2BMX target="_blank">8PF9+MX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4e8e7dff83b63b9910f2a53f983ef82b target="_blank">Link</a>
 - Einstelldatum: 2019-09-23
 - Informationsquelle: ADFC
@@ -2624,7 +2624,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 # Querung v. Deveser Str. zum Kirchdamm
 
-- Plus Code: [8PFF+WF](https://www.google.com/maps/search/?api=1&query=9F4F8PFF%2BWF)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFF%2BWF target="_blank">8PFF+WF</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#842d5119537ae9fca6fbde7a36d19c87 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2651,7 +2651,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 # Kreuzung ARAL 
 
-- Plus Code: [8PFG+25](https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2B25)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2B25 target="_blank">8PFG+25</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2d1fa6fd0bed35ca98e3e6decf93868c target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2678,7 +2678,7 @@ ERA: "Poller sind unzulässig, wo Verkehrsteilnehmer gefährdet oder der Verkehr
 
 # Querung Katzbachweg
 
-- Plus Code: [8PFG+6Q](https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2B6Q)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2B6Q target="_blank">8PFG+6Q</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e0985c57b569193e767c013e75b26c70 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: nan
@@ -2734,7 +2734,7 @@ Werden.
 
 # Fahrradstr. Löwenberger Str.
 
-- Plus Code: [8PFG+PF](https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2BPF)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2BPF target="_blank">8PFG+PF</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4a6e4b3eaf022c17ace19090f88a90b2 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2761,7 +2761,7 @@ Werden.
 
 # Fahrradstr. Löwenberger Str.#2
 
-- Plus Code: [8PFG+PF](https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2BPF)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFG%2BPF target="_blank">8PFG+PF</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#da09e43e8d03a108db67185fdd28fdc7 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2788,7 +2788,7 @@ Werden.
 
 # Berliner Straße - Radwegebenutzungspflicht überprüfen
 
-- Plus Code: [8PFH+85](https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2B85)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2B85 target="_blank">8PFH+85</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6b7e841e78bfbad27e13d76d2b0eb8f9 target="_blank">Link</a>
 - Einstelldatum: 2019-06-03
 - Informationsquelle: RADar!
@@ -2822,7 +2822,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Berliner Straße - Radwegebenutzungspflicht überprüfen#2
 
-- Plus Code: [8PFH+86](https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2B86)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2B86 target="_blank">8PFH+86</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f0bb1e4ef7d2a8e8dfd65020be189355 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2849,7 +2849,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Radweg breiter
 
-- Plus Code: [8PFH+HW](https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2BHW)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFH%2BHW target="_blank">8PFH+HW</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#6d5ad667bfa652d09aadb7e29f9f96d0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2876,7 +2876,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Geradeausfahrer aus Dorle-und-Albrecht-Heuer-Weg werden ignoriert
 
-- Plus Code: [8PFJ+M8](https://www.google.com/maps/search/?api=1&query=9F4F8PFJ%2BM8)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFJ%2BM8 target="_blank">8PFJ+M8</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#88fb72a87a219e0ed4470fa2e027ccf1 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -2907,7 +2907,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Ecke Döhrener Straße / Berliner Str. - Sicht herstellen
 
-- Plus Code: [8PFW+GR](https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BGR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BGR target="_blank">8PFW+GR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1b0b2b2684fa17cd3e04af1a7f813d16 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2934,7 +2934,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Ecke Döhrener Straße / Berliner Str. - Sicht herstellen#2
 
-- Plus Code: [8PFW+JV](https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BJV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BJV target="_blank">8PFW+JV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#afd5cb7cdcf2dc1d52ed1b8f555eb4f1 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -2961,7 +2961,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Bordsteinabsenkung zwischen Berliner Straße u. Döhrener Straße notwendig
 
-- Plus Code: [8PFW+JV](https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BJV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BJV target="_blank">8PFW+JV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#a4a9ba5dc155ada3152e6d324d70b49b target="_blank">Link</a>
 - Einstelldatum: 2018-09-15
 - Informationsquelle: ADFC
@@ -2992,7 +2992,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Breiter Radweg v. KGS bis Döhrener Str.
 
-- Plus Code: [8PFW+QC](https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BQC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BQC target="_blank">8PFW+QC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2f7befedcf90a3881ff81cf44277707a target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3019,7 +3019,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Breiter Radweg v. KGS bis Döhrener Str.#2
 
-- Plus Code: [8PFW+QC](https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BQC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFW%2BQC target="_blank">8PFW+QC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#513c72c4f0b4ea0345845e2e8b273bb7 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3046,7 +3046,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 # Seniebachbrücke - unangenehme Höhenunterschiede
 
-- Plus Code: [8PFX+Q2](https://www.google.com/maps/search/?api=1&query=9F4F8PFX%2BQ2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFX%2BQ2 target="_blank">8PFX+Q2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f05bf82a9484e21d71173d453848154e target="_blank">Link</a>
 - Einstelldatum: 2019-06-15
 - Informationsquelle: RADar! 
@@ -3079,7 +3079,7 @@ weitere Angaben: Bei der Reparatur der Brücke wurde auf Kosten der Radfahrer di
 
 # Rote Kennzeichnung f. Radfahrfurten
 
-- Plus Code: [8PGF+2C](https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B2C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B2C target="_blank">8PGF+2C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#b51fda386515bda1955ebc15437ef2ee target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3110,7 +3110,7 @@ weitere Angaben: Bei der Reparatur der Brücke wurde auf Kosten der Radfahrer di
 
 # Aufstellflächen bei Kreuzungen über B3 alt 
 
-- Plus Code: [8PGF+2G](https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B2G)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B2G target="_blank">8PGF+2G</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#069a71962ee85d3659390873b55ac81c target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3137,7 +3137,7 @@ weitere Angaben: Bei der Reparatur der Brücke wurde auf Kosten der Radfahrer di
 
 # Engstelle nach Umbau Stadtbahnverlängerung
 
-- Plus Code: [8PGF+68](https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B68)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGF%2B68 target="_blank">8PGF+68</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#c80aadf13ffaf5f885b17ca7aebde8ee target="_blank">Link</a>
 - Einstelldatum: 2019-09-23
 - Informationsquelle: ADFC
@@ -3178,7 +3178,7 @@ Damit hat der Radfahrende zu mindestens die Möglichkeit einen, von Gerichten ge
 
 # Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle
 
-- Plus Code: [8PGG+63](https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B63)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B63 target="_blank">8PGG+63</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#e8cfa81bbe6c54c92382c97395fc903f target="_blank">Link</a>
 - Einstelldatum: 2019-06-01
 - Informationsquelle: ADFC
@@ -3214,7 +3214,7 @@ Hier ein erster Entwurf, basierend auf der OpenStreetMap Karte, die nur den Hinw
 
 # Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle#2
 
-- Plus Code: [8PGG+63](https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B63)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B63 target="_blank">8PGG+63</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5bfb90ee534ed99773b528a4067fc46b target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3241,7 +3241,7 @@ Hier ein erster Entwurf, basierend auf der OpenStreetMap Karte, die nur den Hinw
 
 # Fahrrad-Cafe am Rathausplatz
 
-- Plus Code: [8PGG+99](https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B99)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2B99 target="_blank">8PGG+99</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#cd24b2b6c903993d611824167257ecb4 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3268,7 +3268,7 @@ Hier ein erster Entwurf, basierend auf der OpenStreetMap Karte, die nur den Hinw
 
 # Eine Fahrradstraße die keine sein darf
 
-- Plus Code: [8PGG+VC](https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2BVC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2BVC target="_blank">8PGG+VC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#05555d1e5160a056aa717ea8532739f6 target="_blank">Link</a>
 - Einstelldatum: 2020-03-08
 - Informationsquelle: Wege-Workshop
@@ -3295,7 +3295,7 @@ Hier ein erster Entwurf, basierend auf der OpenStreetMap Karte, die nur den Hinw
 
 # Eine Fahrradstraße die keine sein darf#2
 
-- Plus Code: [8PGG+WC](https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2BWC)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGG%2BWC target="_blank">8PGG+WC</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d286eb1544eb422b6d4e454b90907436 target="_blank">Link</a>
 - Einstelldatum: 2019-10-20
 - Informationsquelle: ADFC
@@ -3331,7 +3331,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Anlieger frei auf Fahrradstraßen
 
-- Plus Code: [8PGH+4H](https://www.google.com/maps/search/?api=1&query=9F4F8PGH%2B4H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGH%2B4H target="_blank">8PGH+4H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#b50a25aa998e2ab26ef630c574f12f1d target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3358,7 +3358,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Berliner Straße - Radweg zu schmal 
 
-- Plus Code: [8PGM+5V](https://www.google.com/maps/search/?api=1&query=9F4F8PGM%2B5V)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGM%2B5V target="_blank">8PGM+5V</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#57d8b7bb2b04991b9530bebdc950c33d target="_blank">Link</a>
 - Einstelldatum: 2020-03-07
 - Informationsquelle: Wege-Workshop
@@ -3385,7 +3385,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Berliner Straße - Radweg zu schmal 
 
-- Plus Code: [8PGM+5V](https://www.google.com/maps/search/?api=1&query=9F4F8PGM%2B5V)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGM%2B5V target="_blank">8PGM+5V</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#57d8b7bb2b04991b9530bebdc950c33d target="_blank">Link</a>
 - Einstelldatum: 2020-03-07
 - Informationsquelle: Wege-Workshop
@@ -3412,7 +3412,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Verkehrsberuhigung Klewertweg
 
-- Plus Code: [8PGP+84](https://www.google.com/maps/search/?api=1&query=9F4F8PGP%2B84)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGP%2B84 target="_blank">8PGP+84</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#54c66deadd3f9a542244e4a68f0c4dc3 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3439,7 +3439,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Radfahrer behindern Entgegenkommende
 
-- Plus Code: [8PGQ+74](https://www.google.com/maps/search/?api=1&query=9F4F8PGQ%2B74)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGQ%2B74 target="_blank">8PGQ+74</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#333e98fc638c1f2284201846d96e6e49 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3466,7 +3466,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Einmündung Hohe Bünte begradigen
 
-- Plus Code: [8PGR+7W](https://www.google.com/maps/search/?api=1&query=9F4F8PGR%2B7W)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGR%2B7W target="_blank">8PGR+7W</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#10d47e1612649b81bcfbee6153c831f4 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -3500,7 +3500,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Einmündung Hohe Bünte begradigen#2
 
-- Plus Code: [8PGR+7W](https://www.google.com/maps/search/?api=1&query=9F4F8PGR%2B7W)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGR%2B7W target="_blank">8PGR+7W</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2b999bfcf90ddc199023e68807099adc target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3527,7 +3527,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Querung Berliner Straße
 
-- Plus Code: [8PGV+3F](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B3F)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B3F target="_blank">8PGV+3F</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#43dc1f56a33d4919b32ca5a8be6512c4 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3554,7 +3554,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Haltestelle KGS - Konflikt zwischen Wartenden und Radfahrern
 
-- Plus Code: [8PGV+4C](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C target="_blank">8PGV+4C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#3038871ce2da6f508b6c563f37c3dee3 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3581,7 +3581,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Haltestelle KGS - Konflikt zwischen Wartenden und Radfahrern#2
 
-- Plus Code: [8PGV+4C](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C target="_blank">8PGV+4C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7b533afa97f41d0580b47164b4dad88e target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3608,7 +3608,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 # Haltestelle KGS - Konflikt zwischen Wartenden und Radfahrern#3
 
-- Plus Code: [8PGV+4C](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B4C target="_blank">8PGV+4C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1285f0196da240899ca3d6265390e25a target="_blank">Link</a>
 - Einstelldatum: 2020-06-15
 - Informationsquelle: RADar!
@@ -3644,7 +3644,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Service Station an KGS
 
-- Plus Code: [8PGV+9F](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B9F)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B9F target="_blank">8PGV+9F</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#76a213b12d921767caa3f653ad4243e7 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3671,7 +3671,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Mehr Fahrradbügel wie an KGS
 
-- Plus Code: [8PGV+9F](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B9F)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B9F target="_blank">8PGV+9F</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#efbe171c540abfe68533492509fec184 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3698,7 +3698,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Beleuchtung Brückstraße
 
-- Plus Code: [8PGX+MQ](https://www.google.com/maps/search/?api=1&query=9F4F8PGX%2BMQ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGX%2BMQ target="_blank">8PGX+MQ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f16e5a6969212311a23348bd216f6eef target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3725,7 +3725,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Pflaster abgesackt - Sturzgefahr - Am Siek
 
-- Plus Code: [8PHG+RV](https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV target="_blank">8PHG+RV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#25eb3f9ecf80bbc0be7eb99c6f0ec57f target="_blank">Link</a>
 - Einstelldatum: 2019-12-10
 - Informationsquelle: Michael M.
@@ -3755,7 +3755,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Am Siek - Drängelgitter abbauen
 
-- Plus Code: [8PHG+RV](https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV target="_blank">8PHG+RV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7a1757cba7c8b199a9bc468dd2288934 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3782,7 +3782,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Am Siek - Drängelgitter abbauen#2
 
-- Plus Code: [8PHG+RV](https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV target="_blank">8PHG+RV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#0dc879a1b39290efebbd5ea7c0bd65cb target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3809,7 +3809,7 @@ Weitere Angaben: Den Trampelpfad bei der Bushaltestelle Börie als Radweg ausbau
 
 # Am Siek - Drängelgitter abbauen#3
 
-- Plus Code: [8PHG+RV](https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PHG%2BRV target="_blank">8PHG+RV</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#34241a799c9dc124661bde9a3b109d3c target="_blank">Link</a>
 - Einstelldatum: 2017-01-01
 - Informationsquelle: ADFC
@@ -3852,7 +3852,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 # Orientierungshilfe zur gefahrlosen Umfahrung der Stadtbahn Baustelle#3
 
-- Plus Code: [8PJC+32](https://www.google.com/maps/search/?api=1&query=9F4F8PJC%2B32)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJC%2B32 target="_blank">8PJC+32</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#acceb81d2d9a315409b21ba775a69379 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3879,7 +3879,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 # Fahrradfurt von Westen nicht benutzbar
 
-- Plus Code: [8PJC+22](https://www.google.com/maps/search/?api=1&query=9F4F8PJC%2B22)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJC%2B22 target="_blank">8PJC+22</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4a199bbcb6a20908d080b58ac6ba6f80 target="_blank">Link</a>
 - Einstelldatum: 2024-08-01
 - Informationsquelle: ADFC
@@ -3906,7 +3906,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 # Verlängerung  'Vor der Kornhast' bis 'Reuterwiesen'
 
-- Plus Code: [8PJM+VW](https://www.google.com/maps/search/?api=1&query=9F4F8PJM%2BVW)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJM%2BVW target="_blank">8PJM+VW</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7fe40363d41ba7b42fa1d77f3f5dcefd target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3933,7 +3933,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 # Verbindung Fahrradstraße zum Radweg optimieren#2
 
-- Plus Code: [8PJR+46](https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B46)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B46 target="_blank">8PJR+46</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9909a24b07ef8d821a33dc076a873971 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -3960,7 +3960,7 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 
 # Verbindung Fahrradstraße zum Radweg optimieren
 
-- Plus Code: [8PJR+46](https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B46)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B46 target="_blank">8PJR+46</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#692cbcb1da41cb8ece392cba66b49df7 target="_blank">Link</a>
 - Einstelldatum: 2019-06-15
 - Informationsquelle: RADar!
@@ -3996,7 +3996,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 # Mühlenholzweg sanieren
 
-- Plus Code: [8PM9+8X](https://www.google.com/maps/search/?api=1&query=9F4F8PM9%2B8X)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PM9%2B8X target="_blank">8PM9+8X</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#26d6a127acc1bcc7fb364ddd8d2f4907 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4023,7 +4023,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 # Mühlenholzweg sanieren#2
 
-- Plus Code: [8PM9+JX](https://www.google.com/maps/search/?api=1&query=9F4F8PM9%2BJX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PM9%2BJX target="_blank">8PM9+JX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#ad53e7690e01687eeb52c2907b3de0e8 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4050,7 +4050,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 # Kleingarten Kolonie
 
-- Plus Code: [8PMH+33](https://www.google.com/maps/search/?api=1&query=9F4F8PMH%2B33)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PMH%2B33 target="_blank">8PMH+33</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#046c2f2d02f462fb3c00775d3925c1d0 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4077,7 +4077,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 # Hemminger Kirchweg nahe Osterbrückenweg#2
 
-- Plus Code: [8PMQ+XJ](https://www.google.com/maps/search/?api=1&query=9F4F8PMQ%2BXJ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PMQ%2BXJ target="_blank">8PMQ+XJ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2c155a61c67a20c25988b5a21ac2e702 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4104,7 +4104,7 @@ Weitere Angaben: Wenn man aus Ricklingen kommt, und vor der Shinebar auf die Str
 
 # Hemminger Kirchweg nahe Osterbrückenweg
 
-- Plus Code: [8PPQ+5H](https://www.google.com/maps/search/?api=1&query=9F4F8PPQ%2B5H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PPQ%2B5H target="_blank">8PPQ+5H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#3d87a88b6e710dec0975287798634105 target="_blank">Link</a>
 - Einstelldatum: 2019-05-27
 - Informationsquelle: RADar!
@@ -4137,7 +4137,7 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 # Betonradweg ist abgesackt
 
-- Plus Code: [8Q29+P6](https://www.google.com/maps/search/?api=1&query=9F4F8Q29%2BP6)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q29%2BP6 target="_blank">8Q29+P6</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#66722fd9cf430c91d2b3dd338d434b4f target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4164,7 +4164,7 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 # Leinebrücke zum Grassdachhaus
 
-- Plus Code: [8Q5G+F7](https://www.google.com/maps/search/?api=1&query=9F4F8Q5G%2BF7)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q5G%2BF7 target="_blank">8Q5G+F7</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#0908697b845898cacda06447cf0837d8 target="_blank">Link</a>
 - Einstelldatum: 2014-07-01
 - Informationsquelle: "Gesamtkonzept wasserbezogener Naherholung"
@@ -4196,7 +4196,7 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 # Querung Dörrieweg - Kösterecke – Bordsteinabsenkung
 
-- Plus Code: [8Q63+HQ](https://www.google.com/maps/search/?api=1&query=9F4F8Q63%2BHQ)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q63%2BHQ target="_blank">8Q63+HQ</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#0747a507d998df9d65ad752a60f702a3 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -4229,7 +4229,7 @@ weitere Angaben: An der Grenze zur Stadt Hannover 52.335427,9.738917
 
 # Radweg-Nichtradweg-Radweg
 
-- Plus Code: [8Q64+Q3](https://www.google.com/maps/search/?api=1&query=9F4F8Q64%2BQ3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q64%2BQ3 target="_blank">8Q64+Q3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#66de8ce098228dc9caaf1a2d9f4e0983 target="_blank">Link</a>
 - Einstelldatum: 2017-09-11
 - Informationsquelle: ADFC
@@ -4262,7 +4262,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Steinweg auf Wülfeler Straße kaputt und verdeckt#2
 
-- Plus Code: [8Q74+2P](https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P target="_blank">8Q74+2P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#829e00e39ebc67bbf24e7df5cf925093 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4290,7 +4290,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Steinweg auf Wülfeler Straße kaputt und verdeckt#3
 
-- Plus Code: [8Q74+2P](https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P target="_blank">8Q74+2P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#27a9fcf5ed45d755dd421350f40d6ac0 target="_blank">Link</a>
 - Einstelldatum: 2019-01-23
 - Informationsquelle: Udo S.
@@ -4319,7 +4319,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Steinweg auf Wülfeler Straße kaputt und verdeckt
 
-- Plus Code: [8Q74+2P](https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2B2P target="_blank">8Q74+2P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#bd226168c3d09c14622e0f086ef86244 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4346,7 +4346,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Mehr Reitwege
 
-- Plus Code: [8Q74+J5](https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2BJ5)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q74%2BJ5 target="_blank">8Q74+J5</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#45bef1acc914133bbc3f187d5be2d662 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4373,7 +4373,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Wilkenburg bis Grasdachhaus
 
-- Plus Code: [8Q77+69](https://www.google.com/maps/search/?api=1&query=9F4F8Q77%2B69)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q77%2B69 target="_blank">8Q77+69</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#754c948ac5872fc2d85ec7586c8dd846 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4400,7 +4400,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Wilkenburg bis Grasdachhaus#2
 
-- Plus Code: [8Q77+79](https://www.google.com/maps/search/?api=1&query=9F4F8Q77%2B79)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q77%2B79 target="_blank">8Q77+79</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#217740c60dcb23666da6f2f1d9b5dce9 target="_blank">Link</a>
 - Einstelldatum: 2015-01-01
 - Informationsquelle: ADFC
@@ -4429,7 +4429,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # Radwege Wilkenburg 
 
-- Plus Code: [8Q84+5P](https://www.google.com/maps/search/?api=1&query=9F4F8Q84%2B5P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q84%2B5P target="_blank">8Q84+5P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#0cbd75b6e2ef76021f3d420e887693be target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4456,7 +4456,7 @@ Erschwerend kommt hinzu, dass der Rad-/Fußweg für beide Fahrtrichtungen freige
 
 # L 389 gefährliche Schlaglöcher im Radweg – Sturzgefahr
 
-- Plus Code: [8Q84+5P](https://www.google.com/maps/search/?api=1&query=9F4F8Q84%2B5P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q84%2B5P target="_blank">8Q84+5P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#21c3270a726e7421a09da66daaab746f target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -4509,7 +4509,7 @@ Weitere Angaben: Der alte kombinierte Rad-/Fußweg an der Wülfeler Straße zwis
 
 # Hotel zur Post - Gefährliche Einfädelung und spitzwinklig Querung
 
-- Plus Code: [8Q92+PP](https://www.google.com/maps/search/?api=1&query=9F4F8Q92%2BPP)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q92%2BPP target="_blank">8Q92+PP</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#f83d4f281f039db5f1a5e0f5a4fb57d5 target="_blank">Link</a>
 - Einstelldatum: 2019-09-22
 - Informationsquelle: ADFC
@@ -4565,7 +4565,7 @@ Eine Aufstellfläche vor der Querungshilfe für Radfahrer die die Fahrbahn benut
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#c241d2c938453bff709d6696b951b7f6 target="_blank">Link</a>
 - Einstelldatum: 2017-09-09
 - Informationsquelle: ADFC
@@ -4610,7 +4610,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#2
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#129a3917d55472504fb3175d0f865c64 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4637,7 +4637,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#3
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#be3ffe190d8b49a5c17c998f4b6f751c target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4664,7 +4664,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#4
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5710597f56b0a3a5f32abc4beb5c2f54 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4691,7 +4691,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#5
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#abc197ab3c842f804e196a4c84ebd216 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4718,7 +4718,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#6
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1ff5a42dc0df879d45744b6f4846a5df target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4745,7 +4745,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#7
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9a9bdb7917ab9f30b9adc006b89b6b50 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4772,7 +4772,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#8
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#7b0e4ed69742ad9d15a246f1899eb5df target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4799,7 +4799,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#9
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#cf5cc0d5200969d9f2f3be67508f8002 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4826,7 +4826,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#10
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#54e672f2e2cd434b2bde1e4f3e59e9e3 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4853,7 +4853,7 @@ Für die Querung aus und zu dem Parkplatz wäre eine Querungshilfe (Verkehrsinse
 
 # Wilkenburger Spinne - Gefährliche Zweirichtungsquerung#11
 
-- Plus Code: [8Q94+VR](https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q94%2BVR target="_blank">8Q94+VR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#00fbf508441a4e6a36f32477d4aa7c52 target="_blank">Link</a>
 - Einstelldatum: 2019-05-27
 - Informationsquelle: RADar!
@@ -4886,7 +4886,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Orientierungslos am Ortseingang - fehlende Ortstafeln
 
-- Plus Code: [8Q98+X3](https://www.google.com/maps/search/?api=1&query=9F4F8Q98%2BX3)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8Q98%2BX3 target="_blank">8Q98+X3</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#57bf0a69e34f3d27df08b1a48d9c7c58 target="_blank">Link</a>
 - Einstelldatum: 2017-09-10
 - Informationsquelle: ADFC
@@ -4917,7 +4917,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Radweg Wilkenburger Spinne bis Ziegenbocksbrücke - bei Nässe rutschig
 
-- Plus Code: [8QC7+47](https://www.google.com/maps/search/?api=1&query=9F4F8QC7%2B47)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QC7%2B47 target="_blank">8QC7+47</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9c28b610a2972d2a783d49e4a6e41cd8 target="_blank">Link</a>
 - Einstelldatum: 2019-09-23
 - Informationsquelle: ADFC
@@ -4946,7 +4946,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Wilkenburger Straße - Leinebogen
 
-- Plus Code: [8QC8+WH](https://www.google.com/maps/search/?api=1&query=9F4F8QC8%2BWH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QC8%2BWH target="_blank">8QC8+WH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#53b487a57e7b562a912a2d9b9cf78c81 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -4975,7 +4975,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Döhrener Str. zur Wülfeler Straße, fehlende Verbindung
 
-- Plus Code: [8QF4+62](https://www.google.com/maps/search/?api=1&query=9F4F8QF4%2B62)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QF4%2B62 target="_blank">8QF4+62</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5545935b2219b736f794f29df705e255 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -5002,7 +5002,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Kritik an Verkehrszeichen
 
-- Plus Code: [8QF6+HR](https://www.google.com/maps/search/?api=1&query=9F4F8QF6%2BHR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QF6%2BHR target="_blank">8QF6+HR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#670899d06131cd476d2e123c47ee8eca target="_blank">Link</a>
 - Einstelldatum: 2018-06-03
 - Informationsquelle: ADFC
@@ -5031,7 +5031,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Radweg Johann-Duve-Weg ausschildern
 
-- Plus Code: [8QG2+RX](https://www.google.com/maps/search/?api=1&query=9F4F8QG2%2BRX)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QG2%2BRX target="_blank">8QG2+RX</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#8331f54f717a1714337ca989f5840fff target="_blank">Link</a>
 - Einstelldatum: 2020-03-03
 - Informationsquelle: Wege-Workshop
@@ -5058,7 +5058,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Querungshilfe vorsehen.
 
-- Plus Code: [8QG2+V2](https://www.google.com/maps/search/?api=1&query=9F4F8QG2%2BV2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QG2%2BV2 target="_blank">8QG2+V2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1a8bc7e251075ff458973cfa35e035f1 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -5085,7 +5085,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Beleuchtung an Brückstraße 
 
-- Plus Code: [8QH2+9H](https://www.google.com/maps/search/?api=1&query=9F4F8QH2%2B9H)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QH2%2B9H target="_blank">8QH2+9H</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#422942a4a5a2c3c20da1acddd6acdfe9 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -5112,7 +5112,7 @@ Weitere Angaben: Wer als Radfahrer vom Grünen Ring kommend an der Wilkenburger 
 
 # Radwegverschwenkung und Einengung auf Brücke
 
-- Plus Code: [8QH3+R4](https://www.google.com/maps/search/?api=1&query=9F4F8QH3%2BR4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QH3%2BR4 target="_blank">8QH3+R4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#fc88393c995563621886bd927d9389e5 target="_blank">Link</a>
 - Einstelldatum: 2017-09-11
 - Informationsquelle: Marco S.
@@ -5146,7 +5146,7 @@ Mangel/Gefahr: Der Radweg entlang der K20 wird für eine kleine Brücke stark ve
 
 # Brückstraße unebenes Pflaster
 
-- Plus Code: [8QJ4+V4](https://www.google.com/maps/search/?api=1&query=9F4F8QJ4%2BV4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8QJ4%2BV4 target="_blank">8QJ4+V4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#2a0ab0b1c60c8f5b2ae75bf930ce4c6c target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
@@ -5173,7 +5173,7 @@ Mangel/Gefahr: Der Radweg entlang der K20 wird für eine kleine Brücke stark ve
 
 # Radweg entlang L460 fehlt
 
-- Plus Code: [6Q3G+97](https://www.google.com/maps/search/?api=1&query=9F4F6Q3G%2B97)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F6Q3G%2B97 target="_blank">6Q3G+97</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d05b0a9cbac70bd1f4cf16f4c8920e1c target="_blank">Link</a>
 - Einstelldatum: 2018-07-01
 - Informationsquelle: ADFC
@@ -5204,7 +5204,7 @@ Mangel/Gefahr: Der Radweg entlang der K20 wird für eine kleine Brücke stark ve
 
 # Jeinsen Süd - Irreführende Beschilderung
 
-- Plus Code: [6Q7V+23](https://www.google.com/maps/search/?api=1&query=9F4F6Q7V%2B23)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F6Q7V%2B23 target="_blank">6Q7V+23</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#604d134a8be1e9eae6bddc0aee347e85 target="_blank">Link</a>
 - Einstelldatum: 2017-12-04
 - Informationsquelle: ADFC
@@ -5238,7 +5238,7 @@ Beispiel: Korrektur des "Symboles der FAHRRADREGION Hannover" - Furt für Radfah
 
 # Kreisel Pattensen Nord - Doppelte Vorfahr Gewährung
 
-- Plus Code: [7QF6+HG](https://www.google.com/maps/search/?api=1&query=9F4F7QF6%2BHG)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7QF6%2BHG target="_blank">7QF6+HG</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#023037080c9fb0576093c24c21ea04ce target="_blank">Link</a>
 - Einstelldatum: 2010-09-10
 - Informationsquelle: ADFC
@@ -5265,7 +5265,7 @@ Beispiel: Korrektur des "Symboles der FAHRRADREGION Hannover" - Furt für Radfah
 
 # Pattenser Straße - Radweg fehlt
 
-- Plus Code: [7QJF+2R](https://www.google.com/maps/search/?api=1&query=9F4F7QJF%2B2R)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7QJF%2B2R target="_blank">7QJF+2R</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#243334dbbc9c377c79330d0cbc799f25 target="_blank">Link</a>
 - Einstelldatum: 2018-12-06
 - Informationsquelle: ADFC
@@ -5294,7 +5294,7 @@ Pattenser Ortsteil fehlt ausgebaute Verbindung zur Kernstadt  VON KIM GALLOP  Re
 
 # Radweg zur KGS - In Planung
 
-- Plus Code: [7Q64+F9](https://www.google.com/maps/search/?api=1&query=9F4F7Q64%2BF9)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7Q64%2BF9 target="_blank">7Q64+F9</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#eedd6c98bd4b98236710a4fb539eb47c target="_blank">Link</a>
 - Einstelldatum: 2019-03-26
 - Informationsquelle: ADFC
@@ -5325,7 +5325,7 @@ Pattenser Ortsteil fehlt ausgebaute Verbindung zur Kernstadt  VON KIM GALLOP  Re
 # Radwegführung Göttinger Straße - Ein Hin und Her
 
 
-- Plus Code: [7Q87+6P](https://www.google.com/maps/search/?api=1&query=9F4F7Q87%2B6P)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7Q87%2B6P target="_blank">7Q87+6P</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9eb5f9f9e10f0557c8c0178ed917b03a target="_blank">Link</a>
 - Einstelldatum: 2019-09-22
 - Informationsquelle: In Gespräch mit Grünen
@@ -5387,7 +5387,7 @@ Jens Spille, Dirk Härtel, Udo Scherer, Ralf Schmalkuche
 
 # B443 - Starke Bodenwelle durch Wurzelwuchs
 
-- Plus Code: [7RG4+R6](https://www.google.com/maps/search/?api=1&query=9F4F7RG4%2BR6)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7RG4%2BR6 target="_blank">7RG4+R6</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#17d18fe8a55b136cf5a8db52e880dbdd target="_blank">Link</a>
 - Einstelldatum: 2018-11-27
 - Informationsquelle: ADFC
@@ -5416,7 +5416,7 @@ Status 2018-12-05 Stadt Pattensen: Für den Radweg ist die Straßenmeisterei Ron
 
 # Brücke bei Wasserwerk Grassdorf - Hoher Absatz – Sturzgefahr
 
-- Plus Code: [7RP3+H8](https://www.google.com/maps/search/?api=1&query=9F4F7RP3%2BH8)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7RP3%2BH8 target="_blank">7RP3+H8</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#ac9aa678b515abfc8760e347e2e1e52e target="_blank">Link</a>
 - Einstelldatum: 2018-11-27
 - Informationsquelle: ADFC
@@ -5450,7 +5450,7 @@ Status 2018-12-05 Stadt Pattensen: ..Für den Fuß-und Radweg von Koldingen in R
 
 # Auf der Straße fühlt man sich nicht wohl
 
-- Plus Code: [7PXW+85](https://www.google.com/maps/search/?api=1&query=9F4F7PXW%2B85)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PXW%2B85 target="_blank">7PXW+85</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4db65d18d77c95ee3e6a377e4bd5a71c target="_blank">Link</a>
 - Einstelldatum: 2021-05-02
 - Informationsquelle: per Email
@@ -5479,7 +5479,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Kfz dürfen nicht Überholen
 
-- Plus Code: [8PCG+CM](https://www.google.com/maps/search/?api=1&query=9F4F8PCG%2BCM)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PCG%2BCM target="_blank">8PCG+CM</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5f4688c1c58b9f866a82212c95630405 target="_blank">Link</a>
 - Einstelldatum: 2021-05-02
 - Informationsquelle: ADFC
@@ -5508,7 +5508,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Drängelgitter Arnum Gartenplatz
 
-- Plus Code: [8P3P+VP](https://www.google.com/maps/search/?api=1&query=9F4F8P3P%2BVP)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3P%2BVP target="_blank">8P3P+VP</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#b1cdec5158159d2287e7887da4a3de95 target="_blank">Link</a>
 - Einstelldatum: 2021-07-25
 - Informationsquelle: ADFC
@@ -5537,7 +5537,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # fehlende Bordsteinabsenkung
 
-- Plus Code: [8P3Q+X2](https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2BX2)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P3Q%2BX2 target="_blank">8P3Q+X2</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4ab2dbf15aceeaca939a9b6baa5ada0f target="_blank">Link</a>
 - Einstelldatum: 2021-07-25
 - Informationsquelle: ADFC
@@ -5566,7 +5566,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Straßenbelag und Übergang zur Entwässerungsrinne gefährlich für Radfahrer
 
-- Plus Code: [7PJ6+MR](https://www.google.com/maps/search/?api=1&query=9F4F7PJ6%2BMR)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PJ6%2BMR target="_blank">7PJ6+MR</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#53c0683e345f1623a04dd4fba3a8fb7f target="_blank">Link</a>
 - Einstelldatum: 2021-07-25
 - Informationsquelle: ADFC
@@ -5597,7 +5597,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # fehlende Überquerungsmöglichkeit für Fußgänger, Kinderwagen, Rollstuhlfahrer und Radler fehlt
 
-- Plus Code: [8P8C+7M](https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2B7M)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P8C%2B7M target="_blank">8P8C+7M</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#dc399becb28e9c3628e3f89cbdd53acf target="_blank">Link</a>
 - Einstelldatum: 2021-07-25
 - Informationsquelle: ADFC
@@ -5626,7 +5626,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Vorfahrt ändern, so dass das die Rot-Markierung auch inhaltlich Sinn bekommt mit rechts vor links oder Regelungen und Achtung Schule.
 
-- Plus Code: [8PGV+2F](https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B2F)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PGV%2B2F target="_blank">8PGV+2F</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#9c38a6417341c387d9d9b51a292a8103 target="_blank">Link</a>
 - Einstelldatum: 2022-07-03
 - Informationsquelle: ADFC
@@ -5653,7 +5653,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Schlechter Belag
 
-- Plus Code: [8P6G+W4](https://www.google.com/maps/search/?api=1&query=9F4F8P6G%2BW4)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6G%2BW4 target="_blank">8P6G+W4</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#ddff6d50b416e8673df72e3ecd857bfd target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
@@ -5680,7 +5680,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Defekter Belag / Löcher
 
-- Plus Code: [7PXM+GM](https://www.google.com/maps/search/?api=1&query=9F4F7PXM%2BGM)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F7PXM%2BGM target="_blank">7PXM+GM</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5b0e7eb76fa081267dec4bda7216c1e9 target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
@@ -5707,7 +5707,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Querrillen im Belag
 
-- Plus Code: [8P8W+CH](https://www.google.com/maps/search/?api=1&query=9F4F8P8W%2BCH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P8W%2BCH target="_blank">8P8W+CH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#87ab90aeb8b63c0ef28395652d74998d target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
@@ -5734,7 +5734,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Schotter Weg zu schmal 
 
-- Plus Code: [8P6V+4C](https://www.google.com/maps/search/?api=1&query=9F4F8P6V%2B4C)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8P6V%2B4C target="_blank">8P6V+4C</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1e6d81e35c68ee46a17944a9abe38287 target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
@@ -5761,7 +5761,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Pictogramme auf südlicher Seite 
 
-- Plus Code: [8PFJ+PH](https://www.google.com/maps/search/?api=1&query=9F4F8PFJ%2BPH)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PFJ%2BPH target="_blank">8PFJ+PH</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#fc8a691bda37a7688edf5491c2332f1a target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
@@ -5788,7 +5788,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 # Durchfahrtverbot für alle, auch Fahrräder.
 
-- Plus Code: [8PJR+26](https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B26)
+- Plus Code: <a href=https://www.google.com/maps/search/?api=1&query=9F4F8PJR%2B26 target="_blank">8PJR+26</a>
 - Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#5444a259b78b8a78baf852a31d627bbe target="_blank">Link</a>
 - Einstelldatum: 2022-07-06
 - Informationsquelle: ADFC
