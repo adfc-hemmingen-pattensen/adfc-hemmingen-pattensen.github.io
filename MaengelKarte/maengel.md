@@ -273,7 +273,7 @@ Die Verbindung wird es nicht geben
 
 ### Status:
 
- offen
+ ist Privatweg
 
 ---
 
@@ -926,7 +926,7 @@ Das Radfahren auf dem Gehweg auf der linken Seite zwischen Gartenstraße/Mühlen
 
 ### Ortsbeschreibung:
 
- Hoher Holzweg – Real – Devese
+ Hoher Holzweg – Kaufland – Devese
 
 ### Mangel:
 
@@ -1237,11 +1237,11 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Ortsbeschreibung:
 
- Devese, Spielplatz südlich Real
+ Devese, Spielplatz südlich Kaufland
 
 ### Mangel:
 
- Radweg nach Real nicht über Spielplatz. Kollisionsgefahr mit spielenden Kindern.
+ Radweg nach Kaufland nicht über Spielplatz. Kollisionsgefahr mit spielenden Kindern.
 
 ### Maßnahmenvorschlag:
 
@@ -1268,11 +1268,11 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Mangel:
 
- Radfahrende die aus Arnum zum Real/Aldi/Stanze wollen, fahren nicht an der B3(alt), sondern über den vor wenigen Jahren neu angelegten Lückenschluss (Bürgermeister Weber Weg) und dann die Freda-Wuesthoff-Straße /Clara-Immerwahr-Straße oder über den Spielplatz zur Alfred-Benz-Straße. Damit wäre eine Straße mit Verkehrsaufkommen von 4000 Kfz/24 h zu überqueren.
+ Radfahrende die aus Arnum zum Kaufland/Aldi/Stanze wollen, fahren nicht an der B3(alt), sondern über den vor wenigen Jahren neu angelegten Lückenschluss (Bürgermeister Weber Weg) und dann die Freda-Wuesthoff-Straße /Clara-Immerwahr-Straße oder über den Spielplatz zur Alfred-Benz-Straße. Damit wäre eine Straße mit Verkehrsaufkommen von 4000 Kfz/24 h zu überqueren.
 
 ### Maßnahmenvorschlag:
 
- Das Minimum wären Querungshilfen analog zur Weetzener Landstraße nördlich vom real, besser mit Dunkel-Dunkel Ampel.
+ Das Minimum wären Querungshilfen analog zur Weetzener Landstraße nördlich vom Kaufland, besser mit Dunkel-Dunkel Ampel.
 
 ### Status:
 
@@ -1295,7 +1295,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Mangel:
 
- Radweg nach Real, neuen direkten Weg über das Feld (Lückenschluss)
+ Radweg nach Kaufland, neuen direkten Weg über das Feld (Lückenschluss)
 
 ### Maßnahmenvorschlag:
 
@@ -1538,7 +1538,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Mangel:
 
- Bei Real Radweg Querung über Weetzener Landstr. begradigen
+ Bei Kaufland Radweg Querung über Weetzener Landstr. begradigen
 
 ### Maßnahmenvorschlag:
 
@@ -1550,12 +1550,12 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ---
 
-<a name="d74421cb13d828ea56b1ab785123105e"></a>
+<a name="1fa4d4fe4369e62f9820d743354ab571"></a>
 
-# Radweg nach Real, sanieren
+# Radweg nach Kaufland, sanieren
 
 - Plus Code: [8P8F+5V](https://www.google.com/maps/search/?api=1&query=9F4F8P8F%2B5V)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#d74421cb13d828ea56b1ab785123105e target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#1fa4d4fe4369e62f9820d743354ab571 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
@@ -1565,11 +1565,11 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Mangel:
 
- Radweg nach Real, sanieren, ist häufig überschwemmt
+ Radweg nach Kaufland, sanieren, ist häufig überschwemmt
 
 ### Maßnahmenvorschlag:
 
- Radweg nach Real, sanieren
+ Radweg nach Kaufland, sanieren
 
 ### Status:
 
@@ -1577,12 +1577,12 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ---
 
-<a name="ab82f40b0f81de968da8fa0f28f5c347"></a>
+<a name="774caaff7224366e409ac087fd0c7d63"></a>
 
-# Sanierung Weg v. Heisterkamp zu Real
+# Sanierung Weg v. Heisterkamp zu Kaufland
 
 - Plus Code: [8P99+HX](https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BHX)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#ab82f40b0f81de968da8fa0f28f5c347 target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#774caaff7224366e409ac087fd0c7d63 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
@@ -1604,12 +1604,12 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ---
 
-<a name="068358d7c659b4884047f719f05d0d71"></a>
+<a name="55fec9c50a09c820ef21af62731ce804"></a>
 
-# Sanierung Weg v. Heisterkamp zu Real#2
+# Sanierung Weg v. Heisterkamp zu Kaufland#2
 
 - Plus Code: [8P99+MW](https://www.google.com/maps/search/?api=1&query=9F4F8P99%2BMW)
-- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#068358d7c659b4884047f719f05d0d71 target="_blank">Link</a>
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#55fec9c50a09c820ef21af62731ce804 target="_blank">Link</a>
 - Einstelldatum: 2020-02-12
 - Informationsquelle: Wege-Workshop
 
@@ -1724,7 +1724,7 @@ Radfahrende auf der Straße "Vorm Dorfe" aus Richtung Westen müssen ungesichert
 
 ### Ortsbeschreibung:
 
- Weetzener Landstraße zwischen Real und B3 alt
+ Weetzener Landstraße zwischen Kaufland und B3 alt
 
 ### Mangel:
 
@@ -2194,7 +2194,7 @@ Meldungsgrund: Loch
 
 ### Ortsbeschreibung:
 
- Arnum Pattenser F. – Real  – Saarstraße. (westlich B3)
+ Arnum Pattenser F. – Kaufland  – Saarstraße. (westlich B3)
 
 ### Mangel:
 
@@ -2726,7 +2726,7 @@ Werden.
 
 ### Status:
 
- - offen
+ Querungspflicht aufgehoben
 
 ---
 
@@ -2814,7 +2814,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 ### Status:
 
- - offen
+ Benutzungspflicht aufgehoben
 
 ---
 
@@ -2841,7 +2841,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 ### Status:
 
- - offen
+ Benutzungspflicht aufgehoben
 
 ---
 
@@ -2868,7 +2868,7 @@ Weitere Angaben: Nur zwischen Katzbachweg und Köllnbrinkweg ist für Fahrtricht
 
 ### Status:
 
- -  offen
+ Parkplätze sind weg
 
 ---
 
@@ -3377,7 +3377,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 ### Status:
 
- - offen
+ Pictogramme aufgebracht
 
 ---
 
@@ -3404,7 +3404,7 @@ In der [HannoRad Ausgabe 2019-3](https://www.hannorad.de/wp-content/uploads/hann
 
 ### Status:
 
- -  offen
+ Pictogramme aufgebracht
 
 ---
 
@@ -3872,6 +3872,33 @@ Evtl. rote Furt über Klewertweg. Vorfahrt ändern. Um bessere Sichtverhältniss
 ### Status:
 
  - 2016-06-01 Jens Spille - An Verwaltung Stadt Hemmingen gemeldet.
+
+---
+
+<a name="4a199bbcb6a20908d080b58ac6ba6f80"></a>
+
+# Fahrradfurt von Westen nicht benutzbar
+
+- Plus Code: [8PJC+22](https://www.google.com/maps/search/?api=1&query=9F4F8PJC%2B22)
+- Mängelliste: <a href=https://adfc-hemmingen-pattensen.github.io/MaengelKarte/index.html#4a199bbcb6a20908d080b58ac6ba6f80 target="_blank">Link</a>
+- Einstelldatum: 2024-08-01
+- Informationsquelle: ADFC
+
+### Ortsbeschreibung:
+
+ Am Ortseingang Hemmingen (Nord)
+
+### Mangel:
+
+ LSA fehlt
+
+### Maßnahmenvorschlag:
+
+ LSA errichten
+
+### Status:
+
+ - 2024-08-01 Jens Spille - An Verwaltung Stadt Hemmingen gemeldet.
 
 ---
 
@@ -5577,17 +5604,17 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ### Ortsbeschreibung:
 
- Alfred-Benz-Str / real-Markt / Stanze Gartencenter
+ Alfred-Benz-Str / Kaufland / Stanze Gartencenter
 
 ### Mangel:
 
- Wer als Nicht-Autofahrer vom real-Markt zum Stanze-Gartencenter möchte, muss entweder durch die Grünanlagen oder auf der Straße laufen. Siehe beigefügtes Foto von Google Maps/Satellitenansicht. Der Fußweg incl. abgesenktem Bordstein auf der Straßenseite von Stanze führt auf der gegenüberliegenden Straßenseite direkt in die Grünrabatte. Der inzwischen entstandene Trampelpfad ist nur für Fußgänger, die nicht auf eine glatte Wegoberfläche angewiesen sind, nutzbar. Damit müssen Kinderwagen, Rollstuhlfahrer, Radler auf die Straße bzw. Parkplatzzufahrt ausweichen. Das ist nicht zumutbar. 
+ Wer als Nicht-Autofahrer vom Kaufland-Markt zum Stanze-Gartencenter möchte, muss entweder durch die Grünanlagen oder auf der Straße laufen. Siehe beigefügtes Foto von Google Maps/Satellitenansicht. Der Fußweg incl. abgesenktem Bordstein auf der Straßenseite von Stanze führt auf der gegenüberliegenden Straßenseite direkt in die Grünrabatte. Der inzwischen entstandene Trampelpfad ist nur für Fußgänger, die nicht auf eine glatte Wegoberfläche angewiesen sind, nutzbar. Damit müssen Kinderwagen, Rollstuhlfahrer, Radler auf die Straße bzw. Parkplatzzufahrt ausweichen. Das ist nicht zumutbar. 
 
 ![](img\8P8C+7M_real-Stanze.jpg)
 
 ### Maßnahmenvorschlag:
 
- Weg auf der Seite von real anlegen, Grünanlage anpassen, Bordstein absenken.
+ Weg auf der Seite von Kaufland anlegen, Grünanlage anpassen, Bordstein absenken.
 
 ### Status:
 
@@ -5753,7 +5780,7 @@ Bis auf ein Verkehrsschild „Achtung Radfahrer“ (138-10) kurz nach dem Ortsei
 
 ### Status:
 
- offen
+ erledigt
 
 ---
 
